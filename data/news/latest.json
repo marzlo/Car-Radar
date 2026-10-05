@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T18:25+08:00",
+ "updated": "2026-10-05T18:32+08:00",
  "feeds_ok": 7,
  "feeds_total": 7,
  "items": [
@@ -539,6 +539,20 @@
    "issues": []
   },
   {
+   "id": "765e4ebbb0",
+   "title": "日本零組件廠商被中國企業擠出豐田電動車供應鏈 日企為何接連丟掉訂單？ | 日經中文網 | 國際",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSmJVaklMT29VRVlZeG9WaFZiN1M2dkdXZmt3VDlEUllvdkl3bGpxXzRlVU05VDdIaEtIR0kzQ1JIMlRLamFNSE1tNFI5VHkxV1c5M1NrSEZienpp?oc=5",
+   "source": "經濟日報",
+   "lang": "zh",
+   "time": "2026-10-05T14:11+08:00",
+   "categories": [
+    "車企動向",
+    "供應鏈"
+   ],
+   "issues": []
+  },
+  {
    "id": "ce4632ee7a",
    "title": "009831開募！精選全球50檔電力算力股 AI五層蛋糕通吃",
    "summary": "",
@@ -736,19 +750,6 @@
    "issues": []
   },
   {
-   "id": "1847b951e9",
-   "title": "英媒：英國擬對中國電動車加徵關稅 最高45%",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DbGZFcXdwOTdWTXZUbTVKcWY1ek5DVTBPOU9udEh1azdsckRnODRzbmp5bUVKT2V2VW1MbzhpbllRZnp0NmtPeEd5REtMV3V1M05jcDVyaWF2elAwdXBFSzlR0gFnQVVfeXFMTXBMbjFrWXZuRHFKQXFCNmxLV0ZnQm00eUl1QjRpaVpxMWJaZVVtamt1THU0ZGtmY0hSYktxcXE1ZER2c09yc1VPTWJFX0VOdHcySHNGcFEteDNmaFQ0bWIwOEs1Tm5VVQ?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-05T12:00+08:00",
-   "categories": [
-    "供應鏈"
-   ],
-   "issues": []
-  },
-  {
    "id": "9c9f5c87f9",
    "title": "BYD比亞迪騰勢Z9S登場！純電動車續航達1100km 9分鐘即可充滿電",
    "summary": "",
@@ -758,6 +759,19 @@
    "time": "2026-10-05T12:00+08:00",
    "categories": [
     "車企動向"
+   ],
+   "issues": []
+  },
+  {
+   "id": "1847b951e9",
+   "title": "英媒：英國擬對中國電動車加徵關稅 最高45%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DbGZFcXdwOTdWTXZUbTVKcWY1ek5DVTBPOU9udEh1azdsckRnODRzbmp5bUVKT2V2VW1MbzhpbllRZnp0NmtPeEd5REtMV3V1M05jcDVyaWF2elAwdXBFSzlR0gFnQVVfeXFMTXBMbjFrWXZuRHFKQXFCNmxLV0ZnQm00eUl1QjRpaVpxMWJaZVVtamt1THU0ZGtmY0hSYktxcXE1ZER2c09yc1VPTWJFX0VOdHcySHNGcFEteDNmaFQ0bWIwOEs1Tm5VVQ?oc=5",
+   "source": "世界新聞網",
+   "lang": "zh",
+   "time": "2026-10-05T12:00+08:00",
+   "categories": [
+    "供應鏈"
    ],
    "issues": []
   },
@@ -994,6 +1008,19 @@
    "time": "2026-10-05T06:05+08:00",
    "categories": [
     "供應鏈"
+   ],
+   "issues": []
+  },
+  {
+   "id": "6751fad995",
+   "title": "Hyundai’s New Santa Fe Will Go Electric And Keep The Gas Tank",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSDNOMnY2NUhDeC1FT01Hc0IxMDVGT1BiZkNhSnlybThvN2k5MkpfR3NaSG94ZmN3ZE1YSHlkNjcycU9FVktZRnZmdXBoMFJwcU16R1lPOEZlQUhLTFNWV3gxekQ2eFlaOTBWUmpjRy0xTURiOUU0bTZPLXA5TDNWUQ?oc=5",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-05T05:16+08:00",
+   "categories": [
+    "其他"
    ],
    "issues": []
   },
