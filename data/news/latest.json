@@ -1,8 +1,21 @@
 {
- "updated": "2026-10-05T18:32+08:00",
+ "updated": "2026-10-05T18:47+08:00",
  "feeds_ok": 7,
  "feeds_total": 7,
  "items": [
+  {
+   "id": "c7500e15fc",
+   "title": "BMW Teases All-New M3 EV As It Celebrates A Production Milestone",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOX3ZSbUl0MWhVMVJwcVIzSV9LYVYwbUZaZ0pZS19sVmlwbzVVV0VBUG80LU9CSE9EWmJFamhWTGwzSkJDcEZkRmZYbUd4RnJ2MFZEbkp2OFVKV0ZKU2l4dA?oc=5",
+   "source": "Carscoops",
+   "lang": "en",
+   "time": "2026-10-05T18:34+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
+  },
   {
    "id": "b3ceec0022",
    "title": "GM 執行長：不急著全面轉型，2028 年再推「眼睛離開道路」自動駕駛",
@@ -750,19 +763,6 @@
    "issues": []
   },
   {
-   "id": "9c9f5c87f9",
-   "title": "BYD比亞迪騰勢Z9S登場！純電動車續航達1100km 9分鐘即可充滿電",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUE1MT0dxVk56bENqX1Z1aENRVXdEdjBKVmY3cEtqRExCa1ZhVzJEUEVwei03X1JsZ2Exb1NFTHhSYmtSNHo2UVB4aWRxUQ?oc=5",
-   "source": "hk01.com",
-   "lang": "zh",
-   "time": "2026-10-05T12:00+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
    "id": "1847b951e9",
    "title": "英媒：英國擬對中國電動車加徵關稅 最高45%",
    "summary": "",
@@ -772,6 +772,19 @@
    "time": "2026-10-05T12:00+08:00",
    "categories": [
     "供應鏈"
+   ],
+   "issues": []
+  },
+  {
+   "id": "9c9f5c87f9",
+   "title": "BYD比亞迪騰勢Z9S登場！純電動車續航達1100km 9分鐘即可充滿電",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUE1MT0dxVk56bENqX1Z1aENRVXdEdjBKVmY3cEtqRExCa1ZhVzJEUEVwei03X1JsZ2Exb1NFTHhSYmtSNHo2UVB4aWRxUQ?oc=5",
+   "source": "hk01.com",
+   "lang": "zh",
+   "time": "2026-10-05T12:00+08:00",
+   "categories": [
+    "車企動向"
    ],
    "issues": []
   },
