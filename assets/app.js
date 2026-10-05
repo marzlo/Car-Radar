@@ -162,7 +162,8 @@
       const w = Math.abs(v) / maxAbs * (hasNeg ? 50 : 100);
       const left = hasNeg ? (v < 0 ? 50 - w : 50) : 0;
       const tip = `交車 ${nf(q.deliveries)}・營收 ${big(q.revenue)} ${q.currency}・營業利益 ${big(q.operating_income)} ${q.currency}`;
-      return `<td class="cell" title="${esc(tip)}">$${nf(v)}<span class="bar"><i class="${v < 0 ? "neg" : ""}" style="left:${left}%;width:${w}%"></i></span></td>`;
+      const cls = k === "profit_usd" ? (v < 0 ? "neg" : "pos") : "";
+      return `<td class="cell" title="${esc(tip)}">$${nf(v)}<span class="bar${hasNeg ? " zero" : ""}"><i class="${cls}" style="left:${left}%;width:${w}%"></i></span></td>`;
     };
     $("#asp").innerHTML = `<thead><tr><th>車企</th>${qs.map(q => `<th>${q.replace("Q", " Q")}</th>`).join("")}</tr></thead><tbody>` +
       cos.map(c => {
@@ -170,7 +171,7 @@
         return `<tr><td class="co"><b>${esc(c.name)}</b>${c.note ? `<span>${esc(c.note)}</span>` : ""}</td>${qs.map(q => cell(byQ[q])).join("")}</tr>`;
       }).join("") + "</tbody>";
     const fx = D.asp.fx_usd || {};
-    $("#aspFoot").innerHTML = `單位：美元／輛。${k === "asp_usd" ? "每車平均售價 = 季營收 ÷ 交車量" : "每車營業利益 = 季營業利益 ÷ 交車量"}，用全公司數字估算（小米只用汽車分部），適合看趨勢，不適合精確比較。
+    $("#aspFoot").innerHTML = (k === "profit_usd" ? `<span class="legend"><span><i style="background:var(--down)"></i>◀ 虧損</span><span>中間直線 = 0</span><span><i style="background:var(--up)"></i>獲利 ▶</span></span>` : "") + `單位：美元／輛。${k === "asp_usd" ? "每車平均售價 = 季營收 ÷ 交車量" : "每車營業利益 = 季營業利益 ÷ 交車量"}，用全公司數字估算（小米只用汽車分部），適合看趨勢，不適合精確比較。
       匯率用最新值統一換算：1 CNY = ${fx.CNY ?? "?"}、1 JPY = ${fx.JPY ?? "?"}、1 EUR = ${fx.EUR ?? "?"} USD。滑鼠移到數字上看交車量與財報原值。
       交車量每季在 <code>data/manual/deliveries.csv</code> 補一行。更新：${esc(shortTime(D.asp.updated))}`;
   }
