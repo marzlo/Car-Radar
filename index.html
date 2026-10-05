@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>車業雷達</title>
+<meta name="description" content="汽車產業數據、每日新聞與議題追蹤">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='none' stroke='%23B86E00' stroke-width='3'/%3E%3Cpath d='M16 16 L26 9' stroke='%23B86E00' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>車業雷達</h1>
+      <span class="sub">數據・新聞・議題，每天早上 6 點自動更新</span>
+    </div>
+    <div class="status">
+      <div><span class="eyebrow">上次更新</span><b id="updated">—</b></div>
+      <div><span class="eyebrow">新聞</span><b id="newsCount">—</b></div>
+      <div><button class="ghost" id="themeBtn" type="button" aria-label="切換深淺色">◐ 深淺色</button></div>
+    </div>
+  </header>
+  <div id="alert" class="alert" hidden></div>
+
+  <section class="brief" aria-labelledby="brief-h">
+    <div class="brief-side">
+      <div class="eyebrow">核心觀點</div>
+      <h2 id="brief-h">今日懶人包</h2>
+      <label class="eyebrow" for="briefDate">看其他天</label>
+      <select id="briefDate"></select>
+      <span id="briefMode" class="muted small"></span>
+    </div>
+    <ol id="brief"></ol>
+  </section>
+
+  <section aria-labelledby="kpi-h">
+    <div class="sec-head">
+      <h2 id="kpi-h">追蹤數據</h2>
+      <span class="eyebrow">點卡片看走勢</span>
+    </div>
+    <div class="gauges" id="gauges" role="group" aria-label="追蹤數據"></div>
+    <div class="detail" id="detail"></div>
+  </section>
+
+  <section aria-labelledby="asp-h">
+    <div class="sec-head">
+      <h2 id="asp-h">每車售價與利潤</h2>
+      <div class="seg" role="tablist" aria-label="切換指標">
+        <button role="tab" data-m="asp_usd" aria-selected="true">每車平均售價</button>
+        <button role="tab" data-m="profit_usd" aria-selected="false">每車營業利益</button>
+      </div>
+    </div>
+    <div class="table-wrap"><table class="asp" id="asp"></table></div>
+    <p class="foot" id="aspFoot"></p>
+  </section>
+
+  <div class="cols">
+    <section aria-labelledby="news-h">
+      <div class="sec-head">
+        <h2 id="news-h">新聞</h2>
+        <span class="eyebrow" id="newsMeta"></span>
+      </div>
+      <div class="tabs" id="tabs" role="tablist" aria-label="新聞分類"></div>
+      <div id="issueFilter" class="filter" hidden></div>
+      <ul class="news" id="news"></ul>
+      <button class="more" id="moreBtn" type="button" hidden>顯示更多</button>
+    </section>
+
+    <section aria-labelledby="iss-h">
+      <div class="sec-head">
+        <h2 id="iss-h">議題追蹤</h2>
+        <span class="eyebrow">過去的判斷 vs 現在</span>
+      </div>
+      <div class="issue-list" id="issues"></div>
+      <p class="foot">新增或修改議題：編輯 repo 裡的 <code>issues/*.md</code>，push 後幾分鐘就會更新。</p>
+    </section>
+  </div>
+
+  <footer class="pipe">
+    <div class="flow">
+      <div><b>06:00 排程</b>GitHub Actions 每天台灣時間早上啟動</div>
+      <div><b>抓資料</b>股價、季報、乘聯會、RSS 新聞</div>
+      <div><b>AI 整理</b>Claude 寫懶人包、翻譯標題、整理議題近況</div>
+      <div><b>存成 JSON</b>commit 回 repo，git 紀錄就是時間軸</div>
+    </div>
+    <p class="foot">資料來源：Yahoo Finance、乘聯會（經 CnEVPost）、各公司財報與交車公告、各媒體 RSS。數字僅供個人參考。</p>
+  </footer>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

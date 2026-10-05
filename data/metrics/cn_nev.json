@@ -1,0 +1,102 @@
+{
+ "name": "中國乘用車新能源零售（乘聯會）",
+ "updated": "2026-10-05",
+ "rows": [
+  {
+   "month": "2025-09",
+   "nev_retail": 1296000,
+   "total_retail": 2241000,
+   "penetration": 57.8,
+   "source": "https://cnevpost.com/2025/10/13/china-nev-retail-sept-2025/",
+   "by": "manual"
+  },
+  {
+   "month": "2025-10",
+   "nev_retail": 1282000,
+   "total_retail": 2242000,
+   "penetration": 57.2,
+   "source": "https://cnevpost.com/2025/11/10/china-nev-retail-oct-2025/",
+   "by": "manual"
+  },
+  {
+   "month": "2025-11",
+   "nev_retail": 1321000,
+   "total_retail": 2225000,
+   "penetration": 59.3,
+   "source": "https://cnevpost.com/2025/12/08/chinas-nov-2025-nev-retail/",
+   "by": "manual"
+  },
+  {
+   "month": "2025-12",
+   "nev_retail": 1337000,
+   "total_retail": 2261000,
+   "penetration": 59.1,
+   "source": "https://cnevpost.com/2026/01/09/china-dec-2025-nev-retail-record-high/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-01",
+   "nev_retail": 596000,
+   "total_retail": 1544000,
+   "penetration": 38.6,
+   "source": "https://cnevpost.com/2026/02/12/china-jan-nev-retail-sales-1st-drop-2-years/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-02",
+   "nev_retail": 464000,
+   "total_retail": 1034000,
+   "penetration": 44.9,
+   "source": "https://cnevpost.com/2026/03/12/china-feb-2026-nev-sales-cpca/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-03",
+   "nev_retail": 848000,
+   "total_retail": 1648000,
+   "penetration": 51.5,
+   "source": "https://cnevpost.com/2026/04/09/china-mar-nev-retail-sales-improve-from-feb/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-04",
+   "nev_retail": 849000,
+   "total_retail": 1384000,
+   "penetration": 61.4,
+   "source": "https://cnevpost.com/2026/05/11/china-apr-2026-nev-retail-sales/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-05",
+   "nev_retail": 950000,
+   "total_retail": 1510000,
+   "penetration": 62.9,
+   "source": "https://cnevpost.com/2026/06/08/china-may-nev-penetration-record-high-retail-decline/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-06",
+   "nev_retail": 1007000,
+   "total_retail": 1602000,
+   "penetration": 62.8,
+   "source": "https://cnevpost.com/2026/07/08/china-nev-retail-sales-jun-2026/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-07",
+   "nev_retail": 951000,
+   "total_retail": 1461000,
+   "penetration": 65.1,
+   "source": "https://cnevpost.com/2026/08/11/china-nev-retail-jul-2026-cpca/",
+   "by": "manual"
+  },
+  {
+   "month": "2026-08",
+   "nev_retail": 1005000,
+   "total_retail": 1541000,
+   "penetration": 65.2,
+   "source": "https://cnevpost.com/2026/09/08/china-aug-2026-nev-retail/",
+   "by": "manual"
+  }
+ ]
+}

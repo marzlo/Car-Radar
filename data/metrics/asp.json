@@ -1,0 +1,446 @@
+{
+ "updated": "2026-10-05T18:15+08:00",
+ "fx_usd": {
+  "USD": 1.0,
+  "CNY": 0.14,
+  "HKD": 0.128,
+  "JPY": 0.0068,
+  "EUR": 1.08,
+  "TWD": 0.031
+ },
+ "companies": [
+  {
+   "name": "Tesla",
+   "note": "營收含能源業務",
+   "currency": "USD",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 497099.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "USD",
+     "fin_source": "",
+     "del_source": "https://teslanorth.com/2025/10/02/tesla-delivers-record-497099-vehicles-in-q3-2025/",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 418227.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "USD",
+     "fin_source": "",
+     "del_source": "https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 358023.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "USD",
+     "fin_source": "",
+     "del_source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026022956/exhibit9911111.htm",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 480126.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "USD",
+     "fin_source": "",
+     "del_source": "https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q3",
+     "deliveries": 486532.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "USD",
+     "fin_source": "",
+     "del_source": "https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    }
+   ]
+  },
+  {
+   "name": "BYD",
+   "note": "營收含電子代工業務",
+   "currency": "CNY",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 1114192.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2025/10/01/byd-sept-2025-nev-sales/",
+     "del_note": "乘用+商用",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 1342290.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2026/01/01/byd-nev-sales-dec-2025/",
+     "del_note": "乘用+商用",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 700463.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/",
+     "del_note": "乘用+商用",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 1108048.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/",
+     "del_note": "乘用+商用",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q3",
+     "deliveries": 1323065.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/",
+     "del_note": "乘用+商用",
+     "asp_usd": null,
+     "profit_usd": null
+    }
+   ]
+  },
+  {
+   "name": "Toyota",
+   "note": "含金融服務；交車量為 TMC 合併銷售（含大發、日野）",
+   "currency": "JPY",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 2371000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "JPY",
+     "fin_source": "",
+     "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_summary_en.pdf",
+     "del_note": "TMC 合併銷售",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 2519000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "JPY",
+     "fin_source": "",
+     "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_3q_summary_en.pdf",
+     "del_note": "由累計數推算",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 2293000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "JPY",
+     "fin_source": "",
+     "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf",
+     "del_note": "由累計數推算",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 2395000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "JPY",
+     "fin_source": "",
+     "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
+     "del_note": "TMC 合併銷售",
+     "asp_usd": null,
+     "profit_usd": null
+    }
+   ]
+  },
+  {
+   "name": "Stellantis",
+   "note": "只公布半年營業利益，季度數字常缺",
+   "currency": "EUR",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 1300000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "EUR",
+     "fin_source": "",
+     "del_source": "https://www.globenewswire.com/news-release/2025/10/10/3164701/0/en/Stellantis-Reports-Q3-2025-Estimated-Consolidated-Shipments-of-1-3-Million-Units-13-y-o-y.html",
+     "del_note": "官方只給約數",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 1500000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "EUR",
+     "fin_source": "",
+     "del_source": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y",
+     "del_note": "官方只給約數",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 1361000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "EUR",
+     "fin_source": "",
+     "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
+     "del_note": "合併出貨量",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 1597000.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "EUR",
+     "fin_source": "",
+     "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
+     "del_note": "合併出貨量",
+     "asp_usd": null,
+     "profit_usd": null
+    }
+   ]
+  },
+  {
+   "name": "小米",
+   "note": "只用「智能電動汽車等創新業務」分部數字（手動）",
+   "currency": "CNY",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 108796.0,
+     "revenue": 29010088000.0,
+     "operating_income": 700000000.0,
+     "currency": "CNY",
+     "fin_source": "https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac",
+     "del_source": "https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac",
+     "del_note": "",
+     "asp_usd": 37331,
+     "profit_usd": 901
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 145115.0,
+     "revenue": 37200000000.0,
+     "operating_income": 1100000000.0,
+     "currency": "CNY",
+     "fin_source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf",
+     "del_source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf",
+     "del_note": "",
+     "asp_usd": 35889,
+     "profit_usd": 1061
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 80856.0,
+     "revenue": 19864400000.0,
+     "operating_income": -3100000000.0,
+     "currency": "CNY",
+     "fin_source": "https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b",
+     "del_source": "https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b",
+     "del_note": "",
+     "asp_usd": 34395,
+     "profit_usd": -5368
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 104199.0,
+     "revenue": 24895836000.0,
+     "operating_income": -2600000000.0,
+     "currency": "CNY",
+     "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0818/2026081801014.pdf",
+     "del_source": "https://ir.mi.com/static-files/bdeea0b9-246c-45be-8cb4-ab4faaddf80a",
+     "del_note": "",
+     "asp_usd": 33450,
+     "profit_usd": -3493
+    }
+   ]
+  },
+  {
+   "name": "理想",
+   "note": "",
+   "currency": "CNY",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 93211.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-third-quarter-2025-financial",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 109194.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926026803/tm268559d1_ex99-1.htm",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 95142.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 98330.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q3",
+     "deliveries": 99964.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2026/10/01/li-auto-sept-2026-deliveries/",
+     "del_note": "",
+     "asp_usd": null,
+     "profit_usd": null
+    }
+   ]
+  },
+  {
+   "name": "蔚來",
+   "note": "交車量含樂道、螢火蟲",
+   "currency": "CNY",
+   "quarters": [
+    {
+     "quarter": "2025Q3",
+     "deliveries": 87071.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://www.globenewswire.com/news-release/2025/11/25/3194110/0/en/NIO-Inc-Reports-Unaudited-Third-Quarter-2025-Financial-Results.html",
+     "del_note": "含樂道、螢火蟲",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2025Q4",
+     "deliveries": 124807.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-provides-december-fourth-quarter-and-full-year-2025/",
+     "del_note": "含樂道、螢火蟲",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q1",
+     "deliveries": 83465.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/",
+     "del_note": "含樂道、螢火蟲",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q2",
+     "deliveries": 107658.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/",
+     "del_note": "含樂道、螢火蟲",
+     "asp_usd": null,
+     "profit_usd": null
+    },
+    {
+     "quarter": "2026Q3",
+     "deliveries": 109178.0,
+     "revenue": null,
+     "operating_income": null,
+     "currency": "CNY",
+     "fin_source": "",
+     "del_source": "https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries/",
+     "del_note": "含樂道、螢火蟲",
+     "asp_usd": null,
+     "profit_usd": null
+    }
+   ]
+  }
+ ]
+}

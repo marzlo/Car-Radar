@@ -1,0 +1,33 @@
+company,quarter,deliveries,source_url,note
+Tesla,2025Q3,497099,https://teslanorth.com/2025/10/02/tesla-delivers-record-497099-vehicles-in-q3-2025/,
+Tesla,2025Q4,418227,https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments,
+Tesla,2026Q1,358023,https://www.sec.gov/Archives/edgar/data/1318605/000162828026022956/exhibit9911111.htm,
+Tesla,2026Q2,480126,https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/,
+Tesla,2026Q3,486532,https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments,
+BYD,2025Q3,1114192,https://cnevpost.com/2025/10/01/byd-sept-2025-nev-sales/,乘用+商用
+BYD,2025Q4,1342290,https://cnevpost.com/2026/01/01/byd-nev-sales-dec-2025/,乘用+商用
+BYD,2026Q1,700463,https://cnevpost.com/2026/07/01/byd-jun-2026-sales/,乘用+商用
+BYD,2026Q2,1108048,https://cnevpost.com/2026/07/01/byd-jun-2026-sales/,乘用+商用
+BYD,2026Q3,1323065,https://cnevpost.com/2026/10/01/byd-sept-2026-sales/,乘用+商用
+Toyota,2025Q3,2371000,https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_summary_en.pdf,TMC 合併銷售
+Toyota,2025Q4,2519000,https://global.toyota/pages/global_toyota/ir/financial-results/2026_3q_summary_en.pdf,由累計數推算
+Toyota,2026Q1,2293000,https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf,由累計數推算
+Toyota,2026Q2,2395000,https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf,TMC 合併銷售
+Stellantis,2025Q3,1300000,https://www.globenewswire.com/news-release/2025/10/10/3164701/0/en/Stellantis-Reports-Q3-2025-Estimated-Consolidated-Shipments-of-1-3-Million-Units-13-y-o-y.html,官方只給約數
+Stellantis,2025Q4,1500000,https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y,官方只給約數
+Stellantis,2026Q1,1361000,https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html,合併出貨量
+Stellantis,2026Q2,1597000,https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html,合併出貨量
+小米,2025Q3,108796,https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac,
+小米,2025Q4,145115,https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf,
+小米,2026Q1,80856,https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b,
+小米,2026Q2,104199,https://ir.mi.com/static-files/bdeea0b9-246c-45be-8cb4-ab4faaddf80a,
+理想,2025Q3,93211,https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-third-quarter-2025-financial,
+理想,2025Q4,109194,https://www.sec.gov/Archives/edgar/data/1791706/000110465926026803/tm268559d1_ex99-1.htm,
+理想,2026Q1,95142,https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm,
+理想,2026Q2,98330,https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm,
+理想,2026Q3,99964,https://cnevpost.com/2026/10/01/li-auto-sept-2026-deliveries/,
+蔚來,2025Q3,87071,https://www.globenewswire.com/news-release/2025/11/25/3194110/0/en/NIO-Inc-Reports-Unaudited-Third-Quarter-2025-Financial-Results.html,含樂道、螢火蟲
+蔚來,2025Q4,124807,https://ir.nio.com/news-releases/news-release-details/nio-inc-provides-december-fourth-quarter-and-full-year-2025/,含樂道、螢火蟲
+蔚來,2026Q1,83465,https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/,含樂道、螢火蟲
+蔚來,2026Q2,107658,https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/,含樂道、螢火蟲
+蔚來,2026Q3,109178,https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries/,含樂道、螢火蟲

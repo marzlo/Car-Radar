@@ -1,0 +1,55 @@
+# ── 車業雷達設定檔 ──────────────────────────────────────
+# 改完 push 上去，下一次自動更新就會套用。
+
+# 股價追蹤（Yahoo Finance 代號）
+stocks:
+  - {ticker: TSLA,      name: Tesla,      currency: USD}
+  - {ticker: 1211.HK,   name: BYD,        currency: HKD}
+  - {ticker: 7203.T,    name: Toyota,     currency: JPY}
+  - {ticker: STLA,      name: Stellantis, currency: USD}
+  - {ticker: 1810.HK,   name: 小米,       currency: HKD}
+  - {ticker: LI,        name: 理想,       currency: USD}
+  - {ticker: NIO,       name: 蔚來,       currency: USD}
+  - {ticker: 2317.TW,   name: 鴻海,       currency: TWD}
+
+# 每車平均售價（ASP）與每車利潤
+# 營收、營業利益由 Yahoo Finance 季報自動抓；交車量在 data/manual/deliveries.csv 每季手動補。
+# 若 data/manual/financials_override.csv 有同一季的數字，會優先使用（例如小米只用汽車分部）。
+asp_companies:
+  - {name: Tesla,      ticker: TSLA,    currency: USD, note: 營收含能源業務}
+  - {name: BYD,        ticker: 1211.HK, currency: CNY, note: 營收含電子代工業務}
+  - {name: Toyota,     ticker: 7203.T,  currency: JPY, note: 含金融服務；交車量為 TMC 合併銷售（含大發、日野）}
+  - {name: Stellantis, ticker: STLA,    currency: EUR, note: 只公布半年營業利益，季度數字常缺}
+  - {name: 小米,       ticker: "",      currency: CNY, note: 只用「智能電動汽車等創新業務」分部數字（手動）}
+  - {name: 理想,       ticker: LI,      currency: CNY, note: ""}
+  - {name: 蔚來,       ticker: NIO,     currency: CNY, note: 交車量含樂道、螢火蟲}
+
+# 換算成美元用的備用匯率（抓不到即時匯率時使用；1 單位外幣 = ? USD）
+fx_fallback: {USD: 1.0, CNY: 0.14, HKD: 0.128, JPY: 0.0068, EUR: 1.08, TWD: 0.031}
+
+# 新聞分類關鍵字（標題或摘要含任一關鍵字就歸類，可多類）
+categories:
+  電池: [電池, 固態, 鋰, 鈉, 寧德, CATL, battery, solid-state, lithium, LFP, charging, 充電, 快充, 換電]
+  智駕: [智駕, 自動駕駛, 輔助駕駛, NOA, FSD, Robotaxi, autonomous, self-driving, ADAS, 激光雷達, LiDAR, Waymo]
+  座艙・SDV: [座艙, 車機, CarPlay, Android Auto, SDV, software-defined, 軟體定義, OTA, infotainment, 晶片, chip, Qualcomm, 高通, 8295]
+  車企動向: [Tesla, 特斯拉, BYD, 比亞迪, Toyota, 豐田, Stellantis, 小米, Xiaomi, 理想, 蔚來, NIO, 極氪, 華為, 問界, launch, 發表, 上市, 新車]
+  供應鏈: [供應鏈, 關稅, tariff, 碳化矽, SiC, 半導體, semiconductor, 鴻海, Foxconn, 工廠, factory, plant, 出口, export]
+
+# 新聞來源（RSS）
+feeds:
+  - {name: Google 新聞（電動車）, url: "https://news.google.com/rss/search?q=%E9%9B%BB%E5%8B%95%E8%BB%8A+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant", lang: zh}
+  - {name: Google 新聞（智駕）,   url: "https://news.google.com/rss/search?q=%E6%99%BA%E9%A7%95+OR+%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant", lang: zh}
+  - {name: Google 新聞（汽車產業）, url: "https://news.google.com/rss/search?q=%E6%B1%BD%E8%BB%8A%E7%94%A2%E6%A5%AD+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant", lang: zh}
+  - {name: Google News (EV),      url: "https://news.google.com/rss/search?q=electric+vehicle+automaker+when:1d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: Electrek,              url: "https://electrek.co/feed/", lang: en}
+  - {name: InsideEVs,             url: "https://insideevs.com/rss/news/all/", lang: en}
+  - {name: CnEVPost,              url: "https://cnevpost.com/feed/", lang: en}
+
+news:
+  keep_days: 7          # 首頁保留最近幾天的新聞
+  max_per_feed: 25
+
+# AI（需要在 GitHub Secrets 設定 ANTHROPIC_API_KEY；沒設定時自動略過）
+ai:
+  model: claude-sonnet-5-5
+  web_search_tool: web_search_20250305
