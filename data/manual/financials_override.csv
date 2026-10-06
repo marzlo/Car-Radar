@@ -11,3 +11,15 @@ company,quarter,revenue,operating_income,currency,source_url,note
 零跑,2026H1,38106550000,128469000,CNY,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400886.pdf,半年；營業利益
 Renault Group,2025H2,30282000000,1979000000,EUR,https://media.renaultgroup.com/renault-group-demonstrates-its-resilience-the-robustness-of-its-strategy-and-moves-forward-with-confidence/?lang=eng,半年；集團營業利益率金額
 Renault Group,2026H1,30252000000,1567000000,EUR,https://assets.renaultgroup.com/uploads/2026/07/20260730_Press-release_Renault-Group_2026-H1.pdf,半年
+Honda,2025Q3,3456380000000,-43435000000,JPY,https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/016/linkList/0/link/FYE202603_2Q_financial_result_e.pdf,汽車事業分部（上半年減第一季）
+Honda,2025Q4,3434554000000,-93421000000,JPY,https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/017/linkList/0/link/FYE202603_3Q_financial_result_e_1.pdf,汽車事業分部（九個月減上半年）
+Honda,2026Q1,3732064000000,-1244659000000,JPY,https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/018/linkList/01/link/FYE202603_4Q_financial_result_e_1.pdf,汽車事業分部；含大額電動車相關損失
+Honda,2026Q2,3879193000000,192122000000,JPY,https://global.honda/en/investors/library/financialresult/main/010/teaserItems3/015/linkList/0/link/FYE202703_1Q_financial_result_e.pdf,汽車事業分部
+Suzuki,2025Q3,1330200000000,117800000000,JPY,https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_2q.pdf,汽車事業分部
+Suzuki,2025Q4,1512100000000,137600000000,JPY,https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_3q.pdf,汽車事業分部
+Suzuki,2026Q1,1606200000000,172800000000,JPY,https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation.pdf,汽車事業分部
+Suzuki,2026Q2,1541700000000,134300000000,JPY,https://www.globalsuzuki.com/ir/library/financialresults/pdf/2026/financial_presentation_1q.pdf,汽車事業分部
+BMW Group,2025Q3,28510000000,1494000000,EUR,https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2025/q3/BMW_Q3-2025_EN.pdf,Automotive 分部 EBIT
+BMW Group,2025Q4,30393000000,1139000000,EUR,https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/bericht/BMW-Group-Report-2025-en.pdf,Automotive 分部（全年減九個月）
+BMW Group,2026Q1,27159000000,1345000000,EUR,https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q1/BMW_Q1-2026-EN.pdf,Automotive 分部 EBIT
+BMW Group,2026Q2,27162000000,629000000,EUR,https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q2/BMW_Q2-2026-EN.pdf,Automotive 分部 EBIT

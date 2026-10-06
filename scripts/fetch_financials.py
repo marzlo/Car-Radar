@@ -107,8 +107,10 @@ def build(cfg, raw, fx):
     companies = []
     for c in cfg["asp_companies"]:
         name, cur = c["name"], c["currency"]
+        # 沒有設定 ticker 的公司（只用手動分部數字），不使用 Yahoo 的舊快取，避免全公司數字混進來
+        raw_c = raw.get(name, {}) if c.get("ticker") else {}
         qs = sorted({q for (n, q) in deliveries if n == name}
-                    | set(raw.get(name, {}).keys())
+                    | set(raw_c.keys())
                     | {q for (n, q) in overrides if n == name})[-QUARTERS_SHOWN:]
         rows = []
         for q in qs:
@@ -117,7 +119,7 @@ def build(cfg, raw, fx):
             if ov:
                 rev, op, ccy, fsrc = num(ov["revenue"]), num(ov["operating_income"]), ov.get("currency") or cur, ov.get("source_url", "")
             else:
-                f = raw.get(name, {}).get(q, {})
+                f = raw_c.get(q, {})
                 rev, op, ccy, fsrc = f.get("revenue"), f.get("operating_income"), cur, "Yahoo Finance"
             rate = fx.get(ccy)
             row = {"quarter": q, "deliveries": d["n"] if d else None,
