@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-06T13:17+08:00",
+ "updated": "2026-10-06T13:28+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "8fc638cc37",
+   "title": "雪鐵龍經典小車新世代即將登場！純電轉型鎖定台幣 50 萬元入門級距",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wNDhzV1RWSzV5eko4TzV5Y25qZHZtSUxNN1MtTkhXUDNERWFJTzRuYmNRQUlxcHhvRHI3Q0JUb1hKYmJDT1ZWeE530gFPQVVfeXFMTlRqTnI3bk1DRzlUVVlkV0xoc0ZWYWFHZ1h3MngtMjJMZ29MOWtkZGZKVHlQM0VtZm8xTlB5MDhaVXpxWDFMbDhodk1SRktNbw?oc=5",
+   "source": "自由電子報汽車頻道",
+   "lang": "zh",
+   "time": "2026-10-06T13:17+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "8a4325b518",
    "title": "歐洲境外首座組裝基地！台塑引進DAF重卡 拚年銷600輛",
@@ -13,6 +28,21 @@
    "time": "2026-10-06T13:04+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "951f2376dd",
+   "title": "國際智慧移動展鏈結車用AI生態系 助業者布局全球自駕車供應鏈",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XQ241b0FfaER4QnEza044NWcyTjVFMjRtRndhY1JfR1JHR3o5M1FyV3F0VTBud3ZGUWU5WDJCamZiakhYQnM5YnZuR0ozQ0RWeEHSAVBBVV95cUxQR3JRaEc3dHpqT1lzZG9XZV8wX0Z4ZFBjTm5FdWlpdjRDUDg2YkJIa2d3dlFtTTIzVVpEem5iemZHemhTd05BMGVWSnRIUk5Wbg?oc=5",
+   "source": "finance.ettoday.net",
+   "lang": "zh",
+   "time": "2026-10-06T12:57+08:00",
+   "categories": [
+    "供應鏈"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -64,6 +94,36 @@
    "time": "2026-10-06T12:43+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "c65e357399",
+   "title": "智慧車聯網技術普及 經濟部與美德合作共推車輛資安",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWVozSWx0UXdrYV84b3N3RlpNQUd5cFNmMkhVbWNiclkzajBoSVVyazhJTXF1UG1sRmNtRVZQWVFNY2hoWXM0c3VoakJObW8?oc=5",
+   "source": "你的公共電視",
+   "lang": "zh",
+   "time": "2026-10-06T12:34+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "3e06f535f8",
+   "title": "GM's 1969 XP 512E Concept Car Was A Tiny EV With A 58-Mile Range",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0treGdLVnVPYVVsUWxidjJzek91NFBBQmlJbEc5aDdkLXhqRFVjTkdBbHhLSnhxakdKVEdubEgwaENYTVRVdlB0aTFDNEJ0WEtDZFRqTTNCQlY0SXA3dzViUTVTV205dGZLQzhpZmdKRGZTQkZHTnVGZk1SZmtaVm41cjBpb0VBNU1wRA?oc=5",
+   "source": "Jalopnik",
+   "lang": "en",
+   "time": "2026-10-06T12:25+08:00",
+   "categories": [
+    "車企動向"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1959,6 +2019,21 @@
    "forced_issues": []
   },
   {
+   "id": "e1af10dd14",
+   "title": "自駕車邁向商轉 2027台灣國際智慧移動展開放徵展",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PU2wtU1YtdEp3QXo3YUNodDMxTGRGaTZrdHFMczFFS2JhSWlsZ3BKLTBRTG44R0F1bksxRHQ1bDNLYTFaY3VRM2UxNmFRQy1iNEhCNTRUVjg?oc=5",
+   "source": "stock.ltn.com.tw",
+   "lang": "zh",
+   "time": "2026-10-05T22:19+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "6c02f5cb4e",
    "title": "Hyundai’s electric hatch goes on sale with up to 308 miles of range, starting at about $25,000",
    "summary": "The IONIQ 3 has received more interest than any Hyundai vehicle in the UK ever. Starting at about $25,000, Hyundai’s electric hatch undercuts much of the compe…",
@@ -2465,21 +2540,6 @@
    "forced_issues": []
   },
   {
-   "id": "d8bb79258b",
-   "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uZlVYYUdhQ29RcllSWmFmUWZsdWZwaVdQTHVDUHRqa0tLdFlnRGJxMEVmbWF6VTdoOEJ2UUFWeC1vaV82TEFnblkwLVg2eEw0eURodzFoUHZscTcxYVoxaUdQeUFVdG8?oc=5",
-   "source": "TechNews 科技新報",
-   "lang": "zh",
-   "time": "2026-10-05T18:07+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
    "id": "cc4ee80060",
    "title": "日媒：日本擬研發與導入自駕船，運送部隊與彈藥",
    "summary": "",
@@ -2489,6 +2549,21 @@
    "time": "2026-10-05T18:07+08:00",
    "categories": [
     "其他"
+   ],
+   "issues": [],
+   "via_search": false,
+   "forced_issues": []
+  },
+  {
+   "id": "d8bb79258b",
+   "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uZlVYYUdhQ29RcllSWmFmUWZsdWZwaVdQTHVDUHRqa0tLdFlnRGJxMEVmbWF6VTdoOEJ2UUFWeC1vaV82TEFnblkwLVg2eEw0eURodzFoUHZscTcxYVoxaUdQeUFVdG8?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-05T18:07+08:00",
+   "categories": [
+    "車企動向"
    ],
    "issues": [],
    "via_search": false,
@@ -4728,9 +4803,7 @@
    "categories": [
     "電池"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
+   "forced_issues": [],
    "issues": [
     "ssb"
    ]
@@ -6255,94 +6328,6 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
-  },
-  {
-   "id": "46398f3a7c",
-   "title": "Li Auto September deliveries fall 6.29% to 31,817",
-   "summary": "Li Auto delivered 99,964 vehicles in the third quarter, up 7.24% year-on-year and 1.66% from the second quarter. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/li-auto-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T10:19+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "6d6f3a00bc",
-   "title": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
-   "summary": "All Model 3 variants currently on sale get a 16-inch central touchscreen, up from 15.4 inches, and a new optional light gray premium interior. For details, ple…",
-   "link": "https://cnevpost.com/2026/10/01/tesla-gives-model-3-minor-upgrades-in-china/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T09:50+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "77e8bad7c9",
-   "title": "Tesla upgrades Model 3 and Model Y with new features, better value for MY27 as Performance version gets $5000 price cut",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0pOcHlKZVRVQzcwMFVYekxUYW14VVJ3SFNnMUcwbGlKNjNYX1pRT05mNUlyNlJrd0lUcTgxd2VYQTdqeHN6UDE0WXE2anJhajAwc0VoVFZuTkliTjIyX3VJMXJGSk1Qb0hOdm16dllvWXdUdXNra21NbGo5c2hJWDR4dHNBd04tNzJxWkRxMUNSMnBfVXVOeUJmMnE5d2swZ1cxNWhFcldtb1k?oc=5",
-   "source": "WhichCar",
-   "lang": "en",
-   "time": "2026-10-01T09:09+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "0bc797aaeb",
-   "title": "2027 Tesla Model Y Performance gets $4500 price cut amid move to Chinese sourcing",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREFlNGpsa1piQnlJUWpoTjFaVWxqWFh5ekQ2UkNra29kRUhQMm9qc3VFMDVtemRrekN6eXZFTVo4RkNSR0JQYzBvSkdHN1daMlM2Um5CcTlWbVJ6VHNDSWFEU29wSUREd0tMd3NNcEZDUEt5S3VOai1RWG9vREYtbFFVVTlWVnNtdnJPMDF3bE5ySnF0Q3U5N2VjWDJFR2R3WXVlYkJiMjA1Si1PRmFCUXB6WWh4TXdsXzZzUHhIWmRRUQ?oc=5",
-   "source": "carexpert.com.au",
-   "lang": "en",
-   "time": "2026-10-01T08:30+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "0dd7db9093",
-   "title": "Question of the Day? Have You Changed Your Mind About Self-Driving Cars?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNak85NDNJYzhPNlBDbWZNOFlLLV8zQWZ1cmpJTHFtcU9ndGM1QUJ2TV9XMGowLXJNRGZUNlJ3N0ZiQUJfNHRsNW1tSXVRU3BtT0F5clBzYUZoclFaR1FCeE4wN0U3QnlvallVTm5xZWN0ZUozU3d2Q3NJR19vR09QNWVwTHdBZ3Nmak9XZVg2SWM4V1pGRzlELWI0dGp2ZFdlUUxhWkdld1ROb0VnYk5VSHc0ZFV4Q1JFeXYyamFCTHdKRW1tWnNr?oc=5",
-   "source": "thetruthaboutcars.com",
-   "lang": "en",
-   "time": "2026-10-01T02:57+08:00",
-   "via_search": true,
-   "categories": [
-    "智駕"
-   ],
-   "forced_issues": [
-    "adas"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
   }
  ]
 }

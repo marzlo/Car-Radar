@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-06T13:17+08:00",
+ "updated": "2026-10-06T13:27+08:00",
  "fx_usd": {
   "USD": 1.0,
   "CNY": 0.149147,
   "HKD": 0.127432,
-  "JPY": 0.006324,
-  "EUR": 1.122208,
-  "TWD": 0.03147,
+  "JPY": 0.006321,
+  "EUR": 1.121705,
+  "TWD": 0.031477,
   "KRW": 0.000745,
-  "SEK": 0.099601
+  "SEK": 0.09957
  },
  "companies": [
   {
@@ -189,8 +189,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 33013,
-     "profit_usd": 2239
+     "asp_usd": 32998,
+     "profit_usd": 2238
     },
     {
      "quarter": "2025Q4",
@@ -201,8 +201,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_3q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 33784,
-     "profit_usd": 2990
+     "asp_usd": 33768,
+     "profit_usd": 2989
     },
     {
      "quarter": "2026Q1",
@@ -213,8 +213,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 34743,
-     "profit_usd": 1571
+     "asp_usd": 34726,
+     "profit_usd": 1570
     },
     {
      "quarter": "2026Q2",
@@ -225,8 +225,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 35714,
-     "profit_usd": 2808
+     "asp_usd": 35697,
+     "profit_usd": 2807
     }
    ]
   },
@@ -276,7 +276,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y",
      "del_note": "官方只給約數",
-     "asp_usd": 31428,
+     "asp_usd": 31414,
      "profit_usd": null
     },
     {
@@ -288,7 +288,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 31442,
+     "asp_usd": 31428,
      "profit_usd": 566
     },
     {
@@ -300,8 +300,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 30555,
-     "profit_usd": 691
+     "asp_usd": 30541,
+     "profit_usd": 690
     }
    ]
   },
