@@ -177,7 +177,7 @@
   }
 
   // ── 新聞 ──
-  const CATS = ["全部", "電池", "智駕", "座艙・SDV", "車企動向", "供應鏈", "其他"];
+  const CATS = ["全部", "Stellantis", "電池", "智駕", "座艙・SDV", "車企動向", "供應鏈", "其他"];
   function renderNews() {
     const items = D.news?.items || [];
     const issues = D.issues?.issues || [];

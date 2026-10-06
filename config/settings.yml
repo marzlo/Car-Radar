@@ -11,6 +11,8 @@ stocks:
   - {ticker: LI,        name: 理想,       currency: USD}
   - {ticker: NIO,       name: 蔚來,       currency: USD}
   - {ticker: 2317.TW,   name: 鴻海,       currency: TWD}
+  - {ticker: GM,        name: GM,         currency: USD}
+  - {ticker: F,         name: Ford,       currency: USD}
 
 # 每車平均售價（ASP）與每車利潤
 # 營收、營業利益由 Yahoo Finance 季報自動抓；交車量在 data/manual/deliveries.csv 每季手動補。
@@ -29,10 +31,11 @@ fx_fallback: {USD: 1.0, CNY: 0.14, HKD: 0.128, JPY: 0.0068, EUR: 1.08, TWD: 0.03
 
 # 新聞分類關鍵字（標題或摘要含任一關鍵字就歸類，可多類）
 categories:
+  Stellantis: [Stellantis, 斯泰蘭蒂斯, Jeep, 吉普, Peugeot, 標緻, 寶獅, Fiat, 飛雅特, Chrysler, 克萊斯勒, Dodge, "Ram 1500", "Ram truck", "Ram brand", Citroën, Citroen, 雪鐵龍, Opel, Vauxhall, Maserati, 瑪莎拉蒂, "Alfa Romeo", 愛快羅密歐, Lancia, "DS Automobiles", Leapmotor, 零跑, Filosa]
   電池: [電池, 固態, 鋰, 鈉, 寧德, CATL, battery, solid-state, lithium, LFP, charging, 充電, 快充, 換電]
   智駕: [智駕, 自動駕駛, 輔助駕駛, NOA, FSD, Robotaxi, autonomous, self-driving, ADAS, 激光雷達, LiDAR, Waymo]
   座艙・SDV: [座艙, 車機, CarPlay, Android Auto, SDV, software-defined, 軟體定義, OTA, infotainment, 晶片, chip, Qualcomm, 高通, 8295]
-  車企動向: [Tesla, 特斯拉, BYD, 比亞迪, Toyota, 豐田, Stellantis, 小米, Xiaomi, 理想, 蔚來, NIO, 極氪, 華為, 問界, launch, 發表, 上市, 新車]
+  車企動向: [Tesla, 特斯拉, BYD, 比亞迪, Toyota, 豐田, Stellantis, GM, General Motors, 通用汽車, Ford, 福特, 小米, Xiaomi, 理想, 蔚來, NIO, 極氪, 華為, 問界, launch, 發表, 上市, 新車]
   供應鏈: [供應鏈, 關稅, tariff, 碳化矽, SiC, 半導體, semiconductor, 鴻海, Foxconn, 工廠, factory, plant, 出口, export]
 
 # 新聞來源（RSS）
@@ -41,6 +44,9 @@ feeds:
   - {name: Google 新聞（智駕）,   url: "https://news.google.com/rss/search?q=%E6%99%BA%E9%A7%95+OR+%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant", lang: zh}
   - {name: Google 新聞（汽車產業）, url: "https://news.google.com/rss/search?q=%E6%B1%BD%E8%BB%8A%E7%94%A2%E6%A5%AD+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant", lang: zh}
   - {name: Google News (EV),      url: "https://news.google.com/rss/search?q=electric+vehicle+automaker+when:1d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: Google 新聞（Stellantis）, url: "https://news.google.com/rss/search?q=Stellantis+OR+%E6%96%AF%E6%B3%B0%E8%98%AD%E8%92%82%E6%96%AF+OR+Jeep+OR+%E9%9B%AA%E9%90%B5%E9%BE%8D+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant", lang: zh}
+  - {name: Google News (Stellantis), url: "https://news.google.com/rss/search?q=Stellantis+when:1d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: Google News (Stellantis brands), url: "https://news.google.com/rss/search?q=Jeep+OR+%22Ram+trucks%22+OR+Peugeot+OR+Fiat+OR+Chrysler+OR+Maserati+automaker+when:1d&hl=en-US&gl=US&ceid=US:en", lang: en}
   - {name: Electrek,              url: "https://electrek.co/feed/", lang: en}
   - {name: InsideEVs,             url: "https://insideevs.com/rss/news/all/", lang: en}
   - {name: CnEVPost,              url: "https://cnevpost.com/feed/", lang: en}
