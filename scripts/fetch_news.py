@@ -12,9 +12,34 @@ def clean(s, n=None):
     return (s[: n - 1] + "…") if n and len(s) > n else s
 
 
+_ASCII = re.compile(r"^[\x00-\x7f]+$")
+_cache = {}
+
+
+def _pattern(w):
+    """英文字用「整個單字」比對（避免 EV 對到 every、car 對到 card），中文字直接比對。"""
+    w = str(w).strip()
+    if w not in _cache:
+        _cache[w] = re.compile(r"(?<![A-Za-z0-9])" + re.escape(w) + r"(?![A-Za-z0-9\-])", re.I) if _ASCII.match(w) else None
+    return _cache[w]
+
+
 def match(text, words):
     low = text.lower()
-    return any(str(w).lower() in low for w in words)
+    for w in words:
+        pat = _pattern(w)
+        if (pat.search(text) if pat else str(w).lower() in low):
+            return True
+    return False
+
+
+def context_words(cfg):
+    """判斷「這則新聞跟汽車有關」用的字：設定檔 relevance + 各車企名稱。"""
+    words = list(cfg.get("relevance", []))
+    for c in ("車企動向", "Stellantis"):
+        words += [w for w in cfg["categories"].get(c, []) if str(w).lower() not in ("launch", "發表", "上市")]
+    words += [s["name"] for s in cfg.get("stocks", [])]
+    return words
 
 
 def parse_feed(feed, limit):
@@ -47,6 +72,11 @@ def parse_feed(feed, limit):
 def main():
     cfg = settings()
     cats, issues = cfg["categories"], load_issues()
+    ctx = context_words(cfg)
+    # 議題關鍵字裡太廣泛的字（car、EV、汽車…）會讓每則新聞都對上，比對時忽略
+    generic = {str(w).lower() for w in cfg.get("relevance", [])}
+    for iss in issues:
+        iss["keywords"] = [k for k in iss["keywords"] if k.strip() and k.strip().lower() not in generic]
     old = {n["id"]: n for n in load_json(LATEST, {}).get("items", [])}
     fresh, ok = {}, 0
     for feed in cfg["feeds"]:
@@ -61,29 +91,28 @@ def main():
 
     # 每個議題用自己的關鍵字去 Google 新聞搜尋（近 7 天），找到的新聞直接掛到該議題
     from urllib.parse import quote
+    found = {}  # 這次議題搜尋找到的：新聞 id → 議題 id
     for iss in issues:
         kws = [k for k in iss["keywords"] if k.strip()][:8]
         if not kws:
             continue
-        q = " OR ".join(f'"{k}"' if " " in k else k for k in kws) + " when:7d"
-        for lang, loc in (("zh", "hl=zh-TW&gl=TW&ceid=TW:zh-Hant"), ("en", "hl=en-US&gl=US&ceid=US:en")):
+        base = "(" + " OR ".join(f'"{k}"' if " " in k else k for k in kws) + ")"
+        for lang, loc, must in (("zh", "hl=zh-TW&gl=TW&ceid=TW:zh-Hant", "(汽車 OR 電動車 OR 車廠 OR 車企)"),
+                                ("en", "hl=en-US&gl=US&ceid=US:en", '(automaker OR carmaker OR "electric vehicle" OR automotive)')):
+            q = f"{base} {must} when:7d"
             feed = {"name": f"議題搜尋：{iss['title'][:12]}", "lang": lang,
                     "url": f"https://news.google.com/rss/search?q={quote(q)}&{loc}"}
             try:
-                got = parse_feed(feed, 15)
+                got = [it for it in parse_feed(feed, 15) if match(it["title"] + " " + it.get("summary", ""), ctx)]
                 for it in got:
-                    tgt = fresh.setdefault(it["id"], it)
-                    tgt.setdefault("forced_issues", [])
-                    if iss["id"] not in tgt["forced_issues"]:
-                        tgt["forced_issues"].append(iss["id"])
+                    fresh.setdefault(it["id"], it)["via_search"] = True
+                    found.setdefault(it["id"], set()).add(iss["id"])
                 log(f"議題「{iss['title'][:16]}」({lang}): {len(got)} 則")
             except Exception as e:
                 log(f"議題「{iss['title'][:16]}」({lang}) 搜尋失敗：{e}")
 
     new_ids = [i for i in fresh if i not in old]
-    for i, it in fresh.items():  # 舊新聞若這次被議題搜尋找到，也補上議題連結
-        if i in old and it.get("forced_issues"):
-            old[i]["forced_issues"] = sorted(set(old[i].get("forced_issues", [])) | set(it["forced_issues"]))
+
     merged = {**fresh, **old}  # 已存在的保留（含 AI 翻譯的中文標題）
     cutoff = now_tpe() - dt.timedelta(days=cfg["news"].get("keep_days", 7))
     items = []
@@ -92,8 +121,15 @@ def main():
             continue
         text = it["title"] + " " + it.get("summary", "")
         it["categories"] = [c for c, words in cats.items() if match(text, words)] or ["其他"]
+        relevant = match(text, ctx)
+        via_search = bool(it.get("via_search") or it.get("forced_issues"))
+        it["via_search"] = via_search
+        # 議題連結只看「這次」搜尋結果；議題關鍵字改了，舊的連結就自動消失
+        it["forced_issues"] = sorted(found.get(it["id"], set()))
+        if via_search and not relevant:
+            continue  # 議題搜尋帶進來、但跟汽車無關的新聞（例如運動賽事的 margin）直接丟掉
         ids = {i["id"] for i in issues}
-        it["issues"] = [i["id"] for i in issues if i["keywords"] and match(text, i["keywords"])]
+        it["issues"] = [i["id"] for i in issues if relevant and i["keywords"] and match(text, i["keywords"])]
         it["issues"] += [x for x in it.get("forced_issues", []) if x in ids and x not in it["issues"]]
         items.append(it)
     items.sort(key=lambda x: x["time"], reverse=True)

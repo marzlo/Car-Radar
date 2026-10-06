@@ -29,9 +29,13 @@ asp_companies:
 # 換算成美元用的備用匯率（抓不到即時匯率時使用；1 單位外幣 = ? USD）
 fx_fallback: {USD: 1.0, CNY: 0.14, HKD: 0.128, JPY: 0.0068, EUR: 1.08, TWD: 0.031}
 
+# 判斷新聞「跟汽車有關」的字（議題搜尋找到的新聞，至少要含其中一個才會留下；車企名稱會自動加入）
+relevance: [汽車, 車廠, 車企, 車商, 電動車, 新能源車, 純電, 油電, 插電, 車款, 車型, 新車, 車市, 乘用車, 整車, 車用, 車載, 自駕, 智駕, 充電樁, 交車, 銷量,
+            car, cars, auto, autos, automaker, automakers, carmaker, carmakers, automotive, vehicle, vehicles, EV, EVs, "electric vehicle", "electric vehicles", hybrid, SUV, pickup, sedan, dealership, dealers, robotaxi]
+
 # 新聞分類關鍵字（標題或摘要含任一關鍵字就歸類，可多類）
 categories:
-  Stellantis: [Stellantis, 斯泰蘭蒂斯, Jeep, 吉普, Peugeot, 標緻, 寶獅, Fiat, 飛雅特, Chrysler, 克萊斯勒, Dodge, "Ram 1500", "Ram truck", "Ram brand", Citroën, Citroen, 雪鐵龍, Opel, Vauxhall, Maserati, 瑪莎拉蒂, "Alfa Romeo", 愛快羅密歐, Lancia, "DS Automobiles", Leapmotor, 零跑, Filosa]
+  Stellantis: [Stellantis, STLA, STLAM, 斯泰蘭蒂斯, Jeep, 吉普, Peugeot, 標緻, 寶獅, Fiat, 飛雅特, Chrysler, 克萊斯勒, Dodge, "Ram 1500", "Ram truck", "Ram brand", Citroën, Citroen, 雪鐵龍, Opel, Vauxhall, Maserati, 瑪莎拉蒂, "Alfa Romeo", 愛快羅密歐, Lancia, "DS Automobiles", Leapmotor, 零跑, Filosa]
   電池: [電池, 固態, 鋰, 鈉, 寧德, CATL, battery, solid-state, lithium, LFP, charging, 充電, 快充, 換電]
   智駕: [智駕, 自動駕駛, 輔助駕駛, NOA, FSD, Robotaxi, autonomous, self-driving, ADAS, 激光雷達, LiDAR, Waymo]
   座艙・SDV: [座艙, 車機, CarPlay, Android Auto, SDV, software-defined, 軟體定義, OTA, infotainment, 晶片, chip, Qualcomm, 高通, 8295]
