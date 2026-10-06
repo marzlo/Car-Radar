@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:53+08:00",
+ "updated": "2026-10-06T11:58+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -37,6 +37,19 @@
    "source": "蕃新聞",
    "lang": "zh",
    "time": "2026-10-06T11:16+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
+  },
+  {
+   "id": "4ddfbc512f",
+   "title": "AI快速發展下 網路安全為何可能成為最大受益行業之一",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VLTBNMEZ5aEJvaGcxV0ZJeW1IaFh3bzFLVVRCNGVwWjdzUm1GS1dsM05Td00zMzNPdHdYVUEzZ3piYmpQeVBnRVVPQQ?oc=5",
+   "source": "鉅亨網",
+   "lang": "zh",
+   "time": "2026-10-06T11:00+08:00",
    "categories": [
     "其他"
    ],
@@ -2001,19 +2014,6 @@
    "issues": []
   },
   {
-   "id": "d8bb79258b",
-   "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uZlVYYUdhQ29RcllSWmFmUWZsdWZwaVdQTHVDUHRqa0tLdFlnRGJxMEVmbWF6VTdoOEJ2UUFWeC1vaV82TEFnblkwLVg2eEw0eURodzFoUHZscTcxYVoxaUdQeUFVdG8?oc=5",
-   "source": "TechNews 科技新報",
-   "lang": "zh",
-   "time": "2026-10-05T18:07+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
    "id": "cc4ee80060",
    "title": "日媒：日本擬研發與導入自駕船，運送部隊與彈藥",
    "summary": "",
@@ -2023,6 +2023,19 @@
    "time": "2026-10-05T18:07+08:00",
    "categories": [
     "其他"
+   ],
+   "issues": []
+  },
+  {
+   "id": "d8bb79258b",
+   "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uZlVYYUdhQ29RcllSWmFmUWZsdWZwaVdQTHVDUHRqa0tLdFlnRGJxMEVmbWF6VTdoOEJ2UUFWeC1vaV82TEFnblkwLVg2eEw0eURodzFoUHZscTcxYVoxaUdQeUFVdG8?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-05T18:07+08:00",
+   "categories": [
+    "車企動向"
    ],
    "issues": []
   },
@@ -5798,6 +5811,24 @@
    ]
   },
   {
+   "id": "4a62655dd2",
+   "title": "中新型電池產業規畫 全固態電池2030年初步規模化應用",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PVEhXb2V0OExOQWFvV2g3ZnVMUmRRR3padVJwcTUzWkFiQ1Z6TWpRbVNVQnJ0NVl3R1lscnhuY0tha1dNa2NmbEU3YmtvM0s3eUFROFBQU0djTnN5QlBTcmh30gFnQVVfeXFMT0JZNVZkT2t2WmtiYU93Z3YxUFFIOUpPeEpFTFVuQXYzRXNremhzM0w1MTJLeHN5TDh5bjZOQlpWSDY4MjJUeTExSEU2T2YtMV9CS2hYbS1QaUZvNEg1Q3lUMk1pQVQ3TQ?oc=5",
+   "source": "世界新聞網",
+   "lang": "zh",
+   "time": "2026-10-01T14:12+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "df3c00c2b2",
    "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
    "summary": "Deliveries by the Nio brand rose 55.29% year-on-year in September, Firefly set a monthly record and Onvo posted a second consecutive year-on-year decline. For …",
@@ -5826,42 +5857,6 @@
    ],
    "issues": [
     "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "e27bfa0f11",
-   "title": "分析｜美光財報炸裂「毛利率飆87%」股價卻不漲 背後藏關鍵細節",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNYnNJeURVdklUQW5YZzFkdU4waGRtU3ZyU0sxTkpuVzZWNXoxQkZKc2p3ZldqcWJ0N3M1VjRISDNFUUZJVG1LaTBoNmFJYzU3QWRIQm16V2lGMmp6VEE0ckJwUF9SbEdxVENyZGFQaUhBZVV4WWFTRzBibmxVOTBRVmQtYmlqYjhMMkoxUUVxaGdCYTRoaWdzU1lfZzlGZEN0RXd2M0w3d0hfVC1zTUxFQ1BRdFc4X1RjX1AxR2NWMFUwc29oc2haRVlHaWIxM3V3RFFZT0hKOW5jOWYxSWRnX0VBNG1tZTJLZHNidl9KZGtDdFNOa3hfR2s3bnZwdHhVdjJjY0RnajlUM0REV0psUTV4SXgybHczcnpxelRhamt4bnBnSC1zSzRsU2thanZsbGJndUM0bjBTOEJ2OTVYck9YZXJCeU1qZDFjb3hVMDFPd21xQkNET2ZsWWo2M2FXclM4SE1JWnR0TmVzWUFQSVk4STJhZFlMRDk1REFrSGdlRkU?oc=5",
-   "source": "Yahoo股市",
-   "lang": "zh",
-   "time": "2026-10-01T12:14+08:00",
-   "forced_issues": [
-    "profit"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "5223264392",
-   "title": "美光財報》營收542億美元、年增近380％勝預期 執行長稱下一年度業績更強",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCM1E3RDBIZUE5ZzltaWRVMjNsN0Z1X3M1Y0E4dFYwdEw4TG9mZlRJSmI0RzNYWENnWW9UMlBxS3p3YWVzWkQtWFRLNXpqYlowQ3hiSWhBb2FFekQzSE1VQ2JWbWhBY2s1UnBnbjdaYm50RW1BT1pmbmlPRQ?oc=5",
-   "source": "財訊",
-   "lang": "zh",
-   "time": "2026-10-01T12:02+08:00",
-   "forced_issues": [
-    "profit"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "profit"
    ]
   }
  ]

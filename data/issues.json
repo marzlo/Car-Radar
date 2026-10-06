@@ -48,7 +48,7 @@
     "autonomous driving",
     "self-driving"
    ],
-   "metric": "",
+   "metric": "TSLA",
    "then": "純視覺方案會是主流",
    "now": "（還沒寫）",
    "entries": [
@@ -106,7 +106,7 @@
     "battery"
    ],
    "metric": "",
-   "then": "智己宣傳光年固態 900V 電池，固態電池開始出現在發表會上。",
+   "then": "固態電池的優勢在於更安全與充電更快",
    "now": "（還沒寫：打開 issues/ssb.md，寫下你現在的判斷）",
    "entries": [
     {
