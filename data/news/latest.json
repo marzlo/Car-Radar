@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-06T15:15+08:00",
+ "updated": "2026-10-06T15:24+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "353d18db4c",
+   "title": "車不再只是硬體！TAIFE 2026串起美德驗證鏈 資安、車聯網成台灣車電出海新門票",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBScF9sSjNsMDFDUmF3TWM0My1vMjY0bHRONGd5a0Vma2JObDVwem5CREdBT0Y0MFBqWERMU3lXZ0dVZ2NqdXl2Z0Z5LTJSUVgxU0RUT2NDYnFYbHhNSWlrOG1tWnZpRXFzcXhfQWh2VGM?oc=5",
+   "source": "理財周刊",
+   "lang": "zh",
+   "time": "2026-10-06T15:15+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "9b00d11277",
    "title": "台美德推進車輛資安 首座國際級實驗室助攻車電出海",
@@ -15,12 +30,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "fe7d3316dc",
@@ -83,6 +94,36 @@
    "issues": []
   },
   {
+   "id": "cb82a01ee1",
+   "title": "MG Motors Sets New UK Sales Records with Best-Ever Quarter",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWZfVnJmVXNfc1J1SWJEY3Z2UHkxdFkxM2hyNGczRnZwTmdiTkhSOTRQeW12c0djVVYtS0cyaHlvQkV6Qi1Xa1RRYWtMOEtIcFZHT05lODFpN0xUbkRYUUhGX3U3MHRBeFpsZ29FOFVXTmZQNC0xdElGZ21Sd1lJSGVCTXREYWR0OGJBVGdzN3libWIzeENtVnd5MFlJWTIzNnZfLUwycWhtaDY2bklPSQ?oc=5",
+   "source": "Electric Cars Report",
+   "lang": "en",
+   "time": "2026-10-06T14:55+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "94d81616bf",
+   "title": "BMW M慶祝生產第百萬輛車 慕尼黑工廠將轉型只生產電動車 | CarStuff人車事",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSkZrbnM3RjA5d2JXY3I0aGQ5VWJpWnZ5cFM3Yk5xOHpvRlFPakNfZVVTSk5RYkZsWVA4U1ZtVkdBaVNJMHJ4bDBVaEdBUlpUMkRMTkhR?oc=5",
+   "source": "LINE TODAY",
+   "lang": "zh",
+   "time": "2026-10-06T14:47+08:00",
+   "categories": [
+    "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "5c01f822ad",
    "title": "全球純汽油車新車銷量比重 首次跌破50%",
    "summary": "",
@@ -137,6 +178,21 @@
    "time": "2026-10-06T13:24+08:00",
    "categories": [
     "Stellantis",
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "c67f394cdd",
+   "title": "《產業》台塑汽車切入發表DAF重車 2028衝刺新能源零碳",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3NtZHNZd1pJajFPNTU0ZHFPQkdIc2ZmcThUcVJRaGVXN2xXSWppTEJjLXltbHdZdFFJZmpHeGVvSkw3U1JJS1VJUzNsNTBFaGF4UHg1RWVPY0wxbXVJZlpnZXZmeU1uTUxHZ3lWcjRWSDdqY040NzFrX25WVTNWV0tXOEVkRk5Q?oc=5",
+   "source": "富聯網",
+   "lang": "zh",
+   "time": "2026-10-06T13:18+08:00",
+   "categories": [
     "車企動向"
    ],
    "via_search": false,
@@ -4620,7 +4676,9 @@
    "categories": [
     "電池"
    ],
-   "forced_issues": [],
+   "forced_issues": [
+    "ssb"
+   ],
    "issues": [
     "ssb"
    ]
@@ -4682,6 +4740,25 @@
    ],
    "issues": [
     "ssb"
+   ]
+  },
+  {
+   "id": "e10e87969a",
+   "title": "美光瞄準人形機器人與自駕車 實體AI料成下一波成長動能",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PR0g1N0F6aUlkQ1VQU09rV05HMmNKQVEyQ2pfejRqM3dIaktISFQtOVcxQlpkOVB6M1JrYlFVV0FzdWRTTENfeUh0NGtWUm8?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-03T09:40+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
    ]
   },
   {
@@ -4962,7 +5039,9 @@
    "categories": [
     "車企動向"
    ],
-   "forced_issues": [],
+   "forced_issues": [
+    "profit"
+   ],
    "issues": [
     "profit"
    ]
@@ -6184,9 +6263,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -6316,97 +6393,6 @@
    "issues": [
     "issue-20261006-ybh7"
    ]
-  },
-  {
-   "id": "fc993c3c9b",
-   "title": "QNX, neueHCT smart camera selected by German automaker for China",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeENaNWEwOW5iY3NDVGRLTDJaOGVoUEhRWGZMUDllbHY3OHIxa19ZWVllR2NhY28tWDdobklZNnZ1Xy1XdTMzRWFhcFhab3BBTnhuY0JydnV4eU0xekZKLVVmTmszODJCbjJGOVJkdkFlaGdrYUlwV3hQSFNLeXJ1MFNvTVRZU3hac0wxN1NBY3FMZzA1bHJvNDN4LWdTRmR3bHc?oc=5",
-   "source": "Yahoo Autos",
-   "lang": "en",
-   "time": "2026-10-01T00:42+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "5b1e480a2f",
-   "title": "BMW plans margin rebuild with simpler lineup and pricier cars",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYW9JTE14Tm1jc1RYUGxXRGhCd2h5WjVWQnNvMUpObzNwQkhGRG1YNDdUWGt2b255dG8xWXJTbHpyQVRjejRkdGEwajRsQ3I3RDRkOTAtVlZlZlByNTd5UlM5amlIRnNRdkd6V2NVT2o4Z0Zfc1p2MkVKR3l3aE8xUXVmQVpaZTV6MU9TeUVCa2lZVVAtUVJaOEJVaXB3OGZGcE02Q2hoLU05Q2s0ZXB5RzRxak9yOFVUclJlSk5rc0hyN2lKVVE?oc=5",
-   "source": "The Business Times",
-   "lang": "en",
-   "time": "2026-09-30T20:55+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "d092094c01",
-   "title": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
-   "summary": "China's NEV retail sales totaled 827,000 in September 1-27, accounting for 65.7% of passenger car sales. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/09/30/china-nev-retail-sales-first-27-days-sept/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-30T20:10+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "5eb787b917",
-   "title": "General Motors: ADAS, Defense, And Battery Storage Diversification Support Future Resilience",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXM0STVpSHQ2ZldXT19Wc0xTN044WmRRYlhrSm1KaW1iSDRCbS1pMHp4dkNNU0xqNmlFRWpHUl9FS3VjN01KWlJqZjNzMGVkWDdiWU1xV2JaV0syVWRKeVIwZTE5T3RUeXhJTkh2ZElpWk1MalVzOFZDaUlEY0lqQWZINHZfRWNIeGRnRU9vR1pYRHFVbUFMYXR4aTZvOTBpVnpESWEzbGFUbWdpclBScm1jaDhyVGlQVjNBY3F3RUhXbFlsRTEwZGRB?oc=5",
-   "source": "Seeking Alpha",
-   "lang": "en",
-   "time": "2026-09-30T19:49+08:00",
-   "via_search": true,
-   "categories": [
-    "電池",
-    "智駕",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7",
-    "ssb"
-   ]
-  },
-  {
-   "id": "04086433ce",
-   "title": "Aito opens pre-sales for updated M8 SUV as Seres and Huawei reshape partnership",
-   "summary": "The updated Aito M8 starts at 389,800 yuan ($57,880) in pre-sales, 30,000 yuan above its predecessor's starting price. For details, please visit CnEVPost (cnev…",
-   "link": "https://cnevpost.com/2026/09/30/aito-opens-pre-sales-updated-m8-suv/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-30T19:28+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
   }
  ]
 }
