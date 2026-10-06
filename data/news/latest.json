@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T13:32+08:00",
+ "updated": "2026-10-06T14:33+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -92,11 +92,9 @@
     "其他"
    ],
    "forced_issues": [
-    "adas",
     "issue-20261006-ybh7"
    ],
    "issues": [
-    "adas",
     "issue-20261006-ybh7"
    ]
   },
@@ -448,6 +446,21 @@
    "issues": [],
    "via_search": false,
    "forced_issues": []
+  },
+  {
+   "id": "ca9e408941",
+   "title": "電動車賣不好？保時捷有新的重大決策",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Z0hWRmNFeG83a0F4NWFKZVVVRV84MTVVbWNfS3pVX3NVNGtGc1AwWEtmM2V1VVJxMjZwUS1ESmJMQjZ0LWlUWDZxcV9RaER1Wjg5VjJZdXEyN2VI0gFiQVVfeXFMTk5qLVpjUFdvcGdKVWtlUnZoTlVIVHdmZ2w3UllUOEI1S3g1Q0l4dklGdlN6b1liTWpOdFg4SDZJeldFM0NrMDh5c2w3UUFSQ1lXYXZBQXhUMHFDdC1vQndMWXc?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "lang": "zh",
+   "time": "2026-10-06T10:43+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "faab5109f4",
@@ -2045,7 +2058,7 @@
    "categories": [
     "其他"
    ],
-   "via_search": false,
+   "via_search": true,
    "forced_issues": [
     "issue-20261006-ybh7"
    ],
@@ -3543,6 +3556,27 @@
    "forced_issues": []
   },
   {
+   "id": "8ef0953901",
+   "title": "銷售王！Tesla登九月台灣新車總市場冠軍 同時啟動在台FSD版本驗證 並提出道路測試計畫",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQWmVVRWVRYUQ5Z0hjOElTNmIwQk53Z05tNEdBWWs1U3VlWDJaTlFkS1ZSUkozb3hISGhCRDE1NkI0T3UzU21FcDJmb3BKYWdCMFlEN21NMVJINlRTM19PM2dRRlNfdWJZMkpPZUswazZERktwU0NXcU44Z1JUMWJUQy00b0FHZ3R3d0NhR0lkeUpzbXJXQmdJUi1CTzNOdVFidW5TSllKSkxxT2FKeUhaNkFHeVNIZjVid2E4dElqak1LOC1wQVhDNXFiRXlBaXYzTjFqcmYxR0hqNk1yM3VVVHA1alVkOTBjaHVhQXBFSHZiWGZsWUdYZnFzR3U4Qk5qMWNwcEFGNmNraHpOLXdHbW5fT0JSUE1QdjhGMzF0OUlRalFPMDg2U1JwREVrTlVFZGo4Nlp2RkxPM1lVR2tzZWVSNUVLRlo1aFdrRnZ1Z0VoSElzTWk1cGtidDBlLXZ3RndaVTQ1SFVXU0VmYnVNZ21uUno4OFVsZHJ2Ymp1X0l2Vng5NHUwZlhjTEJsRG9mV2NESzhkQVRnQ3NCaXlZS1JJUEd4M3FjcnBqdkd4Q0t2R0dvb1ppNmR2VTVTMHJGX0g4ZTExdmxqUEhjZG1fZ09vWkJlZ3g0V3dWdTZFS3EyS3hMOE4wREpRa09KeUFILVluc1QzclVuVTNrYUVHUUNB?oc=5",
+   "source": "Yahoo - 汽機車",
+   "lang": "zh",
+   "time": "2026-10-05T13:35+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "adas"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
    "id": "901a9910e3",
    "title": "電動車時代 未來汽車如電腦般進化",
    "summary": "",
@@ -4869,6 +4903,27 @@
    ]
   },
   {
+   "id": "d0c27cd121",
+   "title": "Automotive Communication Technology Market Size to Reach USD 42.44 Billion by 2031, Driven by Rising ADAS Integration and Software-Defined Vehicles – Mordor Intelligence",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNcEFYRFZzakpxYmhhSlNKUXVIWC1sQVhidVpQWm9iT05oRkx0dVZSSi1KazM0c2ZWcExuM1RHY3VzWGM3dGF1cC1tbUxEYWVGdGZRUjdDNHJzeHo1Mi1DcngtdUpqVmF5ZXcxMW5IS1pMaWFVSDJUeTBCYU5nNkFjNFpsb0xmRWNWSlI3bWhnNDVWTEp4Rm9Eam1LT2xxVjZpZ1JGelZWQlRIbG5fTFVhZlNjVklJRGtxUk9BbkotOFpGcXpCT2R5QnZEakZDZ2hGVTdFbWlaU01HbWVOYjZya2U2ZVhERjFUNnhPaVIzdk4waWRmcmlrYVEyelBvY1c3SjVpZ3h1SEFGRUp2RGxWOVZOX3pnTmx2SzJlM042cWFYQ053NHBHTnRqaGdmR21xbFlNdWJ1Nm96VE5WWHpkR3F2WEFHSDdTOTBERzlUc2s?oc=5",
+   "source": "StreetInsider",
+   "lang": "en",
+   "time": "2026-10-03T09:46+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
    "id": "5cd887b20c",
    "title": "Investors Are Missing the Boat as Nio Impressively Navigates Brutal Price War",
    "summary": "",
@@ -5697,9 +5752,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -5752,8 +5805,7 @@
    "lang": "zh",
    "time": "2026-10-02T10:46+08:00",
    "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
+    "adas"
    ],
    "categories": [
     "智駕",
@@ -6288,51 +6340,6 @@
     "adas",
     "issue-20261006-ybh7"
    ]
-  },
-  {
-   "id": "df3c00c2b2",
-   "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
-   "summary": "Deliveries by the Nio brand rose 55.29% year-on-year in September, Firefly set a monthly record and Onvo posted a second consecutive year-on-year decline. For …",
-   "link": "https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T12:31+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "c2f5cddda1",
-   "title": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
-   "summary": "Leapmotor delivered 105,656 vehicles in September, bringing third-quarter deliveries to a record 310,052. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/leapmotor-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T11:50+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "4a5a655d1d",
-   "title": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
-   "summary": "October incentives for the current 001 include a 10,000 yuan insurance subsidy. The model's deliveries fell 21.50% in the first 8 months of the year. For detai…",
-   "link": "https://cnevpost.com/2026/10/01/zeekr-plans-001-update-q1-2027-incentives-current-model/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T11:24+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
   }
  ]
 }

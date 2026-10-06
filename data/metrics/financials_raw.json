@@ -130,5 +130,325 @@
    "revenue": 19008665000.0,
    "operating_income": -4908858000.0
   }
- }
+ },
+ "上汽集團": {
+  "2025Q4": {
+   "revenue": 187253431700.79,
+   "operating_income": 8044283874.75
+  },
+  "2026Q2": {
+   "revenue": 158234395489.68,
+   "operating_income": 3275778641.04
+  },
+  "2026Q1": {
+   "revenue": 140417876491.41,
+   "operating_income": 6090497942.51
+  },
+  "2025Q2": {
+   "revenue": 158727467670.9,
+   "operating_income": 1569151395.81
+  },
+  "2025Q1": {
+   "revenue": 140860138690.5,
+   "operating_income": 1281154427.19
+  }
+ },
+ "長安汽車": {
+  "2025Q4": {
+   "revenue": 49072317258.89,
+   "operating_income": 1491188039.07
+  },
+  "2026Q2": {
+   "revenue": 32927890998.14,
+   "operating_income": -13398762.14
+  },
+  "2026Q1": {
+   "revenue": 32706438744.02,
+   "operating_income": 483168037.76
+  },
+  "2025Q2": {
+   "revenue": 38530723290.36,
+   "operating_income": -28598091.72
+  },
+  "2025Q1": {
+   "revenue": 34160587096.72,
+   "operating_income": 91203764.54
+  }
+ },
+ "長城汽車": {
+  "2025Q1": {
+   "revenue": 40019080365.54,
+   "operating_income": 786376306.56
+  },
+  "2025Q2": {
+   "revenue": 51136956598.56,
+   "operating_income": 4365842367.99
+  }
+ },
+ "廣汽集團": {
+  "2025Q4": {
+   "revenue": 29613732795.0,
+   "operating_income": -3144061225.0
+  },
+  "2026Q2": {
+   "revenue": 26271635715.0,
+   "operating_income": -4104280152.0
+  },
+  "2026Q1": {
+   "revenue": 20228702898.0,
+   "operating_income": -2824693303.0
+  },
+  "2025Q2": {
+   "revenue": 22731880405.0,
+   "operating_income": -3485011035.0
+  },
+  "2025Q1": {
+   "revenue": 19879060566.0,
+   "operating_income": -2722141420.0
+  }
+ },
+ "小鵬": {
+  "2025Q4": {
+   "revenue": 22253759000.0,
+   "operating_income": -85002000.0
+  },
+  "2025Q3": {
+   "revenue": 20380950000.0,
+   "operating_income": -677224000.0
+  },
+  "2026Q2": {
+   "revenue": 19743593000.0,
+   "operating_income": -1190192000.0
+  },
+  "2026Q1": {
+   "revenue": 13033781000.0,
+   "operating_income": -1925587000.0
+  },
+  "2025Q2": {
+   "revenue": 18274405000.0,
+   "operating_income": -968653000.0
+  }
+ },
+ "Volkswagen Group": {
+  "2025Q4": {
+   "revenue": 83245000000.0,
+   "operating_income": 4486000000.0
+  },
+  "2026Q2": {
+   "revenue": 82444000000.0,
+   "operating_income": 3469000000.0
+  },
+  "2026Q1": {
+   "revenue": 75657000000.0,
+   "operating_income": 2461000000.0
+  },
+  "2025Q2": {
+   "revenue": 80806000000.0,
+   "operating_income": 3835000000.0
+  },
+  "2025Q1": {
+   "revenue": 77559000000.0,
+   "operating_income": 2875000000.0
+  }
+ },
+ "BMW Group": {
+  "2025Q4": {
+   "revenue": 33454000000.0,
+   "operating_income": 1917000000.0
+  },
+  "2026Q2": {
+   "revenue": 31259000000.0,
+   "operating_income": 1631000000.0
+  },
+  "2026Q1": {
+   "revenue": 31007000000.0,
+   "operating_income": 2004000000.0
+  },
+  "2025Q2": {
+   "revenue": 33927000000.0,
+   "operating_income": 2661000000.0
+  },
+  "2025Q1": {
+   "revenue": 33758000000.0,
+   "operating_income": 3142000000.0
+  }
+ },
+ "Mercedes-Benz Group": {
+  "2025Q4": {
+   "revenue": 33690000000.0,
+   "operating_income": 1561000000.0
+  },
+  "2026Q2": {
+   "revenue": 32061000000.0,
+   "operating_income": 1991000000.0
+  },
+  "2026Q1": {
+   "revenue": 31602000000.0,
+   "operating_income": 1700000000.0
+  },
+  "2025Q2": {
+   "revenue": 33153000000.0,
+   "operating_income": 988000000.0
+  },
+  "2025Q1": {
+   "revenue": 33224000000.0,
+   "operating_income": 1920000000.0
+  }
+ },
+ "Volvo Cars": {
+  "2025Q4": {
+   "revenue": 94384000000.0,
+   "operating_income": 1707000000.0
+  },
+  "2026Q2": {
+   "revenue": 77673000000.0,
+   "operating_income": 655000000.0
+  },
+  "2026Q1": {
+   "revenue": 72616000000.0,
+   "operating_income": 1446000000.0
+  },
+  "2025Q2": {
+   "revenue": 93492000000.0,
+   "operating_income": -10187000000.0
+  },
+  "2025Q1": {
+   "revenue": 82948000000.0,
+   "operating_income": 1874000000.0
+  }
+ },
+ "GM": {
+  "2025Q4": {
+   "revenue": 45286000000.0,
+   "operating_income": -3647000000.0
+  },
+  "2025Q3": {
+   "revenue": 48591000000.0,
+   "operating_income": 1076000000.0
+  },
+  "2026Q2": {
+   "revenue": 48026000000.0,
+   "operating_income": 1459000000.0
+  },
+  "2026Q1": {
+   "revenue": 43624000000.0,
+   "operating_income": 2926000000.0
+  },
+  "2025Q2": {
+   "revenue": 47122000000.0,
+   "operating_income": 2127000000.0
+  }
+ },
+ "Ford": {
+  "2025Q4": {
+   "revenue": 45890000000.0,
+   "operating_income": -11557000000.0
+  },
+  "2025Q3": {
+   "revenue": 50534000000.0,
+   "operating_income": 1558000000.0
+  },
+  "2026Q2": {
+   "revenue": 48296000000.0,
+   "operating_income": 638000000.0
+  },
+  "2026Q1": {
+   "revenue": 43253000000.0,
+   "operating_income": 2329000000.0
+  },
+  "2025Q2": {
+   "revenue": 50184000000.0,
+   "operating_income": 511000000.0
+  }
+ },
+ "Rivian": {
+  "2025Q4": {
+   "revenue": 1286000000.0,
+   "operating_income": -833000000.0
+  },
+  "2025Q3": {
+   "revenue": 1558000000.0,
+   "operating_income": -983000000.0
+  },
+  "2026Q2": {
+   "revenue": 1658000000.0,
+   "operating_income": -836000000.0
+  },
+  "2026Q1": {
+   "revenue": 1381000000.0,
+   "operating_income": -881000000.0
+  },
+  "2025Q2": {
+   "revenue": 1303000000.0,
+   "operating_income": -1114000000.0
+  }
+ },
+ "Lucid": {
+  "2025Q4": {
+   "revenue": 522730000.0,
+   "operating_income": -1064754000.0
+  },
+  "2025Q3": {
+   "revenue": 336580000.0,
+   "operating_income": -942019000.0
+  },
+  "2026Q2": {
+   "revenue": 405347000.0,
+   "operating_income": -1048493000.0
+  },
+  "2026Q1": {
+   "revenue": 282465000.0,
+   "operating_income": -951551000.0
+  },
+  "2025Q2": {
+   "revenue": 259432000.0,
+   "operating_income": -803047000.0
+  }
+ },
+ "Hyundai Motor Group": {
+  "2026Q1": {
+   "revenue": 75440767000000.0,
+   "operating_income": 4719777000000.0
+  },
+  "2025Q3": {
+   "revenue": 75407485000000.0,
+   "operating_income": 3999506000000.0
+  },
+  "2025Q4": {
+   "revenue": 74926323000000.0,
+   "operating_income": 3536830000000.0
+  },
+  "2025Q2": {
+   "revenue": 77636312000000.0,
+   "operating_income": 6366363000000.0
+  },
+  "2026Q2": {
+   "revenue": 82252383000000.0,
+   "operating_income": 5479447000000.0
+  }
+ },
+ "Honda": {
+  "2025Q4": {
+   "revenue": 5342984000000.0,
+   "operating_income": 153361000000.0
+  },
+  "2025Q3": {
+   "revenue": 5292412000000.0,
+   "operating_income": 193974000000.0
+  },
+  "2026Q2": {
+   "revenue": 6061514000000.0,
+   "operating_income": 530767000000.0
+  },
+  "2026Q1": {
+   "revenue": 5820946000000.0,
+   "operating_income": -1005851000000.0
+  },
+  "2025Q2": {
+   "revenue": 5340268000000.0,
+   "operating_income": 244170000000.0
+  }
+ },
+ "Nissan": {},
+ "Suzuki": {}
 }
