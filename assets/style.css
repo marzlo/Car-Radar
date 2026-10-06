@@ -220,3 +220,12 @@ table.mkt td.cell .rank{display:block;font-size:11px;color:var(--muted)}
 table.mkt td.cell .bar{margin-top:4px}
 @media (max-width:860px){.region-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:480px){.region-cards{grid-template-columns:minmax(0,1fr)}}
+
+/* 名詞小字典 */
+.term{border:0;background:none;padding:0 0 0 4px;color:var(--accent);font-size:13px;line-height:1;cursor:help;vertical-align:baseline}
+.term:hover,.term:focus-visible{color:var(--fg)}
+.tip{position:fixed;z-index:50;max-width:min(360px,calc(100vw - 16px));background:var(--surface);color:var(--fg);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:6px;padding:12px 14px;font-size:13px;line-height:1.6;box-shadow:0 10px 30px rgba(0,0,0,.22);text-align:left;font-weight:400;white-space:normal;pointer-events:none}
+.tip p{margin:6px 0 0}
+.tip ul{margin:6px 0 0;padding-left:18px}
+.tip .tip-ex{margin-top:6px;padding:6px 8px;background:var(--sunk);border-radius:4px;font-family:var(--f-mono);font-size:12px}
+.tip .tip-note{color:var(--muted);font-size:12px}

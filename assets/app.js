@@ -553,7 +553,7 @@
       <dl>
         <div><dt>${year} 銷量</dt><dd>${units(g.u)}<small> 輛</small></dd></div>
         <div><dt>市值合計</dt><dd>${usd(g.cap)}</dd></div>
-        <div><dt>每賣一輛車的市值</dt><dd>${usd(g.per)}</dd></div>
+        <div><dt>每賣一輛車的市值<button type="button" class="term" data-term="perCar" aria-label="說明">ⓘ</button></dt><dd>${usd(g.per)}</dd></div>
         <div><dt>市值最高</dt><dd class="small">${esc(g.top?.name || "—")}</dd></div>
       </dl></div>`).join("");
 
@@ -624,7 +624,7 @@
     const maxPer = Math.max(...ok.map(c => c.perCar));
     $("#mktTools").innerHTML = `<div class="tabs" role="tablist">${["全部", ...REGIONS].map(r => `<button role="tab" aria-selected="${r === filt}" data-mr="${r}">${r}</button>`).join("")}</div>
       <div class="seg" role="tablist">${[["units", "依銷量"], ["cap_usd", "依市值"], ["perCar", "依每輛市值"]].map(([k, l]) => `<button role="tab" data-ms="${k}" aria-selected="${k === key}">${l}</button>`).join("")}</div>`;
-    $("#mktTable").innerHTML = `<thead><tr><th>車企／集團</th><th>地區</th><th>${year} 銷量</th><th>市值（USD）</th><th>每賣一輛車的市值</th><th>市值 30 天</th></tr></thead><tbody>` +
+    $("#mktTable").innerHTML = `<thead><tr><th>車企／集團</th><th>地區</th><th>${year} 銷量<button type="button" class="term" data-term="sales" aria-label="說明">ⓘ</button></th><th>市值（USD）<button type="button" class="term" data-term="cap" aria-label="說明">ⓘ</button></th><th>每賣一輛車的市值<button type="button" class="term" data-term="perCar" aria-label="說明">ⓘ</button></th><th>市值 30 天<button type="button" class="term" data-term="cap30" aria-label="說明">ⓘ</button></th></tr></thead><tbody>` +
       rows.map(c => {
         const ch = capChange(c, 30);
         return `<tr><td class="co"><b>${esc(c.name)}</b><span>${esc(c.brands)}</span></td>
@@ -639,6 +639,55 @@
     $("#mktFoot").innerHTML = `銷量：各公司 ${year} 年官方公布數字（口徑不同：有的是交車、有的是批發或含合資，滑鼠移到銷量上可看說明），在 <code>data/manual/sales_annual.csv</code> 每年補一次。
       市值：Yahoo Finance 每天更新，用最新匯率換成美元；現代集團為現代＋起亞市值相加。小米市值含手機業務、福斯含保時捷股份，每輛市值會偏高。「市值 30 天」需要累積一個月的每日資料才會出現。`;
   }
+
+  // ── 名詞小字典：滑鼠移到 ⓘ 上出現說明，移走就消失（手機點一下） ──
+  const GLOSSARY = {
+    perCar: () => {
+      const cs = (D.market?.companies || []).filter(c => c.cap_usd && c.sales?.units);
+      const ex = cs.find(c => c.name === "BYD") || cs[0];
+      const sorted = [...cs].sort((a, b) => b.cap_usd / b.sales.units - a.cap_usd / a.sales.units);
+      const hi = sorted[0], lo = sorted.at(-1);
+      const per = c => usd(c.cap_usd / c.sales.units);
+      return `<b>每賣一輛車的市值</b> = 市值 ÷ 一年賣出的車數
+        ${ex ? `<div class="tip-ex">例：${esc(ex.name)} 市值 ${usd(ex.cap_usd)} ÷ ${units(ex.sales.units)} 輛 ≈ <b>${per(ex)}</b></div>` : ""}
+        <p>股市替這家公司「每賣出一輛車」估了多少價值。<b>不是車價，也不是利潤</b>，而是估值溢價：同樣賣一輛車，投資人願意為誰付比較多。</p>
+        <ul><li><b>高</b>：市場看的是賣車以外的題材（AI、自駕、能源）${hi ? `，目前最高是 ${esc(hi.name)}（${per(hi)}）` : ""}</li>
+        <li><b>低</b>：賣很多車但市場覺得獲利薄、成長有限${lo ? `，目前最低是 ${esc(lo.name)}（${per(lo)}）` : ""}</li></ul>
+        <p class="tip-note">市值含公司所有業務（小米含手機、BYD 含電池）；銷量含合資的（上汽、長安）分母較大，數字會偏低。適合搭配「每車營業利益」一起看。長條是和全表最高者的比例。</p>`;
+    },
+    sales: () => `<b>年銷量</b>：各公司官方公布的全年數字。
+      <p>口徑不完全相同：有的是交車（交到客人手上）、有的是批發（賣給經銷商），上汽、廣汽、長安含合資品牌，GM 是全球批發。滑鼠移到每一格的數字上可以看該公司的口徑。</p>
+      <p class="tip-note">資料在 data/manual/sales_annual.csv，每年一月各家公布後補一次。</p>`,
+    cap: () => `<b>市值</b> = 股價 × 流通股數，代表股市此刻對整家公司的定價。
+      <p>每天從 Yahoo Finance 更新，用最新匯率換成美元，方便跨國比較。現代集團是現代＋起亞相加。</p>
+      <p class="tip-note">匯率變動也會讓美元市值變化，即使當地股價沒動。</p>`,
+    cap30: () => `<b>市值 30 天</b>：和 30 天前相比，美元市值漲跌幾 %。
+      <p>綠色 ▲ 上漲、紅色 ▼ 下跌。從開始追蹤那天起每天記錄一次，滿一個月才會出現數字，之前顯示「累積中」。</p>`,
+  };
+  const tip = document.createElement("div");
+  tip.className = "tip"; tip.setAttribute("role", "tooltip"); tip.hidden = true;
+  document.body.appendChild(tip);
+  let tipFor = null;
+  function showTip(el) {
+    const f = GLOSSARY[el.dataset.term];
+    if (!f) return;
+    tipFor = el;
+    tip.innerHTML = f();
+    tip.hidden = false;
+    const r = el.getBoundingClientRect(), w = tip.offsetWidth, h = tip.offsetHeight;
+    let x = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), window.innerWidth - w - 8);
+    let y = r.bottom + 8;
+    if (y + h > window.innerHeight - 8) y = Math.max(8, r.top - h - 8);
+    tip.style.left = x + "px"; tip.style.top = y + "px";
+  }
+  function hideTip() { tip.hidden = true; tipFor = null; }
+  document.addEventListener("mouseover", e => { const t = e.target.closest?.(".term"); if (t && t !== tipFor) showTip(t); });
+  document.addEventListener("mouseout", e => { const t = e.target.closest?.(".term"); if (t && !t.contains(e.relatedTarget)) hideTip(); });
+  document.addEventListener("focusin", e => { if (e.target.classList?.contains("term")) showTip(e.target); });
+  document.addEventListener("focusout", e => { if (e.target.classList?.contains("term")) hideTip(); });
+  document.addEventListener("click", e => { const t = e.target.closest?.(".term"); if (t) { e.preventDefault(); tipFor === t ? hideTip() : showTip(t); } else if (!e.target.closest?.(".tip")) hideTip(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") hideTip(); });
+  window.addEventListener("scroll", hideTip, { passive: true });
 
   async function init() {
     const [status, nev, stocks, asp, news, issues, brief, history, feed, market] = await Promise.all([
