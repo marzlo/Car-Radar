@@ -191,7 +191,7 @@
       const rel = news.filter(n => n.issues?.includes(i.id));
       const ai = notes.filter(n => n.issue === i.id);
       const tl = [
-        ...i.entries.map(e => ({ d: e.date, k: e.label, x: e.text, me: true, att: e.news || [] })),
+        ...i.entries.map((e, idx) => ({ d: e.date, k: e.label, x: e.text, me: true, att: e.news || [], idx })),
         ...ai.map(n => ({ d: n.date, k: "AI 整理", x: n.note, ids: n.news_ids }))
       ].sort((a, b) => a.d < b.d ? -1 : a.d > b.d ? 1 : (a.me ? -1 : 1));
       const m = list.find(x => x.id === i.metric);
@@ -205,12 +205,15 @@
             <div><span class="eyebrow">當時（${esc(i.since)}）</span>${esc(i.then)}</div>
             <div><span class="eyebrow">現在</span>${esc(i.now)}</div>
           </div>`}
-          <ol class="tl">${tl.map(e => `<li class="${e.me ? "me" : ""}"><span class="d">${esc(e.d)}</span><span class="k">${esc(e.k)}</span>
+          <ol class="tl">${tl.map(e => (ed === "entry" && e.me && S.editing.idx === e.idx) ? `<li class="me">${entryForm()}</li>` : `<li class="${e.me ? "me" : ""}"><span class="d">${esc(e.d)}</span><span class="k">${esc(e.k)}</span>
+            ${e.me && !ed ? (S.confirmEntry === e.idx
+              ? `<span class="ent-acts">確定刪除這筆？<button class="danger" data-edel-yes="${e.idx}">刪除</button><button data-edel-no>取消</button><span class="fmsg" id="edelmsg"></span></span>`
+              : `<span class="ent-acts"><button data-eedit="${e.idx}" title="編輯這筆紀錄">✎ 編輯</button><button data-edel="${e.idx}" title="刪除這筆紀錄">🗑</button></span>`) : ""}
             <div class="x">${esc(e.x)}</div>
             ${(e.att || []).length ? `<div class="att">${e.att.map(a => `<a href="${safeUrl(a.url)}" target="_blank" rel="noopener">📰 ${esc(a.title)}${a.source ? `<span>｜${esc(a.source)}</span>` : ""}</a>`).join("")}</div>` : ""}
             ${(e.ids || []).map(id => news.find(n => n.id === id)).filter(Boolean).map(n => `<a href="${safeUrl(n.link)}" target="_blank" rel="noopener">${esc(n.title_zh || n.title)}</a>`).join("")}
           </li>`).join("")}</ol>
-          ${ed === "entry" ? entryForm() : ""}
+          ${ed === "entry" && S.editing.idx == null ? entryForm() : ""}
           <div class="chips">
             ${ed ? "" : `<button class="chip-strong" data-edit="edit">✎ 更新判斷／設定</button><button class="chip-strong" data-edit="entry">＋ 新增紀錄</button>`}
             ${ed ? "" : S.confirmDel === i.id
@@ -221,10 +224,25 @@
           </div>
         </div>` : ""}`;
     }).join("");
-    $("#issues").querySelectorAll(".issue-btn").forEach(b => b.onclick = () => { S.open = S.open === b.dataset.id ? "" : b.dataset.id; S.editing = null; S.confirmDel = null; store.set("issue", S.open); renderIssues(); });
+    $("#issues").querySelectorAll(".issue-btn").forEach(b => b.onclick = () => { S.open = S.open === b.dataset.id ? "" : b.dataset.id; S.editing = null; S.confirmDel = null; S.confirmEntry = null; store.set("issue", S.open); renderIssues(); });
     $("#issues").querySelectorAll("[data-filter]").forEach(b => b.onclick = () => { S.issueFilter = b.dataset.filter; S.cat = "全部"; renderNews(); $("#news-h").scrollIntoView({ behavior: "smooth" }); });
     $("#issues").querySelectorAll("[data-metric]").forEach(b => b.onclick = () => { S.metric = b.dataset.metric; renderGauges(); $("#kpi-h").scrollIntoView({ behavior: "smooth" }); });
     $("#issues").querySelectorAll("[data-edit]").forEach(b => b.onclick = () => { S.editing = { id: S.open, mode: b.dataset.edit }; renderIssues(); });
+    $("#issues").querySelectorAll("[data-eedit]").forEach(b => b.onclick = () => {
+      const iss = D.issues.issues.find(x => x.id === S.open), idx = +b.dataset.eedit, e = iss.entries[idx];
+      S.confirmEntry = null;
+      S.editing = { id: S.open, mode: "entry", idx, att: [...(e.news || [])], draft: { date: e.date, label: e.label, text: e.text } };
+      renderIssues(); setTimeout(() => $("#e-text")?.focus(), 50);
+    });
+    $("#issues").querySelectorAll("[data-edel]").forEach(b => b.onclick = () => { S.confirmEntry = +b.dataset.edel; renderIssues(); });
+    $("#issues").querySelectorAll("[data-edel-no]").forEach(b => b.onclick = () => { S.confirmEntry = null; renderIssues(); });
+    $("#issues").querySelectorAll("[data-edel-yes]").forEach(b => b.onclick = async () => {
+      const old = D.issues.issues.find(x => x.id === S.open), idx = +b.dataset.edelYes;
+      const issue = { ...old, entries: old.entries.filter((_, k) => k !== idx) };
+      b.disabled = true; $("#edelmsg").textContent = "刪除中…";
+      try { await saveToGitHub(issue, `議題：「${old.title}」刪除一筆紀錄`); S.confirmEntry = null; applyLocal(issue, false); }
+      catch (err) { $("#edelmsg").textContent = err.message; b.disabled = false; if (err.needToken) openPanel(); }
+    });
     $("#issues").querySelectorAll("[data-del]").forEach(b => b.onclick = () => { S.confirmDel = S.open; renderIssues(); });
     $("#issues").querySelectorAll("[data-del-no]").forEach(b => b.onclick = () => { S.confirmDel = null; renderIssues(); });
     $("#issues").querySelectorAll("[data-del-yes]").forEach(b => b.onclick = () => deleteIssue(S.open, b));
@@ -265,17 +283,18 @@
   // 新增紀錄表單：可以勾選要附上的新聞（議題相關新聞＋搜尋全部新聞）
   function entryForm() {
     const ed = S.editing;
-    ed.picked = ed.picked || [];
+    ed.att = ed.att || [];
     const draft = ed.draft || { date: todayTpe(), label: "筆記", text: "" };
     const news = D.news?.items || [];
     const issues = D.issues?.issues || [];
     const q = (ed.q || "").trim().toLowerCase();
     const rel = news.filter(n => n.issues?.includes(ed.id));
     const pool = q ? news.filter(n => ((n.title_zh || "") + " " + n.title + " " + n.source).toLowerCase().includes(q)) : rel;
-    const pickedItems = ed.picked.map(id => news.find(n => n.id === id)).filter(Boolean);
-    const cand = pool.filter(n => !ed.picked.includes(n.id)).slice(0, 12);
+    const urls = new Set(ed.att.map(a => a.url));
+    const cand = pool.filter(n => !urls.has(n.link)).slice(0, 12);
+    const editing = ed.idx != null;
     return `<form class="iform" id="entryForm" novalidate>
-      <h3>新增紀錄</h3>
+      <h3>${editing ? "編輯紀錄" : "新增紀錄"}</h3>
       ${ed.fromNews ? `<label for="e-issue">記到哪個議題</label><select id="e-issue">${issues.map(i => `<option value="${esc(i.id)}"${i.id === ed.id ? " selected" : ""}>${esc(i.title)}</option>`).join("")}</select>` : ""}
       <div class="frow">
         <div><label for="e-date">日期</label><input id="e-date" type="date" value="${esc(draft.date)}"></div>
@@ -285,11 +304,11 @@
       <label for="e-text">內容</label>
       <textarea id="e-text" rows="4" placeholder="今天看到什麼、想到什麼">${esc(draft.text)}</textarea>
       <label>附上新聞（會一起存進時間軸，新聞過期後連結仍保留）</label>
-      <div class="picked">${pickedItems.length ? pickedItems.map(n => `<span class="pchip">📰 ${esc(n.title_zh || n.title)}<button type="button" data-unpick="${esc(n.id)}" aria-label="移除">✕</button></span>`).join("") : `<span class="muted small">還沒選。從下面點選，或用搜尋找其他新聞。</span>`}</div>
+      <div class="picked">${ed.att.length ? ed.att.map((a, k) => `<span class="pchip">📰 ${esc(a.title)}<button type="button" data-unpick="${k}" aria-label="移除">✕</button></span>`).join("") : `<span class="muted small">還沒選。從下面點選，或用搜尋找其他新聞。</span>`}</div>
       <input id="e-q" type="search" placeholder="搜尋新聞標題或來源（例如 Ford、價格戰）" value="${esc(ed.q || "")}">
       <div class="cands">${cand.length ? cand.map(n => `<button type="button" class="cand" data-pick="${esc(n.id)}"><span>＋</span>${esc(n.title_zh || n.title)}<em>${esc(n.source)}・${ago(n.time)}</em></button>`).join("")
         : `<span class="muted small">${q ? "找不到符合的新聞" : "這個議題近 7 天沒有相關新聞，可以用上面的搜尋找"}</span>`}</div>
-      <div class="factions"><button class="primary" type="submit">加入時間軸</button><button class="ghost" type="button" data-cancel>取消</button><span class="fmsg" id="fmsg"></span></div>
+      <div class="factions"><button class="primary" type="submit">${editing ? "儲存修改" : "加入時間軸"}</button><button class="ghost" type="button" data-cancel>取消</button><span class="fmsg" id="fmsg"></span></div>
     </form>`;
   }
 
@@ -300,7 +319,7 @@
     if (!n || !issues.length) return;
     const target = (n.issues || []).find(id => issues.some(i => i.id === id)) || (issues.some(i => i.id === S.open) ? S.open : issues[0].id);
     S.open = target; store.set("issue", target);
-    S.editing = { id: target, mode: "entry", picked: [newsId], fromNews: true,
+    S.editing = { id: target, mode: "entry", att: [{ title: n.title_zh || n.title, url: n.link, source: n.source }], fromNews: true,
       draft: { date: todayTpe(), label: "新聞", text: "" } };
     renderIssues();
     document.querySelector("#entryForm")?.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -355,8 +374,13 @@
   function bindIssueForm() {
     const ef = $("#entryForm");
     if (ef) {
-      ef.querySelectorAll("[data-pick]").forEach(b => b.onclick = () => { keepDraft(); S.editing.picked.push(b.dataset.pick); renderIssues(); });
-      ef.querySelectorAll("[data-unpick]").forEach(b => b.onclick = () => { keepDraft(); S.editing.picked = S.editing.picked.filter(x => x !== b.dataset.unpick); renderIssues(); });
+      ef.querySelectorAll("[data-pick]").forEach(b => b.onclick = () => {
+        keepDraft();
+        const n = (D.news?.items || []).find(x => x.id === b.dataset.pick);
+        if (n) S.editing.att.push({ title: n.title_zh || n.title, url: n.link, source: n.source });
+        renderIssues();
+      });
+      ef.querySelectorAll("[data-unpick]").forEach(b => b.onclick = () => { keepDraft(); S.editing.att.splice(+b.dataset.unpick, 1); renderIssues(); });
       let t;
       $("#e-q").oninput = e => { clearTimeout(t); t = setTimeout(() => { keepDraft(); S.editing.q = e.target.value; renderIssues(); const el = $("#e-q"); el.focus(); el.setSelectionRange(el.value.length, el.value.length); }, 250); };
       $("#e-q").onkeydown = e => { if (e.key === "Enter") e.preventDefault(); };
@@ -487,13 +511,13 @@
     const text = $("#e-text").value.trim();
     if (!text) { $("#fmsg").textContent = "請填寫內容"; $("#e-text").focus(); return; }
     const old = D.issues.issues.find(x => x.id === S.editing.id);
-    const all = D.news?.items || [];
-    const att = (S.editing.picked || []).map(id => all.find(n => n.id === id)).filter(Boolean)
-      .map(n => ({ title: n.title_zh || n.title, url: n.link, source: n.source }));
-    const entry = { date: $("#e-date").value || todayTpe(), label: $("#e-label").value.trim() || "筆記", text, news: att };
-    const issue = { ...old, entries: [...old.entries, entry].sort((a, b) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0) };
+    const entry = { date: $("#e-date").value || todayTpe(), label: $("#e-label").value.trim() || "筆記", text, news: [...(S.editing.att || [])] };
+    const idx = S.editing.idx;
+    const entries = [...old.entries];
+    if (idx != null) entries[idx] = entry; else entries.push(entry);
+    const issue = { ...old, entries: entries.sort((a, b) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0) };
     withSave(async () => {
-      await saveToGitHub(issue, `議題：「${old.title}」新增紀錄`);
+      await saveToGitHub(issue, `議題：「${old.title}」${idx != null ? "修改" : "新增"}紀錄`);
       applyLocal(issue, false);
     });
   }
