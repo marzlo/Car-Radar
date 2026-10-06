@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:58+08:00",
+ "updated": "2026-10-06T11:59+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -519,7 +519,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "def1d499c8",
@@ -578,6 +580,7 @@
     "供應鏈"
    ],
    "issues": [
+    "profit",
     "ssb"
    ]
   },
@@ -834,7 +837,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "8c9c7399e0",
@@ -967,7 +972,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "df5f900752",
@@ -981,6 +988,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "522cc9c89d",
+   "title": "湧盛自製比重跨5成 毛利結構持續升級",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNc21MNFd4OWljMy16VTBsZFN4aWs0a3BnNjRDNExyblUySWRsQTlYOWdPamlWQUl2NTREdnQ5UHRBanFGaWJERUY2Y195cl90SXdod1h1d0Vya1FMV1QyekdQMHJiYUREd0tHYmN2Vjk1amVfNlZiaGNWSmlITlA4T1gzT09xdy12bktCSWxWTGpWYXBaTmtxYnZydXE5Sl9hcjljZzU1bmU4VTBzaUFhd3IzeU1oZUF6M3NEWFg0aDAyX0FSaGpnMnZfUHB0ZmhKbkt1N25ZTHU5NFdIOTF6OWEwOUxYQ1FFVkd6VGJaQ0xiRFBMaFdQUkpvM3RmaEc1REl6UzE3NXgyczlyMURVRUVid3BlUQ?oc=5",
+   "source": "Yahoo新聞",
+   "lang": "zh",
+   "time": "2026-10-06T03:21+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "6cd1930a3d",
@@ -1006,7 +1031,9 @@
    "categories": [
     "Stellantis"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "016f275b8f",
@@ -1132,7 +1159,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "ef6c9bc531",
@@ -1231,6 +1260,24 @@
    "issues": []
   },
   {
+   "id": "5b1e740bc6",
+   "title": "三大引擎火力全開！「這大廠」毛利率直衝63.9% 目標價上看700元",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOY1d3WDREX0RRbEJvQ0xKZC0waHF5aUtWTDdjV1BaWGNUYVEzNmNPN2RtZUdmaDJnZ29uQi1GTTB4MUJQMGt3Qm4wU2dRVzN5QzdwOF9jUEFOR2FNbjdzV3VmQmZvclJBXzY4NzJKbEJEVkVKRUZsU3dySUYxZkNuVXpKMVFtWmtEaVJwOVkyd0YxcndVallrajdPY0FHd2dwNXlmdnUtcUdIaW5ESGlLUmpTUG1zOHBDUkdodDNmamxBLXJXT1liMGZtcFppTHlvWnlQNll4cVlDR3ZidDRqT2ZWZWc3WTBiZDVDaTRYdkFXZnBxTS1VYzFxMWNRZnZ5b2J6d1VGMXlqeEVIalhvVmRsSERqN0xzVFRNWVVBSkhnZlhfX21jclpkbS1mU0dlbXhnVHlQcGV1T292c0hLLWU4Y0E1bXg0X3MzSGQ1MURicnZ1eHpRZUZLSS1sYnZReXZTNXNiVjQ?oc=5",
+   "source": "Yahoo新聞",
+   "lang": "zh",
+   "time": "2026-10-06T01:35+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "b2f9b6281f",
    "title": "本田將在日本高速公路測試電動車行駛中無線充電",
    "summary": "",
@@ -1293,7 +1340,9 @@
    "categories": [
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "a678fb115f",
@@ -1367,7 +1416,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "cfe8d2d57d",
@@ -1383,6 +1434,7 @@
     "車企動向"
    ],
    "issues": [
+    "profit",
     "ssb"
    ]
   },
@@ -1468,7 +1520,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "ed2f811919",
@@ -1538,7 +1592,9 @@
     "座艙・SDV",
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "a8f9beb05b",
@@ -1717,7 +1773,9 @@
    "categories": [
     "Stellantis"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "2222b7eef2",
@@ -1743,7 +1801,9 @@
    "categories": [
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "c0208970c8",
@@ -1799,7 +1859,9 @@
    "categories": [
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "7a76b2adb9",
@@ -1829,6 +1891,24 @@
     "Stellantis"
    ],
    "issues": []
+  },
+  {
+   "id": "5140010e87",
+   "title": "《CAR-T 細胞》科學家揭開「現成」CAR-T 細胞療效差異：患者免疫排斥與 CART-T 細胞自身適應力是治療成敗核心",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53LTRRUmx0TjVCeGpfZlpScXZmVEE3aUxFcDVBalJBSmZIS0RYWGNUb1gxZEsyU3FUcDJNNjc5RW1HSUk1X1c5TU1MNklabXNhbjZ6czhUeW1oNHRuVjRsZU5ONEl6RWpwd0Zkaw?oc=5",
+   "source": "genetinfo.com",
+   "lang": "zh",
+   "time": "2026-10-05T19:52+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "7422c2337c",
@@ -2014,19 +2094,6 @@
    "issues": []
   },
   {
-   "id": "cc4ee80060",
-   "title": "日媒：日本擬研發與導入自駕船，運送部隊與彈藥",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDA0N280ckFvTjExMHJjX1ZRWHlPRzhReWkxRW1LTmV4cFJPUFBTaXVuSEJXbHhDX3RweV9yM0ZYUkRGaFlfT2JmSHJDRGRYVjNvYVFSSnN4al9HQXdoYWw0aHpqWFkwU253ZlBybWdlQi0yTE1wdkVfcjFnaDctU0xzV1ljcFhhdzRxWUQ0SURMblhCMWY3WVFSWkl5Zw?oc=5",
-   "source": "TechNews 科技新報",
-   "lang": "zh",
-   "time": "2026-10-05T18:07+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
    "id": "d8bb79258b",
    "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
    "summary": "",
@@ -2036,6 +2103,19 @@
    "time": "2026-10-05T18:07+08:00",
    "categories": [
     "車企動向"
+   ],
+   "issues": []
+  },
+  {
+   "id": "cc4ee80060",
+   "title": "日媒：日本擬研發與導入自駕船，運送部隊與彈藥",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDA0N280ckFvTjExMHJjX1ZRWHlPRzhReWkxRW1LTmV4cFJPUFBTaXVuSEJXbHhDX3RweV9yM0ZYUkRGaFlfT2JmSHJDRGRYVjNvYVFSSnN4al9HQXdoYWw0aHpqWFkwU253ZlBybWdlQi0yTE1wdkVfcjFnaDctU0xzV1ljcFhhdzRxWUQ0SURMblhCMWY3WVFSWkl5Zw?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-05T18:07+08:00",
+   "categories": [
+    "其他"
    ],
    "issues": []
   },
@@ -2351,7 +2431,12 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ],
+   "forced_issues": [
+    "profit"
+   ]
   },
   {
    "id": "2cfba7af19",
@@ -2534,7 +2619,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "136861e692",
@@ -2774,6 +2861,24 @@
    "issues": []
   },
   {
+   "id": "b5ea5a9bba",
+   "title": "意外大幅降價！沙烏地阿美調降11月對亞原油官價至6年新低",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00cERNd2xxeExlOGs0NGJ5bmlsem95Wnh3aWxZNEN6YTZUT0hpaFVfeGxXeDFUT1F5ZHNrMWtXN0Z2UDE4TTF3R1czTmNrYlU?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-05T14:32+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "775cce630a",
    "title": "Renault to invest more than €10B in France over five years on EVs, affordable cars: CEO (RNSDF:OTCMKTS)",
    "summary": "",
@@ -2784,7 +2889,9 @@
    "categories": [
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "ca1cbca921",
@@ -2996,7 +3103,9 @@
    "categories": [
     "供應鏈"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "e68605276b",
@@ -3049,9 +3158,7 @@
    "categories": [
     "供應鏈"
    ],
-   "issues": [
-    "profit"
-   ]
+   "issues": []
   },
   {
    "id": "1dc4cc389a",
@@ -3545,7 +3652,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "98d23e75fc",
@@ -3678,7 +3787,9 @@
    "categories": [
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "35f512adb2",
@@ -3704,9 +3815,7 @@
    "categories": [
     "其他"
    ],
-   "issues": [
-    "profit"
-   ]
+   "issues": []
   },
   {
    "id": "9477c50bba",
@@ -3732,7 +3841,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "4a6e2ce157",
@@ -3994,6 +4105,24 @@
    "issues": []
   },
   {
+   "id": "dc87137822",
+   "title": "CAR-T 細胞治療朝新世代技術 業者爭相投入",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQLTdCZ1FRZW80T2t4bEMwNzdDVFN2cjRicTRiT3pjV0ZmYUpVQ2pzSHBlR3F4d1lzRENMZTIwUExMVnVIbVdoX3IxR2ROYldJSm00Y3NQbFZPQdIBX0FVX3lxTE05eHJWODh1NUJUNFBNMFdTcXdndVJZTVRMbVZ6eHhsb01fejJPYXVtMjMyZC1WcXN0TTY2dzRVQ3dzZkhPekJWb0s5TFlDNmIyUUNoc0Z6LWxJN0VIOG1R?oc=5",
+   "source": "經濟日報",
+   "lang": "zh",
+   "time": "2026-10-04T17:00+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "31bf5d451e",
    "title": "美光財報超預期！記憶體股卻走弱 專家示警「這變化」",
    "summary": "",
@@ -4006,6 +4135,24 @@
    ],
    "categories": [
     "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "628430fe77",
+   "title": "Opinion: Your next car will be a luxury",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NbFZEclFsOVNmcXJta2NvLXlKUmJoN0lERXdtUzZyZXVzVmNTcEF3Y1N4ZTdMOWhrbnBYeTd2NUFxYzB3UTd2MzlENzAtWVQ0eVNDejh6b3p3OVl2QktOWTh0SkdJUlkyZ244OWttb3o?oc=5",
+   "source": "CT Mirror",
+   "lang": "en",
+   "time": "2026-10-04T16:30+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "車企動向"
    ],
    "issues": [
     "profit"
@@ -4137,6 +4284,42 @@
    "issues": []
   },
   {
+   "id": "6f356e0e61",
+   "title": "Man dies after Friday car crash at Sherman Avenue and Simpson Street",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTBzbllRXzJOVU45dFF0OU9JNXpPbEJkbkdWQ1p1Ui1vLTVRNHRfY2RJTzBPN3RvMXVuVDVuVVV2SC0yWUlzN3BpMzhTVi12dmYzRUtkZzhweDItUFRaUHg3aTgtTml0QzJNRmZwb2Y4Zm05aW5JcTNxLVJEdmlDSWR2eW94TEI4ZEVoLXJVZXJLSTU0elFvSjgwNk80NENVaHJjN2xLQi10aHQ2cGVQVXFlV2FYUQ?oc=5",
+   "source": "dailynorthwestern.com",
+   "lang": "en",
+   "time": "2026-10-04T03:03+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "0f310651f6",
+   "title": "戳破客戶的降價幻想！三利多加持鋼市Q4添喜中鋼、中鴻等業者迎商機- 日報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pd2s3TXhuVzRLV0FfT3BvN09ZVEt6dThSN1FMLUNUNWR2NFRZSFFPb2dLOWJuWl9YNXZwN00tTTRUREZzbVotUnUxTVhlb0xOaVJkZVU4ZDRUY2NDdW5n?oc=5",
+   "source": "工商時報",
+   "lang": "zh",
+   "time": "2026-10-04T03:00+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "36f926f8be",
    "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
    "summary": "Beijing wants large-scale production, but the world’s biggest EV battery maker warns that making the technology affordable is another matter.",
@@ -4169,7 +4352,8 @@
     "車企動向"
    ],
    "issues": [
-    "adas"
+    "adas",
+    "profit"
    ]
   },
   {
@@ -4422,7 +4606,8 @@
    ],
    "issues": [
     "adas",
-    "issue-20261006-ybh7"
+    "issue-20261006-ybh7",
+    "profit"
    ]
   },
   {
@@ -4580,6 +4765,7 @@
     "電池"
    ],
    "issues": [
+    "profit",
     "ssb"
    ]
   },
@@ -4623,6 +4809,24 @@
    "issues": []
   },
   {
+   "id": "918fdd979f",
+   "title": "UK new car sales rise 12% in September as EVs and Chinese brands gain ground",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHZ6ZW1IM2ZoUVdSWTVLdVA3cHRxQmE1STZ5aXQ4akJGc3V6NExmVnpZOGtJUHhMajdvY2FwclpscEsxYzRqcnlSM3UwbXpoWW5iMjdjVWlMeFZ6THJCWWpMWkFpZ2k1UG1jTjd2V3JhVGZmb005MDlNQnRTT25ldHlCQUZuTTNIWkFnd3diQzNvZ0NYVWgyeVZZUkVtQkEtQ1lIclNndTVicXN5NF9haVZCZlJUaWZvLUpubWp3?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-10-03T00:01+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "1a88980510",
    "title": "Cattle See Profit Taking After Fresh Highs, Plunging Beef",
    "summary": "",
@@ -4654,6 +4858,24 @@
    "issues": []
   },
   {
+   "id": "d478883380",
+   "title": "These Are the Biggest Winners and Losers in Auto Sales in Q3 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2M1d3o1eFhQU0QzUGVtOUlDVDl6LWRYUW40X2Z6d3ZtTkVjU1lRckRjU2U0d2tsYVA3Y1BLOWhYckFUWnJmblZNMzNnOWhOTkNsNzkxdUdxeU80V2hqNHJHejJjVDJIc05CNFRVVlplWW8yT2hYVnl2QTB1UjFsUVlydHE?oc=5",
+   "source": "Car and Driver",
+   "lang": "en",
+   "time": "2026-10-02T23:41+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "25e124f52f",
    "title": "Ford’s Fathom pickup couldn’t come soon enough as EV sales drop 80% in Q3",
    "summary": "The Ford Fathom is set to go on sale in early 2027, starting at about $30,000. Meanwhile, Ford’s US EV sales dropped 80% in the third quarter. more…",
@@ -4677,7 +4899,9 @@
    "categories": [
     "車企動向"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "d0188a95d2",
@@ -4737,7 +4961,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "482a2e354a",
@@ -4854,7 +5080,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "0bd5d88b3e",
@@ -4886,6 +5114,24 @@
    ],
    "issues": [
     "adas"
+   ]
+  },
+  {
+   "id": "afafcebd2d",
+   "title": "[U-EV]售價245萬至312萬、增40入門、入手門檻較預售大降35萬，BMW iX3正式上市",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mS2FuNHZwUlJNM3I4WDREa2xTRzA1clEySm16YnBmSl9Gcm1jeHNIdnFjT0VjMkNLWFotYXJVcHBlOHVoNTVvS0l4MWxzZ1ZT?oc=5",
+   "source": "U-CAR新聞",
+   "lang": "zh",
+   "time": "2026-10-02T19:22+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "車企動向"
+   ],
+   "issues": [
+    "profit"
    ]
   },
   {
@@ -4940,6 +5186,24 @@
    "source": "sinotrade.com.tw",
    "lang": "zh",
    "time": "2026-10-02T18:31+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "223da15484",
+   "title": "San Francisco’s car crime has plunged. How much credit does Flock deserve? : Planet Money",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDBOTE1ZWUZ3TlR5RkFPREVLYklhLXBFcVRzMGphbDVqM1NfMjcwZXQwRW9NQ2QyeEhZenhoS0MxNmtQYThRRGh6OGY0eVVtR0dRT3lTaC1tdWJ5YUEzMXBQelpBaGVNVFotbDFQclY4X2U0Wnh2V0RtWFZMblRUc3FFeFFwaTBmNHBGTzJfLXFmbVV3MW9pby1DTjFfUHVhR05JZVJxZjJWMy1XdmVYREMxUE1wTWtnbXVhMFRMRVRJel9rRklHTzF6YXhfbHVqeGc?oc=5",
+   "source": "NPR",
+   "lang": "en",
+   "time": "2026-10-02T18:30+08:00",
    "forced_issues": [
     "profit"
    ],
@@ -5389,6 +5653,24 @@
    "issues": []
   },
   {
+   "id": "45e3da781e",
+   "title": "記憶體降價仍無期 美光：每台人形機器人將需逾200GB DRAM、數TB NAND",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YX29pR2dtMDNTc3dReGgyZVdiUWt2MjBvTXR3NFhxanoyalA3akphMHgwcEF6MURKSXZmUV8wcEJSejRHaHN6dkFRMHl6cHM?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-02T07:14+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "1d51dc27f2",
    "title": "MAN Truck 將智駕效益延伸至能源節省，推動車隊升級潮",
    "summary": "",
@@ -5571,6 +5853,24 @@
    "issues": []
   },
   {
+   "id": "099a913e78",
+   "title": "California’s new used-car law has taken effect. Here’s how it helps buyers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTZuS29VQVVydC1KWVlVTHpVQUtuMmctazBNNXhNZXpmME9vc0FpdjJZeXEzU0ZsOXZkSTZPZTlzMjRlNzZPWDJOZm42RWYwUFU0dXdsYVRFRzVVNTQ2UVFVdk14c1loVGk5ZnUxU3VodWV1M1NxTElfbHRjdTNMNURnVkY1U1o3RlhKclhFWEI3YVpUTlJRdk9TNU8?oc=5",
+   "source": "San Francisco Chronicle",
+   "lang": "en",
+   "time": "2026-10-01T21:12+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "eec18a0f05",
    "title": "GWM September sales fall 14% in steepest drop this year as domestic slump deepens",
    "summary": "GWM sold 114,944 vehicles in September, down 13.99% year-on-year, bringing sales for the first 9 months into decline at 0.33%. For details, please visit CnEVPo…",
@@ -5594,7 +5894,9 @@
    "categories": [
     "其他"
    ],
-   "issues": []
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "4428ac2a96",
@@ -5610,6 +5912,24 @@
    "issues": []
   },
   {
+   "id": "9069207b78",
+   "title": "2026年9月份臺灣汽車市場銷售報告",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsdjcyTVJMc2VmZnU5YkYxRm9tdVFYa1NnRFZpWGFDUV9YT2dMeTI0bVVCV0tuX3VOUGtsRW9uT0lQSWJCdEZCXzVRUXlGanVoVWxZRGk4UQ?oc=5",
+   "source": "U-CAR新聞",
+   "lang": "zh",
+   "time": "2026-10-01T20:17+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "67e2f385cc",
    "title": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
    "summary": "Huawei and Seres are deepening their partnership about 2 weeks after announcing a shift in control of the Aito brand's operations. For details, please visit Cn…",
@@ -5621,243 +5941,6 @@
     "其他"
    ],
    "issues": []
-  },
-  {
-   "id": "de9cf32ae5",
-   "title": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-   "summary": "BYD posted its fifth consecutive month of year-on-year NEV sales growth and seventh consecutive month of sequential growth. For details, please visit CnEVPost …",
-   "link": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T18:51+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "62d769471e",
-   "title": "Barclays downgrades Mobileye, cites lack of progress on advanced wins",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjdObjgxa1NzdWZ6aTBESmlQaHVEY1hURXdwLUhlTVpqSXB2aXVxbFB4ZjFlTHRhclhxUDMwN0txOTBReUVCMU5UdVlxVWttVGFYZnZUZE5MYTB6aURHd1lST3VMR3NpN284M0Jtd0tsQWJWZXM2NnJCeElwZl90blpPRllPeHNJS28tOEQwQzhobm1yNmY4bXVlOUpjV3ZsMjZ4bjFlNkdUNjNRZGdkZXFneW9HbTRkbTdvYm1GTzR4ZlU?oc=5",
-   "source": "Investing.com",
-   "lang": "en",
-   "time": "2026-10-01T18:44+08:00",
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "7da84479e0",
-   "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTXVFQzVGWVdxZktIeThuVTRPREQ1V0ZranUxaVo4amtXU20xV1VTelA5bU1qbks2aXdKUVFiX2ljREladm0wemprWFhUbVpqVVNFZUxJT05VeG0zZzR0bUQ4MDBfSmNnLW1oaFNFTHc?oc=5",
-   "source": "TechNews 科技新報",
-   "lang": "zh",
-   "time": "2026-10-01T18:32+08:00",
-   "forced_issues": [
-    "homog"
-   ],
-   "categories": [
-    "座艙・SDV"
-   ],
-   "issues": []
-  },
-  {
-   "id": "4034dde89c",
-   "title": "American Battery Technology Company Receives Approval for Sale of $100 Million of Exported Recycled Black Mass Critical Minerals with License from U.S. Department of Commerce – American Battery Technology Company",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVHJVOXJlSktMS2FPWVRsUFNSNGtJSkhCZmhjZWRXRl8wYjUtbE1SVHVtc1dsblNwcWo4c3Bmb1JnUndOQzdEVy1ZdWk3d0x0T2QxbWYwazZFMW1RUWltazMzT0ZhT01xVDVmd3F0dEdKTm1YekplWFREV0w4UWhKZ284RVU0dVRKRDA3MW5HMWNSN0Y4VHY5bEtRSUItTU1iVWpUOW95WElYR1FackhFZll4MkdpdFNLUEoxdnJ3RXpXSmtJdDFVUzlzYU9yQTRHZVJsSjhnZjhEbVl3a2NXTllhQnA4Ylo5VzZ4V3Rpc1BMVWVTMGlBZC1zN3pESUVYa05aYmVleWxYSWFTSTVfLXkyalBJZ3IxMHUxWUt1eDlLVHpQYzRHZ25lN2swVzMxZ3dna0RjdjJ5RENxaHpTMWExZTEtbjQx?oc=5",
-   "source": "American Battery Technology Company",
-   "lang": "en",
-   "time": "2026-10-01T18:28+08:00",
-   "forced_issues": [
-    "ssb"
-   ],
-   "categories": [
-    "電池",
-    "供應鏈"
-   ],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "4f0a8593a2",
-   "title": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-   "summary": "HIMA's September deliveries fell 29.15% year-on-year, with year-to-date growth slowing to 5.27%. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/huawei-hima-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T17:16+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
-   "id": "c0346400ee",
-   "title": "FedEx Just Ordered 2,000 Electric Trucks That Will Save $40 Million Every Year On Fuel",
-   "summary": "The package delivery company will deploy Harbinger’s American-made EVs in the United States and Canada.",
-   "link": "https://insideevs.com/news/810423/fedex-harbinger-electric-trucks-us-canada/",
-   "source": "InsideEVs",
-   "lang": "en",
-   "time": "2026-10-01T16:30+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
-   "id": "4d7dee12d1",
-   "title": "Zeekr delivers 37,216 vehicles in September, its sixth straight monthly record",
-   "summary": "Zeekr's September deliveries rose 103.85% year-on-year, extending its streak of both annual and monthly growth to 8 consecutive months. For details, please vis…",
-   "link": "https://cnevpost.com/2026/10/01/zeekr-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T16:12+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
-   "id": "29f127fc84",
-   "title": "FSD 臺灣審查最新進度：特斯拉北高徵人試車今年無望，最快 2027 年 Q2 上路",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlptX3pvaUg3eDgxWW9SNFBUZE9SeUtpRTB4T2llQkZrQWpXWC0zdmxmMWpzMlhtV1pkTnZqMkMzOUtMdHI3SFZybnROT09wdlBBb2g5WWNkcURpN2Z3WW15RXhuNWM1ZS1haXU1d2FXU1QwNWN1ZDlaUGJEVXBNcWZDWUpDdWJSVFRJVHdBRDlTUkg0MWhIYVhR?oc=5",
-   "source": "動區動趨",
-   "lang": "zh",
-   "time": "2026-10-01T15:59+08:00",
-   "forced_issues": [
-    "adas"
-   ],
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "7de28284cf",
-   "title": "Nio ES8 delivers 10,542 vehicles in September, topping 10,000 for third straight month",
-   "summary": "The ES8 accounted for 49.45% of the Nio brand's September deliveries and 28.18% of Nio Inc's total. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/nio-es8-deliveries-sept-2026/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T15:48+08:00",
-   "categories": [
-    "座艙・SDV",
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "b903abb5c5",
-   "title": "Xpeng September deliveries hit 2026 high despite slight year-on-year decline",
-   "summary": "Xpeng delivered 41,256 vehicles in September, down 0.78% year-on-year while up 5.50% from August. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/xpeng-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T15:15+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
-   "id": "31f48598a4",
-   "title": "Joby Aviation demonstrates autonomous cargo aircraft in Utah, eyes future air taxi service",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0FEdFgtMjR3MEJ6Mm5BMXBKLUo2U2RsSFUxS19uN0tadWM1UUg5S25icTNnei1aTVhDeWkwcEt5a1cwMl9HMFEyQlhwSjNVN0J0MjZJaFNSRGZpQTZaNWlKcW1aWVF3N2xCQUQzQkRjcUQ3c1F0T013SmJMRHItYWpDUjBxZy1heTdjZzZJalM5bEthMVNIbDV6aFpBaFdCaGlVWHRGRmxiYWxvVDNMV1NLcGNTMnVfV3FKLTZrQ3lLelZj?oc=5",
-   "source": "KSL News",
-   "lang": "en",
-   "time": "2026-10-01T15:07+08:00",
-   "forced_issues": [
-    "adas"
-   ],
-   "categories": [
-    "智駕"
-   ],
-   "issues": [
-    "adas"
-   ]
-  },
-  {
-   "id": "70d2693ce0",
-   "title": "Elaine G. Profit Obituary Oct 1, 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fVEpqckJHQTN1YlpTeTVWNTFlV0s4VHU5UVVWU2ZjaERCQUxOYU13YlRzSVp5bDN3ZVlvMi0xX1BuTkp0Q0pVRDhuN1lvOEdIUnpIMTdhQldnUkpsZ1MtQ0Q4SmI3cHFScW5zNFJVa3NkejhOUG44?oc=5",
-   "source": "Shellhouse Funeral Home, Inc",
-   "lang": "en",
-   "time": "2026-10-01T15:00+08:00",
-   "forced_issues": [
-    "profit"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "4a62655dd2",
-   "title": "中新型電池產業規畫 全固態電池2030年初步規模化應用",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PVEhXb2V0OExOQWFvV2g3ZnVMUmRRR3padVJwcTUzWkFiQ1Z6TWpRbVNVQnJ0NVl3R1lscnhuY0tha1dNa2NmbEU3YmtvM0s3eUFROFBQU0djTnN5QlBTcmh30gFnQVVfeXFMT0JZNVZkT2t2WmtiYU93Z3YxUFFIOUpPeEpFTFVuQXYzRXNremhzM0w1MTJLeHN5TDh5bjZOQlpWSDY4MjJUeTExSEU2T2YtMV9CS2hYbS1QaUZvNEg1Q3lUMk1pQVQ3TQ?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-01T14:12+08:00",
-   "forced_issues": [
-    "ssb"
-   ],
-   "categories": [
-    "電池"
-   ],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "df3c00c2b2",
-   "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
-   "summary": "Deliveries by the Nio brand rose 55.29% year-on-year in September, Firefly set a monthly record and Onvo posted a second consecutive year-on-year decline. For …",
-   "link": "https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T12:31+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "191acfbcc4",
-   "title": "Horizon Robotics (9660.HK) Stock Price, News, Quote & History",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fQ2FWLVR6OE5CRkhsQ2FvaUozUXg3akdfODFXSGVZQTJPdEYtSFdPU3JzWW9HOUdBaFpocEluWDZfcEdwRHlhSmZ3UDZRa1NzcmxxWHl3?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "lang": "en",
-   "time": "2026-10-01T12:21+08:00",
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
   }
  ]
 }
