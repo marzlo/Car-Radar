@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:58+08:00",
+ "updated": "2026-10-06T13:02+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -23,6 +23,21 @@
     "adas",
     "issue-20261006-ybh7"
    ]
+  },
+  {
+   "id": "8432fba46c",
+   "title": "Bugatti拒絕假聲浪，Tourbillon V16展現真實樂章",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdHNjbk9UM25TdWFSdUVmcmlieUdObXF5YnVkbUUxc2NEQ0wyN01CZWZUNXcwQ193TXZWRWo2Z2lVeF9nR3ZOZ3MweTRvWXlMaVBKMFdVM1RpTmtPd0I2YlFJekNYcjdIYmU4Z0FkTHBlRmNsUENNTUZmaWxKWm5iNURuaHRZOTE4b0ZZSE5FTzlDMUJFbmJZLWZhNU9BaXJ3RDJaaXlOVHA3eHA3ZUhBbjhQQkJTRWFOTzVYdnF2WDgySXA5SUdHNTUzazlSSmZSYndIN0N4eEh6N3I1S3NHZk1JNVNIc2NUWUFnSkxyY3VIcVUzOVE?oc=5",
+   "source": "Yahoo - 汽機車",
+   "lang": "zh",
+   "time": "2026-10-06T12:43+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "fd499083f3",
@@ -78,6 +93,22 @@
    "lang": "en",
    "time": "2026-10-06T12:06+08:00",
    "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "9765d5620a",
+   "title": "Automotive News 2026 Eurostar: Monica Genovese of Stellantis",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVZPYV9RWVJHQU5fN082RXF6ZlZ5cmJxaDVKMFc5M1hmWFh4TkMyWHBYbnFROXdsdGdyaFpZOXh6ek1QeGpVT0FnOTNLQTU0b0xkNnA5cWtQNkJQdXh2RDEwWm95RUVmOXhDUHNtVUhRNzF2ZFdCQ1BySUV4anE0YWZTR1VEbDNl?oc=5",
+   "source": "Automotive News",
+   "lang": "en",
+   "time": "2026-10-06T12:06+08:00",
+   "categories": [
+    "Stellantis",
     "車企動向"
    ],
    "via_search": false,
@@ -6327,40 +6358,6 @@
     "adas",
     "issue-20261006-ybh7",
     "ssb"
-   ]
-  },
-  {
-   "id": "04086433ce",
-   "title": "Aito opens pre-sales for updated M8 SUV as Seres and Huawei reshape partnership",
-   "summary": "The updated Aito M8 starts at 389,800 yuan ($57,880) in pre-sales, 30,000 yuan above its predecessor's starting price. For details, please visit CnEVPost (cnev…",
-   "link": "https://cnevpost.com/2026/09/30/aito-opens-pre-sales-updated-m8-suv/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-30T19:28+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "b5dddc1d33",
-   "title": "廣汽集團傳收購一汽豐田50%股權，合資車企中國市場經營不易？",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yNVlmRGhzZG5ZTnJSVEJ1TTBMRTdxSnhIMGpWZzMxd3ZCTHYyOXI5OE9jaHM1T3lOYlNpYVNOcHFVQUl3Sjk5U0pGeXZ6S0NuRHc?oc=5",
-   "source": "地球黃金線",
-   "lang": "zh",
-   "time": "2026-09-30T18:35+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
    ]
   }
  ]
