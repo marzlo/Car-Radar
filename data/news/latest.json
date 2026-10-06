@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:03+08:00",
+ "updated": "2026-10-06T10:19+08:00",
  "feeds_ok": 7,
  "feeds_total": 7,
  "items": [
@@ -13,6 +13,19 @@
    "time": "2026-10-06T09:23+08:00",
    "categories": [
     "其他"
+   ],
+   "issues": []
+  },
+  {
+   "id": "ece64344b0",
+   "title": "自駕車從測試走向商轉 2027 E-Mobility Taiwan鏈結車用AI生態系 協助業者布局全球自駕車供應鏈",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uYm4zVlRGOHpJOHNLTVZ5dUd5dGFVR1ptVmYwS3NwNnBWT1ltaENwNHY2QzA0bU05dGduS043TGdBNDgxQTg0bXlqYnprVUJjR3VBbWpCR1ZNOGlzR1ZsY0NINWtMeGN0?oc=5",
+   "source": "經貿透視雙周刊",
+   "lang": "zh",
+   "time": "2026-10-06T09:22+08:00",
+   "categories": [
+    "供應鏈"
    ],
    "issues": []
   },
@@ -162,6 +175,19 @@
    "time": "2026-10-06T06:24+08:00",
    "categories": [
     "車企動向"
+   ],
+   "issues": []
+  },
+  {
+   "id": "46543e4e9f",
+   "title": "綁住大客戶 世芯未來3年吃大補丸",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rV2EySE9TeUo0TWZMM0cxenJLeHZNX0dYVFdFM19IOFI5eFVOOGIzemhFWnd0V25IY05mSVZZX3NmV3ROSkVnNy1sNFozamNYb0thR3pfYw?oc=5",
+   "source": "自由時報",
+   "lang": "zh",
+   "time": "2026-10-06T06:24+08:00",
+   "categories": [
+    "其他"
    ],
    "issues": []
   },
