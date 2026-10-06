@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T17:15+08:00",
+ "updated": "2026-10-06T17:16+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -202,9 +202,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -339,6 +337,21 @@
    "time": "2026-10-06T14:32+08:00",
    "categories": [
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "4b6759d758",
+   "title": "《產業》攜手荷蘭DAF深耕台灣 台塑汽車拚雙位數市占",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWxfanVvVmVBdFduYl9ockFiMC1hM0x3NVJsZ01XbGFVVG9ub3otLWtnN3VlWWNYa3dPcWEzU0dUV0gtQWs0VGMxd2pwTEw2blQwVklNQVpxNzh6RGtlSW5VaHVPeFJ5bDlUam8xMVpLWmJhcUp3aTRScURsR2REVDlPallHNnZv?oc=5",
+   "source": "富聯網",
+   "lang": "zh",
+   "time": "2026-10-06T14:31+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -5074,9 +5087,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -6363,21 +6374,6 @@
    ],
    "issues": [],
    "via_search": true
-  },
-  {
-   "id": "67e2f385cc",
-   "title": "Huawei, Seres sign new 5-year deal to upgrade Aito business",
-   "summary": "Huawei and Seres are deepening their partnership about 2 weeks after announcing a shift in control of the Aito brand's operations. For details, please visit Cn…",
-   "link": "https://cnevpost.com/2026/10/01/huawei-seres-sign-5-year-deal-upgrade-aito/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T19:46+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
   }
  ]
 }
