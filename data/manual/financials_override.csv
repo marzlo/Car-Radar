@@ -3,3 +3,11 @@ company,quarter,revenue,operating_income,currency,source_url,note
 小米,2025Q4,37200000000,1100000000,CNY,https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf,汽車等創新業務分部；官方約數
 小米,2026Q1,19864400000,-3100000000,CNY,https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b,汽車等創新業務分部；營業利益為官方約數
 小米,2026Q2,24895836000,-2600000000,CNY,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0818/2026081801014.pdf,汽車等創新業務分部；營業利益為官方約數
+吉利汽車,2025H2,194947467000,8943591000,CNY,https://www.geelyauto.com.hk/wp-content/uploads/2026/03/2026031800309.pdf,半年；利益為稅前利潤（無營業利益科目）
+吉利汽車,2026H1,173600313000,10709925000,CNY,https://www.geelyauto.com.hk/wp-content/uploads/2026/08/2026081700257.pdf,半年；稅前利潤
+奇瑞汽車,2025H2,158685000000,11223000000,CNY,https://stockn.xueqiu.com/09973/20260318562046.pdf,半年；稅前利潤（缺交車量）
+奇瑞汽車,2026H1,143280000000,11236000000,CNY,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000189.pdf,半年；稅前利潤
+零跑,2025H2,40482259000,266005000,CNY,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601214.pdf,半年；營業利益
+零跑,2026H1,38106550000,128469000,CNY,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400886.pdf,半年；營業利益
+Renault Group,2025H2,30282000000,1979000000,EUR,https://media.renaultgroup.com/renault-group-demonstrates-its-resilience-the-robustness-of-its-strategy-and-moves-forward-with-confidence/?lang=eng,半年；集團營業利益率金額
+Renault Group,2026H1,30252000000,1567000000,EUR,https://assets.renaultgroup.com/uploads/2026/07/20260730_Press-release_Renault-Group_2026-H1.pdf,半年

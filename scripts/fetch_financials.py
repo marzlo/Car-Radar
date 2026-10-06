@@ -37,28 +37,42 @@ def pick_row(df, names):
     return None
 
 
+def fetch_one(yf, t):
+    """單一代號的季報：{季度: {revenue, operating_income}}。"""
+    df = yf.Ticker(t).quarterly_income_stmt
+    rev = pick_row(df, ["Total Revenue", "Operating Revenue"])
+    op = pick_row(df, ["Operating Income", "Total Operating Income As Reported", "EBIT"])
+    out = {}
+    for col in df.columns:
+        q = quarter_of(col.date() if hasattr(col, "date") else col)
+        r = rev.get(col) if rev is not None else None
+        o = op.get(col) if op is not None else None
+        rec = {"revenue": float(r) if r == r and r is not None else None,
+               "operating_income": float(o) if o == o and o is not None else None}
+        if rec["revenue"] is not None or rec["operating_income"] is not None:
+            out[q] = rec
+    return out
+
+
 def fetch_raw(cfg):
-    """抓 yfinance 季報，與舊快取合併（抓不到時保留舊值）。"""
+    """抓 yfinance 季報，與舊快取合併（抓不到時保留舊值）。ticker 可以是清單（例如現代＋起亞，數字相加）。"""
     import yfinance as yf
     raw = load_json(RAW, {})
     for c in cfg["asp_companies"]:
         t = c.get("ticker")
-        if not t:
+        tickers = [str(x) for x in t] if isinstance(t, list) else ([str(t)] if t else [])
+        if not tickers:
             continue
         try:
-            df = yf.Ticker(t).quarterly_income_stmt
-            rev = pick_row(df, ["Total Revenue", "Operating Revenue"])
-            op = pick_row(df, ["Operating Income", "Total Operating Income As Reported", "EBIT"])
+            parts = [fetch_one(yf, x) for x in tickers]
             got = raw.setdefault(c["name"], {})
-            for col in df.columns:
-                q = quarter_of(col.date() if hasattr(col, "date") else col)
-                r = rev.get(col) if rev is not None else None
-                o = op.get(col) if op is not None else None
-                rec = {"revenue": float(r) if r == r and r is not None else None,
-                       "operating_income": float(o) if o == o and o is not None else None}
+            for q in set.intersection(*[set(p) for p in parts]):
+                vals = [p[q] for p in parts]
+                rec = {k: (sum(v[k] for v in vals) if all(v[k] is not None for v in vals) else None)
+                       for k in ("revenue", "operating_income")}
                 if rec["revenue"] is not None or rec["operating_income"] is not None:
                     got[q] = rec
-            log(f"{c['name']} 季報：{len(df.columns)} 季")
+            log(f"{c['name']} 季報：{len(got)} 期")
         except Exception as e:
             log(f"{c['name']} 季報抓取失敗，保留舊資料：{e}")
     save_json(RAW, raw)

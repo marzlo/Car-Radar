@@ -25,6 +25,28 @@ asp_companies:
   - {name: 小米,       ticker: "",      currency: CNY, note: 只用「智能電動汽車等創新業務」分部數字（手動）}
   - {name: 理想,       ticker: LI,      currency: CNY, note: ""}
   - {name: 蔚來,       ticker: NIO,     currency: CNY, note: 交車量含樂道、螢火蟲}
+  # ── 以下為「車企版圖」補齊的車企（名稱需和 market_map 一致）──
+  - {name: 上汽集團,            ticker: 600104.SS,   currency: CNY, note: 銷量扣除上汽大眾／通用（合資不併入營收）；營收含華域零件等}
+  - {name: 長安汽車,            ticker: 000625.SZ,   currency: CNY, note: 只用自主品牌銷量（長安福特／馬自達不併入營收）}
+  - {name: 長城汽車,            ticker: 2333.HK,     currency: CNY, note: ""}
+  - {name: 廣汽集團,            ticker: 2238.HK,     currency: CNY, note: 只用自主品牌銷量（廣汽豐田／本田不併入營收）}
+  - {name: 小鵬,                ticker: XPEV,        currency: CNY, note: ""}
+  - {name: 吉利汽車,            ticker: "",          currency: CNY, note: 港股只公布半年報；利益為稅前利潤}
+  - {name: 奇瑞汽車,            ticker: "",          currency: CNY, note: 港股只公布半年報；利益為稅前利潤}
+  - {name: 零跑,                ticker: "",          currency: CNY, note: 港股只公布半年報}
+  - {name: Volkswagen Group,    ticker: VOW3.DE,     currency: EUR, note: 銷量不含中國合資；營收含金融服務、卡車}
+  - {name: BMW Group,           ticker: BMW.DE,      currency: EUR, note: 營收含金融服務、機車}
+  - {name: Mercedes-Benz Group, ticker: MBG.DE,      currency: EUR, note: 銷量含北京奔馳（營收不含），每車數字偏低}
+  - {name: Renault Group,       ticker: "",          currency: EUR, note: 只公布半年營業利益}
+  - {name: Volvo Cars,          ticker: VOLCAR-B.ST, currency: SEK, note: 批發量}
+  - {name: GM,                  ticker: GM,          currency: USD, note: 批發不含中國合資；營收含 GM Financial}
+  - {name: Ford,                ticker: F,           currency: USD, note: 批發含中國合資（營收不含），每車數字偏低}
+  - {name: Rivian,              ticker: RIVN,        currency: USD, note: ""}
+  - {name: Lucid,               ticker: LCID,        currency: USD, note: ""}
+  - {name: Hyundai Motor Group, ticker: [005380.KS, 000270.KS], currency: KRW, note: 現代＋起亞合計；營收含金融服務}
+  - {name: Honda,               ticker: 7267.T,      currency: JPY, note: 銷量為合併（不含中國合資）；營收含機車、金融}
+  - {name: Nissan,              ticker: 7201.T,      currency: JPY, note: 合併批發（不含東風日產）}
+  - {name: Suzuki,              ticker: 7269.T,      currency: JPY, note: 營收含機車}
 
 # 車企版圖：銷量 × 市值（市值每天自動抓；銷量在 data/manual/sales_annual.csv，每年補一次）
 # region: 中國 / 歐洲 / 美國 / 日韓；tickers 可以放多個（例如現代＋起亞），市值會相加

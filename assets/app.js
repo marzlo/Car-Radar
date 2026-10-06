@@ -616,8 +616,8 @@
           <td class="cell" title="${esc((c.sales?.metric || "") + (c.sales?.note ? "；" + c.sales.note : ""))}">${units(c.units)}<span class="rank">#${rU[c.name]}</span></td>
           <td class="cell">${usd(c.cap_usd)}<span class="rank">#${rC[c.name]}</span></td>
           <td class="cell">${usd(c.perCar)}<span class="bar"><i style="left:0;width:${c.perCar ? Math.max(1, c.perCar / maxPer * 100) : 0}%;background:${RCOLOR[c.region]}"></i></span></td>
-          ${c.asp != null ? `<td class="cell" title="${esc(c.aspNote)}">${usd(c.asp)}<span class="rank">${esc(c.aspQ.replace("Q", " Q"))}</span></td>` : `<td class="cell na" title="這家公司還沒有季度交車量，可在 config/settings.yml 的 asp_companies 加入">未追蹤</td>`}
-          ${c.profit != null ? `<td class="cell ${c.profit < 0 ? "down" : "up"}" title="${esc(c.aspNote)}">${c.profit < 0 ? "−" : ""}${usd(Math.abs(c.profit))}${miniBars(c.pSeries)}<span class="rank">${esc(c.profitQ.replace("Q", " Q"))}</span></td>` : `<td class="cell na">${c.asp != null ? "缺財報" : "未追蹤"}</td>`}
+          ${c.asp != null ? `<td class="cell" title="${esc(c.aspNote)}">${usd(c.asp)}<span class="rank">${esc(c.aspQ.replace(/(\d{4})([QH])/, "$1 $2"))}</span></td>` : `<td class="cell na" title="這家公司還沒有季度交車量，可在 config/settings.yml 的 asp_companies 加入">未追蹤</td>`}
+          ${c.profit != null ? `<td class="cell ${c.profit < 0 ? "down" : "up"}" title="${esc(c.aspNote)}">${c.profit < 0 ? "−" : ""}${usd(Math.abs(c.profit))}${miniBars(c.pSeries)}<span class="rank">${esc(c.profitQ.replace(/(\d{4})([QH])/, "$1 $2"))}</span></td>` : `<td class="cell na">${c.asp != null ? "缺財報" : "未追蹤"}</td>`}
           <td class="cell ${ch == null ? "na" : ch > 0 ? "up" : "down"}">${ch == null ? "累積中" : (ch > 0 ? "▲ " : "▼ ") + Math.abs(ch).toFixed(1) + "%"}</td></tr>`;
       }).join("") + "</tbody>";
     $("#mktTools").querySelectorAll("[data-mr]").forEach(b => b.onclick = () => { S.mktRegion = b.dataset.mr; renderMarket(); });
