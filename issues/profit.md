@@ -14,3 +14,5 @@ now: "（還沒寫）"
 ## 2026-10-06 | 筆記
 美國放寬CAFE標準，美國交通部長Sean Duffy 說川普政府會取消拜登政府先前針對汽車廢氣排放與燃油效率制定了較為嚴格的標準(旨在加速汽車產業向電動車（EV）轉型)
 也明說Stellantis因此會製造出更平價的汽車
+
+- [新聞] [Sean Duffy Says Stellantis Will Make ‘Affordable Cars’ After Trump’s CAFE Rollback — 'American Automakers](https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHNIcWlPczA2N0ppeHozdEY0M1hMNHo3bF9fa05vbi0zc1JMS1p6WmlmSDlYaHhseHgybzEyZVNyRWlZUVduWC1CTlZORVJCYzFUZUZENVRLVEZkRVF1MmZjNnZKcjJrb3FNc2xHQy0tZk9Id0s0WWlUcDN0UWdVNThuT2lYU2ZUeVp5eVJnRGR0blZTZFVrWExXOHg5R1k0MkZNeFczWk96ZHpFdTM5ZUlkS0xMQTJEaE5RVm9JaFlwTjR6NEZYRHVScE1neTUyQi1wMlAzN0ozT1gxU0ZQTUpQemNSSUVVcF9OSl9aTExYR0ZPSlhnSmRaRDN2Qkxl?oc=5) — Benzinga
