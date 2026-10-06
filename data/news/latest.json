@@ -1,8 +1,38 @@
 {
- "updated": "2026-10-06T13:02+08:00",
+ "updated": "2026-10-06T13:17+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "8a4325b518",
+   "title": "歐洲境外首座組裝基地！台塑引進DAF重卡 拚年銷600輛",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3REdQTHpoYjRoWjZTVzJ0REsySDFGYmZnT0lIWnV3dWVCNGlwSnhFU3VVWXFBZTVoQVZiNm1sWHlsQzA1U0JIcWJCWG9iQQ?oc=5",
+   "source": "TVBS新聞網",
+   "lang": "zh",
+   "time": "2026-10-06T13:04+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "555f8bc840",
+   "title": "臺美德合作推進車輛資安聯網技術，車輛中心成立全臺首座國際級實驗室",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vTXpVSFJGdXZxQnFfN29uTUNMWFVFRXhRdkhsRVVHRkpBRFN3WUgxRGFWTnpzb1V0eWRTRkloRnBBZWVNTnh5OTRFTnZIRnRXandRTk5xTQ?oc=5",
+   "source": "U-CAR新聞",
+   "lang": "zh",
+   "time": "2026-10-06T12:48+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "e597a64311",
    "title": "Hyundai自駕技術全面加速，攜手NVidia雙軌推進",
@@ -214,6 +244,21 @@
    "source": "地球黃金線",
    "lang": "zh",
    "time": "2026-10-06T11:49+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "971a4818e4",
+   "title": "車廠逆勢操作 開出2千名工程師職缺",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pejdnQWxhNG1LaDF5Q3pTOUwtcHpNNTR3NEViX0VOeHBZWHN3VUpJSFdnTldfTXY1cU9iNlVhWVplelpUZ2F0UHB1cnFnUmdfbmtydHdVTGl6Z1hiUHc?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "lang": "zh",
+   "time": "2026-10-06T11:45+08:00",
    "categories": [
     "其他"
    ],
@@ -844,21 +889,6 @@
    "issues": []
   },
   {
-   "id": "8931e8591a",
-   "title": "EV旺、英國新車銷量創9年同期高 中國車廠表現佳 - 頭條新聞 - 新聞",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMi1WQlBibFpaaFhOWENrZ2lrdE9LallMV3U3aHFfX1U5ZmhXZEpwNHJfUHBCbXp4Y2gtblp4dGh1ZkdabDhmMnZjNWVhMlZCd09lSXM5eTBtQVJYdWl3SVZUVmFXLTBsN2tlTlpDLTNNNnFQaExRRlVxNDR1N3FNSGgzTTdVLUk?oc=5",
-   "source": "MoneyDJ理財網",
-   "lang": "zh",
-   "time": "2026-10-06T06:24+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
    "id": "46543e4e9f",
    "title": "綁住大客戶 世芯未來3年吃大補丸",
    "summary": "",
@@ -868,6 +898,21 @@
    "time": "2026-10-06T06:24+08:00",
    "categories": [
     "其他"
+   ],
+   "issues": [],
+   "via_search": false,
+   "forced_issues": []
+  },
+  {
+   "id": "8931e8591a",
+   "title": "EV旺、英國新車銷量創9年同期高 中國車廠表現佳 - 頭條新聞 - 新聞",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMi1WQlBibFpaaFhOWENrZ2lrdE9LallMV3U3aHFfX1U5ZmhXZEpwNHJfUHBCbXp4Y2gtblp4dGh1ZkdabDhmMnZjNWVhMlZCd09lSXM5eTBtQVJYdWl3SVZUVmFXLTBsN2tlTlpDLTNNNnFQaExRRlVxNDR1N3FNSGgzTTdVLUk?oc=5",
+   "source": "MoneyDJ理財網",
+   "lang": "zh",
+   "time": "2026-10-06T06:24+08:00",
+   "categories": [
+    "車企動向"
    ],
    "issues": [],
    "via_search": false,
@@ -963,6 +1008,21 @@
    "issues": [],
    "via_search": false,
    "forced_issues": []
+  },
+  {
+   "id": "b0761e8b57",
+   "title": "因應台灣有事 日防衛省擬引進AI自駕運輸船 | 自由電子報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCVkZ0cHNDSm1XT0wwbFVjc1NVZXFIWmFkd1RhOHZWQTJRaEFjVHBtdTFhY3NhTE5nYTQ2ZEZraHRqN2Y4ZHNKMHlZaU5zS1lXMnBCLUVZWVY5LW93bkduaTVQeHoxdVQ2bXVpUTI4a3A?oc=5",
+   "source": "LINE TODAY",
+   "lang": "zh",
+   "time": "2026-10-06T05:46+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "0597ca1d51",
@@ -2277,6 +2337,21 @@
    ]
   },
   {
+   "id": "2b04a37692",
+   "title": "日產高管警告：中國汽車進入美國只是時間問題",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DYzVBaHFRVFBfTGIxTVpTM0NkajI2cVdQU1ZIV1BzMnltYXp6cFpMdzdsV3RnR0IxX3BZRmxEV2ZMRGRVcHhZMw?oc=5",
+   "source": "鉅亨號",
+   "lang": "zh",
+   "time": "2026-10-05T18:50+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "b7d4e63b1b",
    "title": "雪鐵龍 2CV 睽違 36 年純電復活！巴黎首發概念車，量產版預計 2028 年問世！",
    "summary": "",
@@ -2390,21 +2465,6 @@
    "forced_issues": []
   },
   {
-   "id": "cc4ee80060",
-   "title": "日媒：日本擬研發與導入自駕船，運送部隊與彈藥",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDA0N280ckFvTjExMHJjX1ZRWHlPRzhReWkxRW1LTmV4cFJPUFBTaXVuSEJXbHhDX3RweV9yM0ZYUkRGaFlfT2JmSHJDRGRYVjNvYVFSSnN4al9HQXdoYWw0aHpqWFkwU253ZlBybWdlQi0yTE1wdkVfcjFnaDctU0xzV1ljcFhhdzRxWUQ0SURMblhCMWY3WVFSWkl5Zw?oc=5",
-   "source": "TechNews 科技新報",
-   "lang": "zh",
-   "time": "2026-10-05T18:07+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
    "id": "d8bb79258b",
    "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
    "summary": "",
@@ -2414,6 +2474,21 @@
    "time": "2026-10-05T18:07+08:00",
    "categories": [
     "車企動向"
+   ],
+   "issues": [],
+   "via_search": false,
+   "forced_issues": []
+  },
+  {
+   "id": "cc4ee80060",
+   "title": "日媒：日本擬研發與導入自駕船，運送部隊與彈藥",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDA0N280ckFvTjExMHJjX1ZRWHlPRzhReWkxRW1LTmV4cFJPUFBTaXVuSEJXbHhDX3RweV9yM0ZYUkRGaFlfT2JmSHJDRGRYVjNvYVFSSnN4al9HQXdoYWw0aHpqWFkwU253ZlBybWdlQi0yTE1wdkVfcjFnaDctU0xzV1ljcFhhdzRxWUQ0SURMblhCMWY3WVFSWkl5Zw?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-05T18:07+08:00",
+   "categories": [
+    "其他"
    ],
    "issues": [],
    "via_search": false,
@@ -4507,6 +4582,25 @@
    ]
   },
   {
+   "id": "605a3f2108",
+   "title": "Price war heats up in the U.S. EV market as Ford announces new electric pickup priced below $30,000",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjdxcHZqckJ3Sm5MVVV2T3p5VlFwWFpremh5b2NLRWpoa1M0NzBKZ0txS1lpVkhfSnk1VlFQanNCajNtLUVQRkpvaHhReW5xcWd1c1Q5Ri1kX2FLRzRKZnhKelV4YTZxQnk3b3FPN2ZpdWtMVFU5YWEtWHdHQTlzLTRCdmhacC1GV1E?oc=5",
+   "source": "富途牛牛",
+   "lang": "en",
+   "time": "2026-10-03T23:37+08:00",
+   "via_search": true,
+   "categories": [
+    "車企動向"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "36f926f8be",
    "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
    "summary": "Beijing wants large-scale production, but the world’s biggest EV battery maker warns that making the technology affordable is another matter.",
@@ -6248,116 +6342,6 @@
    "issues": [
     "adas",
     "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "69cd5f3f92",
-   "title": "One in three Chinese cars runs on Horizon Robotics’ driving brain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTVPVzVNX3dua2lCNmhwU2RyWlo2dnZZNkhwZTg1T3FtT3E4eDJORWFhbGtGMl92SDk2Z2JJQXlIUDIzbVZfY1d2Qlc4bFR1R0dscWUxRzAyWk9adzRBMDQwMkhGRjhKX3hoM2hTMHM0VnpsNW1xZW1EaXZxZDR6aFE4eEhhVy16T2FLWjl6MV9iVXB1T3JzaS1sR1pZX1E?oc=5",
-   "source": "Dealroom",
-   "lang": "en",
-   "time": "2026-10-01T02:38+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "fc993c3c9b",
-   "title": "QNX, neueHCT smart camera selected by German automaker for China",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeENaNWEwOW5iY3NDVGRLTDJaOGVoUEhRWGZMUDllbHY3OHIxa19ZWVllR2NhY28tWDdobklZNnZ1Xy1XdTMzRWFhcFhab3BBTnhuY0JydnV4eU0xekZKLVVmTmszODJCbjJGOVJkdkFlaGdrYUlwV3hQSFNLeXJ1MFNvTVRZU3hac0wxN1NBY3FMZzA1bHJvNDN4LWdTRmR3bHc?oc=5",
-   "source": "Yahoo Autos",
-   "lang": "en",
-   "time": "2026-10-01T00:42+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "fcd2a6a93b",
-   "title": "加州州長紐森否決「輔助自駕酒駕究責法案」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IRGUyS0VVTUNUWWRBUVcydkVrbmc0WEd3SFdIY0U3ZUduRHJrUFJGU3o0cEZtZUpmSEdaNTF4Vzd0dlNxTzBkLTB6TTVxeFVtQzd2RHhVb1V6RDVLRmxwU9IBZkFVX3lxTE9Id0gyYkQzSTB6SE5CdDFxN3oxRTVFWlBUQTlmZ19FVVpaRkYwcDN3enNQd3ViY29lYXFLc3NDRVRDOWVkRVFBb0dFYUdFcFVEcWZKaEMwQVl3ZWNYajQ3ZXpBYU0wUQ?oc=5",
-   "source": "大紀元",
-   "lang": "zh",
-   "time": "2026-09-30T22:04+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "5b1e480a2f",
-   "title": "BMW plans margin rebuild with simpler lineup and pricier cars",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYW9JTE14Tm1jc1RYUGxXRGhCd2h5WjVWQnNvMUpObzNwQkhGRG1YNDdUWGt2b255dG8xWXJTbHpyQVRjejRkdGEwajRsQ3I3RDRkOTAtVlZlZlByNTd5UlM5amlIRnNRdkd6V2NVT2o4Z0Zfc1p2MkVKR3l3aE8xUXVmQVpaZTV6MU9TeUVCa2lZVVAtUVJaOEJVaXB3OGZGcE02Q2hoLU05Q2s0ZXB5RzRxak9yOFVUclJlSk5rc0hyN2lKVVE?oc=5",
-   "source": "The Business Times",
-   "lang": "en",
-   "time": "2026-09-30T20:55+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "d092094c01",
-   "title": "China NEV retail sales fall 20% in first 27 days of September as decline deepens",
-   "summary": "China's NEV retail sales totaled 827,000 in September 1-27, accounting for 65.7% of passenger car sales. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/09/30/china-nev-retail-sales-first-27-days-sept/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-30T20:10+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "5eb787b917",
-   "title": "General Motors: ADAS, Defense, And Battery Storage Diversification Support Future Resilience",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXM0STVpSHQ2ZldXT19Wc0xTN044WmRRYlhrSm1KaW1iSDRCbS1pMHp4dkNNU0xqNmlFRWpHUl9FS3VjN01KWlJqZjNzMGVkWDdiWU1xV2JaV0syVWRKeVIwZTE5T3RUeXhJTkh2ZElpWk1MalVzOFZDaUlEY0lqQWZINHZfRWNIeGRnRU9vR1pYRHFVbUFMYXR4aTZvOTBpVnpESWEzbGFUbWdpclBScm1jaDhyVGlQVjNBY3F3RUhXbFlsRTEwZGRB?oc=5",
-   "source": "Seeking Alpha",
-   "lang": "en",
-   "time": "2026-09-30T19:49+08:00",
-   "via_search": true,
-   "categories": [
-    "電池",
-    "智駕",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7",
-    "ssb"
    ]
   }
  ]

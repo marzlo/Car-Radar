@@ -1,0 +1,660 @@
+{
+ "updated": "2026-10-06T13:17+08:00",
+ "fx_usd": {
+  "USD": 1.0,
+  "CNY": 0.149147,
+  "HKD": 0.127432,
+  "JPY": 0.006324,
+  "EUR": 1.122208,
+  "TWD": 0.03147,
+  "KRW": 0.000745,
+  "SEK": 0.099601
+ },
+ "companies": [
+  {
+   "name": "BYD",
+   "region": "中國",
+   "tickers": [
+    "1211.HK"
+   ],
+   "brands": "BYD、騰勢、方程豹、仰望",
+   "cap_usd": 86439609125,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     86439609125
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 4602436.0,
+    "metric": "新能源乘用＋商用",
+    "source": "https://cnevpost.com/2026/01/01/byd-nev-sales-dec-2025/",
+    "note": ""
+   }
+  },
+  {
+   "name": "吉利汽車",
+   "region": "中國",
+   "tickers": [
+    "0175.HK"
+   ],
+   "brands": "吉利、領克、極氪",
+   "cap_usd": 20754445010,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     20754445010
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 3024567.0,
+    "metric": "集團銷量（吉利、領克、極氪）",
+    "source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/01/Geely_2025_Dec-sales_EN_V3.pdf",
+    "note": "不含 Volvo、Polestar（吉利控股母集團約 411 萬）"
+   }
+  },
+  {
+   "name": "上汽集團",
+   "region": "中國",
+   "tickers": [
+    "600104.SS"
+   ],
+   "brands": "MG、榮威、智己＋上汽大眾／通用合資",
+   "cap_usd": 18653610045,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     18653610045
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 4507000.0,
+    "metric": "批發銷量（含合資）",
+    "source": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html",
+    "note": "含上汽大眾、上汽通用、上汽通用五菱；自主品牌約 293 萬"
+   }
+  },
+  {
+   "name": "長安汽車",
+   "region": "中國",
+   "tickers": [
+    "000625.SZ"
+   ],
+   "brands": "長安、深藍、阿維塔＋長安福特／馬自達",
+   "cap_usd": 10511994647,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     10511994647
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 2913042.0,
+    "metric": "集團銷量（含合資）",
+    "source": "https://www.marklines.com/en/news/338168",
+    "note": "含長安福特、長安馬自達"
+   }
+  },
+  {
+   "name": "奇瑞汽車",
+   "region": "中國",
+   "tickers": [
+    "9973.HK"
+   ],
+   "brands": "奇瑞、捷途、星途、iCAR",
+   "cap_usd": 19200843391,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     19200843391
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 2806393.0,
+    "metric": "奇瑞集團銷量",
+    "source": "https://autonews.gasgoo.com/articles/news/gasgoo-daily-chery-group-sells-over-28-million-vehicles-in-2025-2007745520300986369",
+    "note": "上市公司奇瑞汽車本身約 263 萬"
+   }
+  },
+  {
+   "name": "長城汽車",
+   "region": "中國",
+   "tickers": [
+    "2333.HK"
+   ],
+   "brands": "哈弗、魏牌、坦克、歐拉",
+   "cap_usd": 7776239426,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     7776239426
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 1323672.0,
+    "metric": "全球銷量",
+    "source": "https://autonews.gasgoo.com/articles/news/great-wall-motor-posts-record-full-year-sales-in-2025-despite-dec-slowdown-2007721483185168384",
+    "note": ""
+   }
+  },
+  {
+   "name": "廣汽集團",
+   "region": "中國",
+   "tickers": [
+    "2238.HK"
+   ],
+   "brands": "埃安、傳祺、昊鉑＋廣汽豐田／本田",
+   "cap_usd": 3105643877,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     3105643877
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 1721500.0,
+    "metric": "批發銷量（含合資）",
+    "source": "https://m.sohu.com/a/1002346691_355158",
+    "note": "含廣汽豐田、廣汽本田"
+   }
+  },
+  {
+   "name": "零跑",
+   "region": "中國",
+   "tickers": [
+    "9863.HK"
+   ],
+   "brands": "零跑（Stellantis 持股）",
+   "cap_usd": 6312465288,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     6312465288
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 596555.0,
+    "metric": "交車量",
+    "source": "https://cnevpost.com/2026/01/01/leapmotor-delivers-60423-cars-dec-2025/",
+    "note": ""
+   }
+  },
+  {
+   "name": "小鵬",
+   "region": "中國",
+   "tickers": [
+    "XPEV"
+   ],
+   "brands": "小鵬",
+   "cap_usd": 9004980224,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     9004980224
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 429445.0,
+    "metric": "交車量",
+    "source": "https://cnevpost.com/2026/01/01/xpeng-deliveries-dec-2025/",
+    "note": ""
+   }
+  },
+  {
+   "name": "理想",
+   "region": "中國",
+   "tickers": [
+    "LI"
+   ],
+   "brands": "理想",
+   "cap_usd": 10603428864,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     10603428864
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 406343.0,
+    "metric": "交車量",
+    "source": "https://cnevpost.com/2026/01/01/li-auto-delivers-44246-cars-dec-2025/",
+    "note": ""
+   }
+  },
+  {
+   "name": "小米",
+   "region": "中國",
+   "tickers": [
+    "1810.HK"
+   ],
+   "brands": "小米汽車（市值含手機業務）",
+   "cap_usd": 79812285194,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     79812285194
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 411082.0,
+    "metric": "電動車交車量",
+    "source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/6-20-53/Xiaomi%20Corp_25Q4_ER_ENG%20vF.pdf",
+    "note": "市值含手機等全部業務"
+   }
+  },
+  {
+   "name": "蔚來",
+   "region": "中國",
+   "tickers": [
+    "NIO"
+   ],
+   "brands": "蔚來、樂道、螢火蟲",
+   "cap_usd": 8569381376,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     8569381376
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 326028.0,
+    "metric": "交車量（含樂道、螢火蟲）",
+    "source": "https://cnevpost.com/2026/01/01/nio-deliveries-dec-2025/",
+    "note": ""
+   }
+  },
+  {
+   "name": "Volkswagen Group",
+   "region": "歐洲",
+   "tickers": [
+    "VOW3.DE"
+   ],
+   "brands": "VW、Audi、Porsche、Škoda、SEAT/Cupra",
+   "cap_usd": 38557695380,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     38557695380
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 8983900.0,
+    "metric": "全球交車（含中國合資）",
+    "source": "https://www.volkswagen-group.com/en/press-releases/volkswagen-group-deliveries-remain-stable-in-2025-20095",
+    "note": ""
+   }
+  },
+  {
+   "name": "Stellantis",
+   "region": "歐洲",
+   "tickers": [
+    "STLA"
+   ],
+   "brands": "Jeep、Ram、Peugeot、Fiat、Citroën、Opel、Chrysler、Dodge、Alfa Romeo、Maserati",
+   "cap_usd": 13025225728,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     13025225728
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 5484000.0,
+    "metric": "合併出貨量",
+    "source": "https://www.stellantis.com/en/news/press-releases/2026/february/full-year-2025-results",
+    "note": "含合資約 557 萬"
+   }
+  },
+  {
+   "name": "BMW Group",
+   "region": "歐洲",
+   "tickers": [
+    "BMW.DE"
+   ],
+   "brands": "BMW、MINI、Rolls-Royce",
+   "cap_usd": 36420996409,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     36420996409
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 2463715.0,
+    "metric": "全球交車（汽車）",
+    "source": "https://www.press.bmwgroup.com/global/article/detail/T0454859EN/bmw-group-vehicle-sales-grew-in-2025-%E2%80%93-strong-performance-particularly-in-europe-and-the-us-and-with-electrified-models?language=en",
+    "note": "不含機車"
+   }
+  },
+  {
+   "name": "Renault Group",
+   "region": "歐洲",
+   "tickers": [
+    "RNO.PA"
+   ],
+   "brands": "Renault、Dacia、Alpine",
+   "cap_usd": 8202860857,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     8202860857
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 2336807.0,
+    "metric": "全球銷量",
+    "source": "https://media.renaultgroup.com/renault-group-and-its-brands-achieve-a-third-consecutive-year-of-growth-driven-by-international-sales-and-electrification/?lang=eng",
+    "note": ""
+   }
+  },
+  {
+   "name": "Mercedes-Benz Group",
+   "region": "歐洲",
+   "tickers": [
+    "MBG.DE"
+   ],
+   "brands": "Mercedes-Benz、AMG、Maybach",
+   "cap_usd": 42822490852,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     42822490852
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 2159900.0,
+    "metric": "全球銷量（轎車＋商旅車）",
+    "source": "https://media.mercedes-benz.com/article/dbf69c97-708c-4191-acbc-b942d6e9ed95",
+    "note": "轎車 180 萬、Vans 36 萬"
+   }
+  },
+  {
+   "name": "Volvo Cars",
+   "region": "歐洲",
+   "tickers": [
+    "VOLCAR-B.ST"
+   ],
+   "brands": "Volvo（吉利控股旗下）",
+   "cap_usd": 4179741552,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     4179741552
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 710042.0,
+    "metric": "全球零售",
+    "source": "https://www.volvocars.com/intl/media/corporate/sales-volumes/",
+    "note": ""
+   }
+  },
+  {
+   "name": "Ford",
+   "region": "美國",
+   "tickers": [
+    "F"
+   ],
+   "brands": "Ford、Lincoln",
+   "cap_usd": 48449286144,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     48449286144
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 4395000.0,
+    "metric": "全球批發（含合資）",
+    "source": "https://s205.q4cdn.com/882619693/files/doc_financials/2025/q4/Ford-Q4-2025-Earnings-Press-Release.pdf",
+    "note": ""
+   }
+  },
+  {
+   "name": "GM",
+   "region": "美國",
+   "tickers": [
+    "GM"
+   ],
+   "brands": "Chevrolet、GMC、Buick、Cadillac",
+   "cap_usd": 70397935616,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     70397935616
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 3799000.0,
+    "metric": "全球批發（含中國合資）",
+    "source": "https://investor.gm.com/static-files/36170429-ef23-4ad5-97dd-6a523c3f8deb",
+    "note": "GM 不再公布全球零售；美國銷量 285 萬"
+   }
+  },
+  {
+   "name": "Tesla",
+   "region": "美國",
+   "tickers": [
+    "TSLA"
+   ],
+   "brands": "Tesla",
+   "cap_usd": 1495812145152,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     1495812145152
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 1636129.0,
+    "metric": "全球交車",
+    "source": "https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments",
+    "note": ""
+   }
+  },
+  {
+   "name": "Rivian",
+   "region": "美國",
+   "tickers": [
+    "RIVN"
+   ],
+   "brands": "Rivian",
+   "cap_usd": 21138765824,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     21138765824
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 42247.0,
+    "metric": "全球交車",
+    "source": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000002/ex-9914q25deliveryproducti.htm",
+    "note": ""
+   }
+  },
+  {
+   "name": "Lucid",
+   "region": "美國",
+   "tickers": [
+    "LCID"
+   ],
+   "brands": "Lucid",
+   "cap_usd": 1627370880,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     1627370880
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 15841.0,
+    "metric": "全球交車",
+    "source": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-announces-q4-production-deliveries-sets-date-fourth-1",
+    "note": ""
+   }
+  },
+  {
+   "name": "Toyota",
+   "region": "日韓",
+   "tickers": [
+    "7203.T"
+   ],
+   "brands": "Toyota、Lexus、Daihatsu、Hino",
+   "cap_usd": 219009247328,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     219009247328
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 11322575.0,
+    "metric": "全球銷量（含大發、日野）",
+    "source": "https://www.drive.com.au/news/toyota-breaks-global-sales-record-tops-2025-charts-for-sixth-year-running/",
+    "note": ""
+   }
+  },
+  {
+   "name": "Hyundai Motor Group",
+   "region": "日韓",
+   "tickers": [
+    "005380.KS",
+    "000270.KS"
+   ],
+   "brands": "Hyundai、Kia、Genesis",
+   "cap_usd": 99893474430,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     99893474430
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 7274192.0,
+    "metric": "現代＋起亞全球批發",
+    "source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001116",
+    "note": "現代 413.8 萬＋起亞 313.6 萬"
+   }
+  },
+  {
+   "name": "Honda",
+   "region": "日韓",
+   "tickers": [
+    "7267.T"
+   ],
+   "brands": "Honda、Acura",
+   "cap_usd": 41392944678,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     41392944678
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 3460000.0,
+    "metric": "集團汽車銷量（由季報推算）",
+    "source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/017/linkList/00/link/FYE202603_3Q_financial_presentation_e_1.pdf",
+    "note": "本田未公布曆年合計，由季報加總"
+   }
+  },
+  {
+   "name": "Suzuki",
+   "region": "日韓",
+   "tickers": [
+    "7269.T"
+   ],
+   "brands": "Suzuki、Maruti Suzuki",
+   "cap_usd": 24316050244,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     24316050244
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 3295013.0,
+    "metric": "全球銷量",
+    "source": "https://www.globalsuzuki.com/globalnews/2026/0129.html",
+    "note": "印度佔 184 萬"
+   }
+  },
+  {
+   "name": "Nissan",
+   "region": "日韓",
+   "tickers": [
+    "7201.T"
+   ],
+   "brands": "Nissan、Infiniti",
+   "cap_usd": 6308303108,
+   "cap_date": "2026-10-06",
+   "cap_hist": [
+    [
+     "2026-10-06",
+     6308303108
+    ]
+   ],
+   "sales": {
+    "year": 2025,
+    "units": 3202137.0,
+    "metric": "全球銷量",
+    "source": "https://global.nissannews.com/en/releases/nissan-production-sales-exports-dec-2025",
+    "note": ""
+   }
+  }
+ ]
+}

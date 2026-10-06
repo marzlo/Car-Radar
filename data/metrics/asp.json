@@ -1,12 +1,14 @@
 {
- "updated": "2026-10-06T13:02+08:00",
+ "updated": "2026-10-06T13:17+08:00",
  "fx_usd": {
   "USD": 1.0,
   "CNY": 0.149147,
   "HKD": 0.127432,
   "JPY": 0.006324,
-  "EUR": 1.122083,
-  "TWD": 0.031483
+  "EUR": 1.122208,
+  "TWD": 0.03147,
+  "KRW": 0.000745,
+  "SEK": 0.099601
  },
  "companies": [
   {
@@ -274,7 +276,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y",
      "del_note": "官方只給約數",
-     "asp_usd": 31424,
+     "asp_usd": 31428,
      "profit_usd": null
     },
     {
@@ -286,7 +288,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 31438,
+     "asp_usd": 31442,
      "profit_usd": 566
     },
     {
@@ -298,7 +300,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 30551,
+     "asp_usd": 30555,
      "profit_usd": 691
     }
    ]

@@ -1,10 +1,11 @@
 {
- "updated": "2026-10-06T13:02+08:00",
+ "updated": "2026-10-06T13:17+08:00",
  "failed": [],
  "steps": [
   "build_issues",
   "fetch_stocks",
   "fetch_financials",
+  "fetch_market",
   "fetch_news"
  ]
 }
