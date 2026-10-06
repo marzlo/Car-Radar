@@ -15,6 +15,7 @@
   --bg:#0E141A; --surface:#161F27; --sunk:#1C2730; --fg:#E4E9EE; --muted:#93A0AC; --line:#26323D;
   --accent:#F0A238; --accent-soft:#3A2A12; --up:#4CC487; --down:#F0776C; --flat:#93A0AC; color-scheme:dark}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.6;padding-top:env(safe-area-inset-top,0px)}
 .wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:20px 48px;display:grid;gap:30px}
