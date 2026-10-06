@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:44+08:00",
+ "updated": "2026-10-06T11:53+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -109,6 +109,23 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "4fcdb60a55",
+   "title": "Toyota Opens New Battery Development Center in Michigan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk5McWJEWHRuMlBNd0twQ1B6dnBvNXdkcDRDdjVxY2ROR29GLUYycTZWd1BhZE4tUmc1akFyUHh4WXJKQjNXU3Zfb2x2bEhrcEEtRGtUbTlvX3dBaWphOHI4QTdJRkw4ZG1zQm9JN3VkVTZoNVYyeHotV2ZDeE5hWWRaUm54bnFZNzU4M1FPM25GWXNlUExZRXdSZw?oc=5",
+   "source": "Electric Cars Report",
+   "lang": "en",
+   "time": "2026-10-06T10:30+08:00",
+   "categories": [
+    "電池",
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "c8703a5ab5",
@@ -1534,6 +1551,19 @@
    "categories": [
     "Stellantis",
     "車企動向",
+    "供應鏈"
+   ],
+   "issues": []
+  },
+  {
+   "id": "972944daf2",
+   "title": "ROHM的SiC功率元件為BMW次世代電動動力系統做出貢獻",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ST1BPWGh6T1lZM3ZESDdtMC1yWjd2cXhrNTBEWEctR0ZWVDlVUldDOVBLZHliYW55bXVjbkRNV0dOdGpSam95RFQ4enJJdzByMGV3WE9n?oc=5",
+   "source": "ctimes.com.tw",
+   "lang": "zh",
+   "time": "2026-10-05T22:20+08:00",
+   "categories": [
     "供應鏈"
    ],
    "issues": []
@@ -5833,32 +5863,6 @@
    "issues": [
     "profit"
    ]
-  },
-  {
-   "id": "c2f5cddda1",
-   "title": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
-   "summary": "Leapmotor delivered 105,656 vehicles in September, bringing third-quarter deliveries to a record 310,052. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/leapmotor-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T11:50+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "issues": []
-  },
-  {
-   "id": "4a5a655d1d",
-   "title": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
-   "summary": "October incentives for the current 001 include a 10,000 yuan insurance subsidy. The model's deliveries fell 21.50% in the first 8 months of the year. For detai…",
-   "link": "https://cnevpost.com/2026/10/01/zeekr-plans-001-update-q1-2027-incentives-current-model/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T11:24+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
   }
  ]
 }
