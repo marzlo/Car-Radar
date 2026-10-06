@@ -27,6 +27,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-06",
+   "generated": "2026-10-06T10:03+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "英國正考慮效仿歐盟 對中國電動車加徵45%關稅",
+     "category": "供應鏈",
+     "news_ids": [
+      "23e63f9919"
+     ]
+    },
+    {
+     "text": "日系全新進口休旅「台灣今年上市」！速霸陸e-Outback空間比油車更大更好用",
+     "category": "車企動向",
+     "news_ids": [
+      "0cae92a0ea"
+     ]
+    },
+    {
+     "text": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
+     "category": "電池",
+     "news_ids": [
+      "ddf2ee94a9"
+     ]
+    }
+   ]
   }
  ]
 }

@@ -1,27 +1,27 @@
 {
- "date": "2026-10-05",
- "generated": "2026-10-05T18:47+08:00",
+ "date": "2026-10-06",
+ "generated": "2026-10-06T10:03+08:00",
  "ai": false,
  "items": [
   {
-   "text": "GM 執行長：不急著全面轉型，2028 年再推「眼睛離開道路」自動駕駛",
-   "category": "智駕",
+   "text": "英國正考慮效仿歐盟 對中國電動車加徵45%關稅",
+   "category": "供應鏈",
    "news_ids": [
-    "b3ceec0022"
+    "23e63f9919"
    ]
   },
   {
-   "text": "電動車退燒了嗎？今年想買的人升至16%，充電與續航仍是關鍵",
-   "category": "電池",
-   "news_ids": [
-    "06ef2a6440"
-   ]
-  },
-  {
-   "text": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
+   "text": "日系全新進口休旅「台灣今年上市」！速霸陸e-Outback空間比油車更大更好用",
    "category": "車企動向",
    "news_ids": [
-    "d8bb79258b"
+    "0cae92a0ea"
+   ]
+  },
+  {
+   "text": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
+   "category": "電池",
+   "news_ids": [
+    "ddf2ee94a9"
    ]
   }
  ]
