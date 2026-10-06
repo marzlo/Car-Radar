@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:29+08:00",
+ "updated": "2026-10-06T11:30+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -72,6 +72,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "a828fde268",
+   "title": "iKnow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91WXVFcHY1VmRTV09XLW51XzVuYWFIbmJnZkozdnFlSWtvLW1IM2tOUGRzWUdjT3pOb2ZfRTJQd1hYUUJrcmZ3UzlvN0JYM0hjeDJwb1EweGVyQQ?oc=5",
+   "source": "科技產業資訊室",
+   "lang": "zh",
+   "time": "2026-10-06T10:20+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "079eae666a",
@@ -5911,24 +5929,6 @@
    "source": "ctee.com.tw",
    "lang": "zh",
    "time": "2026-10-01T07:19+08:00",
-   "forced_issues": [
-    "profit"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "89c4a2bdc2",
-   "title": "Micron’s 87% Margin Signals the Next Phase of the AI Buildout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm5fR3BWbURnVmZNc3lfN0EtelVCZW1uN0VGYkZvY0pZZjFZcDdTQ29ueTFGU3NuNGctY2JqdE05U1RtYlFRMXZiRzlISnJFMEd4UDlLTXF5SGNqM24tMG5COHFGOHFFZFNfdmRNSlNJeUpQWEg4RU5nTENpQ2I3eUtlNG1YX0lTbW1uSEI5ajVVbFFFYVFsaV9WTHFfQjh5SDI5eTdXUGl5dTBYVmpXeUxPSWFZUQ?oc=5",
-   "source": "Forbes",
-   "lang": "en",
-   "time": "2026-10-01T06:30+08:00",
    "forced_issues": [
     "profit"
    ],

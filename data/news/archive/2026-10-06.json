@@ -4662,6 +4662,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "a828fde268",
+   "title": "iKnow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91WXVFcHY1VmRTV09XLW51XzVuYWFIbmJnZkozdnFlSWtvLW1IM2tOUGRzWUdjT3pOb2ZfRTJQd1hYUUJrcmZ3UzlvN0JYM0hjeDJwb1EweGVyQQ?oc=5",
+   "source": "科技產業資訊室",
+   "lang": "zh",
+   "time": "2026-10-06T10:20+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "ssb"
+   ]
   }
  ]
 }
