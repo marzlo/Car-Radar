@@ -55,6 +55,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-07",
+   "generated": "2026-10-07T07:54+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "進口豪華電動車掀熱戰- 上市櫃",
+     "category": "車企動向",
+     "news_ids": [
+      "cfbe391035"
+     ]
+    },
+    {
+     "text": "Automotive Battery Management System Market To 2035: EV Demand and Software Integration Drive Expansion - News and Statistics",
+     "category": "電池",
+     "news_ids": [
+      "f233f18613"
+     ]
+    },
+    {
+     "text": "日本自動駕駛加速追趕美中 豐田 2028 年量產市區免手動車",
+     "category": "智駕",
+     "news_ids": [
+      "bdc8730b3b"
+     ]
+    }
+   ]
   }
  ]
 }
