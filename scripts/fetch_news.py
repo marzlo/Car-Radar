@@ -39,7 +39,15 @@ def context_words(cfg):
     for c in ("車企動向", "Stellantis"):
         words += [w for w in cfg["categories"].get(c, []) if str(w).lower() not in ("launch", "發表", "上市")]
     words += [s["name"] for s in cfg.get("stocks", [])]
-    return words
+    # 車企版圖裡的公司名稱和旗下品牌也算
+    for m in cfg.get("market_map", []):
+        words.append(m["name"].replace(" Group", "").replace(" Motor", ""))
+        for b in re.split(r"[、,，]", re.sub(r"[（(].*?[)）]|＋.*$", "", m.get("brands", ""))):
+            if len(b.strip()) >= 2:
+                words.append(b.strip())
+    # 不只做車的公司或有其他意思的字（小米、華為、鴻海、理想…）不能單獨證明「跟汽車有關」
+    amb = {str(w).lower() for w in cfg.get("news", {}).get("ambiguous", [])}
+    return [w for w in words if str(w).lower() not in amb]
 
 
 def parse_feed(feed, limit):
@@ -73,6 +81,7 @@ def main():
     cfg = settings()
     cats, issues = cfg["categories"], load_issues()
     ctx = context_words(cfg)
+    block = cfg.get("news", {}).get("block", [])
     # 議題關鍵字裡太廣泛的字（car、EV、汽車…）會讓每則新聞都對上，比對時忽略
     generic = {str(w).lower() for w in cfg.get("relevance", [])}
     for iss in issues:
@@ -126,8 +135,8 @@ def main():
         it["via_search"] = via_search
         # 議題連結只看「這次」搜尋結果；議題關鍵字改了，舊的連結就自動消失
         it["forced_issues"] = sorted(found.get(it["id"], set()))
-        if via_search and not relevant:
-            continue  # 議題搜尋帶進來、但跟汽車無關的新聞（例如運動賽事的 margin）直接丟掉
+        if not relevant or match(it["title"], block):
+            continue  # 跟汽車無關（或是市調報告廣告）的新聞一律不留
         ids = {i["id"] for i in issues}
         it["issues"] = [i["id"] for i in issues if relevant and i["keywords"] and match(text, i["keywords"])]
         it["issues"] += [x for x in it.get("forced_issues", []) if x in ids and x not in it["issues"]]

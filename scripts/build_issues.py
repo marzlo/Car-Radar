@@ -3,6 +3,7 @@ import re
 from common import ROOT, DATA, save_json, load_json, log
 import yaml
 
+NEWS_LINE = re.compile(r"^- \[新聞\] \[(.+?)\]\((\S+?)\)(?: — (.*))?$")
 STATUS = {"keep": "觀點維持", "revise": "修正中", "flip": "已推翻", "watch": "觀察中"}
 
 
@@ -16,7 +17,14 @@ def parse(path):
     for block in re.split(r"(?m)^## ", m.group(2))[1:]:
         head, _, body = block.partition("\n")
         date, _, label = head.partition("|")
-        entries.append({"date": str(date).strip(), "label": label.strip(), "text": body.strip()})
+        news, keep = [], []
+        for line in body.strip().splitlines():
+            m2 = NEWS_LINE.match(line.strip())
+            if m2:
+                news.append({"title": m2.group(1), "url": m2.group(2), "source": (m2.group(3) or "").strip()})
+            else:
+                keep.append(line)
+        entries.append({"date": str(date).strip(), "label": label.strip(), "text": "\n".join(keep).strip(), "news": news})
     st = str(meta.get("status", "watch"))
     return {
         "id": path.stem,

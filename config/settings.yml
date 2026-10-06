@@ -84,7 +84,11 @@ market_map:
 fx_fallback: {USD: 1.0, CNY: 0.14, HKD: 0.128, JPY: 0.0068, EUR: 1.12, TWD: 0.031, KRW: 0.00072, SEK: 0.105}
 
 # 判斷新聞「跟汽車有關」的字（議題搜尋找到的新聞，至少要含其中一個才會留下；車企名稱會自動加入）
-relevance: [汽車, 車廠, 車企, 車商, 電動車, 新能源車, 純電, 油電, 插電, 車款, 車型, 新車, 車市, 乘用車, 整車, 車用, 車載, 自駕, 智駕, 充電樁, 交車, 銷量,
+relevance: [車輛, 車電, 車用電子, 車聯網, 車業, 車展, 車主, 車價, 購車, 買車, 造車, 休旅, 轎車, 跑車, 卡車, 重卡, 貨車, 皮卡, 汽油車, 燃油車, 油車, 電車, 油耗, 駕駛, 車隊,
+            一汽, 東風, 北汽, 上汽, 廣汽, 比亞迪, 賓士, 寶馬, 奧迪, 保時捷, 福斯, 大眾汽車, 豐田, 本田, 日產, 馬自達, 速霸陸, 三菱, 現代汽車, 起亞, 特斯拉, 富豪汽車, 福特, 通用汽車, 極氪, 領克, 小鵬, 零跑, 吉利, 奇瑞, 長城汽車, 長安汽車,
+            truck, trucks, motor, motors, "fuel economy", mpg, dealership, Porsche, Audi, Bugatti, Ferrari, Lamborghini, Polestar, Jaguar, "Land Rover", Mazda, Subaru, Mitsubishi, Kia, Hyundai, Genesis, Lexus, Cadillac, Chevrolet, Chevy, Waymo, Zoox, Zeekr, Lotus,
+            hybrids, crossover, crossovers, SUVs, Abarth, Seres, Aito, 賽力斯, 路虎, 捷豹, 無人車, 自駕車, 電動機車, Gogoro,
+            汽車, 車廠, 小米汽車, 小米SU7, 小米YU7, 問界, 智界, 理想汽車, 蔚來汽車, 鴻蒙智行, Xiaomi EV, Li Auto, 鴻華先進, Foxtron, 車企, 車商, 電動車, 新能源車, 純電, 油電, 插電, 車款, 車型, 新車, 車市, 乘用車, 整車, 車用, 車載, 自駕, 智駕, 充電樁, 交車, 銷量,
             car, cars, auto, autos, automaker, automakers, carmaker, carmakers, automotive, vehicle, vehicles, EV, EVs, "electric vehicle", "electric vehicles", hybrid, SUV, pickup, sedan, dealership, dealers, robotaxi]
 
 # 新聞分類關鍵字（標題或摘要含任一關鍵字就歸類，可多類）
@@ -112,6 +116,11 @@ feeds:
 news:
   keep_days: 7          # 首頁保留最近幾天的新聞
   max_per_feed: 25
+  # 所有新聞都要含 relevance 裡的字或車企名稱才會留下。
+  # 下面這些名稱不只代表汽車（手機、晶片、代工，或一般用語），單獨出現不算「跟汽車有關」
+  ambiguous: [小米, Xiaomi, 華為, Huawei, 鴻海, Foxconn, 理想, 上市, 發表, launch]
+  # 標題含這些字的直接丟掉（市調公司的業配稿）
+  block: ["Market Size", "Market Report", "Market Share Analysis", "CAGR", "Mordor Intelligence", "openPR", "Market to Reach", "Market Forecast"]
 
 # AI（需要在 GitHub Secrets 設定 ANTHROPIC_API_KEY；沒設定時自動略過）
 ai:

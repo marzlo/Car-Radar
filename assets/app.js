@@ -168,12 +168,14 @@
         <h3><a href="${safeUrl(n.link)}" target="_blank" rel="noopener">${esc(zh ? n.title_zh : n.title)}</a></h3>
         ${zh ? `<div class="orig">${esc(n.title)}</div>` : ""}
         ${n.summary ? `<p>${esc(n.summary)}</p>` : ""}
-        ${iss.map(i => `<button class="link-issue" data-open="${esc(i.id)}">↳ 議題：${esc(i.title)}</button>`).join("")}
+        <div class="news-acts">${iss.map(i => `<button class="link-issue" data-open="${esc(i.id)}">↳ 議題：${esc(i.title)}</button>`).join("")}
+          <button class="link-note" data-note="${esc(n.id)}" title="把這則新聞記到議題的時間軸">📝 記到時間軸</button></div>
       </li>`;
     }).join("");
     $("#moreBtn").hidden = list.length <= S.shown;
     $("#moreBtn").onclick = () => { S.shown += 25; renderNews(); };
     bindIssueLinks($("#news"));
+    $("#news").querySelectorAll("[data-note]").forEach(b => b.onclick = () => noteFromNews(b.dataset.note));
   }
 
   // ── 議題 ──
@@ -189,7 +191,7 @@
       const rel = news.filter(n => n.issues?.includes(i.id));
       const ai = notes.filter(n => n.issue === i.id);
       const tl = [
-        ...i.entries.map(e => ({ d: e.date, k: e.label, x: e.text, me: true })),
+        ...i.entries.map(e => ({ d: e.date, k: e.label, x: e.text, me: true, att: e.news || [] })),
         ...ai.map(n => ({ d: n.date, k: "AI 整理", x: n.note, ids: n.news_ids }))
       ].sort((a, b) => a.d < b.d ? -1 : a.d > b.d ? 1 : (a.me ? -1 : 1));
       const m = list.find(x => x.id === i.metric);
@@ -205,6 +207,7 @@
           </div>`}
           <ol class="tl">${tl.map(e => `<li class="${e.me ? "me" : ""}"><span class="d">${esc(e.d)}</span><span class="k">${esc(e.k)}</span>
             <div class="x">${esc(e.x)}</div>
+            ${(e.att || []).length ? `<div class="att">${e.att.map(a => `<a href="${safeUrl(a.url)}" target="_blank" rel="noopener">📰 ${esc(a.title)}${a.source ? `<span>｜${esc(a.source)}</span>` : ""}</a>`).join("")}</div>` : ""}
             ${(e.ids || []).map(id => news.find(n => n.id === id)).filter(Boolean).map(n => `<a href="${safeUrl(n.link)}" target="_blank" rel="noopener">${esc(n.title_zh || n.title)}</a>`).join("")}
           </li>`).join("")}</ol>
           ${ed === "entry" ? entryForm() : ""}
@@ -259,18 +262,54 @@
     </form>`;
   }
 
+  // 新增紀錄表單：可以勾選要附上的新聞（議題相關新聞＋搜尋全部新聞）
   function entryForm() {
+    const ed = S.editing;
+    ed.picked = ed.picked || [];
+    const draft = ed.draft || { date: todayTpe(), label: "筆記", text: "" };
+    const news = D.news?.items || [];
+    const issues = D.issues?.issues || [];
+    const q = (ed.q || "").trim().toLowerCase();
+    const rel = news.filter(n => n.issues?.includes(ed.id));
+    const pool = q ? news.filter(n => ((n.title_zh || "") + " " + n.title + " " + n.source).toLowerCase().includes(q)) : rel;
+    const pickedItems = ed.picked.map(id => news.find(n => n.id === id)).filter(Boolean);
+    const cand = pool.filter(n => !ed.picked.includes(n.id)).slice(0, 12);
     return `<form class="iform" id="entryForm" novalidate>
       <h3>新增紀錄</h3>
+      ${ed.fromNews ? `<label for="e-issue">記到哪個議題</label><select id="e-issue">${issues.map(i => `<option value="${esc(i.id)}"${i.id === ed.id ? " selected" : ""}>${esc(i.title)}</option>`).join("")}</select>` : ""}
       <div class="frow">
-        <div><label for="e-date">日期</label><input id="e-date" type="date" value="${todayTpe()}"></div>
-        <div><label for="e-label">標籤</label><input id="e-label" value="筆記" list="e-labels">
+        <div><label for="e-date">日期</label><input id="e-date" type="date" value="${esc(draft.date)}"></div>
+        <div><label for="e-label">標籤</label><input id="e-label" value="${esc(draft.label)}" list="e-labels">
           <datalist id="e-labels"><option value="筆記"><option value="我的判斷"><option value="回顧"><option value="觀察"><option value="新聞"></datalist></div>
       </div>
       <label for="e-text">內容</label>
-      <textarea id="e-text" rows="4" placeholder="今天看到什麼、想到什麼"></textarea>
+      <textarea id="e-text" rows="4" placeholder="今天看到什麼、想到什麼">${esc(draft.text)}</textarea>
+      <label>附上新聞（會一起存進時間軸，新聞過期後連結仍保留）</label>
+      <div class="picked">${pickedItems.length ? pickedItems.map(n => `<span class="pchip">📰 ${esc(n.title_zh || n.title)}<button type="button" data-unpick="${esc(n.id)}" aria-label="移除">✕</button></span>`).join("") : `<span class="muted small">還沒選。從下面點選，或用搜尋找其他新聞。</span>`}</div>
+      <input id="e-q" type="search" placeholder="搜尋新聞標題或來源（例如 Ford、價格戰）" value="${esc(ed.q || "")}">
+      <div class="cands">${cand.length ? cand.map(n => `<button type="button" class="cand" data-pick="${esc(n.id)}"><span>＋</span>${esc(n.title_zh || n.title)}<em>${esc(n.source)}・${ago(n.time)}</em></button>`).join("")
+        : `<span class="muted small">${q ? "找不到符合的新聞" : "這個議題近 7 天沒有相關新聞，可以用上面的搜尋找"}</span>`}</div>
       <div class="factions"><button class="primary" type="submit">加入時間軸</button><button class="ghost" type="button" data-cancel>取消</button><span class="fmsg" id="fmsg"></span></div>
     </form>`;
+  }
+
+  // 從左邊新聞按「記到時間軸」：打開該新聞所屬議題（沒有的話用目前開著的議題）的新增紀錄表單，並先附上這則新聞
+  function noteFromNews(newsId) {
+    const n = (D.news?.items || []).find(x => x.id === newsId);
+    const issues = D.issues?.issues || [];
+    if (!n || !issues.length) return;
+    const target = (n.issues || []).find(id => issues.some(i => i.id === id)) || (issues.some(i => i.id === S.open) ? S.open : issues[0].id);
+    S.open = target; store.set("issue", target);
+    S.editing = { id: target, mode: "entry", picked: [newsId], fromNews: true,
+      draft: { date: todayTpe(), label: "新聞", text: "" } };
+    renderIssues();
+    document.querySelector("#entryForm")?.scrollIntoView({ behavior: "smooth", block: "center" });
+    setTimeout(() => $("#e-text")?.focus(), 350);
+  }
+
+  function keepDraft() {
+    if (!$("#entryForm")) return;
+    S.editing.draft = { date: $("#e-date").value, label: $("#e-label").value, text: $("#e-text").value };
   }
 
   // 依議題名稱產生關鍵字：比對內建詞庫（中英文同義詞、車企名稱）
@@ -314,6 +353,16 @@
   }
 
   function bindIssueForm() {
+    const ef = $("#entryForm");
+    if (ef) {
+      ef.querySelectorAll("[data-pick]").forEach(b => b.onclick = () => { keepDraft(); S.editing.picked.push(b.dataset.pick); renderIssues(); });
+      ef.querySelectorAll("[data-unpick]").forEach(b => b.onclick = () => { keepDraft(); S.editing.picked = S.editing.picked.filter(x => x !== b.dataset.unpick); renderIssues(); });
+      let t;
+      $("#e-q").oninput = e => { clearTimeout(t); t = setTimeout(() => { keepDraft(); S.editing.q = e.target.value; renderIssues(); const el = $("#e-q"); el.focus(); el.setSelectionRange(el.value.length, el.value.length); }, 250); };
+      $("#e-q").onkeydown = e => { if (e.key === "Enter") e.preventDefault(); };
+      const sel = $("#e-issue");
+      if (sel) sel.onchange = () => { keepDraft(); S.editing.id = sel.value; S.open = sel.value; store.set("issue", sel.value); renderIssues(); };
+    }
     const sg = $("#kwSuggest");
     if (sg) sg.onclick = () => {
       const t = $("#f-title").value.trim();
@@ -331,7 +380,9 @@
 
   const yq = s => JSON.stringify(String(s ?? ""));   // JSON 字串也是合法的 YAML
   function issueToMd(i) {
-    const body = i.entries.map(e => `## ${e.date} | ${e.label}\n${e.text.trim()}\n`).join("\n");
+    const clean = t => String(t || "").replace(/[\[\]\n]/g, " ").trim();
+    const body = i.entries.map(e => `## ${e.date} | ${e.label}\n${e.text.trim()}\n` +
+      (e.news || []).map(a => `\n- [新聞] [${clean(a.title)}](${String(a.url).replace(/[()\s]/g, c => "%" + c.charCodeAt(0).toString(16).toUpperCase().padStart(2, "0"))})${a.source ? " — " + clean(a.source) : ""}`).join("") + ((e.news || []).length ? "\n" : "")).join("\n");
     return `---\ntitle: ${yq(i.title)}\nstatus: ${i.status}\nsince: ${yq(i.since)}\nkeywords: ${JSON.stringify(i.keywords || [])}\nmetric: ${yq(i.metric || "")}\nthen: ${yq(i.then)}\nnow: ${yq(i.now)}\n---\n\n${body}`;
   }
   const b64 = s => { const bytes = new TextEncoder().encode(s); let bin = ""; bytes.forEach(x => bin += String.fromCharCode(x)); return btoa(bin); };
@@ -436,7 +487,10 @@
     const text = $("#e-text").value.trim();
     if (!text) { $("#fmsg").textContent = "請填寫內容"; $("#e-text").focus(); return; }
     const old = D.issues.issues.find(x => x.id === S.editing.id);
-    const entry = { date: $("#e-date").value || todayTpe(), label: $("#e-label").value.trim() || "筆記", text };
+    const all = D.news?.items || [];
+    const att = (S.editing.picked || []).map(id => all.find(n => n.id === id)).filter(Boolean)
+      .map(n => ({ title: n.title_zh || n.title, url: n.link, source: n.source }));
+    const entry = { date: $("#e-date").value || todayTpe(), label: $("#e-label").value.trim() || "筆記", text, news: att };
     const issue = { ...old, entries: [...old.entries, entry].sort((a, b) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0) };
     withSave(async () => {
       await saveToGitHub(issue, `議題：「${old.title}」新增紀錄`);
