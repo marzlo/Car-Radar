@@ -4,7 +4,7 @@ status: watch
 since: "2026-10-05"
 keywords: ["價格戰","降價","price war","price cut","毛利","profit margin","Car"]
 metric: "cn_nev"
-then: "（新議題：寫下你一開始的判斷）"
+then: "目前電動車的毛利取決於國家的補助，如果補助取消，應該就會影響定價與毛利"
 now: "（還沒寫）"
 ---
 
