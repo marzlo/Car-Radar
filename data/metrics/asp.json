@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-06T14:49+08:00",
+ "updated": "2026-10-06T15:07+08:00",
  "fx_usd": {
   "USD": 1.0,
   "CNY": 0.149437,
-  "HKD": 0.127437,
-  "JPY": 0.006326,
+  "HKD": 0.127434,
+  "JPY": 0.006322,
   "EUR": 1.121202,
-  "TWD": 0.031468,
+  "TWD": 0.031428,
   "KRW": 0.000745,
-  "SEK": 0.09949
+  "SEK": 0.099602
  },
  "companies": [
   {
@@ -189,8 +189,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 33024,
-     "profit_usd": 2240
+     "asp_usd": 33003,
+     "profit_usd": 2239
     },
     {
      "quarter": "2025Q4",
@@ -201,8 +201,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_3q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 33794,
-     "profit_usd": 2991
+     "asp_usd": 33773,
+     "profit_usd": 2989
     },
     {
      "quarter": "2026Q1",
@@ -213,8 +213,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 34754,
-     "profit_usd": 1571
+     "asp_usd": 34732,
+     "profit_usd": 1570
     },
     {
      "quarter": "2026Q2",
@@ -225,8 +225,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 35725,
-     "profit_usd": 2809
+     "asp_usd": 35703,
+     "profit_usd": 2807
     }
    ]
   },
@@ -1286,8 +1286,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4302907/3918401.pdf",
      "del_note": "批發",
-     "asp_usd": 49112,
-     "profit_usd": 888
+     "asp_usd": 49168,
+     "profit_usd": 889
     },
     {
      "quarter": "2026Q1",
@@ -1298,8 +1298,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4341827/4065356.pdf",
      "del_note": "批發",
-     "asp_usd": 46222,
-     "profit_usd": 920
+     "asp_usd": 46274,
+     "profit_usd": 921
     },
     {
      "quarter": "2026Q2",
@@ -1310,8 +1310,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4375596/4197338.pdf",
      "del_note": "批發",
-     "asp_usd": 45591,
-     "profit_usd": 384
+     "asp_usd": 45642,
+     "profit_usd": 385
     }
    ]
   },
@@ -1688,8 +1688,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/016/linkList/00/link/FYE202603_2Q_financial_presentation_e.pdf",
      "del_note": "合併銷量（不含中國合資）",
-     "asp_usd": 49453,
-     "profit_usd": 1813
+     "asp_usd": 49422,
+     "profit_usd": 1811
     },
     {
      "quarter": "2025Q4",
@@ -1700,8 +1700,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/017/linkList/00/link/FYE202603_3Q_financial_presentation_e_1.pdf",
      "del_note": "合併銷量",
-     "asp_usd": 52403,
-     "profit_usd": 1504
+     "asp_usd": 52370,
+     "profit_usd": 1503
     },
     {
      "quarter": "2026Q1",
@@ -1712,8 +1712,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/018/linkList/03/link/FYE202603_4Q_financial_presentation_e_3.pdf",
      "del_note": "合併銷量",
-     "asp_usd": 52306,
-     "profit_usd": -9038
+     "asp_usd": 52273,
+     "profit_usd": -9033
     },
     {
      "quarter": "2026Q2",
@@ -1724,8 +1724,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/010/teaserItems3/015/linkList/00/link/FYE202703_1Q_financial_presentation_e_1.pdf",
      "del_note": "合併銷量",
-     "asp_usd": 54160,
-     "profit_usd": 4742
+     "asp_usd": 54126,
+     "profit_usd": 4739
     }
    ]
   },
