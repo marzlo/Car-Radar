@@ -246,15 +246,21 @@
           ${ed === "entry" ? entryForm() : ""}
           <div class="chips">
             ${ed ? "" : `<button class="chip-strong" data-edit="edit">✎ 更新判斷／設定</button><button class="chip-strong" data-edit="entry">＋ 新增紀錄</button>`}
+            ${ed ? "" : S.confirmDel === i.id
+              ? `<span class="del-confirm">確定刪除這個議題？<button class="chip-danger" data-del-yes>刪除</button><button data-del-no>取消</button><span class="fmsg" id="delmsg"></span></span>`
+              : `<button class="chip-danger" data-del>🗑 刪除議題</button>`}
             ${rel.length ? `<button data-filter="${esc(i.id)}">看 ${rel.length} 則相關新聞</button>` : ""}
             ${m ? `<button data-metric="${esc(m.id)}">${esc(m.name)} ${nf(m.last, m.dec)} ${esc(m.unit)}</button>` : ""}
           </div>
         </div>` : ""}`;
     }).join("");
-    $("#issues").querySelectorAll(".issue-btn").forEach(b => b.onclick = () => { S.open = S.open === b.dataset.id ? "" : b.dataset.id; S.editing = null; store.set("issue", S.open); renderIssues(); });
+    $("#issues").querySelectorAll(".issue-btn").forEach(b => b.onclick = () => { S.open = S.open === b.dataset.id ? "" : b.dataset.id; S.editing = null; S.confirmDel = null; store.set("issue", S.open); renderIssues(); });
     $("#issues").querySelectorAll("[data-filter]").forEach(b => b.onclick = () => { S.issueFilter = b.dataset.filter; S.cat = "全部"; renderNews(); $("#news-h").scrollIntoView({ behavior: "smooth" }); });
     $("#issues").querySelectorAll("[data-metric]").forEach(b => b.onclick = () => { S.metric = b.dataset.metric; renderGauges(); $("#kpi-h").scrollIntoView({ behavior: "smooth" }); });
     $("#issues").querySelectorAll("[data-edit]").forEach(b => b.onclick = () => { S.editing = { id: S.open, mode: b.dataset.edit }; renderIssues(); });
+    $("#issues").querySelectorAll("[data-del]").forEach(b => b.onclick = () => { S.confirmDel = S.open; renderIssues(); });
+    $("#issues").querySelectorAll("[data-del-no]").forEach(b => b.onclick = () => { S.confirmDel = null; renderIssues(); });
+    $("#issues").querySelectorAll("[data-del-yes]").forEach(b => b.onclick = () => deleteIssue(S.open, b));
     bindIssueForm();
   }
 
@@ -382,6 +388,32 @@
       throw Object.assign(new Error(`權杖權限不足（${r.status}）：需要 Car-Radar 的 Contents「Read and write」權限`), { needToken: true });
     if (r.status === 409) throw new Error("檔案剛被改過，請重新整理頁面再試一次");
     if (!r.ok) throw new Error("GitHub 回應 " + r.status);
+  }
+
+  async function deleteIssue(id, btn) {
+    const issue = D.issues.issues.find(x => x.id === id);
+    const token = store.get(TOKEN_KEY);
+    if (!token) { openPanel(); return; }
+    btn.disabled = true; $("#delmsg").textContent = "刪除中…";
+    try {
+      const url = `https://api.github.com/repos/${REPO}/contents/issues/${encodeURIComponent(id)}.md`;
+      const hdr = { "Accept": "application/vnd.github+json", "Authorization": "Bearer " + token, "X-GitHub-Api-Version": "2022-11-28" };
+      const g = await fetch(url + "?ref=main&t=" + Date.now(), { headers: hdr });
+      if (g.status === 404) throw new Error("GitHub 上找不到這個議題檔案（可能還在同步，稍後再試）");
+      if (!g.ok) throw Object.assign(new Error(`權杖權限不足（${g.status}）`), { needToken: g.status === 401 || g.status === 403 });
+      const { sha } = await g.json();
+      const r = await fetch(url, { method: "DELETE", headers: hdr, body: JSON.stringify({ message: `議題：刪除「${issue.title}」`, sha, branch: "main" }) });
+      if (r.status === 401 || r.status === 403) throw Object.assign(new Error(`權杖權限不足（${r.status}）：需要 Contents「Read and write」`), { needToken: true });
+      if (!r.ok) throw new Error("GitHub 回應 " + r.status);
+      D.issues.issues = D.issues.issues.filter(x => x.id !== id);
+      S.open = ""; S.confirmDel = null; store.set("issue", "");
+      renderIssues(); renderNews();
+      msg(`已刪除「${esc(issue.title)}」。網站約 2 分鐘後同步。（GitHub 的 commit 紀錄裡還找得回來）`, "ok");
+      setTimeout(() => { if ($("#refreshMsg").classList.contains("ok")) msg(""); }, 10000);
+    } catch (err) {
+      $("#delmsg").textContent = err.message; btn.disabled = false;
+      if (err.needToken) openPanel();
+    }
   }
 
   function applyLocal(issue, isNew) {
@@ -524,7 +556,7 @@
   });
 
   function openPanel() {
-    $("#refreshPanel").hidden = false;
+    if (!$("#refreshPanel").open) $("#refreshPanel").showModal();
     $("#tokenClear").hidden = !store.get(TOKEN_KEY);
     $("#tokenInput").value = "";
     $("#tokenInput").focus();
@@ -533,7 +565,7 @@
   async function runRefresh() {
     const token = store.get(TOKEN_KEY);
     if (!token) { openPanel(); return; }
-    $("#refreshPanel").hidden = true;
+    if ($("#refreshPanel").open) $("#refreshPanel").close();
     if (busy) return;
     busy = true; $("#refreshBtn").disabled = true;
     const started = Date.now();
@@ -577,15 +609,18 @@
   }
 
   $("#refreshBtn").onclick = runRefresh;
-  $("#tokenBtn").onclick = () => { if ($("#refreshPanel").hidden) openPanel(); else $("#refreshPanel").hidden = true; };
-  $("#tokenCancel").onclick = () => { $("#refreshPanel").hidden = true; };
+  const closePanel = () => { if ($("#refreshPanel").open) $("#refreshPanel").close(); };
+  $("#tokenBtn").onclick = openPanel;
+  $("#tokenCancel").onclick = closePanel;
+  $("#tokenX").onclick = closePanel;
+  $("#refreshPanel").addEventListener("click", e => { if (e.target === $("#refreshPanel")) closePanel(); });  // 點背景關閉
   $("#tokenClear").onclick = () => { try { localStorage.removeItem(TOKEN_KEY); } catch (e) { } $("#tokenClear").hidden = true; msg("已清除這台電腦上的權杖。", "ok"); };
   $("#tokenSave").onclick = () => {
     const v = $("#tokenInput").value.trim();
     if (!/^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/.test(v)) { msg("這看起來不是 GitHub 權杖，應該以 github_pat_ 開頭。", "err"); return; }
     store.set(TOKEN_KEY, v);
     $("#tokenInput").value = "";
-    $("#refreshPanel").hidden = true;
+    if ($("#refreshPanel").open) $("#refreshPanel").close();
     runRefresh();
   };
   $("#tokenInput").addEventListener("keydown", e => { if (e.key === "Enter") $("#tokenSave").click(); });

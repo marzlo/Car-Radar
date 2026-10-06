@@ -164,7 +164,10 @@ table.asp{width:100%;border-collapse:collapse;font-size:13.5px;min-width:720px}
 .refresh-msg{border-left:3px solid var(--accent);background:var(--surface);padding:8px 12px;font-size:13.5px}
 .refresh-msg.ok{border-color:var(--up)}
 .refresh-msg.err{border-color:var(--down)}
-.refresh-panel{background:var(--surface);border:1px solid var(--line);padding:16px 18px;display:grid;gap:8px;font-size:14px}
+.refresh-panel{background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:18px 20px;gap:8px;font-size:14px;width:min(640px,calc(100vw - 32px));max-height:calc(100vh - 48px);overflow:auto;box-shadow:0 12px 40px rgba(0,0,0,.25)}
+.refresh-panel[open]{display:grid}
+.refresh-panel::backdrop{background:rgba(10,15,20,.45)}
+.dlg-head{display:flex;justify-content:space-between;align-items:center;gap:12px}
 .refresh-panel h3{font-size:16px}
 .refresh-panel p,.refresh-panel ol{margin:0}
 .refresh-panel ol{padding-left:20px;display:grid;gap:2px}
@@ -185,3 +188,5 @@ table.asp{width:100%;border-collapse:collapse;font-size:13.5px;min-width:720px}
 .fmsg{font-size:12.5px;color:var(--down)}
 .kwrow{display:flex;gap:8px}
 .kwrow input{flex:1}
+.chips .chip-danger{color:var(--down);border-color:color-mix(in srgb,var(--down) 45%,var(--line))}
+.del-confirm{display:inline-flex;gap:6px;align-items:center;flex-wrap:wrap;color:var(--fg)}
