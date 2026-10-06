@@ -1,8 +1,38 @@
 {
- "updated": "2026-10-06T14:33+08:00",
+ "updated": "2026-10-06T14:49+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "5c01f822ad",
+   "title": "全球純汽油車新車銷量比重 首次跌破50%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4NkNZTXpyY1RKeFpVeUVaVWF5RHlmZmM3ZnZKM2t4MzFVcTRsSjhreWFVNkdTc2ZfRktneU5wS2dPa1FidC1yb054dVFSQ0E?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-06T14:32+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "790b3b79c2",
+   "title": "AUTO ONLINE 汽車線上",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dXllUXQtNnFMa1B4b2RValVfQ09Bd3VzVm8zeWt4ckg4WWt0Z3ZtYTFrUEZqV1g4QTVDYXhXaDNtMWpDeUJZX0dYcWZVM3RuQ2kw?oc=5",
+   "source": "AUTO ONLINE 汽車線上",
+   "lang": "zh",
+   "time": "2026-10-06T13:46+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "f0f975a335",
    "title": "Sean Duffy Says Stellantis Will Make ‘Affordable Cars’ After Trump’s CAFE Rollback — 'American Automakers",
@@ -123,6 +153,21 @@
    "time": "2026-10-06T12:34+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "4a1a4436b9",
+   "title": "Image album | Lancia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2s0bFhabGhkR3pwdlhhYkVmTUx5OUFzSnFld1dJVDFRdGRQVGFyZHdxTVJ1TDcwS09wdENCLW5ldVhITFJLWFlUeWN5VE1BYklIVTB2UmZwNHpSdi1TaklWS2VBb2NNck9CRGJ2YUpmTkdCSUlqUWNlempsOVVBaHB4Yzk1QQ?oc=5",
+   "source": "Media Stellantis",
+   "lang": "en",
+   "time": "2026-10-06T12:31+08:00",
+   "categories": [
+    "Stellantis"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -5805,7 +5850,8 @@
    "lang": "zh",
    "time": "2026-10-02T10:46+08:00",
    "forced_issues": [
-    "adas"
+    "adas",
+    "issue-20261006-ybh7"
    ],
    "categories": [
     "智駕",
@@ -6253,12 +6299,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "4f0a8593a2",
@@ -6289,57 +6331,6 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
-  },
-  {
-   "id": "7de28284cf",
-   "title": "Nio ES8 delivers 10,542 vehicles in September, topping 10,000 for third straight month",
-   "summary": "The ES8 accounted for 49.45% of the Nio brand's September deliveries and 28.18% of Nio Inc's total. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/nio-es8-deliveries-sept-2026/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T15:48+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "b903abb5c5",
-   "title": "Xpeng September deliveries hit 2026 high despite slight year-on-year decline",
-   "summary": "Xpeng delivered 41,256 vehicles in September, down 0.78% year-on-year while up 5.50% from August. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/xpeng-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T15:15+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "6e6d157759",
-   "title": "ARA issues statement on GM position regarding recycled OEM ADAS components",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjJVT2tZalVqQzAxeW5Vc0wtc0tUbnE1ZzJNb2hkLWZuX3JVR3BncXhJRjU5cjU0cFlRLWozdlhlOXptNGpmZ0g1TmdpeWhqbHVrN3MxVkNfU3V6T25LT09qV1JtZ2l6YW5CRm52TUFnZ3N5bHNFR3FJb0g1ZHoxNGZB?oc=5",
-   "source": "American Recycler",
-   "lang": "en",
-   "time": "2026-10-01T13:52+08:00",
-   "via_search": true,
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
   }
  ]
 }
