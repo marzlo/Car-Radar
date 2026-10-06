@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:26+08:00",
+ "updated": "2026-10-06T11:29+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -46,6 +46,19 @@
    "issues": [
     "homog"
    ]
+  },
+  {
+   "id": "c8703a5ab5",
+   "title": "車市進入全年銷售關鍵期 能否再現金九銀十",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udGY2bkwzMmNKcmlWQ3Y0UTUtVFd1S3NHZTA3SENsbUJYbWp1b3R5MlVncnRVUGw5R1lLWlhsdHB3bHp4a25fNTN1SFZ0V0c3dFpId2NkWG5VNm5pb0Vsd1RuM0FtXzA?oc=5",
+   "source": "中國評論新聞",
+   "lang": "zh",
+   "time": "2026-10-06T10:25+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
   },
   {
    "id": "68d7cdd947",
@@ -2189,6 +2202,19 @@
    "issues": []
   },
   {
+   "id": "2cfba7af19",
+   "title": "即便AI泡沫破裂，機器人產業也能成為支撐記憶體產業在高檔的支點",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaGUzVmlDcHVDVDVOLTdHQzFhU3ZOQVUwTHBuS19wUEVqckVQRnVRRnQyZVVaa2xRYjY1c29CVnptUVpXT3dYaVBKaGFIb2IxZ1hxWXVhVmZUUQ?oc=5",
+   "source": "科技產業資訊室",
+   "lang": "zh",
+   "time": "2026-10-05T17:00+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
+  },
+  {
    "id": "29ff347bc0",
    "title": "Toyota、Honda、Mazda、Suzuli、Mitsubishi開秘密會議？其實是為著零件成本協商",
    "summary": "",
@@ -2199,19 +2225,6 @@
    "categories": [
     "座艙・SDV",
     "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "2cfba7af19",
-   "title": "即便AI泡沫破裂，機器人產業也能成為支撐記憶體產業在高檔的支點",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaGUzVmlDcHVDVDVOLTdHQzFhU3ZOQVUwTHBuS19wUEVqckVQRnVRRnQyZVVaa2xRYjY1c29CVnptUVpXT3dYaVBKaGFIb2IxZ1hxWXVhVmZUUQ?oc=5",
-   "source": "科技產業資訊室",
-   "lang": "zh",
-   "time": "2026-10-05T17:00+08:00",
-   "categories": [
-    "其他"
    ],
    "issues": []
   },
@@ -5916,24 +5929,6 @@
    "source": "Forbes",
    "lang": "en",
    "time": "2026-10-01T06:30+08:00",
-   "forced_issues": [
-    "profit"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "825c687a80",
-   "title": "Micron Profit, Revenue Surge as Memory Crunch Looks to Last Through 2028",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTERLUlNXYXNnbWZ0R0tJOTVLWERGbEVFa0c5bkpQXzlvRWptTHk0WUdlVDRYNGRDWGpJOVBIVkJSS3NUMmluLTBacUwwcE1xZW80MlZIeEUyMUYxUElJOGJEcUdGdmlIdzR5OWxhd0V6RnRLT3FMeTdkWndhRkVNMUFjT2tBY3V3dld0U2paNFdwam1IN2c?oc=5",
-   "source": "WSJ",
-   "lang": "en",
-   "time": "2026-10-01T06:28+08:00",
    "forced_issues": [
     "profit"
    ],
