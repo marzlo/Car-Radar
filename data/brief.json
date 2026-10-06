@@ -1,8 +1,15 @@
 {
  "date": "2026-10-06",
- "generated": "2026-10-06T10:58+08:00",
+ "generated": "2026-10-06T11:14+08:00",
  "ai": false,
  "items": [
+  {
+   "text": "Honda 幾乎砍光電動車，但研發了充電公路技術",
+   "category": "電池",
+   "news_ids": [
+    "a111e1582a"
+   ]
+  },
   {
    "text": "What You Could Have Pressed Harder In Stellantis Before 59% Fell",
    "category": "Stellantis",
@@ -15,13 +22,6 @@
    "category": "供應鏈",
    "news_ids": [
     "d9fdabd860"
-   ]
-  },
-  {
-   "text": "AI 晶片估值狂飆與電動車產量急凍的兩極訊號｜產業精選 10.06",
-   "category": "座艙・SDV",
-   "news_ids": [
-    "315cca5fd5"
    ]
   }
  ]
