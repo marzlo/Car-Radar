@@ -1,8 +1,57 @@
 {
- "updated": "2026-10-06T15:07+08:00",
+ "updated": "2026-10-06T15:15+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "9b00d11277",
+   "title": "台美德推進車輛資安 首座國際級實驗室助攻車電出海",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNZ3RiZkNsSFoyLUYtdU5udUdUNkE1NWtzS3cyNFlEVVB6RVlkR3U5YlFGeG9pZnMzbk1EczJLQnVhRmJEVTdHZEp4M2Jqa1llVWVaTmZkV1RxWmZabVFIWkRMY3NvU3JRUmZHMlFKVWlnWkRlRy1pVTNvMThVYmstZEtwZlRGeFRsX0Q4bGVESWR3NnRDaXNoejhfUlJGS0hDQVFSOEY2S1Zta0ZRM1ZoVV9uNjg4SnkxQ3BZeF96TFA1ZlFGdGpSeEVZMzZ6V0tyRk9rTTBiYmxIWGMzTU1ULUdraV96OWNGTmtnYlB6VEhFbTlhTHBLNTJ6aG50R0otRU5VbVVCd1dTOFpDUEZMMEEzZGZhZS1MbFcyWFBtQ0QzNzRZS0R5aUxIcnhvWlNmbFFwTjZWRk5WYlJHaF9Ea1pB?oc=5",
+   "source": "匯流新聞網",
+   "lang": "zh",
+   "time": "2026-10-06T15:03+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
+   "id": "fe7d3316dc",
+   "title": "假期五天，42萬人到此打卡，消費近28億元| 汽車",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54M0JRNW1jZERHajA1RVFjOVhvWUdTOXdjQVlVUjNvRndxaFpvM0FsSHVrTWE2Y3dkYVRyNW03YkVaOV82YWV2NA?oc=5",
+   "source": "鉅亨號",
+   "lang": "zh",
+   "time": "2026-10-06T15:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "d7b663ce58",
+   "title": "兩難之間的英國汽車：不想對華加稅，又怕歐盟限制| 汽車",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEdkNyRk02MC1IR0FwZnExZjhFNUlNZklBQzRJN2d3T1MtcFo4VFNvSmxyYmZIUHlKMnhEOWZNX1JMdFM1UVN2UQ?oc=5",
+   "source": "鉅亨號",
+   "lang": "zh",
+   "time": "2026-10-06T14:58+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "bb7ab6492d",
    "title": "兩難之間的英國汽車：不想對華加稅，又怕歐盟限制",
@@ -304,6 +353,21 @@
    "categories": [
     "Stellantis",
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "5c896ae464",
+   "title": "China's ascendant auto industry: How top Detroit 3 execs are responding",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkJTbWYzcVVDNVJrT2JCNExabzVvWC1ib0REaGpLS1c0dmJfaHg2VWg5SXZYT2NCcmpLVDd2WS02Z190TjFyRFBQcDNPVVoxRVdXM1hVU2Q1aXJlNTJ0WmxDM05DV2dvWjc4bWstdDlXQl9XUzNaRlZ2dVhUX3lrYnJKQ2hkdThiYWRkaHd1bGJIVHpyNzVlODVXQUJBVHhZMENwWncwMzdyTlFheW5LVkdmNlA4WDJhZk1ZVE45Y0dRbVhJYUlpcHBPbExnb2ZSRlFvcQ?oc=5",
+   "source": "The Detroit News",
+   "lang": "en",
+   "time": "2026-10-06T12:01+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1588,6 +1652,25 @@
    "issues": [],
    "via_search": false,
    "forced_issues": []
+  },
+  {
+   "id": "271ba608a4",
+   "title": "Gary Black：推升特斯拉交車量的不是全自動駕駛，而是汽油價格",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVVRvZmxCdUdic3RXaEVwSmVSVVgxRHo5aC1jNFk5SDVfV3h0TEtDWkNNUW9OQ1hXMTFiLUQtaDgyV0VtNkloMUVUSmpsTzBrOE5jd1RKUFlra0k2X2k2TFhuR1BGUXExVHdBUnoxTGdYcXN3SVY2ajNR?oc=5",
+   "source": "BigGo 財經",
+   "lang": "zh",
+   "time": "2026-10-06T02:15+08:00",
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "793111207d",
@@ -3610,10 +3693,10 @@
    "forced_issues": []
   },
   {
-   "id": "8adcabc153",
-   "title": "不只“為中國”：德國車企開始在中國“為世界”創新",
+   "id": "e46f65b373",
+   "title": "日產高管警告：中國汽車進入美國只是時間問題| 汽車",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1ZSdE5iaFBtZ1hSQzZJRzAydW14Z0ZlckRab25Ib0VVa1JmMWhLa3l6blNSMTBUX2E4cF9LNmM5NVFXZFUteXlLVUZfZDBSbUFmRGJoZ3ZwMy1uLTBaQjFkM3hSaXFkaHJSTmVheXd6a2xfSUFhU05TNE9KZm5OVUVZSS1USzZqc3lUTVJ2OA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzB6VzZnOFBWMTB1WERZZkE2eG5OMDBOcVFpN2sxNEhFT2VmMnFMUVFlQVp1Z3htRzAwOENOV3JQNUlEUkg2Vm96QzMwUmNIWWFtTDVONGU0cDNKbHdKTWJoYjZqTlZTM3FDZXU2cFZuVXZvNDhjNng5UWdpYmVQQnBlRnJKR2dvRGVvamNtdw?oc=5",
    "source": "鉅亨號",
    "lang": "zh",
    "time": "2026-10-05T12:21+08:00",
@@ -3625,10 +3708,10 @@
    "forced_issues": []
   },
   {
-   "id": "e46f65b373",
-   "title": "日產高管警告：中國汽車進入美國只是時間問題| 汽車",
+   "id": "8adcabc153",
+   "title": "不只“為中國”：德國車企開始在中國“為世界”創新",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzB6VzZnOFBWMTB1WERZZkE2eG5OMDBOcVFpN2sxNEhFT2VmMnFMUVFlQVp1Z3htRzAwOENOV3JQNUlEUkg2Vm96QzMwUmNIWWFtTDVONGU0cDNKbHdKTWJoYjZqTlZTM3FDZXU2cFZuVXZvNDhjNng5UWdpYmVQQnBlRnJKR2dvRGVvamNtdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1ZSdE5iaFBtZ1hSQzZJRzAydW14Z0ZlckRab25Ib0VVa1JmMWhLa3l6blNSMTBUX2E4cF9LNmM5NVFXZFUteXlLVUZfZDBSbUFmRGJoZ3ZwMy1uLTBaQjFkM3hSaXFkaHJSTmVheXd6a2xfSUFhU05TNE9KZm5OVUVZSS1USzZqc3lUTVJ2OA?oc=5",
    "source": "鉅亨號",
    "lang": "zh",
    "time": "2026-10-05T12:21+08:00",
@@ -4879,9 +4962,7 @@
    "categories": [
     "車企動向"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -5042,6 +5123,26 @@
    ],
    "via_search": false,
    "forced_issues": []
+  },
+  {
+   "id": "3f110934cb",
+   "title": "Automakers post Q3 results, Toyota opens battery center, Remembering Jim O’Conner",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XMFI4UnJNcDFZQkhaYk9KODBkSURLc1RwXzlZZVNNWXRPYmgzeDc1YTdMMEdFa0VocjFDeG9FT1J3Y09maDAzb0o4eGE3ZXZzUEhFT3ZTM0VWa0tDdDVNMXA3SlUwVl9DNHJVZkZ3VU5sZw?oc=5",
+   "source": "cbtnews.com",
+   "lang": "en",
+   "time": "2026-10-02T22:00+08:00",
+   "via_search": true,
+   "categories": [
+    "電池",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "ssb"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "376108641b",
@@ -5459,8 +5560,7 @@
    "lang": "zh",
    "time": "2026-10-02T10:46+08:00",
    "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
+    "adas"
    ],
    "categories": [
     "智駕",
@@ -6073,6 +6173,25 @@
    "issues": []
   },
   {
+   "id": "cba0bd653b",
+   "title": "Mega $36,000 price cut and specs unveiled for 2027 Corvette Z06 as Chevy's supercar finally comes down under",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tN1EtNG1BbGF5LU00NWZiM1VQcHV0NXByX0ZJX1h6aUIwT0ktMllscUtjcjBuRmlkZzMzX3k5cFFBRzJSellyTEZNQ3VPM0VTbEdya3lnT2hFSU5KTmNjaGZFMloyWVNKNU9CeWplRmxGQXJ1bUNiU0UxSWk?oc=5",
+   "source": "WhichCar",
+   "lang": "en",
+   "time": "2026-10-01T10:40+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "46398f3a7c",
    "title": "Li Auto September deliveries fall 6.29% to 31,817",
    "summary": "Li Auto delivered 99,964 vehicles in the third quarter, up 7.24% year-on-year and 1.66% from the second quarter. For details, please visit CnEVPost (cnev.co).",
@@ -6288,145 +6407,6 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
-  },
-  {
-   "id": "b5dddc1d33",
-   "title": "廣汽集團傳收購一汽豐田50%股權，合資車企中國市場經營不易？",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yNVlmRGhzZG5ZTnJSVEJ1TTBMRTdxSnhIMGpWZzMxd3ZCTHYyOXI5OE9jaHM1T3lOYlNpYVNOcHFVQUl3Sjk5U0pGeXZ6S0NuRHc?oc=5",
-   "source": "地球黃金線",
-   "lang": "zh",
-   "time": "2026-09-30T18:35+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "508a15d9d5",
-   "title": "影音／直擊深圳7層樓「中古車超市」！特斯拉占3層 新車降價成隱憂",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tQXFPRTRqLUx5RUtlbEhXajBFcGZZbHItZzE2cmRIOU1MclBRYktnQm1PVVlhd1BOMDVMalREVm5HZWdYX04xbllVN3ZsQjA?oc=5",
-   "source": "TVBS新聞網",
-   "lang": "zh",
-   "time": "2026-09-30T18:10+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "fd6c3ecee4",
-   "title": "AI、自駕效應，德國BMW、Mercedes布局高效能汽車晶片",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlZDdllXNEhKVTgtQUljTDFOV0FfQ3pJeVAxRW4zSUdKLUhLTXE3WVNpWnVMYXVkNkwxbno3N3kyS2RmNnJvd0dfOFdCYzh4bHVEUGlqUm5EMExJdXY1ajZmYS0yRG1RN1c2Vkd6OTA0S1ZjQnZfUXRyOWNwaEI4bElSOWN2c29Rb0Z6cWpIRnc4UQ?oc=5",
-   "source": "台視全球資訊網",
-   "lang": "zh",
-   "time": "2026-09-30T16:31+08:00",
-   "via_search": true,
-   "categories": [
-    "座艙・SDV"
-   ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "bbac2d5b8d",
-   "title": "通用汽車電池材料供應商Vianode正考慮建立合作夥伴關係或出售公司",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWVlzVGxfbFpsMzJneVlROU9UejZIVm5LVHk4Q0c5NnFLYzBDQi1jQjMzc0hKa2pYYTVoQy1FYW1hRjA2WllKRFV2QmE4NTRseF9ieENHU2Y4bDJFYmRYYm1vc1Rmd0VVNklFRVJ0ejJaMlB1NUV3?oc=5",
-   "source": "TradingView",
-   "lang": "zh",
-   "time": "2026-09-30T16:00+08:00",
-   "via_search": true,
-   "categories": [
-    "電池",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "ssb"
-   ],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "2bfc7f57bf",
-   "title": "Tesla audits Chinese suppliers, China outlines 2030 battery goal: 7 EV reads",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUdtQ2g5WlM4SW15RGhRaTFZd21JNmhxYXdBYU5iTGpWUEVxOE54VG9HbDBrVS11WUU4Y2Z3TWJCcFlrUEtnc3RwQ3NaS3BNaFlHWVYwaERWUUxXMUYyLXVvRDJVcnVnTGZoZ1RoS2RGcEFhVm1uamVFd2xpeDMtVDB4cVM1NGpsTUdaQnFvLUQ1cWpVWVZJME9kdWRGQ3NZQW1CRGY2c0dmcW83Zk03Tjh5SFp6SUJMSm9PSVBpVTVydnpOaHIzMGd0VW5CRDlhYVd3OdIB1AFBVV95cUxNbWQ5R0thd21yZFdNYzVaQ3ROQnNOTkJSODNXX3F5NzNMaEVwLVRtaXUxNnlReVVJclA5OE14Ty1QWDVSVl9ZNVhKQXJ3cFNFQVNIbGZCMUtWck5jT2RhOWpMdWZHMVdObm1qc2JsZURMOUR3QXpWdFQ3LW9rU1VKQzY5NjJOVmhhTG5SaUlXVURhMUxIY0NjRU40WFpFRXo4WFVxZi1adE9SdlpDZkY3aGtWOGk1aTVkdVpZb0tiRTFiUlBDb1lhVFNfUnJFSUhhU05kNw?oc=5",
-   "source": "South China Morning Post",
-   "lang": "en",
-   "time": "2026-09-30T15:15+08:00",
-   "via_search": true,
-   "categories": [
-    "電池",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "ssb"
-   ],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "940bbf299a",
-   "title": "[U-EV]中國商務部針對電動車出口將實施許可證管理制度，預計2026年1月1日開始執行",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNmxqOGhxc1lockR6V0RzSHVaRzkzSEhBNjFiM3NjZWwwT3FBai1MMmh4MmdETUFQVjY1X1Y5OTFlVjZmZFpLWWpETXFSWjdZazdVTjctM0x5S0UzeVg4ODlRMUczcDk4bVdkc0ZGdGxuRnVNWWJHY21QZllzb2RfRWdxTlFhT0d3cWJwY0pmUWx5by1NTGs2ZkFFNEdkOHZvWHd1WmxCVTkyYkozTFFaT2k3Yk55bVNYRzFwOGZ5UXVuZ3pCOEExR0p4bDVtUUx6MDVkWnMtMVFWSDlURVVRaQ?oc=5",
-   "source": "U-CAR新聞",
-   "lang": "zh",
-   "time": "2026-09-30T15:00+08:00",
-   "via_search": true,
-   "categories": [
-    "供應鏈"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "8fdde9d269",
-   "title": "地平線機器人執行長餘凱：贏得電動車就贏得機器人，2035年實現「心不在焉」自動駕駛",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FOHJWVllUMDNiMWMtcjEzQTBYOVdMaTR2a0hCeXdqd3hzYk94cWs4UE1aUVM1SUR2S0FLNG5jZzQ3NkZFaDhpNm5LejdJVVkwZ18wSzJ6LUpUeC1feUtv?oc=5",
-   "source": "BigGo 財經",
-   "lang": "zh",
-   "time": "2026-09-30T14:08+08:00",
-   "via_search": true,
-   "categories": [
-    "智駕"
-   ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
   }
  ]
 }
