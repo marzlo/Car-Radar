@@ -16,14 +16,37 @@
   <header class="top">
     <div class="brand">
       <h1>車業雷達</h1>
-      <span class="sub">數據・新聞・議題，每天早上 6 點自動更新</span>
+      <span class="sub">數據・新聞・議題，每天早上自動更新</span>
     </div>
     <div class="status">
       <div><span class="eyebrow">上次更新</span><b id="updated">—</b></div>
       <div><span class="eyebrow">新聞</span><b id="newsCount">—</b></div>
-      <div><button class="ghost" id="themeBtn" type="button" aria-label="切換深淺色">◐ 深淺色</button></div>
+      <div class="actions-row">
+        <button class="primary" id="refreshBtn" type="button">↻ 手動更新</button>
+        <button class="ghost" id="themeBtn" type="button" aria-label="切換深淺色">◐ 深淺色</button>
+      </div>
     </div>
   </header>
+  <div id="refreshMsg" class="refresh-msg" role="status" aria-live="polite" hidden></div>
+  <div id="refreshPanel" class="refresh-panel" hidden>
+    <h3>設定手動更新</h3>
+    <p>網頁要代替你去 GitHub 按「Run workflow」，需要一組只能操作這個 repo 的權杖。只要設定一次，權杖只存在這台電腦的瀏覽器裡，不會上傳到 repo。</p>
+    <ol>
+      <li>打開 <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub 建立 Fine-grained token</a>。</li>
+      <li>Token name 隨意填，例如 <code>car-radar-refresh</code>；Expiration 選最長的。</li>
+      <li>Repository access 選 <b>Only select repositories</b> → 選 <b>Car-Radar</b>。</li>
+      <li>Permissions → Repository permissions → <b>Actions</b> 改成 <b>Read and write</b>，其他不用動。</li>
+      <li>按 Generate token，複製後貼到下面。</li>
+    </ol>
+    <div class="token-row">
+      <label for="tokenInput" class="eyebrow">權杖</label>
+      <input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…">
+      <button class="primary" id="tokenSave" type="button">儲存並更新</button>
+      <button class="ghost" id="tokenCancel" type="button">取消</button>
+    </div>
+    <p class="muted small">不想設定的話，也可以到 <a id="actionsLink" href="https://github.com/marzlo/Car-Radar/actions/workflows/daily.yml" target="_blank" rel="noopener">GitHub Actions 頁面</a> 按 Run workflow，效果一樣。
+      <button class="linkish" id="tokenClear" type="button" hidden>清除這台電腦上的權杖</button></p>
+  </div>
   <div id="alert" class="alert" hidden></div>
 
   <section class="brief" aria-labelledby="brief-h">

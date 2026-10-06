@@ -291,6 +291,7 @@
       get("data/brief.json", null), get("data/brief_history.json", null), get("data/issue_feed.json", null)
     ]);
     D = { status, nev, stocks, asp, news, issues, brief, history, feed };
+    $("#alert").hidden = true;
     if (status?.updated) {
       const stale = Date.now() - new Date(status.updated).getTime() > 36 * 3600e3;
       $("#updated").innerHTML = `<span class="lamp ${status.failed?.length || stale ? "warn" : ""}"></span>${esc(shortTime(status.updated))}`;
@@ -310,4 +311,84 @@
     renderIssues();
   }
   init();
+
+  // ── 手動更新：用 GitHub API 觸發 workflow，跑完自動重新載入資料 ──
+  const API = `https://api.github.com/repos/${REPO}/actions`;
+  const WF = "daily.yml";
+  const TOKEN_KEY = "car-radar-gh-token";
+  let busy = false;
+  const msg = (text, cls = "") => {
+    const el = $("#refreshMsg");
+    el.hidden = !text; el.className = "refresh-msg " + cls; el.innerHTML = text;
+  };
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+  const gh = (path, token, opts = {}) => fetch(API + path, {
+    ...opts,
+    headers: { "Accept": "application/vnd.github+json", "Authorization": "Bearer " + token, "X-GitHub-Api-Version": "2022-11-28", ...(opts.headers || {}) }
+  });
+
+  function openPanel() {
+    $("#refreshPanel").hidden = false;
+    $("#tokenClear").hidden = !store.get(TOKEN_KEY);
+    $("#tokenInput").value = "";
+    $("#tokenInput").focus();
+  }
+
+  async function runRefresh() {
+    const token = store.get(TOKEN_KEY);
+    if (!token) { openPanel(); return; }
+    if (busy) return;
+    busy = true; $("#refreshBtn").disabled = true;
+    const started = Date.now();
+    try {
+      msg("正在請 GitHub 開始更新…");
+      const r = await gh(`/workflows/${WF}/dispatches`, token, { method: "POST", body: JSON.stringify({ ref: "main" }) });
+      if (r.status === 401 || r.status === 403 || r.status === 404) {
+        msg(`權杖無效或權限不足（${r.status}）。請重新設定：需要 Car-Radar 的 Actions「Read and write」權限。`, "err");
+        openPanel(); return;
+      }
+      if (r.status !== 204) throw new Error("GitHub 回應 " + r.status);
+      let run = null;
+      for (let i = 0; i < 80; i++) {          // 最多等約 10 分鐘
+        await sleep(i < 4 ? 4000 : 8000);
+        const res = await gh(`/workflows/${WF}/runs?event=workflow_dispatch&per_page=5`, token);
+        if (!res.ok) continue;
+        const runs = (await res.json()).workflow_runs || [];
+        run = runs.find(x => new Date(x.created_at).getTime() >= started - 60000) || run;
+        const secs = Math.round((Date.now() - started) / 1000);
+        if (!run) { msg(`等待 GitHub 排入工作…（${secs} 秒）`); continue; }
+        if (run.status !== "completed") {
+          msg(`更新中：抓股價、財報、新聞，接著部署網頁（${secs} 秒，通常 1–2 分鐘）。<a href="${safeUrl(run.html_url)}" target="_blank" rel="noopener">看進度</a>`);
+          continue;
+        }
+        if (run.conclusion === "success") {
+          await sleep(5000);
+          await init();
+          msg("更新完成，已載入最新資料。", "ok");
+          setTimeout(() => { if ($("#refreshMsg").classList.contains("ok")) msg(""); }, 8000);
+        } else {
+          msg(`更新失敗（${esc(run.conclusion)}）。<a href="${safeUrl(run.html_url)}" target="_blank" rel="noopener">點這裡看錯誤紀錄</a>`, "err");
+        }
+        return;
+      }
+      msg(`等太久了，請到 <a href="https://github.com/${REPO}/actions" target="_blank" rel="noopener">Actions 頁面</a> 看狀態。`, "err");
+    } catch (e) {
+      msg("無法連到 GitHub：" + esc(e.message) + "。請稍後再試。", "err");
+    } finally {
+      busy = false; $("#refreshBtn").disabled = false;
+    }
+  }
+
+  $("#refreshBtn").onclick = runRefresh;
+  $("#tokenCancel").onclick = () => { $("#refreshPanel").hidden = true; };
+  $("#tokenClear").onclick = () => { try { localStorage.removeItem(TOKEN_KEY); } catch (e) { } $("#tokenClear").hidden = true; msg("已清除這台電腦上的權杖。", "ok"); };
+  $("#tokenSave").onclick = () => {
+    const v = $("#tokenInput").value.trim();
+    if (!/^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/.test(v)) { msg("這看起來不是 GitHub 權杖，應該以 github_pat_ 開頭。", "err"); return; }
+    store.set(TOKEN_KEY, v);
+    $("#tokenInput").value = "";
+    $("#refreshPanel").hidden = true;
+    runRefresh();
+  };
+  $("#tokenInput").addEventListener("keydown", e => { if (e.key === "Enter") $("#tokenSave").click(); });
 })();

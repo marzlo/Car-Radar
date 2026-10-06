@@ -1,6 +1,6 @@
 # 車業雷達 Car Radar
 
-個人用的汽車產業儀表板，包含數據、每日新聞和議題追蹤。放在 GitHub Pages，每天台灣時間早上 6 點自動更新。
+個人用的汽車產業儀表板，包含數據、每日新聞和議題追蹤。放在 GitHub Pages，每天台灣時間早上自動更新（約 4:30 和 7:45 各跑一次，GitHub 排程常會延遲）。
 
 網址：https://marzlo.github.io/Car-Radar/
 

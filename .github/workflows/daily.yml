@@ -2,7 +2,9 @@ name: 每日更新
 
 on:
   schedule:
-    - cron: "0 22 * * *"      # UTC 22:00 = 台灣時間 06:00
+    # GitHub 的排程在整點最擁擠，常延遲好幾個小時，所以避開整點並排兩次：
+    - cron: "23 20 * * *"     # UTC 20:23 = 台灣時間 04:23（通常 6 點前跑完）
+    - cron: "41 23 * * *"     # UTC 23:41 = 台灣時間 07:41（補跑，確保早上一定有更新）
   workflow_dispatch:           # 可以在 Actions 頁面手動按 Run workflow
   push:
     branches: [main]           # 你改議題或交車量後 push，會重建並部署
