@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06T11:00+08:00",
+ "updated": "2026-10-06T11:06+08:00",
  "fx_usd": {
   "USD": 1.0,
   "CNY": 0.149437,
-  "HKD": 0.127435,
-  "JPY": 0.006329,
+  "HKD": 0.127432,
+  "JPY": 0.006328,
   "EUR": 1.121705,
-  "TWD": 0.031499
+  "TWD": 0.031495
  },
  "companies": [
   {
@@ -187,7 +187,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 33040,
+     "asp_usd": 33034,
      "profit_usd": 2241
     },
     {
@@ -199,7 +199,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_3q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 33810,
+     "asp_usd": 33805,
      "profit_usd": 2992
     },
     {
@@ -211,7 +211,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 34770,
+     "asp_usd": 34765,
      "profit_usd": 1572
     },
     {
@@ -223,7 +223,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 35742,
+     "asp_usd": 35736,
      "profit_usd": 2810
     }
    ]
