@@ -1,8 +1,21 @@
 {
- "updated": "2026-10-06T11:21+08:00",
+ "updated": "2026-10-06T11:23+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "859686b194",
+   "title": "通用汽車確認混合動力車款加入美國陣容 因應市場需求",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNWUhMNWF1T0FQc1EyXzY2cTlkekkzY3owQUxfS1NodEdfeklMekRyZm1XT240S0hqbzM0MTVoM0pGSkxYV0RiVHE1VElPZjg2N1BtVUZKbHFUUFhBQlBIc3ZkQmt0TTluNUUtZllYdGhYN19lWEFUcVlhTmNNYWowSkJZUjBDNUh0dnRqRTVRU1F2OXN4eEFWMjBENWhweWxqYm9MRnJjVUtlODV6Zl92Ui1STGJCQWpVdU95NG45eVBKMzhhWV9sZGFtcklOTlVpY2JFdENkNXZIMTF2amlEVExJMTJFNlZzR0VHX0tUbEthbkUzRE0wcno5ekFodXFDNTVqdFZjT2hrSVpCSDREZDFRXzFxSTItZDhMSVBrbTJHTE5vUUhWUDUwOGF0QTM1UnB2VmxMbTlJUFpLZ2V4M1FlNzB6b3B5aVJib0xnbFFQMFhTTnJuMkNrR3RmRFp3cEZodE9OcGJDbU9TMXVJQlVRSUVWM0ppWEpR?oc=5",
+   "source": "商傳媒",
+   "lang": "zh",
+   "time": "2026-10-06T10:40+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "issues": []
+  },
   {
    "id": "39b91ead00",
    "title": "AI算力背後的能源革命 800V、48V配電重塑資料中心",
@@ -246,6 +259,20 @@
    "issues": [
     "homog"
    ]
+  },
+  {
+   "id": "c0c9e9cb96",
+   "title": "英國擬對中國電動車課最高45%關稅 比亞迪上汽成焦點",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxORHJVQzhhYmlRZHBnUVZPcnZjdnZyWW91bm8xME04RGJPTks4YzhGRE1WTXdNZkJxLTZDeEE2ZWtKWGFoMTdqcndYT1RuSU1mS3dtZjZNOGdqdVdUSUJCQzNaTTNRX1NIN2tIOGl5NEhjZW80M3JLQWlURDNLdXphaFRLRk52V1R4VDZMbDVYRUZBYmVERjNCTXFUT2JjYmRYZS1jTnJLbWdKTklZVEpoOG1kWWNqMzhPUnBUVXk2UFZZdzRuVGs4NnJEc2V6UERvOUkzWjBWSThnSW1VVEplVWh5cU1mYVNBWVk4dmgtVGFMX3IzVjFVX3RyV3l0aml4NE1qQU44MXpyblVFRl9kaHk0VUtJWmprUEVNNnhJQl9SV1RGUlJPc1NienJ2X1NzLW50bWswZkFpdUZzR3B2N3VIQ0NnYXI4N3lYQVBNd2NBOVk?oc=5",
+   "source": "Life 生活網",
+   "lang": "zh",
+   "time": "2026-10-06T08:09+08:00",
+   "categories": [
+    "車企動向",
+    "供應鏈"
+   ],
+   "issues": []
   },
   {
    "id": "0e46f9eee7",
@@ -2112,6 +2139,19 @@
    "source": "EE Times",
    "lang": "en",
    "time": "2026-10-05T17:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
+  },
+  {
+   "id": "2cfba7af19",
+   "title": "即便AI泡沫破裂，機器人產業也能成為支撐記憶體產業在高檔的支點",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaGUzVmlDcHVDVDVOLTdHQzFhU3ZOQVUwTHBuS19wUEVqckVQRnVRRnQyZVVaa2xRYjY1c29CVnptUVpXT3dYaVBKaGFIb2IxZ1hxWXVhVmZUUQ?oc=5",
+   "source": "科技產業資訊室",
+   "lang": "zh",
+   "time": "2026-10-05T17:00+08:00",
    "categories": [
     "其他"
    ],
@@ -4276,6 +4316,24 @@
    ]
   },
   {
+   "id": "d5dd81dadc",
+   "title": "What Airline Profit Margins Mean for the Drone Industry",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZVk84b21RTlg0bDhfd3dkd0pmVWhUeUs4bGJuTnBsVllpRTEtSFFKUThTRzN5Y0ZSUHBxTHN4SGZHbHRwM3p4LXE4YUdMZmFzWnJLYm52MFVFcjQtX1gza09oWS11RzJ4WFJMMjc5eDFYSFVVODZBdUpCOA?oc=5",
+   "source": "Commercial UAV News",
+   "lang": "en",
+   "time": "2026-10-02T22:09+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "376108641b",
    "title": "Kia emerges as Europe’s fastest-growing top 10 car brand after EV sales surge 58%",
    "summary": "Kia is crushing it in Europe with a full lineup of electric vehicles, ranging from entry-level models to the three-row flagship SUV. Thanks to its new EVs, Kia…",
@@ -5823,6 +5881,24 @@
    ]
   },
   {
+   "id": "14b4dd6edf",
+   "title": "Margin-of-Error Races as Far as the Eye Can See",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHNFSnlyM29fMFZQYTFFbmVKWGtTWDhGaXVrUDJ2SDljQWs5UjJmd0xGZFJBT3RDdVFjcldCRXl5TmhFX0ZKQWlMN0NUZS1tOHR4ZkZqYzgtNkhJQzBXbDhScWNPd3RhNXFvbjhFeW42YUwyVDhEdEdkM1VHalhnT0FxcDRfaVFpZVpCbTdXMGJJZkFSNmFQM29QUjdDdnZtbkE?oc=5",
+   "source": "cookpolitical.com",
+   "lang": "en",
+   "time": "2026-09-29T21:48+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "ef7dcb4856",
    "title": "Small-cap stocks are underperforming by the largest margin since 2020. Here's why",
    "summary": "",
@@ -5839,88 +5915,6 @@
    "issues": [
     "profit"
    ]
-  },
-  {
-   "id": "54e125883f",
-   "title": "Hyundai launches China-tailored Ioniq V electric sedan from under $15,000",
-   "summary": "Hyundai's Ioniq V starts at a limited-time price of 99,900 yuan ($14,820) in China, with a CLTC range of up to 650 km. For details, please visit CnEVPost (cnev…",
-   "link": "https://cnevpost.com/2026/09/29/hyundai-launches-china-tailored-ioniq-v/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-29T18:52+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "dd895f6cf4",
-   "title": "Shares of fast-fashion's Shein plunge 14% to record low after profit slides",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWZjMUtCelNMN3AzUkZReWtMdXBRbm9CQktZanlXQVJxVS1TeGUwZjR2M05jNnc4djlXQTZYcng5R0ZMdVhfZ09YM3dCbUJNckVFaE51Q0JmTE1UOVNkVnhIMEkwajBnSnpQRjdNRjBvMDhJQlhnMjZaM3RILUdxT29WamdBZm54Zk9hb1V4dnZ3WjRCSGJvbTRHODFQVkxaT1Ezc1k4Ympval9PZGhjb2ZiOVVIb0xpNlhOVjNuNVRDS3ZHX3hzakNKdFdRTUln?oc=5",
-   "source": "Reuters",
-   "lang": "en",
-   "time": "2026-09-29T18:15+08:00",
-   "forced_issues": [
-    "profit"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "3c9e595f0f",
-   "title": "Tesla receives approval to roll out self-driving software in Croatia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNblN1RjdSMFdsX0t4a2sxLVV2VHNqeEpfY01LLURydGdacDRBNm0xSWZVYVpBcHFNTUJKU08wclRmMDFEdzRrVUtkNG13UXpVeUpDNnpHZnlJdEZFZ0plU3FIYUJPaFdUcEFFNGJQcjdRM05JZWVwMDc0VFVROEFXWWU5V0VTYzk1QjRQMVdrYmZhVkFBejJYU2p1SlFGUEtqUVhEcXhKVHFCM1FoLTdpdWZUUGM1cjM2LTMyMkRTZ0QzRTdMWFVV?oc=5",
-   "source": "Reuters",
-   "lang": "en",
-   "time": "2026-09-29T17:16+08:00",
-   "forced_issues": [
-    "adas"
-   ],
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "issues": [
-    "adas"
-   ]
-  },
-  {
-   "id": "478bc7d4df",
-   "title": "華孚明年先保守看；攻輕量化、Robotaxi商機",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVE5UZ1ZXa3lQcWhYSjZyX3RwaDlkNUVQRnRrMHd6S2FYTGl6TWhUbTVCS0VZa29KcG9kYTVrblc0aUFpMWVZa1RZd1M1Z1QyZ2xxdTlWaEVkT1A1ZERTNk5QSFkyWTU4QVVab3FvVjJlUlcwYXZiOERGcjlzRHFzN1pXSXN0R0JOT2hfQlNMbHJVZw?oc=5",
-   "source": "MoneyDJ理財網",
-   "lang": "zh",
-   "time": "2026-09-29T17:04+08:00",
-   "forced_issues": [
-    "adas"
-   ],
-   "categories": [
-    "智駕",
-    "座艙・SDV"
-   ],
-   "issues": [
-    "adas"
-   ]
-  },
-  {
-   "id": "dc5a2a8a30",
-   "title": "BYD Da Han marks Dynasty lineup's 10 millionth vehicle ahead of October 13 launch",
-   "summary": "The Da Han will launch on October 13, with its all-electric version already available for pre-sales and offering a CLTC range of up to 1,008 km. For details, p…",
-   "link": "https://cnevpost.com/2026/09/29/byd-da-han-marks-dynasty-10-millionth-vehicle/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-29T15:10+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
   }
  ]
 }
