@@ -59,7 +59,31 @@ def main():
         except Exception as e:
             log(f"{feed['name']} 失敗：{e}")
 
+    # 每個議題用自己的關鍵字去 Google 新聞搜尋（近 7 天），找到的新聞直接掛到該議題
+    from urllib.parse import quote
+    for iss in issues:
+        kws = [k for k in iss["keywords"] if k.strip()][:8]
+        if not kws:
+            continue
+        q = " OR ".join(f'"{k}"' if " " in k else k for k in kws) + " when:7d"
+        for lang, loc in (("zh", "hl=zh-TW&gl=TW&ceid=TW:zh-Hant"), ("en", "hl=en-US&gl=US&ceid=US:en")):
+            feed = {"name": f"議題搜尋：{iss['title'][:12]}", "lang": lang,
+                    "url": f"https://news.google.com/rss/search?q={quote(q)}&{loc}"}
+            try:
+                got = parse_feed(feed, 15)
+                for it in got:
+                    tgt = fresh.setdefault(it["id"], it)
+                    tgt.setdefault("forced_issues", [])
+                    if iss["id"] not in tgt["forced_issues"]:
+                        tgt["forced_issues"].append(iss["id"])
+                log(f"議題「{iss['title'][:16]}」({lang}): {len(got)} 則")
+            except Exception as e:
+                log(f"議題「{iss['title'][:16]}」({lang}) 搜尋失敗：{e}")
+
     new_ids = [i for i in fresh if i not in old]
+    for i, it in fresh.items():  # 舊新聞若這次被議題搜尋找到，也補上議題連結
+        if i in old and it.get("forced_issues"):
+            old[i]["forced_issues"] = sorted(set(old[i].get("forced_issues", [])) | set(it["forced_issues"]))
     merged = {**fresh, **old}  # 已存在的保留（含 AI 翻譯的中文標題）
     cutoff = now_tpe() - dt.timedelta(days=cfg["news"].get("keep_days", 7))
     items = []
@@ -68,7 +92,9 @@ def main():
             continue
         text = it["title"] + " " + it.get("summary", "")
         it["categories"] = [c for c, words in cats.items() if match(text, words)] or ["其他"]
+        ids = {i["id"] for i in issues}
         it["issues"] = [i["id"] for i in issues if i["keywords"] and match(text, i["keywords"])]
+        it["issues"] += [x for x in it.get("forced_issues", []) if x in ids and x not in it["issues"]]
         items.append(it)
     items.sort(key=lambda x: x["time"], reverse=True)
     items = items[:400]

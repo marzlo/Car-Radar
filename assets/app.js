@@ -281,8 +281,10 @@
       ${isNew ? "" : `<label for="f-now">現在的判斷</label>
       <textarea id="f-now" rows="3" placeholder="現在怎麼看？觀點維持、修正，還是推翻？">${esc(isPlaceholder(v.now) ? "" : v.now)}</textarea>
       <label class="check"><input type="checkbox" id="f-log" checked> 把「現在的判斷」同時記一筆到時間軸（標籤：回顧，日期：今天）</label>`}
-      <label for="f-kw">關鍵字（用逗號分隔；新聞標題含這些字就會自動歸到這個議題）</label>
-      <input id="f-kw" value="${esc((v.keywords || []).join(", "))}" placeholder="Stellantis, Filosa, Jeep">
+      <label for="f-kw">關鍵字（用逗號分隔，越前面越重要）</label>
+      <div class="kwrow"><input id="f-kw" value="${esc((v.keywords || []).join(", "))}" placeholder="留空的話，儲存時會依議題名稱自動產生">
+        <button class="ghost" type="button" id="kwSuggest">✨ 自動產生</button></div>
+      <span class="muted small">每天也會用前 8 個關鍵字去 Google 新聞（中英文）搜尋，找到的新聞直接歸到這個議題。</span>
       <div class="factions"><button class="primary" type="submit">${isNew ? "建立議題" : "儲存"}</button><button class="ghost" type="button" data-cancel>取消</button><span class="fmsg" id="fmsg"></span></div>
     </form>`;
   }
@@ -301,7 +303,56 @@
     </form>`;
   }
 
+  // 依議題名稱產生關鍵字：比對內建詞庫（中英文同義詞、車企名稱）
+  const KW_GROUPS = [
+    [/智駕|智慧駕駛|智能駕駛|自動駕駛|自駕|輔助駕駛|NOA|ADAS|FSD|autonomous|self.?driving/i, ["智駕", "自動駕駛", "輔助駕駛", "NOA", "ADAS", "FSD", "autonomous driving", "self-driving"]],
+    [/方案|採用|供應商|晶片|平台|算力/, ["Mobileye", "Nvidia DRIVE", "地平線", "Horizon Robotics", "Momenta", "華為乾崑", "Qualcomm Snapdragon Ride", "端到端"]],
+    [/robotaxi|無人車|自駕計程/i, ["Robotaxi", "Waymo", "蘿蔔快跑", "無人駕駛計程車"]],
+    [/光達|雷達|LiDAR|感測/i, ["LiDAR", "光達", "激光雷達", "禾賽", "Hesai"]],
+    [/電池|固態|鋰|鈉|續航/, ["電池", "battery", "固態電池", "solid-state battery", "LFP", "鈉離子", "CATL", "寧德時代"]],
+    [/充電|快充|超充|換電/, ["充電", "快充", "超充", "charging", "NACS", "換電"]],
+    [/座艙|車機|中控|CarPlay|Android Auto|資訊娛樂|infotainment/i, ["智慧座艙", "車機", "CarPlay", "Android Auto", "infotainment", "cockpit", "8295"]],
+    [/SDV|軟體定義|軟件定義|OTA|中央運算|電子電氣|E\/E/i, ["SDV", "software-defined vehicle", "軟體定義汽車", "OTA", "中央運算", "zonal architecture"]],
+    [/價格戰|降價|利潤|毛利|獲利|虧損/, ["價格戰", "降價", "price war", "price cut", "毛利", "profit margin"]],
+    [/關稅|貿易|出口|出海|海外/, ["關稅", "tariff", "汽車出口", "export", "出海", "海外工廠"]],
+    [/氫|燃料電池/, ["氫能車", "燃料電池", "hydrogen", "fuel cell"]],
+    [/補貼|補助|獎勵|稅收|減稅/, ["電動車補貼", "購車補助", "EV subsidy", "EV incentive", "tax credit"]],
+    [/混動|插電|增程|PHEV|EREV/i, ["插電混動", "增程", "PHEV", "EREV", "hybrid"]],
+  ];
+  const BRANDS = [
+    [/Stellantis|斯泰蘭蒂斯/i, ["Stellantis"]], [/Tesla|特斯拉/i, ["Tesla", "特斯拉"]], [/BYD|比亞迪/i, ["BYD", "比亞迪"]],
+    [/Toyota|豐田/i, ["Toyota", "豐田"]], [/小米|Xiaomi/i, ["小米汽車", "Xiaomi EV"]], [/華為|Huawei|問界|鴻蒙智行/i, ["華為", "Huawei", "鴻蒙智行"]],
+    [/\bGM\b|通用/i, ["GM", "General Motors", "通用汽車"]], [/Ford|福特/i, ["Ford", "福特"]], [/理想|Li Auto/i, ["理想汽車", "Li Auto"]],
+    [/蔚來|NIO/i, ["蔚來", "NIO"]], [/小鵬|XPeng/i, ["小鵬", "XPeng"]], [/Waymo/i, ["Waymo"]], [/Jeep/i, ["Jeep"]],
+    [/鴻海|Foxconn/i, ["鴻海", "Foxconn"]], [/Nvidia|輝達/i, ["Nvidia", "輝達"]], [/Mobileye/i, ["Mobileye"]],
+  ];
+  function suggestKeywords(title) {
+    const out = [];
+    const add = arr => arr.forEach(k => { if (!out.includes(k)) out.push(k); });
+    BRANDS.forEach(([re, ks]) => { if (re.test(title)) add(ks); });
+    (title.match(/[A-Za-z][A-Za-z0-9\-]{2,}/g) || []).forEach(w => { if (!/^(the|and|for|with|EV|OTA)$/i.test(w)) add([w]); });
+    const groups = KW_GROUPS.filter(([re]) => re.test(title)).map(g => g[1]);
+    groups.forEach(ks => add(ks.slice(0, 4)));   // 每組前 4 個先排前面（每天搜尋只用前 8 個）
+    groups.forEach(ks => add(ks.slice(4)));
+    if (!out.length) {  // 詞庫沒對到：拿掉問句用語，用剩下的詞
+      const core = title.replace(/[？?！!。，,、：:「」『』（）()]/g, " ")
+        .replace(/目前|現在|未來|各|哪些|什麼|為何|如何|是否|能否|會不會|真正|何時|什麼時候|誰的|嗎|呢|的/g, " ")
+        .split(/\s+/).filter(w => w.length >= 2);
+      add(core.slice(0, 4));
+    }
+    return out.slice(0, 12);
+  }
+
   function bindIssueForm() {
+    const sg = $("#kwSuggest");
+    if (sg) sg.onclick = () => {
+      const t = $("#f-title").value.trim();
+      if (!t) { $("#fmsg").textContent = "請先填議題名稱"; return; }
+      const cur = $("#f-kw").value.split(/[,，、\n]/).map(x => x.trim()).filter(Boolean);
+      const merged = [...cur, ...suggestKeywords(t).filter(k => !cur.includes(k))];
+      $("#f-kw").value = merged.join(", ");
+      $("#fmsg").textContent = "";
+    };
     document.querySelectorAll("#issues [data-cancel]").forEach(b => b.onclick = () => { S.editing = null; renderIssues(); });
     const f = $("#issueForm"), e = $("#entryForm");
     if (f) f.onsubmit = ev => { ev.preventDefault(); saveIssueForm(); };
@@ -363,7 +414,8 @@
     if (!title) { $("#fmsg").textContent = "請填寫議題名稱"; $("#f-title").focus(); return; }
     const isNew = S.editing?.mode === "new";
     const old = isNew ? null : D.issues.issues.find(x => x.id === S.editing.id);
-    const kw = $("#f-kw").value.split(/[,，、\n]/).map(s => s.trim()).filter(Boolean);
+    let kw = $("#f-kw").value.split(/[,，、\n]/).map(s => s.trim()).filter(Boolean);
+    if (!kw.length) kw = suggestKeywords(title);
     const then = $("#f-then").value.trim();
     const today = todayTpe();
     let issue;
