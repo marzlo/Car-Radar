@@ -1,8 +1,21 @@
 {
- "updated": "2026-10-06T11:40+08:00",
+ "updated": "2026-10-06T11:44+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "ab1ff08dbc",
+   "title": "AI不只屬於科技業 00409A布局人資、物流、汽車等AI外溢商機",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYTE2OWszUXlSZUdXWGtFQTg2Y2R6X0x4WGRLNVRuTGdhQUFZcEdobFItaWRuX0puN0xfMzZ4Um10Z1Y4SmtkS1FRTElKT2ZPcmZhbUpmeUhpdkZ4LVA2RE05SUhZZEk3OVBKczR6VS1Qd1pQWE9ueFFWZTF6YXFWcllBajBidHd6TW8yeTRvZ2J6NERldXN1VmlMdmZ5S1RTc2RkcHBqeXJMbGdSUWJUYmh3TUhQZ29Odm8wODl6TmVrcG5idnFUWEtHN21NSkdhLU5xTWJzS2JHTFJpV2lSVENScHM1R0lSanZaWk0xMnUzMEpOUC1KdzZ2cTh5X25HM2dVd0x6SjNWV2RnU0ViVTRpV0xGbS1XTDMzUGtIbW90QWI4c2NROGJkOU1xUi1mVU42MUhNTGNIUkttUzkwa0M5b3E0S2pCa05Jb2NzSlRqV2Ro?oc=5",
+   "source": "Yahoo新聞",
+   "lang": "zh",
+   "time": "2026-10-06T11:33+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
+  },
   {
    "id": "d5dc04d11b",
    "title": "大陸十一長假電動車的救星：巨型行動「充電寶」",
@@ -523,19 +536,6 @@
    ]
   },
   {
-   "id": "6e2a31cf0a",
-   "title": "2026下半年「中型休旅」4款：X-Trail、CX-5主力掀戰火",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XekRkaXlmT1VzeEpMMmx6aFctMW5vVXd2aHlmNTUxVTN2VWhqV2hrWVVIaVoxRUV2bDl2MVpsSVVHNDhhRmJGMmVzUUFRMDl5dkE?oc=5",
-   "source": "地球黃金線",
-   "lang": "zh",
-   "time": "2026-10-06T06:30+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
    "id": "cbbaaca554",
    "title": "Department of War drafts EV battery factory into military drone duty with $75M grant",
    "summary": "As if to prove that there may not be money for universal childcare or nationalized healthcare but there is ALWAYS more money for war, the US Department of War …",
@@ -550,6 +550,19 @@
    "issues": [
     "ssb"
    ]
+  },
+  {
+   "id": "6e2a31cf0a",
+   "title": "2026下半年「中型休旅」4款：X-Trail、CX-5主力掀戰火",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XekRkaXlmT1VzeEpMMmx6aFctMW5vVXd2aHlmNTUxVTN2VWhqV2hrWVVIaVoxRUV2bDl2MVpsSVVHNDhhRmJGMmVzUUFRMDl5dkE?oc=5",
+   "source": "地球黃金線",
+   "lang": "zh",
+   "time": "2026-10-06T06:30+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
   },
   {
    "id": "8931e8591a",
@@ -823,6 +836,19 @@
    "issues": []
   },
   {
+   "id": "02d930571d",
+   "title": "UK Weighs 45.3% Tariffs on Chinese EVs Amid EU Pressure",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3BUdkc1emdTOXZLZmwzbklkTUk1OS1QM2RxRHVDNUVjT2Q4ZDMwTkN3VlJUQlE0TEgycXZ1bTk5Tk54NWdETWVCWUtCNUIyMzFqMlU4enQ1SVNiWWZYTEpyYUlSZGRVOTJfbEtVcE5ZR1hJb19ITHlqd2Q3b0d3Nkh1dllsX24t?oc=5",
+   "source": "조선일보",
+   "lang": "en",
+   "time": "2026-10-06T04:29+08:00",
+   "categories": [
+    "供應鏈"
+   ],
+   "issues": []
+  },
+  {
    "id": "137dcde000",
    "title": "UK Considers EU-Level Tariffs on Chinese EVs Amid Market Pressure",
    "summary": "",
@@ -977,6 +1003,25 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "edbb65a138",
+   "title": "Coppa Bernocchi: Noa Isidore Wins in a Sprint Finish",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEhSSkM5YVlSU0FrN0JXVndNT0I1bmI3NUhqZUlXV0F6UU43VVlTNVZucnp3Y2hnbFZGblVwVVlDekVCLWRsMWxYYnlHLU5aVEQ4ekRVb1pudjN1NElQemFFbU5hcDhld3NWc3ZDU0F1ZUgzbFFLenA5TUZrNm1ES0NoTERSVGl6?oc=5",
+   "source": "decathloncmacgmteam.com",
+   "lang": "en",
+   "time": "2026-10-06T02:45+08:00",
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "9b25417abe",
@@ -1926,19 +1971,6 @@
    "issues": []
   },
   {
-   "id": "c9f3867f02",
-   "title": "Citroën預告新世代2CV巴黎車展首演，經典車純電重生起跳價有望低於60萬",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GU2lQb3VIajRqRmNuNFNSTEw5S3AxV1lvSmM5SEJiVnRHMU03WEFCMENxQ3JxTkdOUmV5bm1kMUJMMFhsNDV5ZDRHVmN2Y0dMa0E?oc=5",
-   "source": "地球黃金線",
-   "lang": "zh",
-   "time": "2026-10-05T18:07+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "issues": []
-  },
-  {
    "id": "d8bb79258b",
    "title": "現代攜手波士頓動力強攻實體 AI，挑戰特斯拉拚 2028 年產 3 萬台",
    "summary": "",
@@ -1961,6 +1993,19 @@
    "time": "2026-10-05T18:07+08:00",
    "categories": [
     "其他"
+   ],
+   "issues": []
+  },
+  {
+   "id": "c9f3867f02",
+   "title": "Citroën預告新世代2CV巴黎車展首演，經典車純電重生起跳價有望低於60萬",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GU2lQb3VIajRqRmNuNFNSTEw5S3AxV1lvSmM5SEJiVnRHMU03WEFCMENxQ3JxTkdOUmV5bm1kMUJMMFhsNDV5ZDRHVmN2Y0dMa0E?oc=5",
+   "source": "地球黃金線",
+   "lang": "zh",
+   "time": "2026-10-05T18:07+08:00",
+   "categories": [
+    "Stellantis"
    ],
    "issues": []
   },
@@ -2266,6 +2311,19 @@
    "issues": []
   },
   {
+   "id": "2cfba7af19",
+   "title": "即便AI泡沫破裂，機器人產業也能成為支撐記憶體產業在高檔的支點",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaGUzVmlDcHVDVDVOLTdHQzFhU3ZOQVUwTHBuS19wUEVqckVQRnVRRnQyZVVaa2xRYjY1c29CVnptUVpXT3dYaVBKaGFIb2IxZ1hxWXVhVmZUUQ?oc=5",
+   "source": "科技產業資訊室",
+   "lang": "zh",
+   "time": "2026-10-05T17:00+08:00",
+   "categories": [
+    "其他"
+   ],
+   "issues": []
+  },
+  {
    "id": "29ff347bc0",
    "title": "Toyota、Honda、Mazda、Suzuli、Mitsubishi開秘密會議？其實是為著零件成本協商",
    "summary": "",
@@ -2276,19 +2334,6 @@
    "categories": [
     "座艙・SDV",
     "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "2cfba7af19",
-   "title": "即便AI泡沫破裂，機器人產業也能成為支撐記憶體產業在高檔的支點",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaGUzVmlDcHVDVDVOLTdHQzFhU3ZOQVUwTHBuS19wUEVqckVQRnVRRnQyZVVaa2xRYjY1c29CVnptUVpXT3dYaVBKaGFIb2IxZ1hxWXVhVmZUUQ?oc=5",
-   "source": "科技產業資訊室",
-   "lang": "zh",
-   "time": "2026-10-05T17:00+08:00",
-   "categories": [
-    "其他"
    ],
    "issues": []
   },
@@ -4931,6 +4976,24 @@
    ]
   },
   {
+   "id": "9f13d49c56",
+   "title": "Nike財報》中國市場業績持續下滑使營收衰退4％ 預計2027年實施新一輪裁員",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51RW0yVmJaWnpXSm1UXzNuSmk2OEhmeWNSTXlNSDVKQ1VLNXk2Q1ZHRXdOOVRXVjRlcEZMeUh1MmplT0hGczQtYkszeGV5MmlBMDU1OXl6OFFKanNxUTJOMEJ4V19WTFpvZEw2M29iTlBGY09DXzhUTGF0TQ?oc=5",
+   "source": "財訊",
+   "lang": "zh",
+   "time": "2026-10-02T15:25+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "718f7009f1",
    "title": "Dairy Margin Coverage sign-up opens Oct. 5",
    "summary": "",
@@ -5796,68 +5859,6 @@
     "其他"
    ],
    "issues": []
-  },
-  {
-   "id": "09981087c0",
-   "title": "超越地平線：全球第一退休目的地，滿足退休生活的五大關鍵需求",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNTDhfYkVEOURxXzF3ZzRidUkyN3JYUUk2cUFzQ0lYR3lCaGZiYnNpMEhXZEJRSU8tRkktRjNDSVZDbm1Ib2dGUXMtZmxURWg2dHZ2bWwteTIzZE1jZTQ0NEswOW9TUk5PLXF6NlNUYjZvajlSQkhvWU5fMTJxSmkwem5lOEo2amFkQXgtMGFlMEtTcWI0dDJDZXpmSUdIekRLaHd2ZXBHbllYYjN4VTlsN3dXR3BHeE4zQ3E1NU94enNfZ091MkdMZkE2VTdqTHcyeWw5V2lHb3R0TmRNclFzcnNOMk1ud0VpaldMQ29pel9OTmZGNFRfSWR5bTJ4Z1RELThzUlJ6bzk4eWVwaExwSW5leFdBcC1wTHN4TnpNUV9TRU55bnlKZnNHa1Vtd2FHZkNvLTFkcnNQcDZYU0tINFY3cFo3YjJzZ1VwbkV6UEtMY3pWNHU5TWZQUUQ4Zmlub0NSc01pU3NOX1JxOEtzYmtzcEJxU21SU1BuUzlJTjhrQkVqbXBKaXFaN1hPMUV5dzltdkJrY2lKMEdadlhEY3hNOFBkUzh5eDZQV1hjYw?oc=5",
-   "source": "Yahoo新聞",
-   "lang": "zh",
-   "time": "2026-10-01T10:54+08:00",
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "categories": [
-    "其他"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "185e060ce9",
-   "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
-   "summary": "Sky Nomad helped lift Xiaomi Auto's monthly deliveries to their highest level so far in 2026 in its first month on sale. For details, please visit CnEVPost (cn…",
-   "link": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T10:50+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "46398f3a7c",
-   "title": "Li Auto September deliveries fall 6.29% to 31,817",
-   "summary": "Li Auto delivered 99,964 vehicles in the third quarter, up 7.24% year-on-year and 1.66% from the second quarter. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/li-auto-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T10:19+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": []
-  },
-  {
-   "id": "0851cf22f1",
-   "title": "鈉離子電池：「美國製造」能超越中國嗎？",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HN0JwTnBDazM4ZVNHUW5yV3U5M1FMZExDZDdXdVVCRVF4cUgtMEFlVkpGT2ViLTl3MGMweW5LODJDczNXdWdpRVo2NXlBS3loMjhka3BqVlRxOWQ4bFNKNFBZMGtpZ0nSAWxBVV95cUxNSXpUcDc5dnBONU5rV1ZGbjJRWlBrSGRRc1diWXVQd29KejdfdXI1NHBIMHdZcFp6bnBoZ3d6eWVGNmdRVTFLR3ZYdUNkUWp6a3pmeUNFbkJjaFNrMTRrSUJObkUtY2MtRS1HTlY?oc=5",
-   "source": "BBC",
-   "lang": "zh",
-   "time": "2026-10-01T10:03+08:00",
-   "forced_issues": [
-    "ssb"
-   ],
-   "categories": [
-    "電池"
-   ],
-   "issues": [
-    "ssb"
-   ]
   }
  ]
 }
