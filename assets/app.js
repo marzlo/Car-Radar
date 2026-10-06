@@ -140,42 +140,6 @@
   }
 
   // ── 每車售價與利潤 ──
-  function renderAsp() {
-    const cos = D.asp?.companies || [];
-    document.querySelectorAll(".seg button").forEach(b => {
-      b.setAttribute("aria-selected", b.dataset.m === S.aspMetric);
-      b.onclick = () => { S.aspMetric = b.dataset.m; store.set("aspMetric", S.aspMetric); renderAsp(); };
-    });
-    if (!cos.length) { $("#asp").innerHTML = `<tr><td class="empty">還沒有資料。</td></tr>`; return; }
-    const qs = [...new Set(cos.flatMap(c => c.quarters.map(q => q.quarter)))].sort().slice(-6);
-    const k = S.aspMetric;
-    const all = cos.flatMap(c => c.quarters.map(q => q[k])).filter(v => v != null);
-    const maxAbs = Math.max(1, ...all.map(Math.abs));
-    const hasNeg = all.some(v => v < 0);
-    const cell = (q) => {
-      if (!q) return `<td class="cell na">—</td>`;
-      const v = q[k];
-      if (v == null) {
-        const why = !q.deliveries ? "缺交車量" : "缺財報";
-        return `<td class="cell na" title="${why}">—<span class="small"> ${why}</span></td>`;
-      }
-      const w = Math.abs(v) / maxAbs * (hasNeg ? 50 : 100);
-      const left = hasNeg ? (v < 0 ? 50 - w : 50) : 0;
-      const tip = `交車 ${nf(q.deliveries)}・營收 ${big(q.revenue)} ${q.currency}・營業利益 ${big(q.operating_income)} ${q.currency}`;
-      const cls = k === "profit_usd" ? (v < 0 ? "neg" : "pos") : "";
-      return `<td class="cell" title="${esc(tip)}">$${nf(v)}<span class="bar${hasNeg ? " zero" : ""}"><i class="${cls}" style="left:${left}%;width:${w}%"></i></span></td>`;
-    };
-    $("#asp").innerHTML = `<thead><tr><th>車企</th>${qs.map(q => `<th>${q.replace("Q", " Q")}</th>`).join("")}</tr></thead><tbody>` +
-      cos.map(c => {
-        const byQ = Object.fromEntries(c.quarters.map(q => [q.quarter, q]));
-        return `<tr><td class="co"><b>${esc(c.name)}</b>${c.note ? `<span>${esc(c.note)}</span>` : ""}</td>${qs.map(q => cell(byQ[q])).join("")}</tr>`;
-      }).join("") + "</tbody>";
-    const fx = D.asp.fx_usd || {};
-    $("#aspFoot").innerHTML = (k === "profit_usd" ? `<span class="legend"><span><i style="background:var(--down)"></i>◀ 虧損</span><span>中間直線 = 0</span><span><i style="background:var(--up)"></i>獲利 ▶</span></span>` : "") + `單位：美元／輛。${k === "asp_usd" ? "每車平均售價 = 季營收 ÷ 交車量" : "每車營業利益 = 季營業利益 ÷ 交車量"}，用全公司數字估算（小米只用汽車分部），適合看趨勢，不適合精確比較。
-      匯率用最新值統一換算：1 CNY = ${fx.CNY ?? "?"}、1 JPY = ${fx.JPY ?? "?"}、1 EUR = ${fx.EUR ?? "?"} USD。滑鼠移到數字上看交車量與財報原值。
-      交車量每季在 <code>data/manual/deliveries.csv</code> 補一行。更新：${esc(shortTime(D.asp.updated))}`;
-  }
-
   // ── 新聞 ──
   const CATS = ["全部", "Stellantis", "電池", "智駕", "座艙・SDV", "車企動向", "供應鏈", "其他"];
   function renderNews() {
@@ -531,8 +495,28 @@
     return (h.at(-1)[1] - base[1]) / base[1] * 100;
   }
 
+  // 最近 4 季每車營業利益的小長條：綠＝獲利、紅＝虧損，中線＝0
+  function miniBars(series) {
+    const vals = series.map(x => x.v).filter(v => v != null);
+    if (vals.length < 2) return "";
+    const m = Math.max(...vals.map(Math.abs)) || 1, W = 64, H = 26, bw = W / series.length;
+    return `<svg class="mini" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" aria-hidden="true"><line x1="0" x2="${W}" y1="${H / 2}" y2="${H / 2}" stroke="var(--line)"/>${series.map((x, i) => {
+      if (x.v == null) return "";
+      const h = Math.max(1, Math.abs(x.v) / m * (H / 2 - 1));
+      return `<rect x="${i * bw + 2}" width="${bw - 4}" y="${x.v >= 0 ? H / 2 - h : H / 2}" height="${h}" fill="var(${x.v >= 0 ? "--up" : "--down"})"><title>${x.q}：${x.v < 0 ? "−" : ""}${usd(Math.abs(x.v))}</title></rect>`;
+    }).join("")}</svg>`;
+  }
+
   function renderMarket() {
-    const all = (D.market?.companies || []).map(c => ({ ...c, units: c.sales?.units ?? null, perCar: c.cap_usd && c.sales?.units ? c.cap_usd / c.sales.units : null }));
+    const aspBy = Object.fromEntries((D.asp?.companies || []).map(a => [a.name, a]));
+    const all = (D.market?.companies || []).map(c => {
+      const a = aspBy[c.name];
+      const qs = (a?.quarters || []).filter(q => q.asp_usd != null || q.profit_usd != null).sort((x, y) => x.quarter < y.quarter ? -1 : 1);
+      const lastA = [...qs].reverse().find(q => q.asp_usd != null), lastP = [...qs].reverse().find(q => q.profit_usd != null);
+      return { ...c, units: c.sales?.units ?? null, perCar: c.cap_usd && c.sales?.units ? c.cap_usd / c.sales.units : null,
+        aspNote: a?.note || "", asp: lastA?.asp_usd ?? null, aspQ: lastA?.quarter, profit: lastP?.profit_usd ?? null, profitQ: lastP?.quarter,
+        pSeries: qs.slice(-4).map(q => ({ q: q.quarter, v: q.profit_usd })) };
+    });
     const ok = all.filter(c => c.cap_usd && c.units);
     if (!ok.length) {
       $("#regionCards").innerHTML = `<p class="empty">市值資料還沒抓到。下一次自動更新（或按手動更新）後就會出現；銷量已在 data/manual/sales_annual.csv。</p>`;
@@ -623,8 +607,8 @@
     const rows = all.filter(c => filt === "全部" || c.region === filt).sort((a, b) => (b[key] ?? -1) - (a[key] ?? -1));
     const maxPer = Math.max(...ok.map(c => c.perCar));
     $("#mktTools").innerHTML = `<div class="tabs" role="tablist">${["全部", ...REGIONS].map(r => `<button role="tab" aria-selected="${r === filt}" data-mr="${r}">${r}</button>`).join("")}</div>
-      <div class="seg" role="tablist">${[["units", "依銷量"], ["cap_usd", "依市值"], ["perCar", "依每輛市值"]].map(([k, l]) => `<button role="tab" data-ms="${k}" aria-selected="${k === key}">${l}</button>`).join("")}</div>`;
-    $("#mktTable").innerHTML = `<thead><tr><th>車企／集團</th><th>地區</th><th>${year} 銷量<button type="button" class="term" data-term="sales" aria-label="說明">ⓘ</button></th><th>市值（USD）<button type="button" class="term" data-term="cap" aria-label="說明">ⓘ</button></th><th>每賣一輛車的市值<button type="button" class="term" data-term="perCar" aria-label="說明">ⓘ</button></th><th>市值 30 天<button type="button" class="term" data-term="cap30" aria-label="說明">ⓘ</button></th></tr></thead><tbody>` +
+      <div class="seg" role="tablist">${[["units", "依銷量"], ["cap_usd", "依市值"], ["perCar", "依每輛市值"], ["asp", "依每車售價"], ["profit", "依每車利益"]].map(([k, l]) => `<button role="tab" data-ms="${k}" aria-selected="${k === key}">${l}</button>`).join("")}</div>`;
+    $("#mktTable").innerHTML = `<thead><tr><th>車企／集團</th><th>地區</th><th>${year} 銷量<button type="button" class="term" data-term="sales" aria-label="說明">ⓘ</button></th><th>市值（USD）<button type="button" class="term" data-term="cap" aria-label="說明">ⓘ</button></th><th>每賣一輛車的市值<button type="button" class="term" data-term="perCar" aria-label="說明">ⓘ</button></th><th>每車平均售價<button type="button" class="term" data-term="asp" aria-label="說明">ⓘ</button></th><th>每車營業利益<button type="button" class="term" data-term="profit" aria-label="說明">ⓘ</button></th><th>市值 30 天<button type="button" class="term" data-term="cap30" aria-label="說明">ⓘ</button></th></tr></thead><tbody>` +
       rows.map(c => {
         const ch = capChange(c, 30);
         return `<tr><td class="co"><b>${esc(c.name)}</b><span>${esc(c.brands)}</span></td>
@@ -632,6 +616,8 @@
           <td class="cell" title="${esc((c.sales?.metric || "") + (c.sales?.note ? "；" + c.sales.note : ""))}">${units(c.units)}<span class="rank">#${rU[c.name]}</span></td>
           <td class="cell">${usd(c.cap_usd)}<span class="rank">#${rC[c.name]}</span></td>
           <td class="cell">${usd(c.perCar)}<span class="bar"><i style="left:0;width:${c.perCar ? Math.max(1, c.perCar / maxPer * 100) : 0}%;background:${RCOLOR[c.region]}"></i></span></td>
+          ${c.asp != null ? `<td class="cell" title="${esc(c.aspNote)}">${usd(c.asp)}<span class="rank">${esc(c.aspQ.replace("Q", " Q"))}</span></td>` : `<td class="cell na" title="這家公司還沒有季度交車量，可在 config/settings.yml 的 asp_companies 加入">未追蹤</td>`}
+          ${c.profit != null ? `<td class="cell ${c.profit < 0 ? "down" : "up"}" title="${esc(c.aspNote)}">${c.profit < 0 ? "−" : ""}${usd(Math.abs(c.profit))}${miniBars(c.pSeries)}<span class="rank">${esc(c.profitQ.replace("Q", " Q"))}</span></td>` : `<td class="cell na">${c.asp != null ? "缺財報" : "未追蹤"}</td>`}
           <td class="cell ${ch == null ? "na" : ch > 0 ? "up" : "down"}">${ch == null ? "累積中" : (ch > 0 ? "▲ " : "▼ ") + Math.abs(ch).toFixed(1) + "%"}</td></tr>`;
       }).join("") + "</tbody>";
     $("#mktTools").querySelectorAll("[data-mr]").forEach(b => b.onclick = () => { S.mktRegion = b.dataset.mr; renderMarket(); });
@@ -661,6 +647,22 @@
     cap: () => `<b>市值</b> = 股價 × 流通股數，代表股市此刻對整家公司的定價。
       <p>每天從 Yahoo Finance 更新，用最新匯率換成美元，方便跨國比較。現代集團是現代＋起亞相加。</p>
       <p class="tip-note">匯率變動也會讓美元市值變化，即使當地股價沒動。</p>`,
+    asp: () => {
+      const cs = (D.asp?.companies || []).map(c => ({ c, q: [...c.quarters].reverse().find(q => q.asp_usd != null && q.revenue) })).filter(x => x.q);
+      const ex = cs.find(x => x.c.name === "Tesla") || cs[0];
+      return `<b>每車平均售價（ASP）</b> = 一季營收 ÷ 那一季交車量，換成美元。
+        ${ex ? `<div class="tip-ex">例：${esc(ex.c.name)} ${ex.q.quarter} 營收 ${big(ex.q.revenue)} ${ex.q.currency} ÷ ${units(ex.q.deliveries)} 輛 ≈ <b>${usd(ex.q.asp_usd)}</b></div>` : ""}
+        <p>看車企賣的是便宜車還是高價車、價格戰有沒有把均價壓下來。</p>
+        <p class="tip-note">用全公司營收估算：Tesla 含能源業務、BYD 含代工，會偏高；小米只用汽車分部。顯示的是最近一季有資料的數字。</p>`;
+    },
+    profit: () => {
+      const cs = (D.asp?.companies || []).map(c => ({ c, q: [...c.quarters].reverse().find(q => q.profit_usd != null) })).filter(x => x.q);
+      const ex = cs.find(x => x.c.name === "Toyota") || cs[0];
+      return `<b>每車營業利益</b> = 一季營業利益 ÷ 那一季交車量，換成美元。
+        ${ex ? `<div class="tip-ex">例：${esc(ex.c.name)} ${ex.q.quarter} 營業利益 ${big(ex.q.operating_income)} ${ex.q.currency} ÷ ${units(ex.q.deliveries)} 輛 ≈ <b>${usd(ex.q.profit_usd)}</b></div>` : ""}
+        <p>每賣一輛車實際賺（或虧）多少。<span class="up">綠色</span>獲利、<span class="down">紅色</span>虧損；右邊小長條是最近 4 季的變化，中線是 0。</p>
+        <p class="tip-note">和「每賣一輛車的市值」對照：利潤低但市值高＝市場在押未來；利潤高但市值低＝可能被低估。「未追蹤」代表這家還沒有季度交車量。</p>`;
+    },
     cap30: () => `<b>市值 30 天</b>：和 30 天前相比，美元市值漲跌幾 %。
       <p>綠色 ▲ 上漲、紅色 ▼ 下跌。從開始追蹤那天起每天記錄一次，滿一個月才會出現數字，之前顯示「累積中」。</p>`,
   };
@@ -712,7 +714,6 @@
     $("#newsMeta").textContent = news ? `${news.feeds_ok}/${news.feeds_total} 個來源正常・${shortTime(news.updated)}` : "";
     setupBriefHistory();
     renderGauges();
-    renderAsp();
     renderMarket();
     renderNews();
     renderIssues();

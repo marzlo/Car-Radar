@@ -229,3 +229,5 @@ table.mkt td.cell .bar{margin-top:4px}
 .tip ul{margin:6px 0 0;padding-left:18px}
 .tip .tip-ex{margin-top:6px;padding:6px 8px;background:var(--sunk);border-radius:4px;font-family:var(--f-mono);font-size:12px}
 .tip .tip-note{color:var(--muted);font-size:12px}
+table.mkt{min-width:1040px}
+table.mkt td.cell .mini{display:block;margin:4px 0 0 auto}
