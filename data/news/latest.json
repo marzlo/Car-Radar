@@ -1,8 +1,26 @@
 {
- "updated": "2026-10-06T11:17+08:00",
+ "updated": "2026-10-06T11:21+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "39b91ead00",
+   "title": "AI算力背後的能源革命 800V、48V配電重塑資料中心",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0RSbGJoVmUwN0hGNVItaEJTcVVheUFUTDdOSGJILTJJakZoVE50djFaREMybmtlSlRJTXJDZXBZel94eFhubm9DVHA0NkJ5Sk01Nm1yalpHYjlTZEgzdXQ3MU9hUnphUnZfcW5RNk9xbVlfM1V3TDIteUNYQ0ZNU19FcFY1cHFidXRVVW03X2dwVzVHZE1ETzdRVQ?oc=5",
+   "source": "eettaiwan.com",
+   "lang": "zh",
+   "time": "2026-10-06T10:33+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
   {
    "id": "68d7cdd947",
    "title": "台灣車電驗證接軌美德！ARTC建國際級資安聯網場域",
@@ -54,6 +72,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "285f75a824",
+   "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TRzNnSml0UEJ2WTlSQjByNlFGN3JEem1TVXVSdFFkZGJPbURhV3p5T2tOWGFnWW9Uc3NsRkNQZUdxNE1pTjRqcG14VGlmc2g0TjFIeXlWMHhvX05lWFFQQU9nR3JTNGZQckRUS19zbzk0LTJ0?oc=5",
+   "source": "qz.com",
+   "lang": "en",
+   "time": "2026-10-06T09:35+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "cf3e9200b9",
@@ -164,6 +200,22 @@
    "issues": []
   },
   {
+   "id": "d29eb2f6e7",
+   "title": "Hyundai Has The Longest EV Battery Warranty, But GM Quietly Set A Stricter Standard",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtLU9CTnVRM0JKX2pRTUFwMzBxY0VwNmFzbXhoUjg5NVRieHZrcGNlRFV3eDZGNjhYU2hsc2RMaXVMV2xTYWxlbU1zRTBrcE9ldjB1RmMxaURJOUd6SXZkNl83dWEza0xDXzhnS0hB?oc=5",
+   "source": "CarBuzz",
+   "lang": "en",
+   "time": "2026-10-06T08:30+08:00",
+   "categories": [
+    "電池",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "0cae92a0ea",
    "title": "日系全新進口休旅「台灣今年上市」！速霸陸e-Outback空間比油車更大更好用",
    "summary": "",
@@ -175,6 +227,25 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "20f4a3b93e",
+   "title": "華為與高通達成多年期專利協議，5G、AI 與運算技術首度展開交叉授權",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0pWVENXSTY1dEh0UU43MlhFZktBYzBOaFc2UEpxLTVDel8xWVpHTnROOTdwRDVVYmlMOUstbF9nNVhJN1ZBOHkwb3k2T3lET1JMeFN5a21sWnlZMF9uNUhZNFZoellvbVRiMHM1NmFwa0YtQUhtLUNKZE9JQjVxclU5UWE5dGZZMTZfTlZaNjlFTkNUQzRPbElUd21JNFdLaWZpd2JnNlFqZw?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-06T08:12+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "0e46f9eee7",
@@ -259,6 +330,24 @@
    "issues": []
   },
   {
+   "id": "6672c64d24",
+   "title": "Safety Tips: Lithium-ion battery fire prevention",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjJHMlBFVk8tQXpSS1YzRXd2T2FlbVd4UTdhcVVMdjVXNW1lNzlxYkdXcU52U3lENnI5X3ZaejZoZ2kwOXhiak1INjgwcUdXd215ckRubmpKbVlIbWdkeExYdS1hLTJNZU9KT0huVWNIS1NwcTVpU05GNGJEbDBwcjQwSXR6N1MtdnZzRTdjM3gyTUxGXzhMYjhvWHdRSG03QmQyQzBYWFI5Wm4wTGRINGRGZTBabGxqWUE?oc=5",
+   "source": "New Mexico State University",
+   "lang": "en",
+   "time": "2026-10-06T07:13+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "ff25c06af9",
    "title": "Six Flags has installed one of the largest solar carports in the US",
    "summary": "Six Flags Magic Mountain is putting its parking lots to work with a new 12.37-megawatt (MW) solar installation – California’s largest solar carport. It’s expec…",
@@ -296,6 +385,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "8bd0363b01",
+   "title": "Metra shows off new battery-powered train at American Public Transportation Association conference at Chicago's McCormick Place",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVHJSZUdCMGNoM3NHclJlbm1YN0ZPUHdFc2FWano5aTdzNmkyQ21TbXpFV3pSNEp2OUEwbVlRR19zd0s0cTZaYUFHcDlvSS1kbU9IWHlsT3FqenRKcm9aZ1Z0b0tJU1BlLWt2UkY2Y0RZemJic08wTUY3UEhoS0U5elEyN2o2TmVpM3oya1dreC1LWWszZDN2c2VIUjh5ZE1DeEFlSVNfOENpT2kzdlZaaERVNFVjUnNMR25LWGVWSnRSX0dtUEtnMEk2aTBHeEt1alNSQnp6cFFhQnNyZDBMbE13RHBtOWZxYW1ybWxLb1LSAfYBQVVfeXFMT2Z2UXFsZVdKVFFFdUtHbDAzLUNkX0pHall2MW11alBRT3dYVGxCbHFxVEx5a0ZLLTQzbWRIY1VFSzJtV1RxWUJ2aFI4aWkwRlF6Qi03X0ZmUV9vbm9tLTVKd2ROeC1FQktOeEFoQ0pZNl81TkNYbE5EX1JlU09UV1h5SmxyaDVDWnRPdEhnb1kzN3pwcDdVb1RjX2FGWWp1b2RwWVYzVU44ZV80VzZZLTdwY3pZWERiQ0ZuWVNWemRyNTB0dmxFVkJpcEdGLUlpV0hWMFYyUjgtRXItLUhHb25GdHl2NWVsazY5TnFxMjR4VlFBTFVB?oc=5",
+   "source": "ABC7 Chicago",
+   "lang": "en",
+   "time": "2026-10-06T06:31+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "6e2a31cf0a",
@@ -566,6 +673,24 @@
    "issues": []
   },
   {
+   "id": "2b99139669",
+   "title": "Qualcomm and Arm begin new trial over chip testing tools",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSS03MkZ2Q1NrZ0NnMGE0VGotME5VMmpIaFphaUdBd2ZWYzhHdTU4Unhad2tmS2k0NXg1ZGY2NHhjX19nZzR0OVNmLTRtTE1jX3c3UGEyYmpIRlhnbmtJZUZ1T2JLcFM3ckRRcDE5ZnB5SEpnbk1vQWtQOUV6VDJnVjd4ZnBHN1QwTlBMMTlkVWdNR0FhU0Q3cE5oVlgyNlBfSmVZanRkanhqZ2tUTlFiX3BBbw?oc=5",
+   "source": "Investing.com",
+   "lang": "en",
+   "time": "2026-10-06T04:40+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "4c57e5cb6b",
    "title": "UK Weighs EU-Level Tariffs on Chinese EVs",
    "summary": "",
@@ -761,6 +886,24 @@
    "issues": []
   },
   {
+   "id": "85a0e14d26",
+   "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91UHhJZmQ2elJYUS1GUzdfc2RhTmR2eHlLaEdLSmdSREctaXFrQk1DY0t1eG5FbWZQVTVaMXhOcE5lQU4zMGlGY29qdHNjeW1NNXoyNkNmSjFjWmRqemwtRU9XWU05Z2cyOXpRbXM4c2dwRHlDdmtzUExn?oc=5",
+   "source": "Huawei",
+   "lang": "en",
+   "time": "2026-10-06T02:26+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "1e7169c752",
    "title": "This Chinese SUV Was The UK's Best Selling Car Last Month",
    "summary": "The Jaecoo 7 SUV, available as a plug-in hybrid, was the best-selling new car in the UK in September.",
@@ -811,6 +954,25 @@
     "Stellantis"
    ],
    "issues": []
+  },
+  {
+   "id": "bab2b6e8ff",
+   "title": "高通取得華為「邏輯折疊」授權涵蓋5G裝置、共同封裝光學等| 陸港經貿| 兩岸",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zd3Q1SF9vSGIwNlRrNkREalJjbVFOcXFtaVZVTTE5Vnh5YjFJd0tjbnBBQ2lBWTFRMGRza3BKSEVuVUZMUW1sZ2RjM2c0WmF2?oc=5",
+   "source": "udn.com",
+   "lang": "zh",
+   "time": "2026-10-06T01:58+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "5cc333759f",
@@ -918,6 +1080,27 @@
    "issues": []
   },
   {
+   "id": "a678fb115f",
+   "title": "Tesla reveals early Robotaxi charging strategy, showing scrappy DNA",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTW5oV2dxLVhaWTRrUk1rOXZGZzltdldOeUs4QmJTSG9DM0ZJS1JhNW1MeXJwX1J2R1VwZk9MUmI0c19tb2N1bUpqRVRtU3BKMmhoR3FCMmVST2l2QjFfbkdvMXJZZV93dzljRHUxUDdZLS1Xam9pX0d3ZGhvTTZHMzJPRQ?oc=5",
+   "source": "Teslarati",
+   "lang": "en",
+   "time": "2026-10-06T01:01+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "電池",
+    "智駕",
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "c966258a7a",
    "title": "Ram Vs. Jeep Sales Growth: It’s Not Even Close",
    "summary": "",
@@ -1001,6 +1184,24 @@
    "issues": []
   },
   {
+   "id": "01dc3b13e6",
+   "title": "Qualcomm, Huawei strike multi-year patent deal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjFYcVRZWkNULU84SEdIcTdTS2dUYXRvNXhsNVJOdzA4c1h6UDRBaUpwQWh6cjhUZmRRWWkyTGNpOXg4a3luT1lDTXI1Wmoxb1FnLTFINGdxQk9jZC1pelRiM2dmZ2w1TjNQUklOY1czbUpzV2pTMHFldHBhRGtZaUxNQUdsalhqRS1zSzBR?oc=5",
+   "source": "Fierce Network",
+   "lang": "en",
+   "time": "2026-10-06T00:03+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "5e35a0b9d3",
    "title": "Toyota gets the green light for a new EV built to take on China",
    "summary": "Toyota will invest around $1.3 billion, the largest in Argentina’s automotive industry to date, to produce a new electric vehicle at its site in Buenos Aires. …",
@@ -1054,6 +1255,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "ed2f811919",
+   "title": "Huawei Says Qualcomm Will Pay for Its Patents for the First Time. Here’s What It Means for Qualcomm Stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRWdQUDZnM0I3S3JYYzhzYmhOaVRQekZOd2FBVGNESHVpM0V0cGtDVVVjTVZTV21KRzVjSjM5ZVRxRTM5MFNTQ3pnVWxlQXBfVnFxN2ZwZ0hFeFNFblV6bkFDUy1fU3lLVFI3QnBpcEdjMkdrZHN2eTNSOFdUSzJvX1hXZUUyUTB4a0lvbG5adVp3Tk1MRHBWUm9lOHNGYkh1c3VnRUlJVHdGY05PcXhlZEhaV3ZNWXFqY2Q1dWZRR1FXUjhvOFQxOQ?oc=5",
+   "source": "TIKR.com",
+   "lang": "en",
+   "time": "2026-10-05T23:34+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "32dcf832fc",
@@ -1149,6 +1368,24 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "9a53f678fa",
+   "title": "Datasea Reports Fiscal Year 2026 Results with Gross Profit Up 70.1% and Gross Margin Increased to 10.2% Despite Lower Revenue",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUzhmYkZuODVCR3VraS15LUJrdkhiU05Vc2pmcXdBTHZ0NGJ4Q0tLSFFNek50RWpEdDNFdFd4YjlaeFRPdDg5UG1zelktdEQxblRqc3F3eDVtQmJvVURwc1hiWTlLT3VVMllwWFJVZm9iY2QyUWtHSi1nT0cydW9JdTVGLV9LZHZsWGl5b3lhMnhMeDVRODBsV2ZNaDBvTUl5R3l3RjdaS1JibGc3UXdqWERfY1RjVGlad09KMzJLX244OUlEc0dkRndkTkoxYXNKVVkzUHpBanNYSDNSdG5CN2c4QzlYZFpxMWxMb194NmI3NXFZU2VmTzY5VVhJSTFkcVk0X1ZBYmNLamM?oc=5",
+   "source": "PR Newswire",
+   "lang": "en",
+   "time": "2026-10-05T22:13+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "5e854d5aeb",
@@ -1271,6 +1508,24 @@
    "issues": []
   },
   {
+   "id": "c0208970c8",
+   "title": "Prediction: Qualcomm Could Be on the Verge of a Major Transformation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzJsb2hEUVVDcndiTVlnZHlZc3ozZV9ObVByUGdXdG5TUWNFWlVWM2o3elV4bnJfdkVwcVZiYm5HMDVSaXFFdE1Ea3ZZSTVrUDlZZUJKanRZZW15ZVg2ZXdwbHUteDQtN1BMdG8wR3J2eXRLYk9rQm85Y2xNX1VMNHB3YkVON1hRbVlPMGpqT3dlbE9ia0ZBMGdFdkdtdFpVdGxRVXI0UDlCZFItNXdmdQ?oc=5",
+   "source": "24/7 Wall St.",
+   "lang": "en",
+   "time": "2026-10-05T20:45+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "14a0e8c6ce",
    "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
    "summary": "",
@@ -1309,6 +1564,24 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "7a76b2adb9",
+   "title": "Qualcomm Stock in Focus After Lands Major Huawei Patent Deal",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDBYYzc0WG5FTjVLc0ZlZHh4OWc5WmlLOUJIczhXb3FYRWpyOGZocm9sNEMxRi10Rjc0VVlqb3c3Rno3VkR3THUza05MMWtOajM4eUFLU1UzRGtBNHVuWjhCemtRVnJIYnJ0cUxEMkxrdDBjcE9yQXhIMG82VjJnSFRnR2dBOEJaTUIwNHdzNS1VZm5aTUJWWGFrdFMyVENtOHh1T2ZCeE5JYjJFcGhDYVlCR1lIcTNXaVIyTw?oc=5",
+   "source": "TradingView",
+   "lang": "en",
+   "time": "2026-10-05T20:06+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "74d4ad6059",
@@ -1458,6 +1731,24 @@
    "issues": []
   },
   {
+   "id": "28108a1510",
+   "title": "Qualcomm and Arm head to trial again, potential for huge damages in focus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQZ2pkU2RuTElpSTZWZi1Dd1NEbWM3eVNzbWoybndyUXFWOEFFa01mb1Y0M3VVcXpEZWtIVGtkLWNoa2RvbGs1ZTlLU0R6UHVETkx5U0JEOVpSOEwtanlyV19OMWdTTnVHd0c5b1RLR1cyQnUtWXVN?oc=5",
+   "source": "Bellingham Herald",
+   "lang": "en",
+   "time": "2026-10-05T18:14+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "b3ceec0022",
    "title": "GM 執行長：不急著全面轉型，2028 年再推「眼睛離開道路」自動駕駛",
    "summary": "",
@@ -1538,6 +1829,25 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "652ba55c4b",
+   "title": "As robotaxi accidents increase in L.A., the data reveal the safer driver",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYktYa2piUzVWSjdlZnc5ODAtd0NvOVh1WlZsQzJIdmstV0paQXp0U1FiLXI1LTJvWEYxaWlmNGcyNWRuc3BrV0xfWVg1RUU1d1U2SHRRVTcwYVowY19CSHg3a25fcG5hUFE4cEd2Qm5wMm0xRjgyeFV5ZTVFUW5tMDNXcmlXMFFaQmFOMDlhOXdDMldnUFowZVowZjRHaXViYkZWTWpR?oc=5",
+   "source": "Los Angeles Times",
+   "lang": "en",
+   "time": "2026-10-05T18:00+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "adas"
+   ]
   },
   {
    "id": "eb092ac94a",
@@ -2019,6 +2329,24 @@
    "issues": []
   },
   {
+   "id": "05fa05777f",
+   "title": "電池模組廠9月營收出爐 新普、順達雙減 AES-KY雙增",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBV2plSVg5QkwxN3pjZHQ4NGdBTEpvSmZPd3RMSTJfZGY2YTdQOGhDejFSeVlMV05yejFFb0FEdUYwa0JlMmctZVFzbS1XRi10d0Rqd0t3OGI5dGVWTUtv0gFkQVVfeXFMTkZveXhXbDJIM3RHbmg4M3JkcUNDdjMtOWNJM0diRFdvM0s0dV9GQ3d1TlRRYmNhUFk2QW1adElpRDBoRUhjYmpRV2h1Z1BSVkhDVDYwekhnZUM4SFd1bkhFSlA2OQ?oc=5",
+   "source": "ec.ltn.com.tw",
+   "lang": "zh",
+   "time": "2026-10-05T15:49+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "08755829bb",
    "title": "Robotaxi 晚上為何不營業？馬斯克：喵喵喵",
    "summary": "",
@@ -2032,6 +2360,28 @@
    ],
    "issues": [
     "adas"
+   ],
+   "forced_issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "5a5fc6e8f8",
+   "title": "華為與高通達成多年期專利授權協議 首度涵蓋5G技術",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45akRjVXNmOFMtdU1kaGJlOW9UOS14VmxSRVd0VFJvd3VrLVowTXNtVDVjUDJfdlVscmVCWEg0bUx4ZGxwOGhJdUFZaEZrVjQ?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-05T15:40+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "homog"
    ]
   },
   {
@@ -2116,6 +2466,24 @@
    "issues": []
   },
   {
+   "id": "54debe707d",
+   "title": "SpaceX, Qualcomm and 3 Stocks to Watch Heading Into Monday",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW9na0ZVVXFTQjhUaW8ySktrVTFNR2xreVNOUEVXTjJUMzNGRFQ5dlZoSmQ5R2J4LXg1cHl6MGhKT1d1VWdDU2ZrckN6bEQ0VVJXR1U1MkNUWXFmN21MaF8tX2FvZkhEQ3BmVjVMaWhoanFDdTRkY25NaDlyekNIaVBvT2VMT3Z2emI1STJKeUdmeXZ6SEthblJPSWZUOGxiVXlrQy1PYTVObHFNX3Y5WGNDOWY?oc=5",
+   "source": "benzinga.com",
+   "lang": "en",
+   "time": "2026-10-05T15:00+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "22a5550eac",
    "title": "Aston Martin Delays First EV Launch to 2033",
    "summary": "",
@@ -2127,6 +2495,25 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "5c73c2411d",
+   "title": "高通取得華為「邏輯折疊」授權 華為看好縮小與台積電技術差距",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZkZISGlJUk80WUFjVkJpNUE1Zm5Bb01XaGRRM0lEWlFyWGphWmJmZlh2ejdOZ3RfVTYyV0k4N2VCZnYwb2FFbDRSQ0FSLUhPYmpTdGpaVlJJd9IBX0FVX3lxTFA4YUlwWkZIUkNNd2c2ejlQbEd0R0NpZXBDUS0xNFBWM25zdmNYV1N1V29NTjVNYVBSZFdFREpaUXMtRXl0VDJGMTZXN01rNGc1Sk9LS05DbGFwZTN3eHA0?oc=5",
+   "source": "經濟日報",
+   "lang": "zh",
+   "time": "2026-10-05T14:41+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "89e8999892",
@@ -2206,6 +2593,60 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "7920fcc082",
+   "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-10-05T14:01+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "a5832e205f",
+   "title": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWpQZndsUS1QSlBNUnlLRzVHbDZtVGdRSldxZ0hKa01Nb2VCRFUxeEd5eVdSdVBHcmNPTjYwaXR2NmxZdk45aEVyS2pINGFNUmlBVXJnTTdhVDRMcWFwQkJta2o1QVhtQWxUY2Jod09DQkcyLXJMX2pEQ05HWEUzbHdzbm12QWctbVAzTG12ZEludm10LWNjTkFsRjFONDcxNmNhQm14TEpocFE1UzVNeA?oc=5",
+   "source": "Bloomberg.com",
+   "lang": "en",
+   "time": "2026-10-05T14:00+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "ecd64e9209",
+   "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1LV3ZjcVpUUlNmR2RRZ1MzQld5dDRYSmxTV3FrVFQ5S3dPWkxBZEVOV1N5VXFPX3lEdnFoU3JWNl9Pbk1hWFVWb3h1NzR5bEtqTDdxZHRnaG1NXzdjLTRvLWZ5NEMwSXFHNGwwVkR3NnU0YnlUQ0RyOUJfRFdHOW43X3Y2bWtsZkcyLVkwbUhhMHVBbzRkWlNlaVpIczVLWFBvVjAtVnRxUjFWX09mNnktOHN4RHgy0gG4AUFVX3lxTFA0WE10bW1rWmZVb01RcDdURW9td1dKcXh0WTdSS1ZvX1VLRzNHS2xrSWF6Z3lxVmcyendwQjgtazBVVUxtanBOSVltVEx0YzVKelU5TkxXdXR6bmVoMGJXNU9nMDZpZWFmYVE5aHFfMUVCVzRxOF9oNGVla2FZUmhCRzZRQ3pVN3FVdmZ6aS1kYkdrYVIyTjVlNHpBcmJSU2txWFB2V3lqSXN2ZjdxWnBfc2FkT1ZyLWE?oc=5",
+   "source": "South China Morning Post",
+   "lang": "en",
+   "time": "2026-10-05T14:00+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "21b00f88d2",
@@ -2358,6 +2799,26 @@
    "issues": []
   },
   {
+   "id": "f66ec07eb1",
+   "title": "Robotaxi 開得更晚、FSD 前進台灣，Tesla 純視覺路線面臨哪些新考驗？ | TechOrange 科技報橘",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbXdCOTA4by1xMVhZV25CXzFmNXRzVDhJeWIzTzloVHJ2cmdZNFl4YnAyODM0MUhLQXlOVmt5V1k0NUNUODBSakxMMWQ4RUJzbHFkTlhR?oc=5",
+   "source": "LINE TODAY",
+   "lang": "zh",
+   "time": "2026-10-05T12:57+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "1907c3d52a",
    "title": "英國也要對大陸電動車開刀 最高45％關稅恐上路",
    "summary": "",
@@ -2369,6 +2830,26 @@
     "供應鏈"
    ],
    "issues": []
+  },
+  {
+   "id": "2d78452694",
+   "title": "Robotaxi 開得更晚、FSD 前進台灣，Tesla 純視覺路線面臨哪些新考驗？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oMGllekllWHVoTk1yUU1LMHRUWWRqN3RCdUpITl9VQTZYb2VQdEtIclNlMTZUQ1dzZXYzaXRqRlNUSThuajVUV1hpdWx6MnlDRGhyUnhQU0Q4YTFBZkQ2eUhVOVZPck0?oc=5",
+   "source": "TechOrange 科技報橘",
+   "lang": "zh",
+   "time": "2026-10-05T12:48+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
   },
   {
    "id": "06c0a8ec08",
@@ -2449,6 +2930,24 @@
    "issues": []
   },
   {
+   "id": "5321dd7825",
+   "title": "中國網傳高通2奈米傳黑屏 台積電被帶風向？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NRGNVbTFPVXJoZnBST1dFSWdHV25sZ0REMllPMXFqeUdCYzRvaWVlT2UwZHp0bE10eTZxLW4zLWRVeFhpazAxeUw5cGRIWm5pX1dKUlp0WQ?oc=5",
+   "source": "台視新聞網",
+   "lang": "zh",
+   "time": "2026-10-05T12:05+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "5b8fd48b8c",
    "title": "JAC Confirms Talks With Huawei, Stellantis Over Maserati Revival",
    "summary": "",
@@ -2487,6 +2986,24 @@
     "供應鏈"
    ],
    "issues": []
+  },
+  {
+   "id": "ce22a088d5",
+   "title": "東芝攻克 SiC MOSFET 電壓漂移，長期可靠性再提升",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3Bpd1dxekQtMHh3bFg1YXlseEFjLXpyakVlMndMVDV1N3M2RkZGWXg2ZFJvUUJ3NjVvbjNWNzRIbml0YVF0NFZDNC1JRU9Ka1Z3eHhLX3FwUFY0b01tWGgzV3BSclpGanRjUUx2WjFxTTViNVUxU3oweVBOR0FLMG5VXzQzTWplQ1ZnWnBpcE1ha09jeUtjN1YyMm1MeFk?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-05T11:58+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "供應鏈"
+   ],
+   "issues": [
+    "homog"
+   ]
   },
   {
    "id": "fa42244a1f",
@@ -2580,6 +3097,60 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "efa2ca81f1",
+   "title": "高通 Snapdragon X2 Elite 實測跑分出爐！多核效能吊打 Intel 三成，連 AI 表現也全面壓制",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnQwZzl0UWtCSzFFUUNmNFlnZFlfR3VvLXdYWWtQV3Qwb0ktLVhEZDRIYWk5OUtqVm1WeWduQmkxZDFwNVJpZ0c4M01OWEd4aHdVQUMxZFRYY09MSlN5ak0xOWZibEQwUkE0d2RoelhVVjhPQUhoaVZaWHJGWTR6TWM2QkdPSjdMRnVqOUJ1U09NcjZmMnc?oc=5",
+   "source": "T客邦",
+   "lang": "zh",
+   "time": "2026-10-05T11:00+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "272352e10c",
+   "title": "【2026東海岸藝術生活串聯平台】 – 10月活動推薦－大地藝術節",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mNVI1dDFOMEw1V3R0d2dzWmUyaUJsSmhmdU1EUmlGZXlXbXVHOEdETFk4X3kxQ2F5V1NvcjVlMkhpNmRIVldCNHRmT2lXVUZwWmdQWEx6ZEpmSmZjcmlNaEdIeTlNd1hjSjlXNm5Sb2V1VHc?oc=5",
+   "source": "eastcoast-nsa.gov.tw",
+   "lang": "zh",
+   "time": "2026-10-05T10:58+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "fbc43e524c",
+   "title": "‘Cannot Give Up’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDZjTkRmUVhBTlkzTkRsSnIxTzI5WlFTaU9Odk03dGlrbHNUdFJCOVhOdlhQSTJFWkREQUxBUlZ5V2Vnck9tUjJFMlhBRFN2dzRodHNKQzBkVGstRGQtLUlhSHU0Q21NUENjeFhwZlZCZ0t4Mkd0cEtSaFRtSnY1cDBqbmxWNF95?oc=5",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-05T10:45+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "82f4acfa28",
@@ -2751,6 +3322,24 @@
    "issues": []
   },
   {
+   "id": "ba5f0ac54b",
+   "title": "輝達改玩800V高壓！「10檔」概念股電力十足",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVXpuMU1PMU5kOWtMTzB3TmprTzBTY1lfdVdndVUtUWNZWHctYkYyQ19hUDZKejlLS25SV2JhT3BwaGYyT3Ixcnd6ODJxY0ZkOU9BRFJGTHVCZ05DdC03VTJNbWMtamczT05ycTdYYXp6OU4xTTJzbGlaUjhLRzlnS2FYdGJCajV2NkJ5UUdHVEwzWlduRGQwQnhseE1YN3JtaHlSSzZyLTRyUkFFSXpzdmV5cUxKMzc5MkxQV3k4MURDanQ5MXY3TXk1S2JkVU1udi0wYVdCVFBHNENYS2RpNDlXU2I2a09WeDY3MVBCSDNhdDU0a3JzLUlSWFRNaHI4OTlNVWFB?oc=5",
+   "source": "Yahoo新聞",
+   "lang": "zh",
+   "time": "2026-10-05T06:25+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
    "id": "2631e17533",
    "title": "【美股巨頭】Q3交車年減2.1%卻大漲4.65%？特斯拉在漲「另一件事”",
    "summary": "",
@@ -2886,6 +3475,24 @@
    ]
   },
   {
+   "id": "450e646be6",
+   "title": "China wants solid-state batteries in use by 2030, and CATL rates them four out of nine",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNkF0ekMwRldfaEZTdDRjRjZfTWhVZUJPcEY5ZEVlWVppLVRiSXUzWnhpTzRaYXVWOGhHZ0x1NWM0UkVHSnpFZjRrRElBSzQtY3ZpMUd5ZVdfc0o3NTZEUjJaNWw0Tjc0SVE?oc=5",
+   "source": "The Next Web",
+   "lang": "en",
+   "time": "2026-10-05T01:53+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "856677d458",
    "title": "EV Sales Crashed 41% In January—But These Brands Still Grew",
    "summary": "",
@@ -2968,6 +3575,44 @@
    ]
   },
   {
+   "id": "ac8d065c5d",
+   "title": "Robotaxi延長營運至晚間11點！馬斯克：正努力攻克暗夜分辨貓狗難題- 股市爆料同學會",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyWm43S04tVkFsVllqQmZmdkdNT2tkdUlVT05Sb1pxM0g1QTA1M0Z2YUNQamVMMGhLUkNOS2diZkpwNVl0WGRfZ3hLUDNIOGlmRU00ak9tOC0?oc=5",
+   "source": "CMoney",
+   "lang": "zh",
+   "time": "2026-10-04T21:46+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "95cbdea573",
+   "title": "Robotaxi延長營運至晚間11點！馬斯克：正努力攻克暗夜分辨貓狗難題",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XM2NqWDZrNERvdjhGdG5Ga1BfTGVjSjIzai1WS3RNVURvcmNrRC0wMFFLdkRQWktISlBwN2Y5V29OQlotN0IxLTRrb3dnMmc?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-04T21:30+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "2038cd0814",
    "title": "國慶高速驚魂｜司機開智駕熟睡3分鐘 鄰車狂轟喇叭喚不醒險致命｜有片",
    "summary": "",
@@ -2994,6 +3639,42 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "b55dd6ae85",
+   "title": "高通2奈米傳黑屏重啟波及台積電 業界：熱當機率大",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfcUViM3Rydy1YbjFvLWRlOWxrWml6alVmUVFIUG1XYmdJMVFxcDI1M1RiRVhKS0RERFd3Qmt0b0Y5ejc3WFBndW10YlFUME9ZaFgySFQtUk9NUGNxNF9QUF9uSU5wZXBIWnBxZzVR?oc=5",
+   "source": "中時新聞網",
+   "lang": "zh",
+   "time": "2026-10-04T20:39+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "e7981233dc",
+   "title": "AI散熱、燃料電池雙引擎點火！高力前8月營收年增115%「已超越去年全年」 全年EPS估20.5元",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQOFo3WkZiS0xYTTlHbFNNMnJxQTMzd01pU2ZkSkVOZ3hBR3Q1elFaR1dKTEwtRWdrOUxLQVU4aHQySmdxX3VrNUROM3lXMy1oSHcwNVFTWUEzVUV6b1hEVTlaWGhFV21xWl9IXzlxdFpwcWdpNVB5emxLUFFEQmJXMVVQZ1J1LUpKaFBVZnB1MUNfR2w5SmRZc2dnQTh5Z3pQbUJTVGlhaTg1bXE1ZXVDYzNqd0trU0FoTTVab1NCcFJBYnBNM2t1cmRTLXlXOFplanQ1U21wVXZURlZaZGlVY1lJSFhaOU5zbjBNLU5fdzRzMUJWd3dMSjJqNmhmRW1KSV8wREZxTi1mR24zTWdtcHN4RzhQRnE3SEUxZlh0b1prZHVTdG5vemtJNnVoUWNZZkZxVmVZLTNHRFduVjhnN1p6WnVGZlg4azJFR2RiWm9TQkotLVZCMmhyN1RBcm9QQV9EbEFFOGJMSk5Pck4wTHo1VTZZeHNzQ2RhOGdnaUttZmNjNVhZME42a3VpbkwwRUZ5ckFISGRoLUhwd1pVSFdBY0otTE1XT0xmZDZ4MldMRngzLVFybkpqZzBwSHpad09NNEVmUUVoQkk?oc=5",
+   "source": "Yahoo股市",
+   "lang": "zh",
+   "time": "2026-10-04T20:20+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "c92bd4c1b1",
@@ -3033,6 +3714,98 @@
     "其他"
    ],
    "issues": []
+  },
+  {
+   "id": "31bf5d451e",
+   "title": "美光財報超預期！記憶體股卻走弱 專家示警「這變化」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qcUlsT1czSFZhdlNrc2RZWUplcU1iNnVmZzY1WmVpZFdtbWFUWW1tWHkyam5wMVVySTA2VUZ6UW0xWkxIdEhvQ1phMUVhRVR2aE1UcG96UUc2d9IBX0FVX3lxTE5jcWh0Tm94VEpNd1NBQzRXNjlWSTFWMmRQMXN2bUtUalNpTlRsM1MweFFnSDUxME5GbW4xYWcxdVgyaTk4VnM5Z2VCRjdFdXhVNjZMV216NHhFbXA2MGRB?oc=5",
+   "source": "經濟日報",
+   "lang": "zh",
+   "time": "2026-10-04T17:00+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "fa4211e640",
+   "title": "Owls Rout TSU for Largest Margin of Victory in Program History",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGNFRWlWcFd3SW15ZXY2YXlZbTlPNENtZTJyNDdLRDNDU1U2T2phRG54ZmdoTjV2cWZLTXN1QXVyZmZMM0VpbVJERnNRWjZjdmJObktuOC1BTUszYjNHZTAwRVR6QThUTVJSR25jOWZ5ZDJfclNJaUxWVWhFRno0VDRWWktZdVMwcHZiRHFBQmxLLXRXb29Wd2IyVlBwbGpQUGRfR1hkRnBFSjVM?oc=5",
+   "source": "Florida Atlantic University Athletics",
+   "lang": "en",
+   "time": "2026-10-04T11:26+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "c363635bdb",
+   "title": "Wake Forest Records Largest Margin of Victory in an ACC Game, Defeats Stanford 57-3",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3dpTVFvWWhkVzJvN0ZMZEJUREZXbGZNb2VmUFQwUWljSXVzNkg1Tng5SWxrS21KUUpSeWd4QzBZMUNBbFNhRlRZRVBFOUE1SldHS2Nxc2xxRmpVNVA2WUFkRlVkRzkycWpjS284U1FEM0U0N2RGM3lCZnhNZDVER1RqeEFCYi1TV2JaN0szdlFuT3N2RjlJMHktbk5qX2Vya0p3SVVjOTE1bmN5SlVteUIweEdYVzhQUEFSVUk3SHpCQlRCWGRJNg?oc=5",
+   "source": "Wake Forest University Athletics",
+   "lang": "en",
+   "time": "2026-10-04T09:47+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "車企動向"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "03507f8690",
+   "title": "現代汽車、Toyota、比亞迪競逐「夢幻電池」全固態電池開發戰開打",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IOTNncXVzUzdvOXVRd25PT2pVczM1V1BTZ0RyNy1lZ2tBYkF2ZWdmR3lDR2RUazhxV2dHRTNseWgyQWZpMFhNandXb0w2MU9jc182YkJaRDRtZUFNblA2U1NLY0htcVdmUS1TcXhudU96ZjRrc05JeHhn?oc=5",
+   "source": "BigGo 財經",
+   "lang": "zh",
+   "time": "2026-10-04T06:25+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池",
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "8f12174df0",
+   "title": "Apartment complex in San Francisco evacuated after lithium-ion battery fire",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVFjM3lPZ1FseUE0d0ZoTFBqTkVRQVJGTGFfVVFyUUpZQ0RudEx4VDdPclVZRC1FRURTTUFVRnhEa0p1aWt4bS1PeGxwSHRpb0p3eWx6N2ZBZmttUl83YjRLREdLcVJEQndfSjlEYXJCbzg5OG5NU2FQMVZEMnduMlE0emU0cDTSAY8BQVVfeXFMTUdxb1NxdmxwVlpteG0xajNKbFRJd291NVhZVkRLZ0JxSDBQX0stcFhtblRxbXd1ejd6c3M5V2xMNlBVMDRlN0M5WmRhbmI5TGoyUDgtbzhaUi1TVFhGM2hjSW9pSDFiS3Rsb3dkbm5JM0EwalZ0YVVkdFpZTzhxTW54Uk42Nm9jVjg0cmJBZEE?oc=5",
+   "source": "NBC Bay Area",
+   "lang": "en",
+   "time": "2026-10-04T05:36+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "d4dfe328e5",
@@ -3078,6 +3851,24 @@
    ],
    "issues": [
     "adas"
+   ]
+  },
+  {
+   "id": "58dba5281c",
+   "title": "獨家／Model 3也傳災情！ 保養正常、過保電池「立刻壞」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5Q2pTZjVzTWNVT2hubzl0bW95dkhjajZVaDRPWTRZczVGREJKUG1BV1dIQ0pjY1NJc3cwdUtkOVZrdFY1ZGpzNExaNWwwTklO?oc=5",
+   "source": "news.ebc.net.tw",
+   "lang": "zh",
+   "time": "2026-10-03T21:29+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
    ]
   },
   {
@@ -3137,6 +3928,78 @@
    ]
   },
   {
+   "id": "629af00ba2",
+   "title": "賓士次世代電車超車關鍵技術在臺灣？從輝能與賓士簽署第四代鋰陶瓷電池優先測試權與推進法國電池廠看起",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10U2lGTGpPWGlfTWZZTExPWGJJcmhZUllGVXk2TEgxN2pFYWdUTXVlWWhCcWZBUFAxN0NuZFB1eTlReURpZm1LbkM2cUxfX1hkMHJqVEhwcw?oc=5",
+   "source": "U-CAR新聞",
+   "lang": "zh",
+   "time": "2026-10-03T18:10+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "4ccf3117ac",
+   "title": "Army announces Futures and Autonomous Systems Command",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1ltRkoycy0tUVRpUUo3MjM3YnYtSmJKdnpKWDlyOU5hcGd1ejFaWWthTTJvNzNiS0YzNXdxZ0NFV3ZwcnVCOGJheEpBbG9vLWZ0RWpXbFZTLWt2UUNwcEwybExHOV9wWkkwdGUtd3FXWk5fcjNKS2RmbkpBMndYTTdlaW5TNUNoRnVlSkdmZ2piZ3PSAZgBQVVfeXFMUF83eTFLcmtpeFdZMW1FazdMTU5sTzI5eXdlT0xWSTQ4eTkzamJFeWZmeWQxdGtEUkVjWGJtNExPdXE3bUkxTmtENnJRQTRnT1c0ZnB3dlJWSTMtYjNDck5rY3ZYYll3SDNTN0ZUX2lKemdnbUgzNGo3UUZuby1ycUt3cnFTcUhPd3BmT0JhaDE2TGdMcGFCSmw?oc=5",
+   "source": "army.mil",
+   "lang": "en",
+   "time": "2026-10-03T11:39+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "d86033e9fb",
+   "title": "Gov. Newsom Signs Bills Reining In For-Profit Detention Corporations and Federal Immigration Agents",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXdaN3Fheks2ejZWY2ZHa0RMU0ZfeW1hOW5LaFY0TENqazNMS3IwVDFOVndNY3I5UGlpblpXbF9JMmtRaW4yM2Q0MWJyZHBObEw2V3NKV2pwb3hOZ3FzRVhROWh1M0c1R3BVR2VSQnFrX3dGcjZZS3FtWFVXNHJMOWlpTERNWDViRFBSMXpDMERYSVJ3a21iSTh3UUJxUEN5SVhweF8yNHNXMlEzS0VlSHlQZEZ3RjZxV3B0NmxlZFE?oc=5",
+   "source": "California Immigrant Policy Center",
+   "lang": "en",
+   "time": "2026-10-03T06:03+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "6db1e312ab",
+   "title": "Mayor Frey vetoes Minneapolis City Council Waymo regulation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1NqVXVOT3c0M2VjUGY2bUttXzZpT2lrVUM4VXJuMWZqUDctc21icU1DVnd6YkliR19HcWVaM2JKNTV3WVVIUWI0RUJFdmhYbE41akJVbGZYa0tYUk5NbnNJaWRmZ1JBbVo5aC1Wc3c1R1F0T3lnZ3NOTHVnRmo4NndCWUlaTEkxSnlVS3dZMWJ4eUliTzFBOW12MTJ4UdIBowFBVV95cUxNejZycUNnWXFWQVN1U2dxRjkwV2tCZVBGVEZlZl8zYm1YOFc3U2ZZQ2RnM3YzSjFWTVNob0psdlhQUXlYa3FxN1lJU0o3dFFoUzRfODRIbHRrWVBxeThWX0phSi0yWnQyZjBIRHJlbnozbXNaWlVJLV9PSWxxMnREM09scFl3aUNhVTlKWG9zT0xjckZoLUpHVFFnTnRLQzhlcVdR?oc=5",
+   "source": "fox9.com",
+   "lang": "en",
+   "time": "2026-10-03T05:30+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "3af52839f5",
    "title": "Kia sweetens EV deals with up to $10,000 off",
    "summary": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs. more…",
@@ -3150,6 +4013,24 @@
    "issues": []
   },
   {
+   "id": "db8e84c342",
+   "title": "Hundreds of self-driving cars coming to Nashville with new Waymo, Lyft facility",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlZ2T2VjUlZhWHczM0xJQlNxS0VBMzdSdm5WQW4xTlBGUC1PWWRuQ00yczZYOXRna3IwTFhxOHFyRjdYQ1lZOUI1SVZFb000ZlV6WFNaY1N6ZnBJRjU0ZW9kVkg2QkdzMnlyUGJZcWlSTmUzbFNSbUN0QmRGVkdyZDhrNmtfSEdNNHdIaWt0TmJlOEtwMUgyMUx4S2dJSWlWNlE3WFUyajg?oc=5",
+   "source": "wsmv.com",
+   "lang": "en",
+   "time": "2026-10-03T04:47+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "cb0a87c267",
    "title": "Ford backs a big new solar farm for its Michigan factories",
    "summary": "Detroit-based energy company DTE Energy has completed construction of a 100-megawatt (MW) solar farm near Coldwater, Michigan, that will help Ford power its ho…",
@@ -3161,6 +4042,24 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "d4ef5f3552",
+   "title": "2 veterans battle in court and online over defamation, for-profit claims processing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWJxTVZValN3dGJXUzhFTUluX0c0MWlIV1dLTDZGTHNSTjg2bTg2N2lmVUM5cTQ2RWNMdzNQbzJhN0h5X3VQX3NHSnlxRVpLenc0NDhPeVhRU3dqb3R5b05FRGVHeEpyQ1AtNGpwd2ZSLTdReFJENVNKTmxIRmZrR3oycGRjTllqdEppbGpzSnE5R09vXzhxamItUHRlajEzSjBqUk8zallBQzFoSWE5U3AxWE5ONTRWMGgtRWdaTlhidExpSjVfTFhhaWtWZw?oc=5",
+   "source": "Military Times",
+   "lang": "en",
+   "time": "2026-10-03T03:40+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "a2dcd23bd6",
@@ -3189,6 +4088,25 @@
    ],
    "issues": [
     "ssb"
+   ]
+  },
+  {
+   "id": "28e941f911",
+   "title": "Tesla FSD to Get Navigation Improvements and Pothole Detection",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkN1UW5mX2g2X0NDTC1iSkdQOXlaOERCeFQ2MzdSTEk3aHRUV0pNVHd3Yms0T1ZzVkh0c2tYV2hHcnJ3RlV5MmFGRGJRZzFsSkpNVmszVjFOS2VMZTU4ejVINTZpMC04YVE2bEJOWktkZHQ3MVhPY2x4WGJMZFFIV0VfMmtMYmtvT0g1R3Q4cC1lNmpxeTR5anIyaEdwSFZ5VndZ?oc=5",
+   "source": "Not a Tesla App",
+   "lang": "en",
+   "time": "2026-10-03T03:11+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
    ]
   },
   {
@@ -3270,6 +4188,24 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "1a88980510",
+   "title": "Cattle See Profit Taking After Fresh Highs, Plunging Beef",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlNDeFhCR2RiZXFWN1ZaN3FoNi10cUMzdEdWYTczOVduUGpOM3FtRklxeXIzMUxnZk56N09QTEFlSUJlbW1TdmhZMlc3bGd2TVA2OWdlaVJYd1dVTk15XzNyT3NxcTQ5ekQ5VFI3TURqVzlPbjlQNDJJVXdZOGFFT0E2bTAyX2xpTEY5ZlQ4MldpX2Y2ZmFoVU9OYzlqYUk?oc=5",
+   "source": "agweb.com",
+   "lang": "en",
+   "time": "2026-10-02T23:59+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "afb82cb4f5",
@@ -3392,6 +4328,60 @@
    "issues": []
   },
   {
+   "id": "5359f0bcb5",
+   "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFNVMmdLT0psNFNyck1sSEE2VGRySzlKV1pjd2ZvUHhpY0ZHb3c4SUZBQ0VvN2ZsamZwMjNzTnpDRFJhc19vRTZIVDhuUVk5aGFVQWpTdEp3YUgtYnBnMVJfRWxpUGdpUzlxTU9Ca3JveHNZcmZWemFMazJvcnNFSWRBQ0JyQWp0MXVoU3piUHotckJqNVI2OEYzdk9nV1pyVnc?oc=5",
+   "source": "Yahoo Finance",
+   "lang": "en",
+   "time": "2026-10-02T20:58+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "a7ca5f0bd0",
+   "title": "Rivian issues R2 recall for poorly tightened battery packs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlVJZGJlcW82ckVRLVRVYXdjbFBzY1J3dlpzcGNhcmtta0FudV9ZQk93VEhPcGdOR0VqSk13dEpUXy1oRUJQWl9XcThIWGFQY1VMZkR6ODh3MmhWZlpjVThOVUo3WjBNbW40b1hra0Jkd0c1T011ZHV1M3hVV2doSlRiQTMzdzVZRGJlSUpVelQwcGp6ODdBSg?oc=5",
+   "source": "techcrunch.com",
+   "lang": "en",
+   "time": "2026-10-02T20:50+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "e69a9b2995",
+   "title": "Volvo Cars issues profit warning on slower sales",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWFGV08zUVliREduczlSY3VDRmdTV01tOUt1bHdxcGR3RHIzbHpzSUFsazduTUg0SjFsZjFaNXMtcDJkRW1VWllpUk5Pbi03RkJmR0luSkhXc3NwbjkyQmZTd0tMTXNObWw5OW5oTjRMQWVKbm5DTk5tWURSWGZCQW9JbU1WZE10Yl84Vm94WjVmRE1JT1BacExPWktQdw?oc=5",
+   "source": "Yahoo Finance",
+   "lang": "en",
+   "time": "2026-10-02T20:43+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "0ff84bdd23",
    "title": "Rivian continues to ramp with R2 even as EV market growth slows",
    "summary": "Rivian posted its third-quarter production and delivery numbers this morning and, with the R2, remains on track to meet its annual targets despite some headwin…",
@@ -3431,6 +4421,25 @@
    "issues": []
   },
   {
+   "id": "c4664484d6",
+   "title": "We Shot the Wrong People: Autonomous Weapons and the Case for Human Judgment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHVsVVZPM0wxUGY4bE9jNzFITDY2djhEcTJYd2JpWURWWkljTkdFaHBuYl9UY2J0NF9aTEhNTEg4SDJnVTBsanpQRlRkUVAzQjJjMXh5TWF4VHJpaWZibzlNM3E0Zi1EY2RucW1LRWdYZkNGc3NHdEx3QkFyeXhUc1hKLWh1OFAyTkpmYmIycFl2dllIaTVYNW9xVF9URGZsd0xxTw?oc=5",
+   "source": "Modern War Institute -",
+   "lang": "en",
+   "time": "2026-10-02T20:08+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "d6caac98ed",
    "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
    "summary": "There are cheap e-bikes, and there are good mid-drive e-bikes. Those two circles on the Venn diagram don’t overlap nearly as often as we’d like. But Ride1Up’s …",
@@ -3442,6 +4451,24 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "d9c8ed929d",
+   "title": "屏東大學攜高中生赴紐 18天交流毛利文化",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YLXF1RDhWSnFCMXZNX1hVd3pqemRYc2drWjN0MFc5UVIzS1VGTjhWcm0wZ204LXpkZTFkMjQ5aElPbWQ2NlE?oc=5",
+   "source": "原住民族文化事業基金會",
+   "lang": "zh",
+   "time": "2026-10-02T19:09+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "9fb235cc7b",
@@ -3457,6 +4484,60 @@
    "issues": []
   },
   {
+   "id": "2fe8ec0564",
+   "title": "【美股盤前0930】今晚美光財報成焦點！PCE能過關嗎？｜豐雲學堂 2026 年 10 月",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPbG1vOE5rUjBJeDBqRjQta3Y5S2xLZU9XRVg5VTZmWGVXNE1fWktsS0RXeDUwT1NSMHBqRGpRT0N5dllCVzBmcTFKR0d6T2NMekFXSzZTTlJ3LXVNN2dUS2JPTHZIcTctbGprbmF1cmtIbnFxMW5jNUlMVlkzbkVONWluNTQ5QjNibmhPWUR1dXRxaUliTjBXRmNENEVyZjd5bWkwMlYtS0tkbEtTSkNiRUpSSEQ3M25fOHZJMmdBUW9HN1RleVYwVlhQc21zUzFBemR4NVQ2aDJ6SVB3eE5TZ2tMRWsxd0Qza3U0OTU5V0JHU09BbllJNlpWcTJlOUFXTE1JQjI2eU5SSnVxZUhSd19wUXdNNXkxNXQ1Rk0wOUsyeW9faUxyNTd6ZzNrQVprRm5LTGRfQzg5N2QydDVuQ25OR25BYnZwSXZzYUd5b2oyWGRVVlk1UXF1QWpvX1U?oc=5",
+   "source": "sinotrade.com.tw",
+   "lang": "zh",
+   "time": "2026-10-02T18:31+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "3ecd91938e",
+   "title": "財報倒數計時！外媒爆台積電將迎「驚人飆幅」旺到2027",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPOUlGSVFoazNjWEJYcWppS0xxQXRndHFkLWdnb1lIMEV1RzllOFlpSDBEWWo4T0p3Sk9HZUhDQmJxemtwSE84SnBKbjNpUUdVMHpuaHNTNThvTlVvQW5ldkR3NXFwa1JnMTJQekt1OG44aUFTTEx5Sk9xTE9rSzRpeUgxSTQ0VVFLNWpoX0xlWldnV20xY19rcEpxNVBUNUlraXd6cWJBUEZ1MEgtanBFRjRRVnI1QzMzT2t4VGYxQ1hVRnBIWUVfSHRRRHJITHRucTNmVFhXbFYyemlLVlFlQ3BteTUzaXB6RnU5QzF4SUxqQTlXZnd2X3lWQmw0dDI1Sm16UlhDX2h4WDl2WFh3eFYzNmRibGpFT3FmSC1MOVlOUXVLNmJucy1odVVMeGJITEJSREFHd2xtbE1RZG1wYkpaOG05c2M1VzdYYlRvakxwVXd1?oc=5",
+   "source": "Yahoo股市",
+   "lang": "zh",
+   "time": "2026-10-02T17:58+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "ecb1fb79e5",
+   "title": "Volvo Cars issues profit warning as China sales fall",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZW9uMnB2R2cwUzNlazNINjFCR21zS0JqdUV0elNiRmtMUnNPOWlCb2RBMWtwVkZLY1poS1BKVEpvZG5CT3ZxVjV4NnhsN1JoRGlUWXc3clFIdzdxQk1DaDIyUWNPS0JxMXdqRTlSVWdTRk9Ba3ZKVFpsY1RTUm02R2c5dlc?oc=5",
+   "source": "Financial Times",
+   "lang": "en",
+   "time": "2026-10-02T16:36+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "aef0222caa",
    "title": "2027 Hyundai Tucson Bets On Hybrids And A Modern Infotainment System",
    "summary": "Hyundai’s best-seller is bigger, more efficient, and fancier than ever.",
@@ -3468,6 +4549,248 @@
     "座艙・SDV"
    ],
    "issues": []
+  },
+  {
+   "id": "718f7009f1",
+   "title": "Dairy Margin Coverage sign-up opens Oct. 5",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzB4QjAyWmx4NFVjRlpqbktrNVhYVXhubFdRdzYxTld4bWdneU5wMWlOVFBlT0J4QThYZ01UZjFsTnhKaHFCeTV6aGRpRy0tUkViNi0weS1QV2xjZGRVdmhDOTluQTJWbG9MY1pWdkExQzlobVo1UjdvckN2a0pyRi1fcjVkeVBrdzFBOXV5OGpuYmlaN1E?oc=5",
+   "source": "farmprogress.com",
+   "lang": "en",
+   "time": "2026-10-02T15:24+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "55e185b32c",
+   "title": "歐執委針對補充「電池規章」授權規章草案展開公眾諮詢",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUzRmQlVLODJZcHo3a0tEU21TR1o1WklwVWsyd0ZpbUpydzE3dWVnVXdxYVhPbVZTc0M1ZHU1Y19Ga0FKSC1yTjBZMnQ5QUlEcUNkVlRPRmFZRm1pcHFkUDBUMS1PRWpnQnh6bHlXWG44WHFOd1BnWmRQQVd6SFRCTEhjNWJhZHdQMGZjd2NoZk1MQQ?oc=5",
+   "source": "台視全球資訊網",
+   "lang": "zh",
+   "time": "2026-10-02T13:46+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "d4e0f4de73",
+   "title": "Tesla公布FSD輔助駕駛在台審查進度，正式開放上路使用有待明年？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwTk5FODlBc1pQQ3JHSEdFQjJFUG4tMmd3ZEF5NEhydWs1bGVtSExVT2I0VXNWR0RTQ0lkSF9CS0tXTHBmTGtFSEUtU3VEamsxUmc?oc=5",
+   "source": "地球黃金線",
+   "lang": "zh",
+   "time": "2026-10-02T13:40+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "e31e159ab3",
+   "title": "高力液冷/燃料電池並進，泰國/高雄/中壢新廠明年投產",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTdPOGF0T2E4cWdnaFE3aEpFa1ZHeklDVTA2NHNaYkFVYmJfV250SXY1bVczWm9FV1FKR1ZKMXVLTEdod1FIN3Vnam9lZndVaElSRlE0U3VtR2VwakpnVnZLVlFDNGlxNWZrV05ybVNLRVh1QXZ1MWlkU0hVTk1XMWhQUnBaTlJoalB6c2dCUlZGUQ?oc=5",
+   "source": "台視全球資訊網",
+   "lang": "zh",
+   "time": "2026-10-02T12:29+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "3ce265ccb7",
+   "title": "美光財報前必看！毛利率、HBM4等 5 大觀察指標，南亞科、力成受關注｜美股觀察｜豐雲學堂2026 年 10 月",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQendsVEZ5akljMnp6V19adEp2OUREeHhIaWx5a1duelNmRXgydWMzZFdtaEttZEV0N3hXWTdoaGtZWHVWOVhUalNfQTJrRFZ0clFlOFMxM3pJODM5WDU1bHdpYnFKdzQwcFBYVUNnZW5sd0lNcGk3UkljQ0JiVXhpcWQ2SmsxdEpfNWpHNl9mSEwzTXBzWXBjbjJmQjlYSGh0V05DVEhZMWcyazMtWUNiYnZHRUd6TXJyd3V2RmJtZ2djTm1Cb25ScmFScWRrVVRnQVluejI1UFMyQ2gwZ004c1FsODZtNnRFeVA4Um5ibnQ3bE83YTlHSkxwUDBtWDNILTdlVFl5ZEg3NURhdHE5UnZjMHRaWUJFYmU3M1diMENERTNXdktoc0ZDaWZXS0NnelV4M2FXZERDdkRhTnBqODRTSlhYeFZUdHdBOWpXOFdNUGpaUWNMdXhtRXdCbHZ0WlIzUkFOUThpbS1HNkFtaEY1MGw0UmVVeGo1LVVtVUJuVGpfb2hjS3Z3QUd0SGcyY3RzZEhmVmxHY3BXZGh6QWMtbk5HUmNJYVl2WkM3N09WeGJMWUJGREk4aTZKUkp0RjZGNjlMUzZxdU1xWEVrdVdleWNCV0xaRlRwSg?oc=5",
+   "source": "sinotrade.com.tw",
+   "lang": "zh",
+   "time": "2026-10-02T12:11+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "5f7caadb2a",
+   "title": "Waymo領跑加州自動駕駛路測",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnFvN1JrOF84dmE0WFJ3SjNqVnFtNk1uX1FfNzJNVW01VjF0OHctSUdPcVY3c05PZUt5enVyWkFnclpwbnR1a1N4SFNmTlVQVGNDQTk3R3hLcHU2Zk5TSFZRNG4tZHUxUV9GMlh4eVpwZmhsTzhYRXFtZ3pJQlkzWTlFS1M0Zw?oc=5",
+   "source": "eettaiwan.com",
+   "lang": "zh",
+   "time": "2026-10-02T12:09+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "f72e218953",
+   "title": "Tesla九月台灣新車市場表現殺紅眼 FSD國內驗證、測試進度公布",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE96Vm5ZU2l4SnlSSi1aWWNqZlJ5LXpSZE5DT2hDMnhpYjl3ckJkOUNTN2g3anFrUDRBRHZRbXNSYjg0OE5YS1g0?oc=5",
+   "source": "8891新車",
+   "lang": "zh",
+   "time": "2026-10-02T12:09+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "c8bdd3f37b",
+   "title": "Tesla Balance Bike 童車秒殺完售，純人力、無FSD自動駕駛，定價約台幣7000元",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fQVJQWkRQRFJGUGx2SG1jZUlqaVN0bkh3cEpnVkRiQzk5aUNVSUY4TzV2MUpoenBZanFsN1VkNjZzSWYtTWlLWllpWUlMUWJxeV93?oc=5",
+   "source": "SUPERMOTO8 | 超級摩托幫",
+   "lang": "zh",
+   "time": "2026-10-02T11:05+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "591f908ab8",
+   "title": "焦點股》漢磊：SiC佈局開花結果 亮燈漲停",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dFlNdko4QTNxNjJWQXlfdzhEa29ja04xQTlqYVJxbXdGcFhlOVJ1ZG5uMUFQWVBDeDh2VVE5Q1NWY3Rzd1psRHBfWFN2ZU1ITXh4SDBoanJXcm14QjA40gFkQVVfeXFMTWh6V2hrRVIwVFpqcWdLazFZUkxObkVrZ1N1T2VhZlFJdW03c3lNNnA2SVZJZUM2cUdqM3lKUzRSczVndGF4SHZPRHpkZ1FfRlJhdXM3N3E2eG5sbWZTaVY0SGNJSg?oc=5",
+   "source": "ec.ltn.com.tw",
+   "lang": "zh",
+   "time": "2026-10-02T10:48+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "供應鏈"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "246d52f40e",
+   "title": "[U-EV]已啟動在臺FSD版本驗證並提出道路測試計畫，國內Tesla公布FSD落地最新進度",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WRmwtSGc4RHgzWV9KUzhIaTNyZ0tCangzVHlESU9rY1hyYjdlYWR6amxDQVhsMnpUYzAyOUVjTURUT2R1OHhzOENxcHJaLVkz?oc=5",
+   "source": "U-CAR新聞",
+   "lang": "zh",
+   "time": "2026-10-02T10:46+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "e773d6ed95",
+   "title": "不滅火改「丟包」！Stellantis專利：電池過熱直接整包脫落 還能繼續行駛",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5US1JFS1IzUU0ydmE4V0tYeFAtZmcwWWZSeHlyVlJGMmlNc0V5b2p5YjlQZFhIQ3VnNHRxcm5qdFJyUmN1RmNic1FLY0lPZG8?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-02T10:30+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "Stellantis",
+    "電池",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "ef85267f51",
+   "title": "台灣「特斯拉FSD自動駕駛」即將上路！道路測試計畫正式送審",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VQTdYc0phUWNhMTFFdnRMUU5hUVFldlJVcEJuSXJVVjRzYVVtT2ZBTWVXWWZwOGlrME4xT0hIaXVtcjAxUmpYVFRocmIzRVXSAU5BVV95cUxPTC1jQXdjRFJsWXNSNDRpcXU3VzlDd0M3NERZbWhUZlZWcUNBTHpZZTVnTm1zSFRiQmZNejZMWVZ0eDE3UjRabUhxTkV2VEE?oc=5",
+   "source": "ETtoday車雲",
+   "lang": "zh",
+   "time": "2026-10-02T10:04+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "4c66545361",
+   "title": "Robotaxi operators will face fines for blocking first responders",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxIUGliT0tPdU5KZzJoQm1JUDZXMVA0RGo5OHV5RV9pSm9lYzVyRUp0MV9WaFN4ZzJvdlRpMktmeHdOWDlYNG5xQk51cExkZTNtZFBKTG1yNG9nWG1aMzhCcEF2UEJXcjhIRHMtMXJCZ2lVbnVEaWRoM01BWjFtWmhCa1ZxRE5lX0hhSkJVSG5obVV1d05tamVnOFgtdzgt?oc=5",
+   "source": "techcrunch.com",
+   "lang": "en",
+   "time": "2026-10-02T08:57+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "adas"
+   ]
   },
   {
    "id": "30552ee637",
@@ -3483,6 +4806,62 @@
    "issues": []
   },
   {
+   "id": "036aa7c276",
+   "title": "半導體微加工技術導入電池，韓國團隊成功打造高穩定「無負極電池」新架構- 股市爆料同學會",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FSUlVTDR6OVhkODlPb2IwZDZZSmlJaHBiUUxzRHB1eXR5bE1kU2ZGYWFKLUN3ZXlwWlQ4REdMMlRwOWZYb28yQnF4MEJtM1ROZDBLbFlMQl8?oc=5",
+   "source": "CMoney",
+   "lang": "zh",
+   "time": "2026-10-02T08:38+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池",
+    "供應鏈"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "60f715b527",
+   "title": "半導體微加工技術導入電池，韓國團隊成功打造高穩定「無負極電池」新架構",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzJpRmU1clgzNHhlbmg2S08zNTNSaUtOOWxDZ21rYkxQWXIzYS1DNWU2cVdPSzZGMHdYU3N3VE1Bd2VwWVdUcnlpZmJlSkxWT2FLOUVRdDk1b2JfYzJma1BtZ25KdjlwaHhaRzRIQ1ZZRWtueVYwVm1OWmJlYkhoazYzVGI4M3c?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-02T08:37+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池",
+    "供應鏈"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "8ae5e0c45e",
+   "title": "Rick Ross charged with battery after alleged attack on girlfriend",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcW1CMEpiTUpUZFhYYUhFV2ExX1ZKeEJ4VXJDNG4xVTE4LUo4NVA5b0Yyb3VYcHVSajgxdzhWVnkwQS1VOGVIX2RNZ2NtbFZ4SlNGWW0wOGdQSmI1ay0xZFpRZG1ZR0VHWEtlZTU0ZHNfTmZydll2WFY1bGlpb3k2VXdnV0NmeERtUmJ5SGVHTDRXcS05OHNWUUg4Rkxha01w?oc=5",
+   "source": "NBC News",
+   "lang": "en",
+   "time": "2026-10-02T07:42+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "186e71715a",
    "title": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
    "summary": "Tesla launched a new feature called “Emergency Drive Away” that lets drivers shift into Drive and leave while still plugged into a Supercharger. The update com…",
@@ -3496,6 +4875,42 @@
    "issues": []
   },
   {
+   "id": "0f05c45e23",
+   "title": "〈財報〉Nke Q1營收不如預期 中國業務驟減22% 加速轉型再裁員",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Uamd5U2p4UGxndEpPa1AxcFY4WnptRzNGcFhkdG53V3FIenZ3NFNjTVl1ekhMcmFiTTZOeG9KY0VFTklRMzNpdHdpU3BEZW8?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-02T06:32+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "0f6ec6b6a6",
+   "title": "Rick Ross surrenders to Miami police over battery charges from alleged domestic dispute",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1RCV0c2dUhGajljaG5sNGxXenZ4Uk1tNDFOY1k0UmptM3RZNjNvUFN5dkRYaEx6aTBNQ3ZvNkRMQWJWYW1qemxoSDVPbl9ZRkhhVUpKYmtwTTAxZy1TWkVGaVZMczhqOXFkc3Jab3ZIWEMxQ3ViaUVlQkN1QTRxVFVwbjMzakJVTGU1bW9nNDVwQk11cGFyQzRSbWp6bnhla0xjanJvZkh3THBrS184?oc=5",
+   "source": "Los Angeles Times",
+   "lang": "en",
+   "time": "2026-10-02T05:36+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "532e342b28",
    "title": "The Fathom Is Ford's Shot At EV Redemption. The CEO Knows He Has To Get It Right",
    "summary": "Ford's $30,000 electric pickup is its opportunity to reset its EV business, but it won't be easy.",
@@ -3507,6 +4922,62 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "e1b4b731c1",
+   "title": "法專家：中國在固定式電池市場佔據着絕對主導地位",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVFRTcGNOUkZIbDRhSXZnZDJqSFJ4cE5DNEYwM0NfWXdta3g5UEd5eEZjZU1yaUpfbmJtWWhBcENkQzM3UVlRal81SF9mSnNWQ0NEbjhPWXQ1Rk5ZUlpWREVIWDM2bVpZUzczQ244czdUMFh3QmFEYnptOGpROFVMeHJtZXdtNzd0YTA4TVAxZWpvcFBLUURhSjRBVHY3cXFYVnNuTlVhckFMY3VDdzl2a24yOWtYOTNzQV9wRDlIcW50bkhhdlFlbm51YTFvWUlqZGdkckdMVWQ1VGxfU0VYcEQ3Q0dtUVZSeXBOVmxuOUpCQkV2ekVXUVVwdHhsbzZteC1xa1JwbFc4TVJTTG4tSlJCZURJVEVtY1hxTnk1RUNpNzA1WmI4TWZ2aFBTaFRTTUpJVlFrNndTRkRvREhTM2ljMmVRaTZPeXdfcWdWZ2YweEZhbUkxMGdKSmFRUkozem83SWlzMkc?oc=5",
+   "source": "RFI",
+   "lang": "zh",
+   "time": "2026-10-02T04:00+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "e3b81df8c3",
+   "title": "Why Micron’s 87% Gross Margin Is a Blessing and a Curse",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XUE50ckhwdV9MQVZ3c0ktMkJKLUtpbTJjUURZdHN3WGg1SGJrbFVrZkh6XzIzTnUydDk5T1FtZFd1OWJ2R2tWU0Rjb2g0TUVjYUhoRFRrUkNPTFhILUNsWjJ3cnZ2eXhoSDNBN2pfVWJrZDlWZndrUmtZT1hXUQ?oc=5",
+   "source": "Barron's",
+   "lang": "en",
+   "time": "2026-10-02T02:42+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "a18b26f279",
+   "title": "Intel’s mainstream laptop chips are getting smoked — Snapdragon X2 wins on performance‑per‑watt, AI acceleration, battery life, and cost",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0dmWko3VjZ4OXE5alliVXM1MTlndUdaaDF2X1lDNVlHMFZIakhwLU5VaVRmSHZTNndDa2ZBWkMtdzlRT1I2aF9Jc2VVUE1IaWJVN2dKV3dRbF9ZQ29lOTAydDZvTHY3Z1VtNUJWZWxoc0tZdXBjVTFoekhTNDFIYmVXaXRydUFZX3VrQnV0bHMtT1l6aDN0WjJIN3d6NXUzbU1ZdEYySEVCd204MmNrYk5HNVY3WEk1UUdHdTc0RlNSMDZHSEg3ZktHWQ?oc=5",
+   "source": "Windows Central",
+   "lang": "en",
+   "time": "2026-10-02T02:38+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "電池",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "ssb",
+    "homog"
+   ]
   },
   {
    "id": "acdc2d14cf",
@@ -3534,6 +5005,24 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "20c119321f",
+   "title": "神腦國際2026年最新Apple原廠電池舊換新優惠",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xSWlRZ1NtbWtSODhiaG0ySlFOT3hrcWZrSmpYSE5iTkhGV0xCSTMyZWMxR1dFZlVuaW5QMlhxSnlLS2xKVHFHR0N6VGc0b1RtaEE?oc=5",
+   "source": "電腦王阿達",
+   "lang": "zh",
+   "time": "2026-10-02T00:19+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "6147d60083",
@@ -3615,6 +5104,43 @@
    "issues": []
   },
   {
+   "id": "7da84479e0",
+   "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTXVFQzVGWVdxZktIeThuVTRPREQ1V0ZranUxaVo4amtXU20xV1VTelA5bU1qbks2aXdKUVFiX2ljREladm0wemprWFhUbVpqVVNFZUxJT05VeG0zZzR0bUQ4MDBfSmNnLW1oaFNFTHc?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-01T18:32+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "4034dde89c",
+   "title": "American Battery Technology Company Receives Approval for Sale of $100 Million of Exported Recycled Black Mass Critical Minerals with License from U.S. Department of Commerce – American Battery Technology Company",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVHJVOXJlSktMS2FPWVRsUFNSNGtJSkhCZmhjZWRXRl8wYjUtbE1SVHVtc1dsblNwcWo4c3Bmb1JnUndOQzdEVy1ZdWk3d0x0T2QxbWYwazZFMW1RUWltazMzT0ZhT01xVDVmd3F0dEdKTm1YekplWFREV0w4UWhKZ284RVU0dVRKRDA3MW5HMWNSN0Y4VHY5bEtRSUItTU1iVWpUOW95WElYR1FackhFZll4MkdpdFNLUEoxdnJ3RXpXSmtJdDFVUzlzYU9yQTRHZVJsSjhnZjhEbVl3a2NXTllhQnA4Ylo5VzZ4V3Rpc1BMVWVTMGlBZC1zN3pESUVYa05aYmVleWxYSWFTSTVfLXkyalBJZ3IxMHUxWUt1eDlLVHpQYzRHZ25lN2swVzMxZ3dna0RjdjJ5RENxaHpTMWExZTEtbjQx?oc=5",
+   "source": "American Battery Technology Company",
+   "lang": "en",
+   "time": "2026-10-01T18:28+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池",
+    "供應鏈"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "4f0a8593a2",
    "title": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
    "summary": "HIMA's September deliveries fell 29.15% year-on-year, with year-to-date growth slowing to 5.27%. For details, please visit CnEVPost (cnev.co).",
@@ -3654,6 +5180,25 @@
    "issues": []
   },
   {
+   "id": "29f127fc84",
+   "title": "FSD 臺灣審查最新進度：特斯拉北高徵人試車今年無望，最快 2027 年 Q2 上路",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlptX3pvaUg3eDgxWW9SNFBUZE9SeUtpRTB4T2llQkZrQWpXWC0zdmxmMWpzMlhtV1pkTnZqMkMzOUtMdHI3SFZybnROT09wdlBBb2g5WWNkcURpN2Z3WW15RXhuNWM1ZS1haXU1d2FXU1QwNWN1ZDlaUGJEVXBNcWZDWUpDdWJSVFRJVHdBRDlTUkg0MWhIYVhR?oc=5",
+   "source": "動區動趨",
+   "lang": "zh",
+   "time": "2026-10-01T15:59+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "7de28284cf",
    "title": "Nio ES8 delivers 10,542 vehicles in September, topping 10,000 for third straight month",
    "summary": "The ES8 accounted for 49.45% of the Nio brand's September deliveries and 28.18% of Nio Inc's total. For details, please visit CnEVPost (cnev.co).",
@@ -3681,6 +5226,42 @@
    "issues": []
   },
   {
+   "id": "31f48598a4",
+   "title": "Joby Aviation demonstrates autonomous cargo aircraft in Utah, eyes future air taxi service",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0FEdFgtMjR3MEJ6Mm5BMXBKLUo2U2RsSFUxS19uN0tadWM1UUg5S25icTNnei1aTVhDeWkwcEt5a1cwMl9HMFEyQlhwSjNVN0J0MjZJaFNSRGZpQTZaNWlKcW1aWVF3N2xCQUQzQkRjcUQ3c1F0T013SmJMRHItYWpDUjBxZy1heTdjZzZJalM5bEthMVNIbDV6aFpBaFdCaGlVWHRGRmxiYWxvVDNMV1NLcGNTMnVfV3FKLTZrQ3lLelZj?oc=5",
+   "source": "KSL News",
+   "lang": "en",
+   "time": "2026-10-01T15:07+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "70d2693ce0",
+   "title": "Elaine G. Profit Obituary Oct 1, 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fVEpqckJHQTN1YlpTeTVWNTFlV0s4VHU5UVVWU2ZjaERCQUxOYU13YlRzSVp5bDN3ZVlvMi0xX1BuTkp0Q0pVRDhuN1lvOEdIUnpIMTdhQldnUkpsZ1MtQ0Q4SmI3cHFScW5zNFJVa3NkejhOUG44?oc=5",
+   "source": "Shellhouse Funeral Home, Inc",
+   "lang": "en",
+   "time": "2026-10-01T15:00+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "df3c00c2b2",
    "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
    "summary": "Deliveries by the Nio brand rose 55.29% year-on-year in September, Firefly set a monthly record and Onvo posted a second consecutive year-on-year decline. For …",
@@ -3692,6 +5273,42 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "e27bfa0f11",
+   "title": "分析｜美光財報炸裂「毛利率飆87%」股價卻不漲 背後藏關鍵細節",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNYnNJeURVdklUQW5YZzFkdU4waGRtU3ZyU0sxTkpuVzZWNXoxQkZKc2p3ZldqcWJ0N3M1VjRISDNFUUZJVG1LaTBoNmFJYzU3QWRIQm16V2lGMmp6VEE0ckJwUF9SbEdxVENyZGFQaUhBZVV4WWFTRzBibmxVOTBRVmQtYmlqYjhMMkoxUUVxaGdCYTRoaWdzU1lfZzlGZEN0RXd2M0w3d0hfVC1zTUxFQ1BRdFc4X1RjX1AxR2NWMFUwc29oc2haRVlHaWIxM3V3RFFZT0hKOW5jOWYxSWRnX0VBNG1tZTJLZHNidl9KZGtDdFNOa3hfR2s3bnZwdHhVdjJjY0RnajlUM0REV0psUTV4SXgybHczcnpxelRhamt4bnBnSC1zSzRsU2thanZsbGJndUM0bjBTOEJ2OTVYck9YZXJCeU1qZDFjb3hVMDFPd21xQkNET2ZsWWo2M2FXclM4SE1JWnR0TmVzWUFQSVk4STJhZFlMRDk1REFrSGdlRkU?oc=5",
+   "source": "Yahoo股市",
+   "lang": "zh",
+   "time": "2026-10-01T12:14+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "5223264392",
+   "title": "美光財報》營收542億美元、年增近380％勝預期 執行長稱下一年度業績更強",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCM1E3RDBIZUE5ZzltaWRVMjNsN0Z1X3M1Y0E4dFYwdEw4TG9mZlRJSmI0RzNYWENnWW9UMlBxS3p3YWVzWkQtWFRLNXpqYlowQ3hiSWhBb2FFekQzSE1VQ2JWbWhBY2s1UnBnbjdaYm50RW1BT1pmbmlPRQ?oc=5",
+   "source": "財訊",
+   "lang": "zh",
+   "time": "2026-10-01T12:02+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "c2f5cddda1",
@@ -3746,6 +5363,24 @@
    "issues": []
   },
   {
+   "id": "0851cf22f1",
+   "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HN0JwTnBDazM4ZVNHUW5yV3U5M1FMZExDZDdXdVVCRVF4cUgtMEFlVkpGT2ViLTl3MGMweW5LODJDczNXdWdpRVo2NXlBS3loMjhka3BqVlRxOWQ4bFNKNFBZMGtpZ0nSAWxBVV95cUxNSXpUcDc5dnBONU5rV1ZGbjJRWlBrSGRRc1diWXVQd29KejdfdXI1NHBIMHdZcFp6bnBoZ3d6eWVGNmdRVTFLR3ZYdUNkUWp6a3pmeUNFbkJjaFNrMTRrSUJObkUtY2MtRS1HTlY?oc=5",
+   "source": "BBC",
+   "lang": "zh",
+   "time": "2026-10-01T10:03+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "6d6f3a00bc",
    "title": "Tesla gives Model 3 minor upgrades in China, keeps prices unchanged",
    "summary": "All Model 3 variants currently on sale get a 16-inch central touchscreen, up from 15.4 inches, and a new optional light gray premium interior. For details, ple…",
@@ -3757,6 +5392,278 @@
     "車企動向"
    ],
    "issues": []
+  },
+  {
+   "id": "2709845fbe",
+   "title": "無須擔心火災、可使用 30 年的「水系電池」終於進入量產階段 #EnerVenue (252527)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ObmhyanhMblZIbmR5bmFsM1dtYU9mbkc2cmNRUG1pVWQzTVpHYWZ5Wl9CM3RfcXczNkd4VDlYajI3dzdPT1ROQlBwdE4zUQ?oc=5",
+   "source": "Cool3c",
+   "lang": "zh",
+   "time": "2026-10-01T09:36+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "ee63fe1fd3",
+   "title": "美光財報炸裂股價卻不漲 陸行之示警：記憶體轉向「產能擴張」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DR1RYSUxxakZ0NDIySVJjN2wzUzZtUFR5SGk0XzdQZmdQbm9ZYzlGV3I4UWVESG5FQTNBX3hqVVI0aUJ2QjUwQ2FtMWRiTzdJdEHSAVBBVV95cUxPcmVkOFBUb1dRdnZnS2dBcUF0OFhTU0xRLXdUeXNjbFlsV2JvZV82UnMyaXNQQnJvQ3RjSUpNZnk1Q1VwM2JKWnpldXRVT1BLVA?oc=5",
+   "source": "finance.ettoday.net",
+   "lang": "zh",
+   "time": "2026-10-01T09:08+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "31080014e9",
+   "title": "Hegseth Unveils New Autonomous Warfare Command in ‘State of the Force’ Address",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0tkQ2wtVnpEZXZ1RlVqTDVPQlVJemlRWTlpX3JYTk84TW5qdlNoazlSY191N3NCaE84RnM3VUNSbmxrazhLaC0zTzliN2swcE1iQnJ3Z3dhVm9nZ1RKTm9zYjN3c2FMdmpiSFBPZEF4dUhBN21XeldXTHRVSld6NXVpbHRoV3FwWDhCcWp6VTBicW9Ld2tmTTl6WQ?oc=5",
+   "source": "Air & Space Forces Magazine",
+   "lang": "en",
+   "time": "2026-10-01T08:24+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "95fc81e89f",
+   "title": "美光財報／營收飆四倍 長約暴增至320億美元 CEO 喊明後年供需更緊俏",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xOWI4QUtWc0ZNMWhCcXB2SkR6WjJ0SUxJU2EyU203NG5TZXVzcW1LN3lSZGRhbmRkTkVHVTNORlh5cVgtQkdiSElmWjFwRzNZLVpCZ3ZSSnNvcENv0gFiQVVfeXFMTXY0N1hBX2VXNlZOTnpWWEpKMmJxX3QwNWtINUh6bnJPdzhXbzRPQ2ZWMkZ1cDFEdHJiYzYwSDNTYUpZTTZCQmE1ZWdpblVpR1RqdWxxLTcyNzRELW5GLTNmRnc?oc=5",
+   "source": "經濟日報",
+   "lang": "zh",
+   "time": "2026-10-01T07:43+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "531b3d4689",
+   "title": "美光最新財報「營收暴增11倍」 盤後反應冷淡",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RcVhSSV82YVVkOE9xUWp4TlVibmUyWFlISEdpa3AtMmJ4YzdrVHRSSzYyWGcwaEQtY2lVLUl4VUpSTGRnbjBVb0FURFVaYi1uUEHSAVBBVV95cUxNeXlVTXpoX1VsTW11WGNLOVIzX3RtWEEzbnRhNkV2UUNzM2QtOElyQkFtbHZndTNoOXlsMmtYQWtRLXNFRmtFNFNadURGZnB5dw?oc=5",
+   "source": "finance.ettoday.net",
+   "lang": "zh",
+   "time": "2026-10-01T07:37+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "8c4f2521e1",
+   "title": "AI需求旺！美光財報、財測雙優 營收年增近4倍",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxYW5Rb0pqa0xTb3o3S193UmpfdHZKcTdnNm0tbm5peHlBUEJvSEppcEZuNTFTbl9HMllGdDY1X1BxaXpZcmhNS3B3N1I0SFBaSzBnSzcyQmZMRHNJRGlF?oc=5",
+   "source": "ctee.com.tw",
+   "lang": "zh",
+   "time": "2026-10-01T07:19+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "825c687a80",
+   "title": "Micron Profit, Revenue Surge as Memory Crunch Looks to Last Through 2028",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTERLUlNXYXNnbWZ0R0tJOTVLWERGbEVFa0c5bkpQXzlvRWptTHk0WUdlVDRYNGRDWGpJOVBIVkJSS3NUMmluLTBacUwwcE1xZW80MlZIeEUyMUYxUElJOGJEcUdGdmlIdzR5OWxhd0V6RnRLT3FMeTdkWndhRkVNMUFjT2tBY3V3dld0U2paNFdwam1IN2c?oc=5",
+   "source": "WSJ",
+   "lang": "en",
+   "time": "2026-10-01T06:28+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "ab235882f0",
+   "title": "〈財報〉美光Q4優預期財測強勁 資料中心營收暴增11倍",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXdWtPUFd0cW0zQTVST2FvbDJ0cXpCTWRkYUxJUzJRT2VtSURrSUJWWnRONE5EZExiSDRkR3NKaGFRZDRUaE9ZVUtvR2Z4Rmc?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-01T06:09+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "c7d296b01b",
+   "title": "U.S. creates new Autonomous Warfare Command to fuse and enhance military drone ops",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnd1UWxDeFB4eHp5M09EQzF3aGNZWGRHeXBDUmRZdEo5Tktxb2E1WmQ5a2dQdFBCa0hKSlJVQVVsREtjcHRiZjdzUUFkTFg1VzgwTUpoUVZHeW9LaHlYeHFvZlRDTDhBQnVyNGZ2TDdoUDdPOXV2TVZQdkxJb0ZPcEc5cWdMSHNt?oc=5",
+   "source": "DefenseScoop",
+   "lang": "en",
+   "time": "2026-10-01T06:07+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "8b324a6783",
+   "title": "Hegseth announces new four-star command for autonomous warfare",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVF3RVNXMVJrTHNCeG1oWm45Y1lCNWo5aW9BMmgyYmRkdEZZdmpzTGtGYjFIdkZxX0VyMElpWDZSTjl4MFRUcHl2ekViTEduUlNYbHFFUm5uNjBSX1dpbUFwV0h3cWYwc09feUgyaV9TODJ3MHZXSW1JeW9sdDREa1k0VUpvQWlaS2JoRFlkMWtGRnFpRG8xRVhvc0phMVlMcHFDNlo3S1JwVldrQ0k0UUNrVUNwUFc5MFBlUzVKUXY?oc=5",
+   "source": "Military Times",
+   "lang": "en",
+   "time": "2026-10-01T05:01+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "9072cc10f1",
+   "title": "Breaking It Down: Next-Generation Batteries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0ZoN0JnenJHNEI0ZjJla084SkJTSDk1TnExOTd4OG5ydXNmV0FObmx4dDJkUloxVnNlNjNiaTRwb2NMVkw3eEFmQXNDMlJXUWZmOXJiQW5FenhOZTB4aDYtZlg1X1NaeGdXOVVydWxNRU9qRXpNc1lsTi1JUFhoSEt3?oc=5",
+   "source": "Department of Energy (.gov)",
+   "lang": "en",
+   "time": "2026-10-01T03:31+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "65925cb687",
+   "title": "Turtlebox Bassmaster Opens presented by Battery Tender unveils 2027 schedule",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFFyMnFYcTFpejZwdVd2bUNIMzhfYVd4azROcmJCa0FCUnE1M2dhbG9mNVJVanUzbGFVZ2gzMGVrQXlGcVkwdlhvcXJyYUQxRHl1dk91VENVYVJ2VC10TzRSd2FCaG9TUDNEUGE2a2ZRRk4zMEtIeThpTXVNeDRRb2p5RU9iLThaVDMtSUMyUkRLWktVbDVyNHJLVHAwc3BRU2ItQ1pPczA5aGhkTWtuU01DRF92QQ?oc=5",
+   "source": "Bassmaster",
+   "lang": "en",
+   "time": "2026-10-01T03:02+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "c2cd7d3477",
+   "title": "What Is The Case For Waiting On Qualcomm Stock?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09PbWxTajNWekY0dHc3eG90YTgyYXBkcV9IS2NCYVF1YnN5bHFHUFEzOThrTU9kQmhzSlBndE1QQUY0bmtoa0ZRZTBscFlaRWxLQlhNeVJNc2hhZmEwU0xMMHZReGVxT2NNdjNLMVF4SDk2SGg1ZThkR1NfQWNfRjBfY2lEVDZBOFM1TzFSU1RrN3JPV3NSSUgtdElHSTM3Z0lNcDJ2QmJnRW8?oc=5",
+   "source": "trefis.com",
+   "lang": "en",
+   "time": "2026-10-01T02:51+08:00",
+   "forced_issues": [
+    "homog"
+   ],
+   "categories": [
+    "座艙・SDV"
+   ],
+   "issues": [
+    "homog"
+   ]
+  },
+  {
+   "id": "0c7128fff1",
+   "title": "陸全固態電池 規畫2030年初步規模化應用",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xSVlaTHVQRVJfbWt5NWN4QXdIV2VfV2k2enowUHFYX1FfWUpOU0VqbUZVcEFOSXlQSTZNTm54cDRHbGJzcFgtOFVxdVQxNzVw0gFWQVVfeXFMT1EtdUJfaThhLU5Panl6RFhhX29EaWRJeVIyRy1xUGhDSTlBQ0diWk5GNWVGaTJ2WUxES1JYdnJnanpzZjdCNFFKTm5hc21qaW9SV0RRQWc?oc=5",
+   "source": "udn.com",
+   "lang": "zh",
+   "time": "2026-10-01T01:09+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "70a699c4d7",
+   "title": "Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFowNmhCbjY0d0prVHVhM0U0RExXUDE3V0Q3UFZDcVp4VktBV3pqNTl3c0dramhoMDdSUktrTmVVRWpNTGg4LXNuVW5NZmN4bTRiZlNGVlhIbUhmN3RzNkp1M0FQQktGTm9uX2p2dl9May1ZTFRydnVlOHhXM3o5NTBsV01iZ1ExNTNONGl0dERqWkxDVzNR?oc=5",
+   "source": "Electrek",
+   "lang": "en",
+   "time": "2026-09-30T22:02+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
   },
   {
    "id": "d092094c01",
@@ -3785,6 +5692,155 @@
    "issues": []
   },
   {
+   "id": "2876ee9d7f",
+   "title": "Robotaxi規模放大、算力成本成關鍵，Momenta自研晶片迎接數千輛車隊",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14bXhPcmlKV1FmcVV6Z0lrNTMzYXh2NmFMWEsybnNpa3dPS1Rod09wU2k5U3lXY254Y0toc0lSWjV4VXBxZ0VoU09RMnhYdWNTN09wR1Zn?oc=5",
+   "source": "優分析UAnalyze",
+   "lang": "zh",
+   "time": "2026-09-30T18:02+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "e6feccd0f8",
+   "title": "美光財報倒計時！小摩警告「股價暴跌」 投資人期待些什麼",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOTDNXQVIwd2ctb1YzZ2Nzcm5Belc5bGlmTkI1djFjOEtsbUFnYmlNOE9EbE9TaXR6bThMNjVXTnE2T2czU0ZMakg3a1k4cF9lTWo1c01xbWFramZueHdEeHlTb0ZQckcyS1ctWUZRMGlzdnFIWXh2RFlad1J3Nk1JWkVseHJLM1MzNlJwQ2s5Z1BpZVI3UDl3MWNBSzdSYlloVGx4UGFqVTJwODZET0Z2c3otVlYyYUFWa1RSUDBfeHQ2a1BtYW5tMWJMdFkyMzlkVlBVZVdLTTRPaVNrMzRBUXFWSTBnQUpNb2JPSC1YQkFPVjNWMmg0bjhCNTlQZ1dsX0lVdE1ZdUM5MFBjVGhUMXRSa2ZHeE1wdUlCNjhETGsxT0lySDNYSFg5aWJXeTNCN2pTekt2SDVXWF9BOE9zUGo2SnVteDNvTUo2N3pFOEl1dUFTSzBPOW44aG1mY20yZVRtN0RjVXF0THRYZmk3MlRUWQ?oc=5",
+   "source": "Yahoo股市",
+   "lang": "zh",
+   "time": "2026-09-30T13:09+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "9b666f2511",
+   "title": "美光財報將登場！若利多齊聚 歷史顯示股價能大漲",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Db0habG9VaHItRTdFNnZKLXV0TW5HaG10RjlsVXRyOEIwSVYwRy01U3ljWXd5NVJYc0FtLU9CMmJZYmI1LWM1akhmakZ6dDQ?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-09-30T12:00+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "7200fa9f01",
+   "title": "Ultium Cells to bring LMR prismatic battery cell production to Tennessee for future GM EVs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnJTZm96VjhkV1hLUWVoYkxXOEd4bEFUWktLc2ZVZDQ3S05yb01PX2puS2luZ2N1ZWs1M0xiMll5UlFmMHlhZlh0ZGljNUVmV3N3Zl90X0tJQTZhdFpVR3ZWel9wV1lWUkYyOXlqWlZBbGNVMDFCd09VRGk1eUNSZVp0Z3BhWjd5M1N3VUwxVlpicDdld3VaczJQdmYzYTVuaUE?oc=5",
+   "source": "General Motors",
+   "lang": "en",
+   "time": "2026-09-30T07:50+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "be8a03e5ba",
+   "title": "GM’s new EV battery tech will cut costs without sacrificing performance or range",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzNsQVpsZVRPYXZxcWhDd25kVUNaZ2l6S1VVR1RmYkRqaERrR1RCalJ6NkZIaTN5UWd0c3RheV9UdGlGbGx4cWh3bUloZHdIYzFwQzUtYjhqNUxaLWV6bFIzOU15RW5RNFhzNjVjVU0zbDRlSWtJQkp6eU5mc1hoT2VIQXBMNTBGczRzTG9aWk45M19rb1E?oc=5",
+   "source": "Electrek",
+   "lang": "en",
+   "time": "2026-09-30T03:23+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "電池",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "2b06f6e509",
+   "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlF3Y00zX25UdUVycHZwTHFMMFd3VnVpeVk5dUZfRXVDbmh3MkV6QlRtTERFdlhmODI3ZmJKYVpqcTRmWG4yS3A0ZVZoVkNsRDhSR0VRejVDNTBaTEtfdkxWZVV2dU9hMnB6dURic01Oem1SeGxHaGtlUERjaVJleTFjWFE0R1RrWDFSSFUtVTJlamdUZHVyQWw3eHM?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-09-30T01:30+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "8545ba74a6",
+   "title": "Carmaker Stellantis to pause production at French factories over battery shortage",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWVlYlZac2YtUnlxN21PdmI3dW5kbEo2bFNwTTNOZGpTWFlYYVZtNkwzVGlVdDFUZnRoYzJKb3JadDNNX0pFbHNqN1JEaDhPY3RUZ0lzLUI1ZzBnZlJTY2ZWa3BXUjE0WUhma2NaYVQ5dmN3RTlEc0lvaFFDS3JzU1FKNDhrampHTFJLR2hzc2xMVEVNdHAtS2ozcTBqbzBoOUJ6RDExdjhtdmRkY2IxMnJPN0hrWV9EUDVxQw?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-09-30T00:23+08:00",
+   "forced_issues": [
+    "ssb"
+   ],
+   "categories": [
+    "Stellantis",
+    "電池",
+    "車企動向"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "ef7dcb4856",
+   "title": "Small-cap stocks are underperforming by the largest margin since 2020. Here's why",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wRjB6UzFnV1p3REVhbjNjWG5tNjBIeDltbm54ekZoTURYdlFQeWxPYlFELTJhQ0JIamFMaG01Vnd4Q1JaM3RWTUJ5Qmp0RV8xM011V3lESzNqbHN5LVEtM3phMVFnRHF3dThBamc5Sk1oS0cwbmY0bEd5Ylo?oc=5",
+   "source": "CNBC",
+   "lang": "en",
+   "time": "2026-09-29T21:16+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "54e125883f",
    "title": "Hyundai launches China-tailored Ioniq V electric sedan from under $15,000",
    "summary": "Hyundai's Ioniq V starts at a limited-time price of 99,900 yuan ($14,820) in China, with a CLTC range of up to 650 km. For details, please visit CnEVPost (cnev…",
@@ -3798,6 +5854,62 @@
    "issues": []
   },
   {
+   "id": "dd895f6cf4",
+   "title": "Shares of fast-fashion's Shein plunge 14% to record low after profit slides",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWZjMUtCelNMN3AzUkZReWtMdXBRbm9CQktZanlXQVJxVS1TeGUwZjR2M05jNnc4djlXQTZYcng5R0ZMdVhfZ09YM3dCbUJNckVFaE51Q0JmTE1UOVNkVnhIMEkwajBnSnpQRjdNRjBvMDhJQlhnMjZaM3RILUdxT29WamdBZm54Zk9hb1V4dnZ3WjRCSGJvbTRHODFQVkxaT1Ezc1k4Ympval9PZGhjb2ZiOVVIb0xpNlhOVjNuNVRDS3ZHX3hzakNKdFdRTUln?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-09-29T18:15+08:00",
+   "forced_issues": [
+    "profit"
+   ],
+   "categories": [
+    "其他"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "3c9e595f0f",
+   "title": "Tesla receives approval to roll out self-driving software in Croatia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNblN1RjdSMFdsX0t4a2sxLVV2VHNqeEpfY01LLURydGdacDRBNm0xSWZVYVpBcHFNTUJKU08wclRmMDFEdzRrVUtkNG13UXpVeUpDNnpHZnlJdEZFZ0plU3FIYUJPaFdUcEFFNGJQcjdRM05JZWVwMDc0VFVROEFXWWU5V0VTYzk1QjRQMVdrYmZhVkFBejJYU2p1SlFGUEtqUVhEcXhKVHFCM1FoLTdpdWZUUGM1cjM2LTMyMkRTZ0QzRTdMWFVV?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-09-29T17:16+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
+   "id": "478bc7d4df",
+   "title": "華孚明年先保守看；攻輕量化、Robotaxi商機",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVE5UZ1ZXa3lQcWhYSjZyX3RwaDlkNUVQRnRrMHd6S2FYTGl6TWhUbTVCS0VZa29KcG9kYTVrblc0aUFpMWVZa1RZd1M1Z1QyZ2xxdTlWaEVkT1A1ZERTNk5QSFkyWTU4QVVab3FvVjJlUlcwYXZiOERGcjlzRHFzN1pXSXN0R0JOT2hfQlNMbHJVZw?oc=5",
+   "source": "MoneyDJ理財網",
+   "lang": "zh",
+   "time": "2026-09-29T17:04+08:00",
+   "forced_issues": [
+    "adas"
+   ],
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "issues": [
+    "adas"
+   ]
+  },
+  {
    "id": "dc5a2a8a30",
    "title": "BYD Da Han marks Dynasty lineup's 10 millionth vehicle ahead of October 13 launch",
    "summary": "The Da Han will launch on October 13, with its all-electric version already available for pre-sales and offering a CLTC range of up to 1,008 km. For details, p…",
@@ -3805,19 +5917,6 @@
    "source": "CnEVPost",
    "lang": "en",
    "time": "2026-09-29T15:10+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": []
-  },
-  {
-   "id": "042030cda7",
-   "title": "Lynk & Co launches 20 compact electric SUV, reports over 14,663 firm orders in 1 hour",
-   "summary": "The Lynk & Co 20 is a facelifted version of the Lynk & Co Z20, with a limited-time starting price of 118,800 yuan ($17,620) in China. For details, please visit…",
-   "link": "https://cnevpost.com/2026/09/29/lynk-co-launches-20-compact-electric-suv/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-09-29T11:44+08:00",
    "categories": [
     "車企動向"
    ],
