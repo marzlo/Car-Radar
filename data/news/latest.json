@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-06T13:28+08:00",
+ "updated": "2026-10-06T13:32+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "f0f975a335",
+   "title": "Sean Duffy Says Stellantis Will Make ‘Affordable Cars’ After Trump’s CAFE Rollback — 'American Automakers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHNIcWlPczA2N0ppeHozdEY0M1hMNHo3bF9fa05vbi0zc1JMS1p6WmlmSDlYaHhseHgybzEyZVNyRWlZUVduWC1CTlZORVJCYzFUZUZENVRLVEZkRVF1MmZjNnZKcjJrb3FNc2xHQy0tZk9Id0s0WWlUcDN0UWdVNThuT2lYU2ZUeVp5eVJnRGR0blZTZFVrWExXOHg5R1k0MkZNeFczWk96ZHpFdTM5ZUlkS0xMQTJEaE5RVm9JaFlwTjR6NEZYRHVScE1neTUyQi1wMlAzN0ozT1gxU0ZQTUpQemNSSUVVcF9OSl9aTExYR0ZPSlhnSmRaRDN2Qkxl?oc=5",
+   "source": "Benzinga",
+   "lang": "en",
+   "time": "2026-10-06T13:24+08:00",
+   "categories": [
+    "Stellantis",
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "8fc638cc37",
    "title": "雪鐵龍經典小車新世代即將登場！純電轉型鎖定台幣 50 萬元入門級距",
@@ -2030,8 +2046,12 @@
     "其他"
    ],
    "via_search": false,
-   "forced_issues": [],
-   "issues": []
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "6c02f5cb4e",
@@ -6309,21 +6329,6 @@
    "time": "2026-10-01T11:24+08:00",
    "categories": [
     "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "185e060ce9",
-   "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
-   "summary": "Sky Nomad helped lift Xiaomi Auto's monthly deliveries to their highest level so far in 2026 in its first month on sale. For details, please visit CnEVPost (cn…",
-   "link": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T10:50+08:00",
-   "categories": [
-    "車企動向"
    ],
    "via_search": false,
    "forced_issues": [],
