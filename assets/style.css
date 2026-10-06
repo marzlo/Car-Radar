@@ -3,15 +3,18 @@
   --bg:#F2F4F6; --surface:#FFFFFF; --sunk:#E8ECF0; --fg:#141C24; --muted:#5A6774; --line:#D9DFE5;
   --accent:#B86E00; --accent-soft:#F7E6CC;
   --up:#1E7F4F; --down:#B3372E; --flat:#6B7785;
+  --r-cn:#D6336C; --r-eu:#2F6FB5; --r-us:#7A4EB0; --r-jk:#13917F;
   --f-display:"Barlow Condensed","Noto Sans TC",system-ui,sans-serif;
   --f-body:"Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;
   --f-mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
   color-scheme:light;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --r-cn:#F0679A; --r-eu:#64A0E8; --r-us:#A882E0; --r-jk:#3CC4AE;
   --bg:#0E141A; --surface:#161F27; --sunk:#1C2730; --fg:#E4E9EE; --muted:#93A0AC; --line:#26323D;
   --accent:#F0A238; --accent-soft:#3A2A12; --up:#4CC487; --down:#F0776C; --flat:#93A0AC; color-scheme:dark}}
 :root[data-theme="dark"]{
+  --r-cn:#F0679A; --r-eu:#64A0E8; --r-us:#A882E0; --r-jk:#3CC4AE;
   --bg:#0E141A; --surface:#161F27; --sunk:#1C2730; --fg:#E4E9EE; --muted:#93A0AC; --line:#26323D;
   --accent:#F0A238; --accent-soft:#3A2A12; --up:#4CC487; --down:#F0776C; --flat:#93A0AC; color-scheme:dark}
 *{box-sizing:border-box}
@@ -190,3 +193,30 @@ table.asp{width:100%;border-collapse:collapse;font-size:13.5px;min-width:720px}
 .kwrow input{flex:1}
 .chips .chip-danger{color:var(--down);border-color:color-mix(in srgb,var(--down) 45%,var(--line))}
 .del-confirm{display:inline-flex;gap:6px;align-items:center;flex-wrap:wrap;color:var(--fg)}
+
+/* 車企版圖 */
+.region-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.rcard{background:var(--surface);padding:14px 16px;border-top:3px solid var(--rc)}
+.rhead{display:flex;gap:8px;align-items:center;margin-bottom:8px}
+.rhead .dot{width:10px;height:10px;border-radius:50%;background:var(--rc)}
+.rhead b{font-size:15px}
+.rcard dl{margin:0;display:grid;grid-template-columns:1fr 1fr;gap:8px 12px}
+.rcard dt{font-size:11.5px;color:var(--muted)}
+.rcard dd{margin:0;font-family:var(--f-display);font-size:19px;white-space:nowrap;font-weight:600;line-height:1.15;font-variant-numeric:tabular-nums}
+.rcard dd small{font-size:13px;color:var(--muted)}
+.rcard dd.small{font-family:var(--f-body);font-size:14px;font-weight:500}
+.share-bars{display:grid;gap:8px;margin:16px 0 8px}
+.sbar{display:grid;grid-template-columns:72px minmax(0,1fr);gap:10px;align-items:center}
+.slabel{font-size:12.5px;color:var(--muted)}
+.strack{display:flex;height:24px;border-radius:3px;overflow:hidden;background:var(--sunk)}
+.strack span{display:flex;align-items:center;justify-content:center;color:#fff;font-size:11.5px;font-weight:500;white-space:nowrap;overflow:hidden}
+.scatter{background:var(--surface);border:1px solid var(--line);padding:12px 12px 8px;margin:12px 0}
+.scatter svg{width:100%;height:auto;display:block}
+.scatter .pt:hover circle{r:8}
+.mkt-tools{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:8px}
+.mkt-tools .tabs{margin:0}
+.rchip{display:inline-block;font-size:11.5px;padding:1px 8px;border-radius:999px;color:var(--rc);border:1px solid var(--rc)}
+table.mkt td.cell .rank{display:block;font-size:11px;color:var(--muted)}
+table.mkt td.cell .bar{margin-top:4px}
+@media (max-width:860px){.region-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:480px){.region-cards{grid-template-columns:minmax(0,1fr)}}

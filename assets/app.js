@@ -511,13 +511,143 @@
     renderBrief(today || opts[0]);
   }
 
+  // ── 車企版圖：銷量 × 市值 ──
+  const REGIONS = ["中國", "歐洲", "美國", "日韓"];
+  const RCOLOR = { "中國": "var(--r-cn)", "歐洲": "var(--r-eu)", "美國": "var(--r-us)", "日韓": "var(--r-jk)" };
+  const usd = v => {
+    if (v == null) return "—";
+    if (v >= 1e12) return "$" + nf(v / 1e12, 2) + " 兆";
+    if (v >= 1e8) return "$" + nf(v / 1e8, v >= 1e11 ? 0 : 1) + " 億";
+    return "$" + nf(v);
+  };
+  const units = v => v == null ? "—" : (v >= 1e4 ? nf(v / 1e4, 1) + " 萬" : nf(v));
+
+  function capChange(c, days) {
+    const h = c.cap_hist || [];
+    if (h.length < 2) return null;
+    const cutoff = new Date(Date.now() - days * 864e5).toISOString().slice(0, 10);
+    const base = [...h].reverse().find(x => x[0] <= cutoff);
+    if (!base) return null;
+    return (h.at(-1)[1] - base[1]) / base[1] * 100;
+  }
+
+  function renderMarket() {
+    const all = (D.market?.companies || []).map(c => ({ ...c, units: c.sales?.units ?? null, perCar: c.cap_usd && c.sales?.units ? c.cap_usd / c.sales.units : null }));
+    const ok = all.filter(c => c.cap_usd && c.units);
+    if (!ok.length) {
+      $("#regionCards").innerHTML = `<p class="empty">市值資料還沒抓到。下一次自動更新（或按手動更新）後就會出現；銷量已在 data/manual/sales_annual.csv。</p>`;
+      $("#shareBars").innerHTML = ""; $("#scatter").innerHTML = ""; $("#mktTable").innerHTML = ""; $("#mktFoot").textContent = ""; return;
+    }
+    const year = Math.max(...ok.map(c => c.sales.year));
+    const totU = ok.reduce((a, c) => a + c.units, 0), totC = ok.reduce((a, c) => a + c.cap_usd, 0);
+    const reg = REGIONS.map(r => {
+      const cs = ok.filter(c => c.region === r);
+      const u = cs.reduce((a, c) => a + c.units, 0), cap = cs.reduce((a, c) => a + c.cap_usd, 0);
+      return { r, n: cs.length, u, cap, per: u ? cap / u : null, top: [...cs].sort((a, b) => b.cap_usd - a.cap_usd)[0] };
+    });
+    $("#mapMeta").textContent = `${year} 年銷量・市值 ${shortTime(D.market.updated)}`;
+
+    // 地區卡片
+    $("#regionCards").innerHTML = reg.map(g => `<div class="rcard" style="--rc:${RCOLOR[g.r]}">
+      <div class="rhead"><span class="dot"></span><b>${g.r}品牌</b><span class="muted small">${g.n} 家</span></div>
+      <dl>
+        <div><dt>${year} 銷量</dt><dd>${units(g.u)}<small> 輛</small></dd></div>
+        <div><dt>市值合計</dt><dd>${usd(g.cap)}</dd></div>
+        <div><dt>每賣一輛車的市值</dt><dd>${usd(g.per)}</dd></div>
+        <div><dt>市值最高</dt><dd class="small">${esc(g.top?.name || "—")}</dd></div>
+      </dl></div>`).join("");
+
+    // 份額對照：銷量 vs 市值
+    const bar = (label, key, tot) => `<div class="sbar"><span class="slabel">${label}</span><div class="strack">${reg.map(g => {
+      const p = g[key] / tot * 100;
+      return `<span style="width:${p}%;background:${RCOLOR[g.r]}" title="${g.r} ${p.toFixed(1)}%">${p >= 7 ? `${g.r} ${p.toFixed(0)}%` : ""}</span>`;
+    }).join("")}</div></div>`;
+    $("#shareBars").innerHTML = bar("銷量份額", "u", totU) + bar("市值份額", "cap", totC) +
+      `<p class="foot">只計算下表追蹤的 ${ok.length} 家車企／集團。兩條長度一樣時，代表市場給的估值與賣車規模相當；市值份額明顯大於銷量份額，代表市場給了更高的估值溢價。</p>`;
+
+    // 散布圖：x = 銷量、y = 市值（對數座標），斜虛線 = 每輛車市值
+    const W = 720, H = 420, L = 78, R = 44, T = 16, B = 40;
+    const tickU = v => v >= 1e4 ? nf(v / 1e4, 0) + " 萬" : nf(v);
+    const tickC = v => v >= 1e12 ? "$" + nf(v / 1e12, 0) + " 兆" : "$" + nf(v / 1e8, 0) + " 億";
+    const lx = Math.log10, xs = ok.map(c => lx(c.units)), ys = ok.map(c => lx(c.cap_usd));
+    const x0 = Math.floor(Math.min(...xs)), x1 = Math.ceil(Math.max(...xs) + 0.15), y0 = Math.floor(Math.min(...ys)), y1 = Math.ceil(Math.max(...ys) + 0.05);
+    const X = v => L + (lx(v) - x0) / (x1 - x0) * (W - L - R), Y = v => T + (y1 - lx(v)) / (y1 - y0) * (H - T - B);
+    const xt = []; for (let e = x0; e <= x1; e++) xt.push(10 ** e);
+    const yt = []; for (let e = y0; e <= y1; e++) yt.push(10 ** e);
+    const iso = [1e4, 1e5, 1e6].map(per => {
+      // cap = per × units；畫在可視範圍內
+      const ua = 10 ** x0, ub = 10 ** x1;
+      let p1 = [ua, per * ua], p2 = [ub, per * ub];
+      const clip = (u, c) => [Math.min(Math.max(u, 10 ** x0), 10 ** x1), c];
+      if (p1[1] < 10 ** y0) p1 = [10 ** y0 / per, 10 ** y0];
+      if (p2[1] > 10 ** y1) p2 = [10 ** y1 / per, 10 ** y1];
+      if (p1[0] >= p2[0]) return "";
+      p1 = clip(...p1); p2 = clip(...p2);
+      return `<line x1="${X(p1[0])}" y1="${Y(p1[1])}" x2="${X(p2[0])}" y2="${Y(p2[1])}" stroke="var(--muted)" stroke-dasharray="3 4" opacity=".55"/>
+        <text x="${X(p2[0]) - 4}" y="${Y(p2[1]) + 12}" text-anchor="end" font-size="10.5" fill="var(--muted)">每輛 ${usd(per)}</text>`;
+    }).join("");
+    const pts = [...ok].sort((a, b) => b.cap_usd - a.cap_usd);
+    // 標籤避讓：依市值由大到小放，跟已放的標籤或點重疊就改放左邊，再不行就只留滑鼠提示
+    const boxes = pts.map(c => ({ x: X(c.units) - 6, y: Y(c.cap_usd) - 6, w: 12, h: 12 }));
+    const hit = (a, b) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
+    const labelOf = c => c.name.replace(/ (Group|Motor Group)$/, "");
+    const tw = t => [...t].reduce((a, ch) => a + (ch.charCodeAt(0) > 255 ? 11 : 6.3), 0);
+    const placed = [];
+    const lab = new Map();
+    pts.forEach((c, i) => {
+      const t = labelOf(c), w = tw(t), cx = X(c.units), cy = Y(c.cap_usd);
+      for (const [lx, anchor] of [[cx + 9, "start"], [cx - 9, "end"]]) {
+        const box = { x: anchor === "start" ? lx : lx - w, y: cy - 8, w, h: 14 };
+        if (box.x < L || box.x + w > W - 2) continue;
+        if (placed.some(b => hit(b, box)) || boxes.some((b, j) => j !== i && hit(b, box))) continue;
+        placed.push(box); lab.set(c.name, { lx, anchor, t }); break;
+      }
+    });
+    $("#scatter").innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="各車企銷量與市值散布圖">
+      ${xt.map(v => `<line x1="${X(v)}" x2="${X(v)}" y1="${T}" y2="${H - B}" stroke="var(--line)"/><text x="${X(v)}" y="${H - B + 16}" text-anchor="middle" font-size="11" fill="var(--muted)">${tickU(v)}</text>`).join("")}
+      ${yt.map(v => `<line x1="${L}" x2="${W - R}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--line)"/><text x="${L - 6}" y="${Y(v) + 4}" text-anchor="end" font-size="11" fill="var(--muted)">${tickC(v)}</text>`).join("")}
+      <text x="${(L + W - R) / 2}" y="${H - 6}" text-anchor="middle" font-size="11.5" fill="var(--muted)">${year} 年銷量（輛，對數刻度）→</text>
+      <text x="12" y="${(T + H - B) / 2}" text-anchor="middle" font-size="11.5" fill="var(--muted)" transform="rotate(-90 12 ${(T + H - B) / 2})">市值（美元，對數刻度）→</text>
+      ${iso}
+      ${pts.map(c => `<g class="pt"><title>${esc(c.name)}｜銷量 ${units(c.units)} 輛｜市值 ${usd(c.cap_usd)}｜每輛 ${usd(c.perCar)}</title>
+        <circle cx="${X(c.units)}" cy="${Y(c.cap_usd)}" r="6" fill="${RCOLOR[c.region]}" stroke="var(--surface)" stroke-width="1.5"/>
+        ${lab.has(c.name) ? `<text x="${lab.get(c.name).lx}" y="${Y(c.cap_usd) + 4}" text-anchor="${lab.get(c.name).anchor}" font-size="11" fill="var(--fg)">${esc(lab.get(c.name).t)}</text>` : ""}</g>`).join("")}
+    </svg>
+    <div class="legend">${REGIONS.map(r => `<span><i style="background:${RCOLOR[r]};border-radius:50%;width:9px;height:9px"></i>${r}</span>`).join("")}<span>虛線：每賣一輛車對應的市值</span><span>擠在一起的點沒有名字，滑鼠移上去可看</span></div>`;
+
+    // 表格
+    const rank = (arr, k) => Object.fromEntries([...arr].sort((a, b) => (b[k] ?? -1) - (a[k] ?? -1)).map((c, i) => [c.name, i + 1]));
+    const rU = rank(all, "units"), rC = rank(all, "cap_usd");
+    const key = S.mktSort || "units";
+    const filt = S.mktRegion || "全部";
+    const rows = all.filter(c => filt === "全部" || c.region === filt).sort((a, b) => (b[key] ?? -1) - (a[key] ?? -1));
+    const maxPer = Math.max(...ok.map(c => c.perCar));
+    $("#mktTools").innerHTML = `<div class="tabs" role="tablist">${["全部", ...REGIONS].map(r => `<button role="tab" aria-selected="${r === filt}" data-mr="${r}">${r}</button>`).join("")}</div>
+      <div class="seg" role="tablist">${[["units", "依銷量"], ["cap_usd", "依市值"], ["perCar", "依每輛市值"]].map(([k, l]) => `<button role="tab" data-ms="${k}" aria-selected="${k === key}">${l}</button>`).join("")}</div>`;
+    $("#mktTable").innerHTML = `<thead><tr><th>車企／集團</th><th>地區</th><th>${year} 銷量</th><th>市值（USD）</th><th>每賣一輛車的市值</th><th>市值 30 天</th></tr></thead><tbody>` +
+      rows.map(c => {
+        const ch = capChange(c, 30);
+        return `<tr><td class="co"><b>${esc(c.name)}</b><span>${esc(c.brands)}</span></td>
+          <td><span class="rchip" style="--rc:${RCOLOR[c.region]}">${esc(c.region)}</span></td>
+          <td class="cell" title="${esc((c.sales?.metric || "") + (c.sales?.note ? "；" + c.sales.note : ""))}">${units(c.units)}<span class="rank">#${rU[c.name]}</span></td>
+          <td class="cell">${usd(c.cap_usd)}<span class="rank">#${rC[c.name]}</span></td>
+          <td class="cell">${usd(c.perCar)}<span class="bar"><i style="left:0;width:${c.perCar ? Math.max(1, c.perCar / maxPer * 100) : 0}%;background:${RCOLOR[c.region]}"></i></span></td>
+          <td class="cell ${ch == null ? "na" : ch > 0 ? "up" : "down"}">${ch == null ? "累積中" : (ch > 0 ? "▲ " : "▼ ") + Math.abs(ch).toFixed(1) + "%"}</td></tr>`;
+      }).join("") + "</tbody>";
+    $("#mktTools").querySelectorAll("[data-mr]").forEach(b => b.onclick = () => { S.mktRegion = b.dataset.mr; renderMarket(); });
+    $("#mktTools").querySelectorAll("[data-ms]").forEach(b => b.onclick = () => { S.mktSort = b.dataset.ms; renderMarket(); });
+    $("#mktFoot").innerHTML = `銷量：各公司 ${year} 年官方公布數字（口徑不同：有的是交車、有的是批發或含合資，滑鼠移到銷量上可看說明），在 <code>data/manual/sales_annual.csv</code> 每年補一次。
+      市值：Yahoo Finance 每天更新，用最新匯率換成美元；現代集團為現代＋起亞市值相加。小米市值含手機業務、福斯含保時捷股份，每輛市值會偏高。「市值 30 天」需要累積一個月的每日資料才會出現。`;
+  }
+
   async function init() {
-    const [status, nev, stocks, asp, news, issues, brief, history, feed] = await Promise.all([
+    const [status, nev, stocks, asp, news, issues, brief, history, feed, market] = await Promise.all([
       get("data/status.json", null), get("data/metrics/cn_nev.json", null), get("data/metrics/stocks.json", null),
       get("data/metrics/asp.json", null), get("data/news/latest.json", null), get("data/issues.json", null),
-      get("data/brief.json", null), get("data/brief_history.json", null), get("data/issue_feed.json", null)
+      get("data/brief.json", null), get("data/brief_history.json", null), get("data/issue_feed.json", null),
+      get("data/metrics/market.json", null)
     ]);
-    D = { status, nev, stocks, asp, news, issues, brief, history, feed };
+    D = { status, nev, stocks, asp, news, issues, brief, history, feed, market };
     $("#alert").hidden = true;
     if (status?.updated) {
       const stale = Date.now() - new Date(status.updated).getTime() > 36 * 3600e3;
@@ -534,6 +664,7 @@
     setupBriefHistory();
     renderGauges();
     renderAsp();
+    renderMarket();
     renderNews();
     renderIssues();
   }

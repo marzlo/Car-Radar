@@ -11,7 +11,7 @@ RAW = DATA / "metrics" / "financials_raw.json"   # 自動抓到的季報快取
 OUT = DATA / "metrics" / "asp.json"
 MANUAL = DATA / "manual"
 FX_TICKERS = {"CNY": ("CNY=X", True), "JPY": ("JPY=X", True), "HKD": ("HKD=X", True),
-              "TWD": ("TWD=X", True), "EUR": ("EURUSD=X", False)}
+              "TWD": ("TWD=X", True), "EUR": ("EURUSD=X", False), "KRW": ("KRW=X", True), "SEK": ("SEK=X", True)}
 QUARTERS_SHOWN = 6
 
 

@@ -26,8 +26,40 @@ asp_companies:
   - {name: 理想,       ticker: LI,      currency: CNY, note: ""}
   - {name: 蔚來,       ticker: NIO,     currency: CNY, note: 交車量含樂道、螢火蟲}
 
+# 車企版圖：銷量 × 市值（市值每天自動抓；銷量在 data/manual/sales_annual.csv，每年補一次）
+# region: 中國 / 歐洲 / 美國 / 日韓；tickers 可以放多個（例如現代＋起亞），市值會相加
+market_map:
+  - {name: BYD,                 region: 中國, tickers: [1211.HK],   brands: "BYD、騰勢、方程豹、仰望"}
+  - {name: 吉利汽車,            region: 中國, tickers: [0175.HK],   brands: "吉利、領克、極氪"}
+  - {name: 上汽集團,            region: 中國, tickers: [600104.SS], brands: "MG、榮威、智己＋上汽大眾／通用合資"}
+  - {name: 長安汽車,            region: 中國, tickers: [000625.SZ], brands: "長安、深藍、阿維塔＋長安福特／馬自達"}
+  - {name: 奇瑞汽車,            region: 中國, tickers: [9973.HK],   brands: "奇瑞、捷途、星途、iCAR"}
+  - {name: 長城汽車,            region: 中國, tickers: [2333.HK],   brands: "哈弗、魏牌、坦克、歐拉"}
+  - {name: 廣汽集團,            region: 中國, tickers: [2238.HK],   brands: "埃安、傳祺、昊鉑＋廣汽豐田／本田"}
+  - {name: 零跑,                region: 中國, tickers: [9863.HK],   brands: "零跑（Stellantis 持股）"}
+  - {name: 小鵬,                region: 中國, tickers: [XPEV],      brands: "小鵬"}
+  - {name: 理想,                region: 中國, tickers: [LI],        brands: "理想"}
+  - {name: 小米,                region: 中國, tickers: [1810.HK],   brands: "小米汽車（市值含手機業務）"}
+  - {name: 蔚來,                region: 中國, tickers: [NIO],       brands: "蔚來、樂道、螢火蟲"}
+  - {name: Volkswagen Group,    region: 歐洲, tickers: [VOW3.DE],   brands: "VW、Audi、Porsche、Škoda、SEAT/Cupra"}
+  - {name: Stellantis,          region: 歐洲, tickers: [STLA],      brands: "Jeep、Ram、Peugeot、Fiat、Citroën、Opel、Chrysler、Dodge、Alfa Romeo、Maserati"}
+  - {name: BMW Group,           region: 歐洲, tickers: [BMW.DE],    brands: "BMW、MINI、Rolls-Royce"}
+  - {name: Renault Group,       region: 歐洲, tickers: [RNO.PA],    brands: "Renault、Dacia、Alpine"}
+  - {name: Mercedes-Benz Group, region: 歐洲, tickers: [MBG.DE],    brands: "Mercedes-Benz、AMG、Maybach"}
+  - {name: Volvo Cars,          region: 歐洲, tickers: [VOLCAR-B.ST], brands: "Volvo（吉利控股旗下）"}
+  - {name: Ford,                region: 美國, tickers: [F],         brands: "Ford、Lincoln"}
+  - {name: GM,                  region: 美國, tickers: [GM],        brands: "Chevrolet、GMC、Buick、Cadillac"}
+  - {name: Tesla,               region: 美國, tickers: [TSLA],      brands: "Tesla"}
+  - {name: Rivian,              region: 美國, tickers: [RIVN],      brands: "Rivian"}
+  - {name: Lucid,               region: 美國, tickers: [LCID],      brands: "Lucid"}
+  - {name: Toyota,              region: 日韓, tickers: [7203.T],    brands: "Toyota、Lexus、Daihatsu、Hino"}
+  - {name: Hyundai Motor Group, region: 日韓, tickers: [005380.KS, 000270.KS], brands: "Hyundai、Kia、Genesis"}
+  - {name: Honda,               region: 日韓, tickers: [7267.T],    brands: "Honda、Acura"}
+  - {name: Suzuki,              region: 日韓, tickers: [7269.T],    brands: "Suzuki、Maruti Suzuki"}
+  - {name: Nissan,              region: 日韓, tickers: [7201.T],    brands: "Nissan、Infiniti"}
+
 # 換算成美元用的備用匯率（抓不到即時匯率時使用；1 單位外幣 = ? USD）
-fx_fallback: {USD: 1.0, CNY: 0.14, HKD: 0.128, JPY: 0.0068, EUR: 1.08, TWD: 0.031}
+fx_fallback: {USD: 1.0, CNY: 0.14, HKD: 0.128, JPY: 0.0068, EUR: 1.12, TWD: 0.031, KRW: 0.00072, SEK: 0.105}
 
 # 判斷新聞「跟汽車有關」的字（議題搜尋找到的新聞，至少要含其中一個才會留下；車企名稱會自動加入）
 relevance: [汽車, 車廠, 車企, 車商, 電動車, 新能源車, 純電, 油電, 插電, 車款, 車型, 新車, 車市, 乘用車, 整車, 車用, 車載, 自駕, 智駕, 充電樁, 交車, 銷量,

@@ -37,7 +37,7 @@ jobs:
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
-            python scripts/update_all.py build_issues fetch_stocks fetch_financials fetch_news
+            python scripts/update_all.py build_issues fetch_stocks fetch_financials fetch_market fetch_news
           else
             python scripts/update_all.py
           fi

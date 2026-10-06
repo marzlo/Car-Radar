@@ -2,7 +2,7 @@
 import sys, traceback, importlib
 from common import log
 
-STEPS = ["build_issues", "fetch_stocks", "fetch_financials", "fetch_cn_nev", "fetch_news", "make_brief"]
+STEPS = ["build_issues", "fetch_stocks", "fetch_financials", "fetch_market", "fetch_cn_nev", "fetch_news", "make_brief"]
 
 
 def main():
