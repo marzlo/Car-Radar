@@ -1,8 +1,44 @@
 {
- "updated": "2026-10-06T12:53+08:00",
+ "updated": "2026-10-06T12:58+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "e597a64311",
+   "title": "Hyundai自駕技術全面加速，攜手NVidia雙軌推進",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNalpQUFhHeUlXdllLWWl6SDJySS1wZlR4UFF6QVlXWXE4RGNBS0J5OV9iMVItVEhGNkpCUlpianNjOFhoSFhyMS12dlNaaDMwUGljMXNsWFJtTC1TNlZnSDRza2wzMHdTUW9qMlc1UVJhZThJdWxOd0ZWdElCMV9YdmNvbTU5ZG90SlZWcmExTm9OdS03SE44VWhIR0JzVGwyQ09kYU41Ny1icGlZSktCdWJhelNMeGR2dEp0LVNwWjVTNXVfS0tGT01HY09MbzF4S3MtQkZaOTZJWlgzVjZ3Z0xRaXRvVm5Oak02TFFwTHN5S1Vxb20yMGY4Sm41Sk9KTW96N2IyVVRkZHpDZEZv?oc=5",
+   "source": "Yahoo - 汽機車",
+   "lang": "zh",
+   "time": "2026-10-06T12:43+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
+   "id": "fd499083f3",
+   "title": "【12:24 即時新聞】艾姆勒(2241)盤中走強，電動車散熱訂單延續受關注",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTIzcm1sbDhHSzI5aXB4eFNOS2pMR0hlNUI1dG9zcGtkQ0hjRTRqMXNuVnNMS0JkbHVKdmlXMVZXV21RX2tOMmc2TEppS2tCaTRidktxWkF6X1o1RGNDb3dtTkl2dm40OFh4Wm1EbW5LS1NQdU5xNDVJU1RLYXZvZlJ4VFhkcXdCaDhjQW1R?oc=5",
+   "source": "CMoney投資網誌",
+   "lang": "zh",
+   "time": "2026-10-06T12:24+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "46c7c30724",
    "title": "台塑汽車發表新世代DAF重車台灣躍升DAF歐洲境外首座新世代車款組裝基地- 產業",
@@ -475,7 +511,7 @@
    "issues": [
     "issue-20261006-ybh7"
    ],
-   "via_search": false,
+   "via_search": true,
    "forced_issues": [
     "issue-20261006-ybh7"
    ]
@@ -6233,12 +6269,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "5b1e480a2f",
@@ -6329,46 +6361,6 @@
    ],
    "issues": [
     "profit"
-   ]
-  },
-  {
-   "id": "508a15d9d5",
-   "title": "影音／直擊深圳7層樓「中古車超市」！特斯拉占3層 新車降價成隱憂",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tQXFPRTRqLUx5RUtlbEhXajBFcGZZbHItZzE2cmRIOU1MclBRYktnQm1PVVlhd1BOMDVMalREVm5HZWdYX04xbllVN3ZsQjA?oc=5",
-   "source": "news.tvbs.com.tw",
-   "lang": "zh",
-   "time": "2026-09-30T18:10+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "fd6c3ecee4",
-   "title": "AI、自駕效應，德國BMW、Mercedes布局高效能汽車晶片",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlZDdllXNEhKVTgtQUljTDFOV0FfQ3pJeVAxRW4zSUdKLUhLTXE3WVNpWnVMYXVkNkwxbno3N3kyS2RmNnJvd0dfOFdCYzh4bHVEUGlqUm5EMExJdXY1ajZmYS0yRG1RN1c2Vkd6OTA0S1ZjQnZfUXRyOWNwaEI4bElSOWN2c29Rb0Z6cWpIRnc4UQ?oc=5",
-   "source": "ttv.com.tw",
-   "lang": "zh",
-   "time": "2026-09-30T16:31+08:00",
-   "via_search": true,
-   "categories": [
-    "座艙・SDV"
-   ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
    ]
   }
  ]
