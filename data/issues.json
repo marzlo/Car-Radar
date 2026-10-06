@@ -63,7 +63,13 @@
      "date": "2026-10-06",
      "label": "筆記",
      "text": "Tesla 的 FSD 採用純視覺的方案，搭配以全球車隊資料訓練的神經網絡，比起其他方案更具成本優勢\n目前推出的Robotaxi 有一則新聞引起我的注意 \"黑暗中灰色柏油路上的灰色小貓\"導致Robotaxi的營業時間無法開得更晚\n凸顯純視覺方案再面對更多低能見度場景時的挑戰",
-     "news": []
+     "news": [
+      {
+       "title": "Robotaxi 晚上為何不營業？馬斯克：喵喵喵 | 科技新報",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Y3NuVVZZSHpsRjVFR21zMkxsWFpJekVnTVNNVkw2UG43VFU5U3RSV04xUkl1WGY4LUdkU0oxUDBHVmoxeXViM2xfN3N3Q0prakJBZTNR?oc=5",
+       "source": "LINE TODAY"
+      }
+     ]
     }
    ]
   },
