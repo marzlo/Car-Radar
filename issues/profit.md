@@ -1,11 +1,11 @@
 ---
-title: 價格戰之下，誰的每車利潤撐得住？
+title: "價格戰之下，誰的每車利潤撐得住？"
 status: watch
-since: 2026-10-05
-keywords: [價格戰, 降價, price war, price cut, 毛利, margin, profit, 財報, earnings]
-metric: cn_nev
-then: （新議題：寫下你一開始的判斷）
-now: （還沒寫）
+since: "2026-10-05"
+keywords: ["價格戰","降價","price war","price cut","毛利","profit margin","Car"]
+metric: "cn_nev"
+then: "（新議題：寫下你一開始的判斷）"
+now: "（還沒寫）"
 ---
 
 ## 2026-10-05 | 開始追蹤
