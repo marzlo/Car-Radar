@@ -217,9 +217,10 @@
     const issues = D.issues?.issues || [];
     const news = D.news?.items || [];
     const notes = D.feed?.notes || [];
-    if (!issues.length) { $("#issues").innerHTML = `<p class="empty">還沒有議題。在 repo 的 issues 資料夾新增 .md 檔。</p>`; return; }
     const list = metrics();
-    $("#issues").innerHTML = issues.map(i => {
+    const newForm = S.editing?.mode === "new" ? `<div class="issue-body">${issueForm(null, list)}</div>` : "";
+    if (!issues.length && !newForm) { $("#issues").innerHTML = `<p class="empty">還沒有議題。按右上角「＋ 新增議題」。</p>`; return; }
+    $("#issues").innerHTML = newForm + issues.map(i => {
       const ex = i.id === S.open;
       const rel = news.filter(n => n.issues?.includes(i.id));
       const ai = notes.filter(n => n.issue === i.id);
@@ -228,29 +229,171 @@
         ...ai.map(n => ({ d: n.date, k: "AI 整理", x: n.note, ids: n.news_ids }))
       ].sort((a, b) => a.d < b.d ? -1 : a.d > b.d ? 1 : (a.me ? -1 : 1));
       const m = list.find(x => x.id === i.metric);
+      const ed = S.editing && S.editing.id === i.id ? S.editing.mode : null;
       return `<button class="issue-btn" aria-expanded="${ex}" data-id="${esc(i.id)}">
           <span class="t">${esc(i.title)}</span><span class="pill ${esc(i.status)}">${esc(i.status_label)}</span>
-          <span class="s">從 ${esc(i.since)} 開始・${i.entries.length} 筆我的紀錄・${ai.length} 筆 AI 整理・近 7 天 ${rel.length} 則新聞</span>
+          <span class="s">從 ${esc(i.since)} 開始・${i.entries.length} 筆我的紀錄・${ai.length} 筆 AI 整理・近 7 天 ${rel.length} 則新聞${i._pending ? "・<b>同步中</b>" : ""}</span>
         </button>
         ${ex ? `<div class="issue-body">
-          <div class="compare">
+          ${ed === "edit" ? issueForm(i, list) : `<div class="compare">
             <div><span class="eyebrow">當時（${esc(i.since)}）</span>${esc(i.then)}</div>
             <div><span class="eyebrow">現在</span>${esc(i.now)}</div>
-          </div>
+          </div>`}
           <ol class="tl">${tl.map(e => `<li class="${e.me ? "me" : ""}"><span class="d">${esc(e.d)}</span><span class="k">${esc(e.k)}</span>
             <div class="x">${esc(e.x)}</div>
             ${(e.ids || []).map(id => news.find(n => n.id === id)).filter(Boolean).map(n => `<a href="${safeUrl(n.link)}" target="_blank" rel="noopener">${esc(n.title_zh || n.title)}</a>`).join("")}
           </li>`).join("")}</ol>
+          ${ed === "entry" ? entryForm() : ""}
           <div class="chips">
+            ${ed ? "" : `<button class="chip-strong" data-edit="edit">✎ 更新判斷／設定</button><button class="chip-strong" data-edit="entry">＋ 新增紀錄</button>`}
             ${rel.length ? `<button data-filter="${esc(i.id)}">看 ${rel.length} 則相關新聞</button>` : ""}
             ${m ? `<button data-metric="${esc(m.id)}">${esc(m.name)} ${nf(m.last, m.dec)} ${esc(m.unit)}</button>` : ""}
-            <a href="https://github.com/${REPO}/edit/main/issues/${encodeURIComponent(i.id)}.md" target="_blank" rel="noopener">✎ 編輯這個議題</a>
           </div>
         </div>` : ""}`;
     }).join("");
-    $("#issues").querySelectorAll(".issue-btn").forEach(b => b.onclick = () => { S.open = S.open === b.dataset.id ? "" : b.dataset.id; store.set("issue", S.open); renderIssues(); });
+    $("#issues").querySelectorAll(".issue-btn").forEach(b => b.onclick = () => { S.open = S.open === b.dataset.id ? "" : b.dataset.id; S.editing = null; store.set("issue", S.open); renderIssues(); });
     $("#issues").querySelectorAll("[data-filter]").forEach(b => b.onclick = () => { S.issueFilter = b.dataset.filter; S.cat = "全部"; renderNews(); $("#news-h").scrollIntoView({ behavior: "smooth" }); });
     $("#issues").querySelectorAll("[data-metric]").forEach(b => b.onclick = () => { S.metric = b.dataset.metric; renderGauges(); $("#kpi-h").scrollIntoView({ behavior: "smooth" }); });
+    $("#issues").querySelectorAll("[data-edit]").forEach(b => b.onclick = () => { S.editing = { id: S.open, mode: b.dataset.edit }; renderIssues(); });
+    bindIssueForm();
+  }
+
+  // ── 議題編輯：直接在網頁上改，存回 GitHub 的 issues/*.md ──
+  const STATUS_LABEL = { keep: "觀點維持", revise: "修正中", flip: "已推翻", watch: "觀察中" };
+  const todayTpe = () => new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Taipei" });
+  const isPlaceholder = t => /^（(還沒寫|新議題)/.test(t || "");
+
+  function issueForm(i, list) {
+    const isNew = !i;
+    const v = i || { title: "", status: "watch", then: "", now: "", keywords: [], metric: "" };
+    return `<form class="iform" id="issueForm" novalidate>
+      <h3>${isNew ? "新增議題" : "更新判斷／設定"}</h3>
+      <label for="f-title">議題（建議寫成問句）</label>
+      <input id="f-title" required value="${esc(v.title)}" placeholder="例如：Stellantis 在 Filosa 領導下能否止跌回升？">
+      <div class="frow">
+        <div><label for="f-status">狀態</label>
+          <select id="f-status">${Object.entries(STATUS_LABEL).map(([k, l]) => `<option value="${k}"${k === v.status ? " selected" : ""}>${l}</option>`).join("")}</select></div>
+        <div><label for="f-metric">相關數據</label>
+          <select id="f-metric"><option value="">（無）</option>${list.map(m => `<option value="${esc(m.id)}"${m.id === v.metric ? " selected" : ""}>${esc(m.name)}</option>`).join("")}</select></div>
+      </div>
+      <label for="f-then">${isNew ? "我現在的判斷（會記為「當時」）" : "當時的判斷"}</label>
+      <textarea id="f-then" rows="2">${esc(isPlaceholder(v.then) ? "" : v.then)}</textarea>
+      ${isNew ? "" : `<label for="f-now">現在的判斷</label>
+      <textarea id="f-now" rows="3" placeholder="現在怎麼看？觀點維持、修正，還是推翻？">${esc(isPlaceholder(v.now) ? "" : v.now)}</textarea>
+      <label class="check"><input type="checkbox" id="f-log" checked> 把「現在的判斷」同時記一筆到時間軸（標籤：回顧，日期：今天）</label>`}
+      <label for="f-kw">關鍵字（用逗號分隔；新聞標題含這些字就會自動歸到這個議題）</label>
+      <input id="f-kw" value="${esc((v.keywords || []).join(", "))}" placeholder="Stellantis, Filosa, Jeep">
+      <div class="factions"><button class="primary" type="submit">${isNew ? "建立議題" : "儲存"}</button><button class="ghost" type="button" data-cancel>取消</button><span class="fmsg" id="fmsg"></span></div>
+    </form>`;
+  }
+
+  function entryForm() {
+    return `<form class="iform" id="entryForm" novalidate>
+      <h3>新增紀錄</h3>
+      <div class="frow">
+        <div><label for="e-date">日期</label><input id="e-date" type="date" value="${todayTpe()}"></div>
+        <div><label for="e-label">標籤</label><input id="e-label" value="筆記" list="e-labels">
+          <datalist id="e-labels"><option value="筆記"><option value="我的判斷"><option value="回顧"><option value="觀察"><option value="新聞"></datalist></div>
+      </div>
+      <label for="e-text">內容</label>
+      <textarea id="e-text" rows="4" placeholder="今天看到什麼、想到什麼"></textarea>
+      <div class="factions"><button class="primary" type="submit">加入時間軸</button><button class="ghost" type="button" data-cancel>取消</button><span class="fmsg" id="fmsg"></span></div>
+    </form>`;
+  }
+
+  function bindIssueForm() {
+    document.querySelectorAll("#issues [data-cancel]").forEach(b => b.onclick = () => { S.editing = null; renderIssues(); });
+    const f = $("#issueForm"), e = $("#entryForm");
+    if (f) f.onsubmit = ev => { ev.preventDefault(); saveIssueForm(); };
+    if (e) e.onsubmit = ev => { ev.preventDefault(); saveEntryForm(); };
+  }
+
+  const yq = s => JSON.stringify(String(s ?? ""));   // JSON 字串也是合法的 YAML
+  function issueToMd(i) {
+    const body = i.entries.map(e => `## ${e.date} | ${e.label}\n${e.text.trim()}\n`).join("\n");
+    return `---\ntitle: ${yq(i.title)}\nstatus: ${i.status}\nsince: ${yq(i.since)}\nkeywords: ${JSON.stringify(i.keywords || [])}\nmetric: ${yq(i.metric || "")}\nthen: ${yq(i.then)}\nnow: ${yq(i.now)}\n---\n\n${body}`;
+  }
+  const b64 = s => { const bytes = new TextEncoder().encode(s); let bin = ""; bytes.forEach(x => bin += String.fromCharCode(x)); return btoa(bin); };
+
+  async function saveToGitHub(issue, message) {
+    const token = store.get(TOKEN_KEY);
+    if (!token) throw Object.assign(new Error("需要先設定 GitHub 權杖（同手動更新）"), { needToken: true });
+    const path = `issues/${issue.id}.md`;
+    const url = `https://api.github.com/repos/${REPO}/contents/${path}`;
+    const hdr = { "Accept": "application/vnd.github+json", "Authorization": "Bearer " + token, "X-GitHub-Api-Version": "2022-11-28" };
+    let sha;
+    const g = await fetch(url + "?ref=main&t=" + Date.now(), { headers: hdr });
+    if (g.ok) sha = (await g.json()).sha;
+    else if (g.status === 401) throw Object.assign(new Error("權杖無效或已過期"), { needToken: true });
+    const clean = { ...issue }; delete clean._pending;
+    const r = await fetch(url, { method: "PUT", headers: hdr, body: JSON.stringify({ message, content: b64(issueToMd(clean)), branch: "main", ...(sha ? { sha } : {}) }) });
+    if (r.status === 401 || r.status === 403 || r.status === 404)
+      throw Object.assign(new Error(`權杖權限不足（${r.status}）：需要 Car-Radar 的 Contents「Read and write」權限`), { needToken: true });
+    if (r.status === 409) throw new Error("檔案剛被改過，請重新整理頁面再試一次");
+    if (!r.ok) throw new Error("GitHub 回應 " + r.status);
+  }
+
+  function applyLocal(issue, isNew) {
+    issue.status_label = STATUS_LABEL[issue.status] || issue.status;
+    issue._pending = true;
+    D.issues = D.issues || { issues: [] };
+    const arr = D.issues.issues;
+    const idx = arr.findIndex(x => x.id === issue.id);
+    if (idx >= 0) arr[idx] = issue; else arr.unshift(issue);
+    S.editing = null; S.open = issue.id; store.set("issue", S.open);
+    renderIssues();
+    msg(`已存到 GitHub。網站約 2 分鐘後同步（${isNew ? "新議題" : "這次修改"}已先顯示在頁面上）。`, "ok");
+    setTimeout(() => { if ($("#refreshMsg").classList.contains("ok")) msg(""); }, 10000);
+  }
+
+  async function withSave(fn) {
+    const btn = document.querySelector("#issues form .primary");
+    const fm = $("#fmsg");
+    if (btn) btn.disabled = true;
+    if (fm) fm.textContent = "儲存中…";
+    try { await fn(); }
+    catch (err) {
+      if (fm) fm.textContent = err.message;
+      if (err.needToken) openPanel();
+    } finally { if (btn) btn.disabled = false; }
+  }
+
+  function saveIssueForm() {
+    const title = $("#f-title").value.trim();
+    if (!title) { $("#fmsg").textContent = "請填寫議題名稱"; $("#f-title").focus(); return; }
+    const isNew = S.editing?.mode === "new";
+    const old = isNew ? null : D.issues.issues.find(x => x.id === S.editing.id);
+    const kw = $("#f-kw").value.split(/[,，、\n]/).map(s => s.trim()).filter(Boolean);
+    const then = $("#f-then").value.trim();
+    const today = todayTpe();
+    let issue;
+    if (isNew) {
+      const id = "issue-" + today.replace(/-/g, "") + "-" + Date.now().toString(36).slice(-4);
+      issue = { id, title, status: $("#f-status").value, since: today, keywords: kw, metric: $("#f-metric").value,
+        then: then || "（新議題：寫下你一開始的判斷）", now: "（還沒寫）",
+        entries: then ? [{ date: today, label: "我的判斷", text: then }] : [{ date: today, label: "開始追蹤", text: "開始追蹤這個議題。" }] };
+    } else {
+      const now = $("#f-now").value.trim();
+      issue = { ...old, title, status: $("#f-status").value, keywords: kw, metric: $("#f-metric").value,
+        then: then || old.then, now: now || old.now, entries: [...old.entries] };
+      if (now && $("#f-log").checked && now !== old.now) issue.entries.push({ date: today, label: "回顧", text: now });
+    }
+    withSave(async () => {
+      await saveToGitHub(issue, isNew ? `議題：新增「${title}」` : `議題：更新「${title}」`);
+      applyLocal(issue, isNew);
+    });
+  }
+
+  function saveEntryForm() {
+    const text = $("#e-text").value.trim();
+    if (!text) { $("#fmsg").textContent = "請填寫內容"; $("#e-text").focus(); return; }
+    const old = D.issues.issues.find(x => x.id === S.editing.id);
+    const entry = { date: $("#e-date").value || todayTpe(), label: $("#e-label").value.trim() || "筆記", text };
+    const issue = { ...old, entries: [...old.entries, entry].sort((a, b) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0) };
+    withSave(async () => {
+      await saveToGitHub(issue, `議題：「${old.title}」新增紀錄`);
+      applyLocal(issue, false);
+    });
   }
 
   function bindIssueLinks(root) {
@@ -311,6 +454,7 @@
     renderIssues();
   }
   init();
+  $("#newIssueBtn").onclick = () => { S.editing = { mode: "new" }; S.open = ""; renderIssues(); $("#f-title")?.focus(); };
 
   // ── 手動更新：用 GitHub API 觸發 workflow，跑完自動重新載入資料 ──
   const API = `https://api.github.com/repos/${REPO}/actions`;
@@ -337,6 +481,7 @@
   async function runRefresh() {
     const token = store.get(TOKEN_KEY);
     if (!token) { openPanel(); return; }
+    $("#refreshPanel").hidden = true;
     if (busy) return;
     busy = true; $("#refreshBtn").disabled = true;
     const started = Date.now();
@@ -344,7 +489,7 @@
       msg("正在請 GitHub 開始更新…");
       const r = await gh(`/workflows/${WF}/dispatches`, token, { method: "POST", body: JSON.stringify({ ref: "main" }) });
       if (r.status === 401 || r.status === 403 || r.status === 404) {
-        msg(`權杖無效或權限不足（${r.status}）。請重新設定：需要 Car-Radar 的 Actions「Read and write」權限。`, "err");
+        msg(`權杖無效或權限不足（${r.status}）。請重新設定：需要 Car-Radar 的 Actions 和 Contents「Read and write」權限。`, "err");
         openPanel(); return;
       }
       if (r.status !== 204) throw new Error("GitHub 回應 " + r.status);
@@ -380,6 +525,7 @@
   }
 
   $("#refreshBtn").onclick = runRefresh;
+  $("#tokenBtn").onclick = () => { if ($("#refreshPanel").hidden) openPanel(); else $("#refreshPanel").hidden = true; };
   $("#tokenCancel").onclick = () => { $("#refreshPanel").hidden = true; };
   $("#tokenClear").onclick = () => { try { localStorage.removeItem(TOKEN_KEY); } catch (e) { } $("#tokenClear").hidden = true; msg("已清除這台電腦上的權杖。", "ok"); };
   $("#tokenSave").onclick = () => {
