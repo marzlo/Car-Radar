@@ -1,8 +1,90 @@
 {
- "updated": "2026-10-06T16:09+08:00",
+ "updated": "2026-10-06T17:15+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "0f440de8f8",
+   "title": "Alfa Romeo renews its line-up",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmh5cXpUTXRpckxWNVZwc0Z1QVo1Szh2TnEyUGxSQi03NzZ4MXVZTDAxZ0V4MzNoYVp0YVpJSFQ2cDJpb1JrUmxPcVdzRU1udGM0VzBHRjJjUjBiS2h1emgxVHhGRHFPdGN4Q3dHMlczazktaWNyb0wwTXZKcXNvcTJ5UkxlY1V6YkR3VjhR?oc=5",
+   "source": "Media Stellantis",
+   "lang": "en",
+   "time": "2026-10-06T17:00+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "8ac98f3b90",
+   "title": "配備數位後視鏡、通風座椅、ADAS，台塑汽車重磅發表新世代DAF",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQR3J0R3JYU3k2eGpIbjU4dHdzTDR1RHctM3l4V0poTkc3M0FuVVdfYXU1VDRUb0g1bWZRSzE1Yjg5N3UzSjg2aHdpX1JDTTl4ZW0tU3FtUUxWMHRQbnJCWXpESUs1bHY5dlVzU3Fqd2U2VGx0ZlFmY2tfbzY3N05EWWtlYjBaU3cxT1V5dHFRanJjM2dmLVVvWVRUYXN5UmwtR3gtV3QwTHp6NjF1TWJkajV4amJlbnNrU0hCcU51czROeC1TZk55dWdLdW5IOHR6OXVMc1ZGTnAzRnZJeTFRbm1qOEItZGpjdHdqN2VOWFVZSXdUM2EwV0h4VUxYaE83RURaNFowekpRWTNwT0daZzlhZTFZb3M0RlExTllrdzI3Szc3WEgzR1NUcktNX0paQmY3aW90NFdzaF8tZ3paSU5IX211Skp1Vm41NmM3SHZkOHJ2YVc5cmF4U0NxSy14b21MQWlwcWFMNFJmbDVieTRyYmFpVnp0R1dpTEYtZG5VU0ZnOHh5RXdRVzJESUk?oc=5",
+   "source": "CARTURE 車勢文化",
+   "lang": "zh",
+   "time": "2026-10-06T16:48+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
+   "id": "0b36f37628",
+   "title": "美7500美元補助退場 通用汽車Q3電動車銷量驟降逾4萬輛",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZEJyT3psaVZJaHR6aGdkRi1ERFhpZngxM3hNUG9TUklBdllIWS1udUVCY3I1YWQtVjBCT20wejBxMndUTDdNMEdiNENvWHZGVk1SN2tEMTFHOUpIUzcyWVNwTF9TbUpDT2FKOXJ6MHNoX29aNVctUkVtWC1zbF8zVFpIY3ZfZHRoZF9MR1I1QmloT2E4SWlxbVI0TE5wWXJzT01rM3NFYW11OEp2ZDNMLThpa2hzMmt0eUE5M2NRV0FXNjJ3WG90QVA1LWl5MmNWeGxWdkw2SHBLdGpqWFNCZVJVUkE5YWhVN1cxX3JEUVVRdUNEdm9Gbk9falQyYXQ5V0didko0OXVoM1RnQzRueGlDWV92UEQ4UDVqYWNwcDdyQW8yZjdSODdobU5BVjc2NTE4S2NTSWdYY29SMDVoTC1NREs5WGdYSFhhZHFwSmRhOHpQVFh4Rnh2VThZVVdJ?oc=5",
+   "source": "商傳媒",
+   "lang": "zh",
+   "time": "2026-10-06T16:36+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "5986334845",
+   "title": "〈智慧移動展〉自駕車從測試邁向商轉 2027年智慧移動展鏈結AI生態系",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNkc1c3lVQ1g2SnRha1JRck50RGR0ek1zUl82VFJtN3FVU2o0d3BrblJnbnFFTF9jbkJ2RWw5T2F1VGlpeVIzbWlzZWVVSXc?oc=5",
+   "source": "news.cnyes.com",
+   "lang": "zh",
+   "time": "2026-10-06T16:18+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "735218beb3",
+   "title": "車輛中心攜美德建國際驗證場域 助台灣車電拓海外",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83U3hFOGgyUDBjUlRPcC1RM2ZXV0tXcUQ5SmwyQmt6c3ZNUmZTSGxMLVdUb2NpVVRYMFlMaXJaZ0RHaTNwTDVvcXI4QnNEZzhiak5rRk13VF80VHU3ZGxuOdIBZkFVX3lxTE9RdTJ1WmdLaTg2bzV6NHBnSW5wMEdnMXYyZXpPSm1Pam5CZjEyRXhjbklPV0pPY1VZMEpScE9MUU05NDl5UVBQOEI1XzZIVlZhNDE4UEFma2cxb2h0THVlSEMxX1RDQQ?oc=5",
+   "source": "大紀元",
+   "lang": "zh",
+   "time": "2026-10-06T16:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "cedfda904b",
    "title": "Powerful Combination: German National Handball Coaches Gislason and Gaugisch Both Drive Opel Grandland Plug-in Hybrid",
@@ -19,6 +101,21 @@
    "issues": []
   },
   {
+   "id": "f58527ed27",
+   "title": "Toyota阿根廷砸13億美元擴產電動車 Hilux BEV成熱門候選",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1RmE4Mjc5VTB1ZXQyUnBGU3RUYldLNndZSjM2TmFmekdOQW9nUjh3MDV5RnNCNUtXZF8zdTFZc3M1ak5ieWtjMmtoclNLTGpfWk96TTBZZ0tGbGxrSk9scGJYdXk3c0F4?oc=5",
+   "source": "科技島",
+   "lang": "zh",
+   "time": "2026-10-06T15:56+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "dd9cb6df4f",
    "title": "Lucid Production Plunges As The EV Maker Tries To Clear Inventory",
    "summary": "The American startup delivered fewer than 4,000 EVs in the third quarter, while production remains capped at a single shift.",
@@ -26,6 +123,21 @@
    "source": "InsideEVs",
    "lang": "en",
    "time": "2026-10-06T15:55+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "b789ff29dc",
+   "title": "直上頂規車型最超值？賓士純電 GLC 300 4MATIC、 GLC 400 4MATIC 規配差異解析",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcE5wZm1vbHQxWTdLVlNYanp2cHRvLWEwTFZJTDhYSWVUZG5ncnBsM1hEb1VOandyeTBDWXlQLU1KVHJWOXlfelBpb1hxYm5YSEx3QkhQNFdkS1dxcktvSGpxUk5nTXlWM1RlNVhrdWp3N19QYTFISlRNUk9JaWRUenI3X3h3YW52dDZYd09MZm1ySXV5UGZCNG4xTFVtUkg1ZGFWVV96NmY0ZHpVRHBjdWx2dEtyU29Xb1hSbE1iekctN19PSkJkRjJLODBwUldPd013aEFaaG42Ul91RjdwcUtPbmVvZEJHeXpJV3RjVEFmMUpBM3BvZEFfQkVUOFk1VUprdnJpT2ktV3RfeW4yeFRfaW5GZTBIYWZ2eHVvdXRadXA1SEIxQkloYXBRSS1vV3lOT1BrNnNhT20zYkNXcGRVMHY3WllzWl84dzJFcVF2S0h1YmVpTV9zTlBKNUV5MV9ReTMtRl93MjRVaVI1TGEwZWpjVWFibWtsQ2Y2eDNMdw?oc=5",
+   "source": "ddcar.com.tw",
+   "lang": "zh",
+   "time": "2026-10-06T15:39+08:00",
    "categories": [
     "其他"
    ],
@@ -79,6 +191,25 @@
    "issues": []
   },
   {
+   "id": "9317ebe420",
+   "title": "車價急跌毛利轉負 優信清庫存虧損擴大",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOekVyNHVHQnV1ODZTV3k0MDItSTdsWUx4ZjVRcUtaeTlVckY1VlJmOWNLMjlOWDZrOUNFQW1jc3kwN1F2WlI2amx4LThoaXJ4YVBMQ01VVk44VzJKMldJcVMwbXZVaWV5aU1NcGJQWGJoSTJWZVJhMFVDREFSUWVESUZNVExoQzBZQl9YYm4zX05sRGZVVWNuU05UNWlXTnJNMWh6bDR6a1lFOUFiNHowWGZpRXBfZGpMNDNXWlZMMkEyc1J3QWJicmF2WWRkYVFhd1VCSEc0Wm9UN3M3UVp3NXU2R1RxNTNBbVNDNk5tWmpoT1UxR25IYUM0SDBFY2NXTnduTkZrS2h6ODY3bzhnZmRtRG9aVmlBWk5ZYnhfMFUzSDFwcVR1UGZiRQ?oc=5",
+   "source": "Yahoo 財經",
+   "lang": "zh",
+   "time": "2026-10-06T15:07+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "9b00d11277",
    "title": "台美德推進車輛資安 首座國際級實驗室助攻車電出海",
    "summary": "",
@@ -109,6 +240,21 @@
    "issues": []
   },
   {
+   "id": "bb7ab6492d",
+   "title": "兩難之間的英國汽車：不想對華加稅，又怕歐盟限制",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEdkNyRk02MC1IR0FwZnExZjhFNUlNZklBQzRJN2d3T1MtcFo4VFNvSmxyYmZIUHlKMnhEOWZNX1JMdFM1UVN2UQ?oc=5",
+   "source": "鉅亨號",
+   "lang": "zh",
+   "time": "2026-10-06T14:58+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "d7b663ce58",
    "title": "兩難之間的英國汽車：不想對華加稅，又怕歐盟限制| 汽車",
    "summary": "",
@@ -124,13 +270,13 @@
    "issues": []
   },
   {
-   "id": "bb7ab6492d",
-   "title": "兩難之間的英國汽車：不想對華加稅，又怕歐盟限制",
+   "id": "cb82a01ee1",
+   "title": "MG Motors Sets New UK Sales Records with Best-Ever Quarter",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEdkNyRk02MC1IR0FwZnExZjhFNUlNZklBQzRJN2d3T1MtcFo4VFNvSmxyYmZIUHlKMnhEOWZNX1JMdFM1UVN2UQ?oc=5",
-   "source": "鉅亨號",
-   "lang": "zh",
-   "time": "2026-10-06T14:58+08:00",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWZfVnJmVXNfc1J1SWJEY3Z2UHkxdFkxM2hyNGczRnZwTmdiTkhSOTRQeW12c0djVVYtS0cyaHlvQkV6Qi1Xa1RRYWtMOEtIcFZHT05lODFpN0xUbkRYUUhGX3U3MHRBeFpsZ29FOFVXTmZQNC0xdElGZ21Sd1lJSGVCTXREYWR0OGJBVGdzN3libWIzeENtVnd5MFlJWTIzNnZfLUwycWhtaDY2bklPSQ?oc=5",
+   "source": "Electric Cars Report",
+   "lang": "en",
+   "time": "2026-10-06T14:55+08:00",
    "categories": [
     "其他"
    ],
@@ -154,21 +300,6 @@
    "issues": []
   },
   {
-   "id": "cb82a01ee1",
-   "title": "MG Motors Sets New UK Sales Records with Best-Ever Quarter",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWZfVnJmVXNfc1J1SWJEY3Z2UHkxdFkxM2hyNGczRnZwTmdiTkhSOTRQeW12c0djVVYtS0cyaHlvQkV6Qi1Xa1RRYWtMOEtIcFZHT05lODFpN0xUbkRYUUhGX3U3MHRBeFpsZ29FOFVXTmZQNC0xdElGZ21Sd1lJSGVCTXREYWR0OGJBVGdzN3libWIzeENtVnd5MFlJWTIzNnZfLUwycWhtaDY2bklPSQ?oc=5",
-   "source": "Electric Cars Report",
-   "lang": "en",
-   "time": "2026-10-06T14:55+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
    "id": "94d81616bf",
    "title": "BMW M慶祝生產第百萬輛車 慕尼黑工廠將轉型只生產電動車 | CarStuff人車事",
    "summary": "",
@@ -176,6 +307,21 @@
    "source": "LINE TODAY",
    "lang": "zh",
    "time": "2026-10-06T14:47+08:00",
+   "categories": [
+    "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "bd9e15eac9",
+   "title": "BMW M慶祝生產第百萬輛車 慕尼黑工廠將轉型只生產電動車",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Vkc2ZEFLZThQM0VQTm1PYzlhLU5GUzFKSWNUZlNocU5aRFBfWF9hYVVBSEJkbzF3bWVSR05mY1hveUt6dTE3WEg2WXZtSDFLaktyNTJBX1pfcUNwYWRDTlZLZHZpYUxxZFE?oc=5",
+   "source": "CarStuff 人車事",
+   "lang": "zh",
+   "time": "2026-10-06T14:34+08:00",
    "categories": [
     "供應鏈"
    ],
@@ -193,6 +339,21 @@
    "time": "2026-10-06T14:32+08:00",
    "categories": [
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "8fe4bd3852",
+   "title": "跟進歐盟？陷兩難？英擬對中國電動車加徵關稅、最高45%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBseVN0SWJjRHV3bW82TjRjZlVaalFmWVpOZXRYS1BzeXVmZENSTm1kVEVGY1hSbEVLenlqTG9tc0tJZEtEdmltWWE4bUdLOHBYc1pmdk5yTVNZSjlySFZYWm5CVmUyNzTSAWdBVV95cUxQbHlTdEliY0R1d21vNk40Y2ZVWmpRZllaTmV0WEtQc3l1ZmRDUk5tZFRFRmNYUmxFS3p5akxvbXNLSWRLRHZpbVlhOG1HSzhwWHNaZnZOck1TWUo5ckhWWFpuQlZlMjc0?oc=5",
+   "source": "worldjournal.com",
+   "lang": "zh",
+   "time": "2026-10-06T14:30+08:00",
+   "categories": [
+    "供應鏈"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -299,6 +460,21 @@
    "time": "2026-10-06T13:18+08:00",
    "categories": [
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "3e835a130e",
+   "title": "奇瑞的「路虎Range Rover平替」緣何令全球車廠深感不安",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODkzZ2VVa0NxRlJDX2lXS2tkLWt1WWZPYjNUZXlKbUVvTDNCMWNyMnZHdFpKT1BHdllzczZNTmREV0hJNUsyOG00cElmRlA2R1lneEhSTlA2TjU1MENQcjJNdmduaS1DcUhhbVpnYTZYUGNoUjVnNk90bE1sYzVYc3VSOTZQTm94dnRYUGNVUlJPVmdyT2Fva0tjM0U2Y080elZxWERROGc5Y1l1alJQdlp5b24?oc=5",
+   "source": "WSJ",
+   "lang": "zh",
+   "time": "2026-10-06T13:17+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1444,7 +1620,7 @@
    "issues": [
     "ssb"
    ],
-   "via_search": false,
+   "via_search": true,
    "forced_issues": [
     "ssb"
    ]
@@ -3085,21 +3261,6 @@
    "forced_issues": []
   },
   {
-   "id": "4c601e65c5",
-   "title": "Aston Martin電動化再踩煞車，首款電動車延至2033年後",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GLWtrdzl4SC14RERMUXZKanktT0VQaWJXX2RDNnBqTXE2VVpUbWpxMGFqZ1RxaEpya1BZNnBXSFE2WVR0Sm1MYmhLWm1vRjdyWEE?oc=5",
-   "source": "地球黃金線",
-   "lang": "zh",
-   "time": "2026-10-05T17:05+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
    "id": "53eb984134",
    "title": "Stellantis Says It’s Addressing Quality Woes, But We’ve Heard That Before",
    "summary": "",
@@ -3110,6 +3271,21 @@
    "categories": [
     "Stellantis",
     "車企動向"
+   ],
+   "issues": [],
+   "via_search": false,
+   "forced_issues": []
+  },
+  {
+   "id": "4c601e65c5",
+   "title": "Aston Martin電動化再踩煞車，首款電動車延至2033年後",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GLWtrdzl4SC14RERMUXZKanktT0VQaWJXX2RDNnBqTXE2VVpUbWpxMGFqZ1RxaEpya1BZNnBXSFE2WVR0Sm1MYmhLWm1vRjdyWEE?oc=5",
+   "source": "地球黃金線",
+   "lang": "zh",
+   "time": "2026-10-05T17:05+08:00",
+   "categories": [
+    "其他"
    ],
    "issues": [],
    "via_search": false,
@@ -5742,8 +5918,7 @@
    "lang": "zh",
    "time": "2026-10-02T10:46+08:00",
    "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
+    "adas"
    ],
    "categories": [
     "智駕",
@@ -6060,6 +6235,26 @@
    ]
   },
   {
+   "id": "b931156034",
+   "title": "BMW starts Gen6 battery production at new Bavarian plant",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUdfN0U2dVBsSXhFTGw4SVd6MkxlNXlCektHSEI3TU5IM0VGeW05T1V1aGVUTTdkZWpXbVF0VlBlUmZyc1ppTzZaZEpra1NuNW0tbzQ1SDFDcDRwMnlpMkNEN29kSU1GYnJWOXN1aXdYWFo4WGExY3RFVlFUUGp6UUpVTmRMdXNmcWszUENVS1NlUElDcUprb0pJeUhhR28tbEZtT1FaY0FXUzk0SW1pRHZjTFlqemxjN0JtTFpqX1ZJWmpGbDNHak1qQi14N3Bsa29LaV9tOUF3a0FIeWdVSA?oc=5",
+   "source": "automotivepowertraintechnologyinternational.com",
+   "lang": "en",
+   "time": "2026-10-02T00:17+08:00",
+   "via_search": true,
+   "categories": [
+    "電池",
+    "供應鏈"
+   ],
+   "forced_issues": [
+    "ssb"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "eb1a5f6a9a",
    "title": "BMW Wants to Use More Standardized Components to Better Rival Chinese Automakers",
    "summary": "",
@@ -6183,196 +6378,6 @@
    "issues": [],
    "via_search": false,
    "forced_issues": []
-  },
-  {
-   "id": "de9cf32ae5",
-   "title": "BYD September sales rise 16.98% to 463,561, hitting new high for 2026",
-   "summary": "BYD posted its fifth consecutive month of year-on-year NEV sales growth and seventh consecutive month of sequential growth. For details, please visit CnEVPost …",
-   "link": "https://cnevpost.com/2026/10/01/byd-sept-2026-sales/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T18:51+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "de10fe1349",
-   "title": "[News] Valeo at Paris Motor Show 2026: At the Core of Automotive Transformation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWGZtcmU5MTlQTFpMOEstNTFNZGZvdGNvMkFma2IyVGw0ZFFsckgza1IxUk0yWklpeV9QUTh5dmFtN0ZHV0R1V3g5eUFsY1IyaVVaTGZsa1pReEJ0UmQtZWlR?oc=5",
-   "source": "LEDinside",
-   "lang": "en",
-   "time": "2026-10-01T17:18+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "4f0a8593a2",
-   "title": "Huawei HIMA delivers 37,490 vehicles in September, extending year-on-year decline to fourth month",
-   "summary": "HIMA's September deliveries fell 29.15% year-on-year, with year-to-date growth slowing to 5.27%. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/huawei-hima-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T17:16+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "4d7dee12d1",
-   "title": "Zeekr delivers 37,216 vehicles in September, its sixth straight monthly record",
-   "summary": "Zeekr's September deliveries rose 103.85% year-on-year, extending its streak of both annual and monthly growth to 8 consecutive months. For details, please vis…",
-   "link": "https://cnevpost.com/2026/10/01/zeekr-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T16:12+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "7de28284cf",
-   "title": "Nio ES8 delivers 10,542 vehicles in September, topping 10,000 for third straight month",
-   "summary": "The ES8 accounted for 49.45% of the Nio brand's September deliveries and 28.18% of Nio Inc's total. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/nio-es8-deliveries-sept-2026/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T15:48+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "b903abb5c5",
-   "title": "Xpeng September deliveries hit 2026 high despite slight year-on-year decline",
-   "summary": "Xpeng delivered 41,256 vehicles in September, down 0.78% year-on-year while up 5.50% from August. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/xpeng-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T15:15+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "6e6d157759",
-   "title": "ARA issues statement on GM position regarding recycled OEM ADAS components",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjJVT2tZalVqQzAxeW5Vc0wtc0tUbnE1ZzJNb2hkLWZuX3JVR3BncXhJRjU5cjU0cFlRLWozdlhlOXptNGpmZ0g1TmdpeWhqbHVrN3MxVkNfU3V6T25LT09qV1JtZ2l6YW5CRm52TUFnZ3N5bHNFR3FJb0g1ZHoxNGZB?oc=5",
-   "source": "American Recycler",
-   "lang": "en",
-   "time": "2026-10-01T13:52+08:00",
-   "via_search": true,
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "df3c00c2b2",
-   "title": "Nio delivers 37,408 vehicles in September, meets Q3 guidance",
-   "summary": "Deliveries by the Nio brand rose 55.29% year-on-year in September, Firefly set a monthly record and Onvo posted a second consecutive year-on-year decline. For …",
-   "link": "https://cnevpost.com/2026/10/01/nio-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T12:31+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "c2f5cddda1",
-   "title": "Leapmotor posts record September deliveries, tops 100,000 for third straight month",
-   "summary": "Leapmotor delivered 105,656 vehicles in September, bringing third-quarter deliveries to a record 310,052. For details, please visit CnEVPost (cnev.co).",
-   "link": "https://cnevpost.com/2026/10/01/leapmotor-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T11:50+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "4a5a655d1d",
-   "title": "Zeekr plans 001 update in Q1 2027, offers incentives on current model",
-   "summary": "October incentives for the current 001 include a 10,000 yuan insurance subsidy. The model's deliveries fell 21.50% in the first 8 months of the year. For detai…",
-   "link": "https://cnevpost.com/2026/10/01/zeekr-plans-001-update-q1-2027-incentives-current-model/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T11:24+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "185e060ce9",
-   "title": "Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume",
-   "summary": "Sky Nomad helped lift Xiaomi Auto's monthly deliveries to their highest level so far in 2026 in its first month on sale. For details, please visit CnEVPost (cn…",
-   "link": "https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-01T10:50+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "cba0bd653b",
-   "title": "Mega $36,000 price cut and specs unveiled for 2027 Corvette Z06 as Chevy's supercar finally comes down under",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tN1EtNG1BbGF5LU00NWZiM1VQcHV0NXByX0ZJX1h6aUIwT0ktMllscUtjcjBuRmlkZzMzX3k5cFFBRzJSellyTEZNQ3VPM0VTbEdya3lnT2hFSU5KTmNjaGZFMloyWVNKNU9CeWplRmxGQXJ1bUNiU0UxSWk?oc=5",
-   "source": "WhichCar",
-   "lang": "en",
-   "time": "2026-10-01T10:40+08:00",
-   "via_search": true,
-   "categories": [
-    "其他"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
   }
  ]
 }

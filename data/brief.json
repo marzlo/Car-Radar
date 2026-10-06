@@ -1,27 +1,27 @@
 {
  "date": "2026-10-06",
- "generated": "2026-10-06T11:44+08:00",
+ "generated": "2026-10-06T17:15+08:00",
  "ai": false,
  "items": [
   {
-   "text": "大陸十一長假電動車的救星：巨型行動「充電寶」",
-   "category": "電池",
+   "text": "Alfa Romeo renews its line-up",
+   "category": "Stellantis",
    "news_ids": [
-    "d5dc04d11b"
+    "0f440de8f8"
    ]
   },
   {
-   "text": "通用汽車確認混合動力車款加入美國陣容 因應市場需求",
+   "text": "配備數位後視鏡、通風座椅、ADAS，台塑汽車重磅發表新世代DAF",
+   "category": "智駕",
+   "news_ids": [
+    "8ac98f3b90"
+   ]
+  },
+  {
+   "text": "美7500美元補助退場 通用汽車Q3電動車銷量驟降逾4萬輛",
    "category": "車企動向",
    "news_ids": [
-    "859686b194"
-   ]
-  },
-  {
-   "text": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
-   "category": "座艙・SDV",
-   "news_ids": [
-    "285f75a824"
+    "0b36f37628"
    ]
   }
  ]
