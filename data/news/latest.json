@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:14+08:00",
+ "updated": "2026-10-06T11:17+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
@@ -1056,6 +1056,19 @@
    "issues": []
   },
   {
+   "id": "32dcf832fc",
+   "title": "Jeep RMG",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1d1clNhR2FWbFltZXNuczZiMVhhbTFKLXV4S3FiXzBveGxyU1NBVHhFVktkM2VNQjFJTnp0LWJrRUc4T2NDeTBjY3pGd2F4N3RmWkJXM2NoSzVmcTVKZm4zUENaekZzM2cyZzFwZ1ljNHNuemNOT0lZRlkxelI0U3RPQQ?oc=5",
+   "source": "Media Stellantis",
+   "lang": "en",
+   "time": "2026-10-05T23:32+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "issues": []
+  },
+  {
    "id": "ff607a9db7",
    "title": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge",
    "summary": "",
@@ -1609,6 +1622,19 @@
    "issues": []
   },
   {
+   "id": "b7b259cfa2",
+   "title": "激光雷達睇唔到隻手？乘客被無人車車門夾傷 解鎖失靈手指被夾到失血色",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQdlpnM1dPYmxmbmpRWWNNTHk3TlNhS0xtQ1ZhYWo1cHNkeENLZmRoMnpxTllUU3BWSU0zQzBwcjNrZWFBa0pGazBJcG56ZmtFODh3ZGk0MU9BZWw2V0VHUXhXTUx2dEFaNk1Bc2cxdXBzQ3RDR0x4VDFhajBaSG1fT0tLSnozNEZVcktuM0d5SnNuM3JHbUNHT0NSdGNHQko4cWR4Q2JpSW5wRms4bE1ZOTIzR2JqNldWckk3RXJ5cG1nam1oYW9LUlhoV2Y4Z1E4RHlNY1NORURWYjhsaEczXzBGa0NBVklTbHB5YUJvYjduTHY4WENvWlpTaV9qZDZzVmVQZXctMjFIQ3d3ZlplZHNxaWEwNHNWVnFKYUwzaVBjZkpfNnpBeDkzWnFZekpmZTBrTVFTQ1A1bUFDSDB3X2x4Uy02blM5QXg5bjZNQ3ctclV0NzZoZUhmei1RczMtNG51U19oWWNudTMtRHBWNXlEQzVRNm0zeWVaeGJDcHMwQUMzNXdiVjh4OUV2a2ZQN3hITTRGc21Hd0JyWlhFT29kN0s0cTZqZURTLVd1Wk9KUE1zNU9wNlNJeEJSbVVw?oc=5",
+   "source": "ezone.hk",
+   "lang": "zh",
+   "time": "2026-10-05T17:32+08:00",
+   "categories": [
+    "智駕"
+   ],
+   "issues": []
+  },
+  {
    "id": "a1026ce92f",
    "title": "Robotaxi 晚上為何不營業？馬斯克：喵喵喵 | 科技新報",
    "summary": "",
@@ -1623,19 +1649,6 @@
    "issues": [
     "adas"
    ]
-  },
-  {
-   "id": "b7b259cfa2",
-   "title": "激光雷達睇唔到隻手？乘客被無人車車門夾傷 解鎖失靈手指被夾到失血色",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQdlpnM1dPYmxmbmpRWWNNTHk3TlNhS0xtQ1ZhYWo1cHNkeENLZmRoMnpxTllUU3BWSU0zQzBwcjNrZWFBa0pGazBJcG56ZmtFODh3ZGk0MU9BZWw2V0VHUXhXTUx2dEFaNk1Bc2cxdXBzQ3RDR0x4VDFhajBaSG1fT0tLSnozNEZVcktuM0d5SnNuM3JHbUNHT0NSdGNHQko4cWR4Q2JpSW5wRms4bE1ZOTIzR2JqNldWckk3RXJ5cG1nam1oYW9LUlhoV2Y4Z1E4RHlNY1NORURWYjhsaEczXzBGa0NBVklTbHB5YUJvYjduTHY4WENvWlpTaV9qZDZzVmVQZXctMjFIQ3d3ZlplZHNxaWEwNHNWVnFKYUwzaVBjZkpfNnpBeDkzWnFZekpmZTBrTVFTQ1A1bUFDSDB3X2x4Uy02blM5QXg5bjZNQ3ctclV0NzZoZUhmei1RczMtNG51U19oWWNudTMtRHBWNXlEQzVRNm0zeWVaeGJDcHMwQUMzNXdiVjh4OUV2a2ZQN3hITTRGc21Hd0JyWlhFT29kN0s0cTZqZURTLVd1Wk9KUE1zNU9wNlNJeEJSbVVw?oc=5",
-   "source": "ezone.hk",
-   "lang": "zh",
-   "time": "2026-10-05T17:32+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "issues": []
   },
   {
    "id": "b77697f2d7",
