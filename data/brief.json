@@ -1,27 +1,27 @@
 {
  "date": "2026-10-07",
- "generated": "2026-10-07T09:31+08:00",
+ "generated": "2026-10-07T10:41+08:00",
  "ai": false,
  "items": [
   {
-   "text": "進口豪華電動車掀熱戰- 上市櫃",
-   "category": "車企動向",
-   "news_ids": [
-    "cfbe391035"
-   ]
-  },
-  {
-   "text": "Automotive Battery Management System Market To 2035: EV Demand and Software Integration Drive Expansion - News and Statistics",
+   "text": "台鐵碳排量最高車站出爐、日企開發電動車行駛中無線充電、美最高法院審石油巨頭氣候訴訟",
    "category": "電池",
    "news_ids": [
-    "f233f18613"
+    "f4d314e733"
    ]
   },
   {
-   "text": "日本自動駕駛加速追趕美中 豐田 2028 年量產市區免手動車",
-   "category": "智駕",
+   "text": "\"Aiming at China, Hitting Japan\": Toyota and Nissan in Panic Over Europe's New Law",
+   "category": "車企動向",
    "news_ids": [
-    "bdc8730b3b"
+    "da74d4d212"
+   ]
+  },
+  {
+   "text": "日本供應鏈受衝擊？Suzuki擴大採用中國製零件",
+   "category": "供應鏈",
+   "news_ids": [
+    "a507372cfb"
    ]
   }
  ]
