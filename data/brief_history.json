@@ -83,6 +83,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-08",
+   "generated": "2026-10-08T06:37+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "I-CAR at SEMA 2026: Live welding demos, ADAS display vehicle and new courses",
+     "category": "智駕",
+     "news_ids": [
+      "bbb41f0622"
+     ]
+    },
+    {
+     "text": "Ice cream and EV fast charging? United Dairy Farmers is bringing both to Ohio",
+     "category": "電池",
+     "news_ids": [
+      "072050ee50"
+     ]
+    },
+    {
+     "text": "GM Is Conveniently Vague On All The New Hybrids It Desperately Needs",
+     "category": "車企動向",
+     "news_ids": [
+      "0d8d0524ae"
+     ]
+    }
+   ]
   }
  ]
 }
