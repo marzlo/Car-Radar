@@ -16,3 +16,11 @@ now: "（還沒寫）"
 也明說Stellantis因此會製造出更平價的汽車
 
 - [新聞] [Sean Duffy Says Stellantis Will Make ‘Affordable Cars’ After Trump’s CAFE Rollback — 'American Automakers](https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHNIcWlPczA2N0ppeHozdEY0M1hMNHo3bF9fa05vbi0zc1JMS1p6WmlmSDlYaHhseHgybzEyZVNyRWlZUVduWC1CTlZORVJCYzFUZUZENVRLVEZkRVF1MmZjNnZKcjJrb3FNc2xHQy0tZk9Id0s0WWlUcDN0UWdVNThuT2lYU2ZUeVp5eVJnRGR0blZTZFVrWExXOHg5R1k0MkZNeFczWk96ZHpFdTM5ZUlkS0xMQTJEaE5RVm9JaFlwTjR6NEZYRHVScE1neTUyQi1wMlAzN0ozT1gxU0ZQTUpQemNSSUVVcF9OSl9aTExYR0ZPSlhnSmRaRDN2Qkxl?oc=5) — Benzinga
+
+## 2026-10-07 | 筆記
+中國市場出現貴的國產車沒有像以前這麼多人願意掏錢的現象
+原因: 
+1. 景氣不好，消費者花錢更謹慎
+2. 新車、新技術更迭速度太快，買車後不久就有新的車推出，也可能更便宜、更好用
+
+- [新聞] [價格戰+激烈競爭 法媒：中國電動車陷「短命」危機](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvWXl6RnZaN3NvOVVENHFLRkxXVWhOaldYcGtRRC1KdkhxNFgtcXIzUnFzMDRTWWp1S0hnLWhhRWdhNExVUEI4WFkzbW5pTWthdngyOWdpX3lWdE42Y0tR0gFkQVVfeXFMUGVIdzR4M0toTFZ4STRkcVhob3dNaW00dDZ6N081R1ZHekp3Mks2dVN5dnYzU1Y5b3hUaVl1aWlPNWlPZGFYUU85cDVfZ0s2ZndzMjg5Z3pRcXBmVE9GUU52TVlaYQ?oc=5) — 自由財經
