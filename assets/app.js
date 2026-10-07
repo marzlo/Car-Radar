@@ -193,7 +193,7 @@
       const tl = [
         ...i.entries.map((e, idx) => ({ d: e.date, k: e.label, x: e.text, me: true, att: e.news || [], idx })),
         ...ai.map(n => ({ d: n.date, k: "AI 整理", x: n.note, ids: n.news_ids }))
-      ].sort((a, b) => a.d < b.d ? -1 : a.d > b.d ? 1 : (a.me ? -1 : 1));
+      ].sort((a, b) => a.d < b.d ? 1 : a.d > b.d ? -1 : (a.me ? -1 : 1));   // 由新到舊
       const m = list.find(x => x.id === i.metric);
       const ed = S.editing && S.editing.id === i.id ? S.editing.mode : null;
       return `<button class="issue-btn" aria-expanded="${ex}" data-id="${esc(i.id)}">

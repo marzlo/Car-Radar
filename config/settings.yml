@@ -28,7 +28,7 @@ asp_companies:
   # ── 以下為「車企版圖」補齊的車企（名稱需和 market_map 一致）──
   - {name: 上汽集團,            ticker: 600104.SS,   currency: CNY, note: 銷量扣除上汽大眾／通用（合資不併入營收）；營收含華域零件等}
   - {name: 長安汽車,            ticker: 000625.SZ,   currency: CNY, note: 只用自主品牌銷量（長安福特／馬自達不併入營收）}
-  - {name: 長城汽車,            ticker: 2333.HK,     currency: CNY, note: ""}
+  - {name: 長城汽車,            ticker: "",          currency: CNY, note: 全公司營收與營業利潤（手動，每季補）}
   - {name: 廣汽集團,            ticker: 2238.HK,     currency: CNY, note: 只用自主品牌銷量（廣汽豐田／本田不併入營收）}
   - {name: 小鵬,                ticker: XPEV,        currency: CNY, note: ""}
   - {name: 吉利汽車,            ticker: "",          currency: CNY, note: 港股只公布半年報；利益為稅前利潤}
@@ -45,7 +45,7 @@ asp_companies:
   - {name: Lucid,               ticker: LCID,        currency: USD, note: ""}
   - {name: Hyundai Motor Group, ticker: [005380.KS, 000270.KS], currency: KRW, note: 現代＋起亞合計；營收含金融服務}
   - {name: Honda,               ticker: "",          currency: JPY, note: 只用汽車事業分部（不含機車、金融；手動，每季補）；銷量為合併（不含中國合資）}
-  - {name: Nissan,              ticker: 7201.T,      currency: JPY, note: 合併批發（不含東風日產）}
+  - {name: Nissan,              ticker: "",          currency: JPY, note: 只用汽車事業分部（不含銷售金融；手動，每季補）；銷量為合併批發（不含東風日產）}
   - {name: Suzuki,              ticker: "",          currency: JPY, note: 只用汽車事業分部（不含機車；手動，每季補）}
 
 # 車企版圖：銷量 × 市值（市值每天自動抓；銷量在 data/manual/sales_annual.csv，每年補一次）
