@@ -1,8 +1,68 @@
 {
- "updated": "2026-10-07T07:54+08:00",
- "feeds_ok": 10,
+ "updated": "2026-10-07T09:31+08:00",
+ "feeds_ok": 3,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "6c3678c681",
+   "title": "Jaguar Heard The Rebrand Haters. It Doesn't Think They're Its Customers",
+   "summary": "Jaguar doesn't need everyone to like it's new direction, top boss Rawdon Glover told us.",
+   "link": "https://insideevs.com/news/810986/jaguar-culture-war-result-ad/",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-07T08:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "7a97532637",
+   "title": "Jaguar Says America Is The Most Important Market For Its New Electric Sedan",
+   "summary": "Despite the $130,000 price tag, Jaguar says that the U.S. and Canada are its most important markets for the Type 01 sedan.",
+   "link": "https://insideevs.com/news/810951/type-01-sedan-jaguar-important/",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-07T08:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "04da60700e",
+   "title": "The Jaguar Type 01 Won't Be The Only Model To Look Like This",
+   "summary": "The brand wants the Type 01 four-door GT to take the limelight, but more models are coming soon.",
+   "link": "https://insideevs.com/news/810950/jaguar-new-model-coming-soon/",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-07T08:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "281a7017d1",
+   "title": "The Jaguar Type 01 Is A 1,000-horsepower Beast. But It Isn’t For Everyone",
+   "summary": "It looks oh-so-cool, but it’s not cheap or practical, and will likely ruffle a few feathers.",
+   "link": "https://insideevs.com/news/810839/jaguar-type-01-launch-ev/",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-07T08:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "cfbe391035",
    "title": "進口豪華電動車掀熱戰- 上市櫃",
@@ -30,9 +90,7 @@
    "categories": [
     "電池"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
+   "forced_issues": [],
    "issues": [
     "ssb"
    ]
@@ -50,10 +108,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -71,12 +126,8 @@
    "categories": [
     "供應鏈"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "7ebe5b991b",
@@ -486,12 +537,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "f9c61caa34",
@@ -710,10 +757,7 @@
     "智駕",
     "供應鏈"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -964,12 +1008,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "adas"
-   ],
-   "issues": [
-    "adas"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "d589da0692",
@@ -1045,9 +1085,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -1343,9 +1381,7 @@
    "categories": [
     "車企動向"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -1363,10 +1399,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -1521,9 +1554,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -1742,12 +1773,8 @@
    "categories": [
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
-   "issues": [
-    "adas"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "8db3ca3dc2",
@@ -1761,9 +1788,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -1780,9 +1805,7 @@
    "categories": [
     "車企動向"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -1846,10 +1869,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -2960,9 +2980,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -3168,13 +3186,9 @@
    "categories": [
     "供應鏈"
    ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ],
+   "issues": [],
    "via_search": true,
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": []
   },
   {
    "id": "315cca5fd5",
@@ -3636,13 +3650,9 @@
    "categories": [
     "其他"
    ],
-   "issues": [
-    "ssb"
-   ],
+   "issues": [],
    "via_search": true,
-   "forced_issues": [
-    "ssb"
-   ]
+   "forced_issues": []
   },
   {
    "id": "02392c6921",
@@ -3716,12 +3726,8 @@
    "categories": [
     "座艙・SDV"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
-   "issues": [
-    "ssb"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "8c9c7399e0",
@@ -3930,9 +3936,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -4292,9 +4296,7 @@
     "電池",
     "車企動向"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
+   "forced_issues": [],
    "issues": [
     "ssb"
    ]
@@ -4358,12 +4360,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "b20706e1b1",
@@ -4514,12 +4512,8 @@
     "其他"
    ],
    "via_search": true,
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "6c02f5cb4e",
@@ -4670,9 +4664,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas"
    ]
@@ -4830,9 +4822,7 @@
    "categories": [
     "電池"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
+   "forced_issues": [],
    "issues": [
     "ssb"
    ]
@@ -4944,10 +4934,7 @@
     "adas",
     "issue-20261006-ybh7"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "via_search": true
   },
   {
@@ -5099,9 +5086,7 @@
     "電池",
     "車企動向"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
+   "forced_issues": [],
    "issues": [
     "ssb"
    ]
@@ -5554,9 +5539,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -5682,10 +5665,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -5703,12 +5683,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "e54685e644",
@@ -5847,9 +5823,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -6212,78 +6186,11 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
    ]
-  },
-  {
-   "id": "b945e83cdc",
-   "title": "歐盟施壓 英國考慮對中國電動車加徵關稅",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTVhEc2pKZGRTVVA0Wk9OZy1LamgzVFdVeml0NnB6cFozaXZmNkltNy1wNGRNWUlWanNfNUo1RTRCWXZlVS1SX1dWUDRmdmhyQUoyQ2o1ZVJ1cTUzWURndGM2bHpKQdIBZkFVX3lxTE5oTVhEc2pKZGRTVVA0Wk9OZy1LamgzVFdVeml0NnB6cFozaXZmNkltNy1wNGRNWUlWanNfNUo1RTRCWXZlVS1SX1dWUDRmdmhyQUoyQ2o1ZVJ1cTUzWURndGM2bHpKQQ?oc=5",
-   "source": "epochtimes.com",
-   "lang": "zh",
-   "time": "2026-10-05T11:39+08:00",
-   "categories": [
-    "供應鏈"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "83c5301d41",
-   "title": "特斯拉交車超預期 5.3%，獲利表現仍待財報揭曉",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVG9BaVhmdW1MdkFjRDM4OUZVVXcxYmVqRUZybENCYW9mM1JBU3RFdTZvcFZRbDVFTUlObmZaX2JnTF9YQVdiTWIwcW5kcE9tNEJGeDFjcHl4NU16TkRj?oc=5",
-   "source": "pocket.tw",
-   "lang": "zh",
-   "time": "2026-10-05T11:38+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "e3c0067030",
-   "title": "Photo Gallery: Partnerships between the Fashion and Automotive Industries",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFUxM1RnSzUwUGM5NEt5aWFVX1c2dVY2bVZPMl9nRTNweG84bVlGdFNJQ1VteDhZUGVaVHI5eGR0YnBPeHY0ZXBGQ09lMGRwU0VWSk5CQUg2b0pfOHI1ZzdoLXU4SEc2UWVTTlprcXdRZ0pCV1VJVmtIbTRzN1dndW42RmEyRjR2WlhaUXpUZ1lULTBmMFhtbmZkX0JjZU1uZUUyR1lhWnhER2dJdWfSAbMBQVVfeXFMUDdtTGVkY0Fzd1o1NWNPbUFLVWJsY1piV0RpanR3WTZBNzJqWFEwYUJIclJ1aWdqOXRhQ29sSDFpeGo2SjB2alpQRGh0X25VRkNmNlAtamdicmtPemNOOGdGRkhxZU56Z3d4SHpaSmRrWnJkSUNZdEhqZ0JqWEFxVUNjaGpORTRfNTMzWUJZYlZHUVRUMWZwSWZzWW5BaWFQTm94ZnNUeGJaSjZqYTFFQ3lra2M?oc=5",
-   "source": "Motor Illustrated",
-   "lang": "en",
-   "time": "2026-10-05T11:27+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "9da13686f3",
-   "title": "從線上玩到線下！賀禮翁ONLINE主題MINI現身ANARCHY 99車聚",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFA4eGJFRUVoakpjYmF4dHBtb01ETlUxeVNkSHViVzZsNndwRkktY05xejJXT0UzeEZsMWc?oc=5",
-   "source": "ENN台灣電報",
-   "lang": "zh",
-   "time": "2026-10-05T11:26+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
   }
  ]
 }
