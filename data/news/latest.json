@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-07T12:56+08:00",
+ "updated": "2026-10-07T13:03+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "65d4dd3d92",
+   "title": "破千匹馬力 Jaguar 電動車 Type 01 全球首演！台灣同步預售",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FMGF6S2cxY20wQTBfYjQ5WjZja0g3eHZiQWZvcGVxTUNzUVBYWng0QkJyMG1XSFhWVi1EWUxYNnR5eFFXTWFhLVpB0gFPQVVfeXFMTVlNVkl2YnNzVl92OWV2aXZUNHlaVE56b242M195bThXSERuU2RLRmJxT2RSYWNCVEp3bTlVR2dhTTczZkV3Yk8tNVBEbzBIZw?oc=5",
+   "source": "自由電子報汽車頻道",
+   "lang": "zh",
+   "time": "2026-10-07T12:55+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "dc32b22778",
    "title": "概念車般的前衛風格還有千匹馬力！Jaguar Type 01 亮相，670 萬元起在台開放預售",
@@ -2127,6 +2142,25 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
+  },
+  {
+   "id": "2e97303791",
+   "title": "特斯拉FSD「改變人生」 美地產大亨捨豪華賓利擁抱自動駕駛",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10LVRVVnNZTVhDendBb2tRZ3gyQ3l5Z2hVRDBOWmVnYnIwSlhmQ1duNVFXNTMyWDhJMzJ4R2xuM3lOMkJ6V0hXM2NPZWJRYmQ2LXc?oc=5",
+   "source": "蕃新聞",
+   "lang": "zh",
+   "time": "2026-10-06T19:05+08:00",
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "bc161a73dc",
@@ -4310,9 +4344,13 @@
    "categories": [
     "其他"
    ],
-   "issues": [],
+   "issues": [
+    "ssb"
+   ],
    "via_search": true,
-   "forced_issues": []
+   "forced_issues": [
+    "ssb"
+   ]
   },
   {
    "id": "02392c6921",
@@ -6226,36 +6264,6 @@
    "issues": [
     "profit"
    ]
-  },
-  {
-   "id": "a54ac7592d",
-   "title": "據報英國擬對中國電動車加徵四成半關稅 防華企傾銷受補貼產品",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPbVU1WWVINEtSQXFPTlQ0LTF6eXdvb3luZ2w0MmFBd21qOEJkV3BIRUlaaXpNX3JDYXZzSjZkenZod2RZY0Z3REE4VUF6T3cwNm5JM25SQmpaa29mc3hVRjBmRnVqRTVJdlVTOFNqbERpelB2SXczZnVPT05TUW52VC14TzZpa3ZFc0hpaGdwNV8wN1UtbEtCZEN1V0ZwT1JDREQ2bGg0a3VuUVdKbVdkRVlELXNsQXZxZGxDdHRpMHB1cG02LTBXTEs0RXpxT0NtTEktd0VXRmJfWHN5V1R4Y21RenlUb3VMamJrWHV4aWJJd0VXVWM1LXF5a1E2RGpoQy0xVkFXcjg5SmFpeC1zWFd4MHBvQ085cDlraEpHRFdNaWRVTDI5QnM4Unh6YkxwaGJyU29FY2pXc2gwS1FpSVl3WHlDMXZGT1ItRldkZDVxT1ZUNjR1OE1Kc25oT3Q5UUpfOHRHVnJGNzBxdU1MZ1hOcEc3S0tWanJWVUtwUTdOdkNfZzlVMWR4dWVocVl4cEo0WnQtMA?oc=5",
-   "source": "TVB",
-   "lang": "zh",
-   "time": "2026-10-05T15:53+08:00",
-   "categories": [
-    "供應鏈"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "08755829bb",
-   "title": "Robotaxi 晚上為何不營業？馬斯克：喵喵喵",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBSk5mSUdfU3RxSHp1OGNyYnlJTV9jNW1LME80TnZ2VjdHRHVHTkpSOWFicy1ISTlYU3VzakI4a0wzUjdTaVNBeEFtUEVkdnl2Zjh5N1EtQVFqa3laalE2Y01fZktqNzZYMU8zMU1nMHhBSEJwWDR5cA?oc=5",
-   "source": "TechNews 科技新報",
-   "lang": "zh",
-   "time": "2026-10-05T15:41+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "issues": [],
-   "forced_issues": [],
-   "via_search": true
   }
  ]
 }
