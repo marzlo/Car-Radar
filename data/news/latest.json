@@ -1,8 +1,44 @@
 {
- "updated": "2026-10-08T06:37+08:00",
+ "updated": "2026-10-08T08:16+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "d93b8df74a",
+   "title": "Compact Utility Vehicles Market To 2035: Electrification and ADAS Integration Drive Growth - News and Statistics",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUFCRGJWTGFsRXd0NW5nNFY4dkljOXd1WHlndWd4by0zLTM0dllhNEVYN0pWUDJHaEIzRUVUY09CWl9QWmJra0xXYjU4dHA2bzg2eThxaEJZYi04aWFvNWhLVy1ZMmlBQ1B4N3JDV1pJd0pZcDA3bGtrUEFXNHR1U2F4NnM3dnlkV2xHNzYxVGtuMno2aEltYWpjVGpYbktJa3dVWWctUkc3QmsxcUQxMHVBZU9hYzY1RUIxWU5VQ2U0UldUOUxR?oc=5",
+   "source": "IndexBox",
+   "lang": "en",
+   "time": "2026-10-08T07:36+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕"
+   ],
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
+   "id": "b2c7822168",
+   "title": "跨界與重構：智駕晶片的車載 AI 時代角力賽",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWlfd2RqcndvU3FQQmUxNS1FMGY5WWdJc1UzVE1NV25wTDk4R3Z6TGM0OHczRXBSNC1INWhlUzJFSU41cFFualhmSExQYTJURElsZWI5TVhpZk43UHhIcHIycUFJU2JEbkR2QXQyQXFHWDJtX2ZqUTJCVkJYOWRVWmpiQUN3ZjY1djBZMHZlSGpYV3ctNkwwdDhBYllIbTYxM2NLN2Q2ZGM?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-08T07:05+08:00",
+   "categories": [
+    "智駕",
+    "座艙・SDV"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "6197a5e77a",
    "title": "Ram is recalling more than 265,000 vehicles over a steering defect",
@@ -11,6 +47,36 @@
    "source": "The Detroit News",
    "lang": "en",
    "time": "2026-10-08T06:11+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "1c5c3a9ed0",
+   "title": "英國考慮對中國電動車加徵關稅，與歐盟政策對齊",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xUzFoc3NaMGlqZ2RZTDY3T3JNSFhEa3dvc3NvMHNhMGYxMjZjZmdwNHNhUnA4Z3lUZkcxUF9oRXV0UFhEWVJibFFqRVpNYUY2RUsyZQ?oc=5",
+   "source": "富途牛牛",
+   "lang": "zh",
+   "time": "2026-10-08T06:06+08:00",
+   "categories": [
+    "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "33510cce62",
+   "title": "The BMW iX4 Is An Electric X4 With Over 400 Miles Of Range",
+   "summary": "BMW’s first-ever iX4 electric crossover almost matches the iX3's ridiculous 434-mile range.",
+   "link": "https://insideevs.com/news/811066/bmw-ix4-ev-official-specs-range-charging-options/",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-08T06:03+08:00",
    "categories": [
     "其他"
    ],
@@ -251,6 +317,26 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
+  },
+  {
+   "id": "b67d34e143",
+   "title": "The American Solid-State Battery That Just Leapfrogged Toyota's Decade-Long Roadmap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWR5Z3VMUmNnUElfam1jbVJyd0dwZ3hfTEMtQ1RObmJHU01sQVc0MUdyMFR2Z1VaTTN1R0stLVJSMk05QmtVZndzLWpYWjdZSG1ZZkJHRTN6Tzgwa2ZaLU9wOFNqZjFHOTBhZGRDbkRLbnBZLW5KU3hmWjI4bVpZTlVvcnRYcVlpM3RmdjdNQTBQZWJaT0VhSEJNTnJhbzBKSDFuRA?oc=5",
+   "source": "CarBuzz",
+   "lang": "en",
+   "time": "2026-10-08T03:13+08:00",
+   "via_search": true,
+   "categories": [
+    "電池",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "ssb"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "b836373967",
@@ -678,6 +764,25 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
+  },
+  {
+   "id": "4f99592cb4",
+   "title": "Porsche to raise top model prices by 20%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmZYbWRlZEZwVjdJbldDZUo4TFhtWE5xWWktTGJSYjMwQzg5aGxOd1ZabXVSc3FqMGdxWHc0eXZWbWV0VnpDZE4wUGFrZ19qdzhmXzYwT3BKWlE2T3ZQaVZGS0hHUVdpdEM0cEphOUIwSUNWSzlNYnhwUWpwQjhmb0NFODRoWXh4YXh4b1hxdEFLeUNuQUV4ZWJxNFhDZw?oc=5",
+   "source": "Luxembourg Times",
+   "lang": "en",
+   "time": "2026-10-08T00:00+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
   },
   {
    "id": "f750e3bc8e",
@@ -1162,6 +1267,24 @@
    "issues": []
   },
   {
+   "id": "79160f50e8",
+   "title": "討論牆| AI 不只看路況！車輛中心研發駕駛視線追蹤與主動閃避技術，已導入Level 3 自動駕駛電動巴士",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNzMyVlNOdEM0eUtsRnFGMmU0RUlsM09IMkJKRkV1akxWQVV2d2JvODRBZmNvZGMyYmxHYmRJenNnS1gyWi1YbDQtbFU3c3d2NEtWcDZZaldKZDlqdDdVbk1oOVI?oc=5",
+   "source": "LINE TODAY",
+   "lang": "zh",
+   "time": "2026-10-07T20:28+08:00",
+   "categories": [
+    "智駕"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
    "id": "ac997dd853",
    "title": "強化充電樁管理制度 打造安全準確充電環境",
    "summary": "",
@@ -1345,6 +1468,21 @@
    "issues": []
   },
   {
+   "id": "47555eb4a9",
+   "title": "車輛偵測市場2035年預測：安全法規強制要求帶動成長- 新聞與統計",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQnN6YmdSVGN2d05LQ3ZWT1Y4Nllydlh5NWVKR2g5Si01QXJxenZ4YmJSRnlEN1BWazJPOV9NVlZKWFF5c1haS0ExNUlPbnlVelZHZG5sUlZISThWV1NVZWlRR0huVnppXzVoNnBqRGJTZDg0NUZzeEN4NVNfeEk5cmxVSkc1VFJ4VDJoX0JIbkY5ODFfU2x5NHd5U1R4VGhmMU5OdUVydWRaYi1ZLTRKMkNINXpfT1loc1l4MnBfOVdqZ0l2eFhRNUdlaWJvTDJ4?oc=5",
+   "source": "IndexBox",
+   "lang": "zh",
+   "time": "2026-10-07T19:21+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "2c2f3fcd8b",
    "title": "Stellantis, known as tough on suppliers, trying ‘co-location’ strategy to improve cost, designs",
    "summary": "",
@@ -1515,6 +1653,21 @@
    "issues": []
   },
   {
+   "id": "de1a834f1b",
+   "title": "Brazil hits 1 million electrified cars as sales share nears 20%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRjB2bUhEaFBKeGhmQkFrY09ZemZuZ3h2bDFBS2N4MUtCd09WeUYxbHQ5VWFGMWhEaWtMZmxscVRlb1VzeTVkNTJWVFlKTjMyZjlYaHR6bXlNZ2xaWHRnTU85RzVoWXNkQ2hVaXhTTXhMMFlWaE9oMXJjdzViWWNpaFEwZFNsa3Y3eThVd0poaF9sWk1zRnVuUUhlcVEzWmF2RDl4aUVTTWJlampJc1NzSkJoVlNfb0NlUnpfUmVDYXhaVjdyb3M3ZHRKYWplc3JXZnE40gHiAUFVX3lxTFBRaUdjRkJtNHViOEktU21rODlOUXA0bkZSUnJ6ZUY0R3BJc3JaQ0Y0OFFEQXhjdTFFWjZRdl9zQ1dreDlmRnNqVFlOSnJJRTk0SjhKbmR0cGpia3QwX0pSV0F4Q2o4UXdjZnFNYW90cUttbGtYMGxhd2YzVVQ0cTRCX2QzYXhfcWU0X2duWUk4WXdhSjZOY21rLTVJZUtsVk9ncGlkYmRoNkRQOVNoYlZvaUo2bm9ickJiRzU2WVZHNUN6Z2t0Yy1sOHNkV0FrZTVVQWNsY2l0eUItb3pHS1YxR1E?oc=5",
+   "source": "Valor International",
+   "lang": "en",
+   "time": "2026-10-07T17:43+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "e02371c267",
    "title": "市場傳聞：特斯拉就全自動駕駛審批向歐洲監管機構施壓",
    "summary": "",
@@ -1589,6 +1742,21 @@
    "time": "2026-10-07T16:52+08:00",
    "categories": [
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "1620e2eee5",
+   "title": "Jaguar unveils the long-awaited Type 01 electric car — what are its power output and range?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTR6UFRVR1B5TXZjQnZvUDNrZ253NHpqS1AwN2ZPeEdyV1NtdmE4SWFzQUxmanlBaGR5TjNrNG5CMzNwaXBDNlZrdGhoNG5sMFFtWE1HSVp4b2Rrc2lBaWVpZktPQWVTTDl6T1hyZW1NMnJPd0xZcE9NcDY1UGM2OFh1V0k1djR5RWVtOTBET1lDX3RUWnpqWVBJNkpvN3dGWDQ5REpySWg1UjdpU2NtR9IBrwFBVV95cUxOQ2NMelNfSG44R1RZd2wtWHlBRVRnV2l2TktJQXZ4RVhrd3h3cXo3czJESnRZRHRtUEpOZHZ2d2ExTGlpVjQtb04yNHZVZk9LMlVvZTNCZFBEV0RQX2M1R2RNdjZHOVE2bVlVNVV6Rl9YenJ5MTVLN0RKMXRNMF9iMWN6Y2NyOWc2b3Z5dEVyTWhBU3NDbWMyMHkzdHpOMjl3WGdHbDhVVHNOYmJoYktv?oc=5",
+   "source": "Українські Національні Новини (УНН)",
+   "lang": "en",
+   "time": "2026-10-07T16:42+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -2042,6 +2210,25 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
+  },
+  {
+   "id": "cbd4d52835",
+   "title": "Overland AI launches Ibex autonomous ground vehicle",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWJDR216X0h0NEh1WUtsTW1pdzRLWTdSdEhtMmdtMXY0Ni1QbExBSzB5b1cyOWRMWGk0OVJPbURWcm1BNWI5cDdZZWdQV2xvY19jQkk2MnZmUUpwU3dFRGR6LWx2WThCV3huaWY1UVRaYjJ6SlVDX19EbGRLMUZ5bTRkVjVEVEFob0J3NUpQcWEtbW8?oc=5",
+   "source": "Automotive World",
+   "lang": "en",
+   "time": "2026-10-07T13:05+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕"
+   ],
+   "forced_issues": [
+    "adas"
+   ],
+   "issues": [
+    "adas"
+   ]
   },
   {
    "id": "2a10b6f0f4",
@@ -4771,6 +4958,26 @@
    "issues": []
   },
   {
+   "id": "7eb1e9173c",
+   "title": "[U-EV]WLTC最高續航310公里、前驅設定搭26kWh電池，Suzuki首款純電輕型乘用車e Sky日本正式發表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90cXBtU2dXdHBhUmp1X1hjOVZnU3lnX2xCNHdvMEVIYVFVbW9iM1R4UXRaX2ttXzhOdUFQTUowM2xIWE5kRENxbVhsRTd2bGRNMnhrSjBVTQ?oc=5",
+   "source": "U-CAR新聞",
+   "lang": "zh",
+   "time": "2026-10-06T16:26+08:00",
+   "via_search": true,
+   "categories": [
+    "電池",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "ssb"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
    "id": "5986334845",
    "title": "〈智慧移動展〉自駕車從測試邁向商轉 2027年智慧移動展鏈結AI生態系",
    "summary": "",
@@ -6089,193 +6296,6 @@
    "time": "2026-10-06T09:10+08:00",
    "categories": [
     "座艙・SDV"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "4b38d21cd1",
-   "title": "假日提醒：莫把“智駕”當“代駕”",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVMwTEM2MFpKMVp6MU1WRGlFWXFmZ09yMWcyS2VxLThDbFJXZl91SUQ2ZjZYUkdLYUFMYjh5VTBlTlRiemdRNkwxVHpGUWlGUnBmSDJybE5MWHZMWWlFbWxCTlZ5M0ltNEx2N3p4WHppbC1pQkRGeVp2NWI2UE1kSkxPWXhTNjUzYXBtU0lXempUQ0lLNU9v?oc=5",
-   "source": "央视网",
-   "lang": "zh",
-   "time": "2026-10-06T08:57+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "23e63f9919",
-   "title": "英國正考慮效仿歐盟 對中國電動車加徵45%關稅",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53cE1razFwdmJjZlRjVGxwSTg5azdBQXNzMjI2cS1rVHNYS0ZicjFNTjlyU05HcElNRDhjLWl2UWo5aDZjQUl1UmplMjNUTHZXLUplSG9mM09JWEFOWTRycdIBZkFVX3lxTE0zQm01UmY3dnNkN1pSV0hRSTIyWU1vcjBVTFBFa0lhRFFkYzkxWTZBS3owVXMyVXk4UjRyZjM5TmI1bE5TYzgyRkxDaVl3TkN0U0h3aURMb2ZOUzVfbHJ5Xzg3dzF1UQ?oc=5",
-   "source": "ntdtv.com",
-   "lang": "zh",
-   "time": "2026-10-06T08:35+08:00",
-   "categories": [
-    "供應鏈"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "d29eb2f6e7",
-   "title": "Hyundai Has The Longest EV Battery Warranty, But GM Quietly Set A Stricter Standard",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtLU9CTnVRM0JKX2pRTUFwMzBxY0VwNmFzbXhoUjg5NVRieHZrcGNlRFV3eDZGNjhYU2hsc2RMaXVMV2xTYWxlbU1zRTBrcE9ldjB1RmMxaURJOUd6SXZkNl83dWEza0xDXzhnS0hB?oc=5",
-   "source": "CarBuzz",
-   "lang": "en",
-   "time": "2026-10-06T08:30+08:00",
-   "categories": [
-    "電池",
-    "車企動向"
-   ],
-   "issues": [
-    "ssb"
-   ],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "0cae92a0ea",
-   "title": "日系全新進口休旅「台灣今年上市」！速霸陸e-Outback空間比油車更大更好用",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3MUc3cWtoLU1rX1g5YzhLVjIxOU1faVhLZXJoS0RCd2NIS3BnVzRoMlRPSW00ek1fbTdWSHlkUXZGRTRfcGFTZmFUOW1rcEXSAU5BVV95cUxPUnFrbWlMNmNaWmNZX09DeEhtM2RVMkI4eUpQaDc0R2pMdlQzeVR5OTZ4cTlnbTRtM3JkLVVvZ2tKVjFWeDlWZWhWaUppMGc?oc=5",
-   "source": "ETtoday車雲",
-   "lang": "zh",
-   "time": "2026-10-06T08:27+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "c0c9e9cb96",
-   "title": "英國擬對中國電動車課最高45%關稅 比亞迪上汽成焦點",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxORHJVQzhhYmlRZHBnUVZPcnZjdnZyWW91bm8xME04RGJPTks4YzhGRE1WTXdNZkJxLTZDeEE2ZWtKWGFoMTdqcndYT1RuSU1mS3dtZjZNOGdqdVdUSUJCQzNaTTNRX1NIN2tIOGl5NEhjZW80M3JLQWlURDNLdXphaFRLRk52V1R4VDZMbDVYRUZBYmVERjNCTXFUT2JjYmRYZS1jTnJLbWdKTklZVEpoOG1kWWNqMzhPUnBUVXk2UFZZdzRuVGs4NnJEc2V6UERvOUkzWjBWSThnSW1VVEplVWh5cU1mYVNBWVk4dmgtVGFMX3IzVjFVX3RyV3l0aml4NE1qQU44MXpyblVFRl9kaHk0VUtJWmprUEVNNnhJQl9SV1RGUlJPc1NienJ2X1NzLW50bWswZkFpdUZzR3B2N3VIQ0NnYXI4N3lYQVBNd2NBOVk?oc=5",
-   "source": "Life 生活網",
-   "lang": "zh",
-   "time": "2026-10-06T08:09+08:00",
-   "categories": [
-    "車企動向",
-    "供應鏈"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "0e46f9eee7",
-   "title": "《大陸政治》英擬徵陸電動車關稅 最高45％",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckFRREFHczNZMGlPZkVVdW5GMkJBc1VMajFxQ0hKdnBDRnBTRkxYR0ZkVkdabEdLaWh5TzhjOTdzbjZPWXdUTzFUQWkwdUEwOFljMmo4WmFqdFJFX1I2VS1MT2paU0duY2xXUjhNcHNGTXdVRHM1UEg4MHdFZlh1Znh5SzRrRHBv?oc=5",
-   "source": "富聯網",
-   "lang": "zh",
-   "time": "2026-10-06T07:56+08:00",
-   "categories": [
-    "供應鏈"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "a19d4cef93",
-   "title": "最高45％ 英擬對陸電動車加稅- 國際",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3a2RZZmhXZUgtc0hJWDFsWjk5c2YzRVQxdV81Q181NGl2R0dhRktYU3J3TjZjWkZ3Ty1Xd0plYW1OeUZtM21EcmpnUDNBZS1XX3pOTDlmTjJCREtWOXprc1ExdEJLb1p3bnc?oc=5",
-   "source": "旺得富理財網",
-   "lang": "zh",
-   "time": "2026-10-06T07:53+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "ddf2ee94a9",
-   "title": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
-   "summary": "Between increasingly extreme weather , rising electricity demands, and the rapid expansion of data centers, energy independence is starting to look less like a…",
-   "link": "https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
-   "source": "Electrek",
-   "lang": "en",
-   "time": "2026-10-06T07:35+08:00",
-   "categories": [
-    "電池",
-    "車企動向"
-   ],
-   "issues": [
-    "ssb"
-   ],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "5a546f0c96",
-   "title": "加油愈來愈傷荷包！全球純汽油車H1新車銷售占比首度跌破五成",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfakVreVZXcmgwZUt4WS1yRlZSWk50Rm9QX0N1VGE5R2duWUxXSW5XeXdLYzJmcUpWaWdyeEt0MEdSQ2RSSDNRdUlDRThUeGM?oc=5",
-   "source": "news.cnyes.com",
-   "lang": "zh",
-   "time": "2026-10-06T07:26+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "af2b804278",
-   "title": "Leapmotor B03X: Australia's Most Affordable All-Electric SUV Arrives from $29,990 Drive-away***",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2VZM09sMXFJSThNd2tpQzNrcWtXZXcwVFRzSXBuMGlOd2VzTTMzT3R0QmtGOVEwOVd4RjFudUVlX0xRY0xEa0F1d1RvWmdhRE9NSUlSVTFlVzJISjJNVVRuVXdIbzRtV1lTMDdrYWF0YV84a2Z1VGdBRGhLUjB5a0hNcVhpRHNWT29UTUFBamp0bEN3MWFiUzlHb0FINkFVeTlMVl94UGhpaHRaM1BEU2M5b0hFTm9lOGo1RzJldGl2TEY0eVdkWE1BeDJuazVpLUczcWxnVTRXUlBhWnc?oc=5",
-   "source": "Media Stellantis",
-   "lang": "en",
-   "time": "2026-10-06T07:22+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "dfdedadd75",
-   "title": "How Rivian’s Dynamic Adventure Lighting system improves visibility at night",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkY3OGFudEpHYTEwUHRmS1FXOWJZY1lKZHhrOEJHZTdRckt0UlBNaWVaSURtR2R4TmJwX3dFYXVlRjhzWHd0YVJvd1pCM2V2MXE4eDBSVFV1NzZuSlJzMFI5RXI1c2JxZXJUNlBobUpqT0dvRE1QZHRKV2FKSzBpU05MUHh3WnB1VkY5TFpmOE5Tb2E2eGNpRWNFcEVwbjJna0JUUGx6bk1IcjBtWjA2RF94NA?oc=5",
-   "source": "WardsAuto",
-   "lang": "en",
-   "time": "2026-10-06T07:15+08:00",
-   "categories": [
-    "其他"
-   ],
-   "issues": [],
-   "via_search": false,
-   "forced_issues": []
-  },
-  {
-   "id": "def1d499c8",
-   "title": "Fiat And Maserati Introduce Level 2++ Hands-Free Driving Prototypes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yNlhBTEEwazU3U2hPenBvRjZTRG9Vc2F4Q3BHenk3TDV3VkkwaGVrRDFhQWNWWVJFaDhXMG9KelRwM3JqNVBrMHh4dEtwdjlFWURYUkVHYmlSaHpiU2x4aWVqaGJFQU5JeWpSMThNSnQ5UFhmUlhNNm5R?oc=5",
-   "source": "Carscoops",
-   "lang": "en",
-   "time": "2026-10-06T07:04+08:00",
-   "categories": [
-    "Stellantis"
    ],
    "issues": [],
    "via_search": false,
