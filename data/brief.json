@@ -1,27 +1,27 @@
 {
- "date": "2026-10-08",
- "generated": "2026-10-08T10:53+08:00",
+ "date": "2026-10-09",
+ "generated": "2026-10-09T08:29+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Nio Onvo reaches 200,000 deliveries about 2 years after first handover",
-   "category": "車企動向",
+   "text": "Alfa Romeo全車系迎來2027年式更新，Giulia、Stelvio續命保留",
+   "category": "Stellantis",
    "news_ids": [
-    "d665c90a00"
+    "3aecd8a8be"
    ]
   },
   {
-   "text": "自備環保餐具逛夜市換好市券、韓公布7470億美元能源轉型計畫、美電動車充電站擬化身算力中心",
+   "text": "Tesla wins German approval for Full Self-Driving system, bringing Israel closer",
+   "category": "智駕",
+   "news_ids": [
+    "9a7b0fa796"
+   ]
+  },
+  {
+   "text": "大陸十一爆搶樁大戰 專家解析電動車充電困局",
    "category": "電池",
    "news_ids": [
-    "10d54a7c37"
-   ]
-  },
-  {
-   "text": "Saudi Arabia Unveils First EV 'Exobot' — A 1,111-Horsepower Beast Built on Foxconn and BMW Technology",
-   "category": "供應鏈",
-   "news_ids": [
-    "a13ca0b739"
+    "554068521c"
    ]
   }
  ]
