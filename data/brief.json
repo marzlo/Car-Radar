@@ -1,8 +1,15 @@
 {
  "date": "2026-10-09",
- "generated": "2026-10-09T08:29+08:00",
+ "generated": "2026-10-09T11:04+08:00",
  "ai": false,
  "items": [
+  {
+   "text": "Xpeng launches Dark Knight package for P7+ sedan, echoing Nio's design update playbook",
+   "category": "車企動向",
+   "news_ids": [
+    "e88a372233"
+   ]
+  },
   {
    "text": "Alfa Romeo全車系迎來2027年式更新，Giulia、Stelvio續命保留",
    "category": "Stellantis",
@@ -15,13 +22,6 @@
    "category": "智駕",
    "news_ids": [
     "9a7b0fa796"
-   ]
-  },
-  {
-   "text": "大陸十一爆搶樁大戰 專家解析電動車充電困局",
-   "category": "電池",
-   "news_ids": [
-    "554068521c"
    ]
   }
  ]
