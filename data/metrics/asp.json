@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T08:06+08:00",
+ "updated": "2026-10-10T10:41+08:00",
  "fx_usd": {
   "USD": 1.0,
-  "CNY": 0.149633,
+  "CNY": 0.149705,
   "HKD": 0.127434,
   "JPY": 0.006319,
   "EUR": 1.120574,
@@ -124,7 +124,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/01/01/byd-nev-sales-dec-2025/",
      "del_note": "乘用+商用",
-     "asp_usd": 26498,
+     "asp_usd": 26511,
      "profit_usd": 1475
     },
     {
@@ -136,7 +136,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/",
      "del_note": "乘用+商用",
-     "asp_usd": 32091,
+     "asp_usd": 32107,
      "profit_usd": 1535
     },
     {
@@ -148,8 +148,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/",
      "del_note": "乘用+商用",
-     "asp_usd": 26278,
-     "profit_usd": 1965
+     "asp_usd": 26290,
+     "profit_usd": 1966
     },
     {
      "quarter": "2026Q3",
@@ -319,7 +319,7 @@
      "fin_source": "https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac",
      "del_source": "https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac",
      "del_note": "",
-     "asp_usd": 39899,
+     "asp_usd": 39918,
      "profit_usd": 963
     },
     {
@@ -331,8 +331,8 @@
      "fin_source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf",
      "del_source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf",
      "del_note": "",
-     "asp_usd": 38358,
-     "profit_usd": 1134
+     "asp_usd": 38377,
+     "profit_usd": 1135
     },
     {
      "quarter": "2026Q1",
@@ -343,8 +343,8 @@
      "fin_source": "https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b",
      "del_source": "https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b",
      "del_note": "",
-     "asp_usd": 36761,
-     "profit_usd": -5737
+     "asp_usd": 36779,
+     "profit_usd": -5740
     },
     {
      "quarter": "2026Q2",
@@ -355,8 +355,8 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0818/2026081801014.pdf",
      "del_source": "https://ir.mi.com/static-files/bdeea0b9-246c-45be-8cb4-ab4faaddf80a",
      "del_note": "",
-     "asp_usd": 35751,
-     "profit_usd": -3734
+     "asp_usd": 35768,
+     "profit_usd": -3735
     }
    ]
   },
@@ -384,8 +384,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-third-quarter-2025-financial",
      "del_note": "",
-     "asp_usd": 43929,
-     "profit_usd": -1890
+     "asp_usd": 43950,
+     "profit_usd": -1891
     },
     {
      "quarter": "2025Q4",
@@ -396,8 +396,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926026803/tm268559d1_ex99-1.htm",
      "del_note": "",
-     "asp_usd": 39432,
-     "profit_usd": -606
+     "asp_usd": 39451,
+     "profit_usd": -607
     },
     {
      "quarter": "2026Q1",
@@ -408,8 +408,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm",
      "del_note": "",
-     "asp_usd": 36146,
-     "profit_usd": -4716
+     "asp_usd": 36163,
+     "profit_usd": -4719
     },
     {
      "quarter": "2026Q2",
@@ -420,8 +420,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm",
      "del_note": "",
-     "asp_usd": 39058,
-     "profit_usd": -3501
+     "asp_usd": 39077,
+     "profit_usd": -3503
     },
     {
      "quarter": "2026Q3",
@@ -461,8 +461,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2025/11/25/3194110/0/en/NIO-Inc-Reports-Unaudited-Third-Quarter-2025-Financial-Results.html",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 37453,
-     "profit_usd": -6052
+     "asp_usd": 37471,
+     "profit_usd": -6055
     },
     {
      "quarter": "2025Q4",
@@ -473,7 +473,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-provides-december-fourth-quarter-and-full-year-2025/",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 41543,
+     "asp_usd": 41563,
      "profit_usd": 968
     },
     {
@@ -485,7 +485,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 45774,
+     "asp_usd": 45796,
      "profit_usd": -554
     },
     {
@@ -497,7 +497,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 44667,
+     "asp_usd": 44688,
      "profit_usd": -483
     },
     {
@@ -560,8 +560,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.saicmotor.com/m/tzzgx/jbqk/xssj/63726.shtml",
      "del_note": "批發扣除上汽大眾、上汽通用",
-     "asp_usd": 31541,
-     "profit_usd": 1355
+     "asp_usd": 31556,
+     "profit_usd": 1356
     },
     {
      "quarter": "2026Q1",
@@ -572,7 +572,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2026nlsgg/2026/4/2/5F4D98B8E6F34E8DB8FE356923868D65.pdf",
      "del_note": "批發扣除上汽大眾、上汽通用",
-     "asp_usd": 31763,
+     "asp_usd": 31778,
      "profit_usd": 1378
     },
     {
@@ -584,7 +584,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600104&id=12425400",
      "del_note": "批發扣除上汽大眾、上汽通用",
-     "asp_usd": 29083,
+     "asp_usd": 29097,
      "profit_usd": 602
     }
    ]
@@ -635,7 +635,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000625&id=11897407",
      "del_note": "自主品牌",
-     "asp_usd": 10230,
+     "asp_usd": 10235,
      "profit_usd": 311
     },
     {
@@ -647,7 +647,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://finance.sina.com.cn/roll/2026-04-02/doc-inhtcnfx9394637.shtml",
      "del_note": "自主品牌",
-     "asp_usd": 10679,
+     "asp_usd": 10684,
      "profit_usd": 158
     },
     {
@@ -659,7 +659,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sohu.com/a/1046291220_121444",
      "del_note": "自主品牌（H1 由新聞數字推算）",
-     "asp_usd": 10634,
+     "asp_usd": 10639,
      "profit_usd": -4
     }
    ]
@@ -678,7 +678,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1024/2025102400616.pdf",
      "del_source": "https://www.ithome.com/1/009/144.htm",
      "del_note": "",
-     "asp_usd": 25920,
+     "asp_usd": 25933,
      "profit_usd": null
     },
     {
@@ -690,8 +690,8 @@
      "fin_source": "https://static.cninfo.com.cn/finalpage/2026-03-28/1225048081.PDF",
      "del_source": "https://www.ithome.com/0/909/833.htm",
      "del_note": "",
-     "asp_usd": 25882,
-     "profit_usd": 657
+     "asp_usd": 25894,
+     "profit_usd": 658
     },
     {
      "quarter": "2026Q1",
@@ -702,8 +702,8 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042401572.pdf",
      "del_source": "https://www.seccw.com/Document/detail/id/43042.html",
      "del_note": "",
-     "asp_usd": 25083,
-     "profit_usd": 670
+     "asp_usd": 25095,
+     "profit_usd": 671
     },
     {
      "quarter": "2026Q2",
@@ -714,7 +714,7 @@
      "fin_source": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502331.PDF",
      "del_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0701/2026070100127.pdf",
      "del_note": "",
-     "asp_usd": 27091,
+     "asp_usd": 27104,
      "profit_usd": null
     },
     {
@@ -777,8 +777,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601238&id=11904586",
      "del_note": "自主品牌",
-     "asp_usd": 22755,
-     "profit_usd": -2416
+     "asp_usd": 22766,
+     "profit_usd": -2417
     },
     {
      "quarter": "2026Q1",
@@ -789,8 +789,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601238&id=12057739",
      "del_note": "自主品牌",
-     "asp_usd": 18208,
-     "profit_usd": -2543
+     "asp_usd": 18217,
+     "profit_usd": -2544
     },
     {
      "quarter": "2026Q2",
@@ -801,8 +801,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0702/2026070203447.pdf",
      "del_note": "自主品牌",
-     "asp_usd": 21874,
-     "profit_usd": -3417
+     "asp_usd": 21885,
+     "profit_usd": -3419
     }
    ]
   },
@@ -830,7 +830,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.xiaopeng.com/news-releases/news-release-details/xpeng-announces-vehicle-delivery-results-september-and-third-4",
      "del_note": "",
-     "asp_usd": 26289,
+     "asp_usd": 26301,
      "profit_usd": -874
     },
     {
@@ -842,7 +842,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/01/01/xpeng-deliveries-dec-2025/",
      "del_note": "",
-     "asp_usd": 28645,
+     "asp_usd": 28658,
      "profit_usd": -109
     },
     {
@@ -854,8 +854,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.xiaopeng.com/news-releases/news-release-details/xpeng-announces-vehicle-delivery-results-march-and-first-4",
      "del_note": "",
-     "asp_usd": 31114,
-     "profit_usd": -4597
+     "asp_usd": 31129,
+     "profit_usd": -4599
     },
     {
      "quarter": "2026Q2",
@@ -866,8 +866,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.stocktitan.net/news/XPEV/xpeng-announces-vehicle-delivery-results-for-june-and-second-quarter-4ue5kb0he462.html",
      "del_note": "",
-     "asp_usd": 28601,
-     "profit_usd": -1724
+     "asp_usd": 28614,
+     "profit_usd": -1725
     },
     {
      "quarter": "2026Q3",
@@ -897,8 +897,8 @@
      "fin_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/03/2026031800309.pdf",
      "del_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/03/2026031800309.pdf",
      "del_note": "半年（全年減上半年）",
-     "asp_usd": 18058,
-     "profit_usd": 828
+     "asp_usd": 18067,
+     "profit_usd": 829
     },
     {
      "quarter": "2026H1",
@@ -909,8 +909,8 @@
      "fin_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/08/2026081700257.pdf",
      "del_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/08/2026081700257.pdf",
      "del_note": "半年",
-     "asp_usd": 18255,
-     "profit_usd": 1126
+     "asp_usd": 18264,
+     "profit_usd": 1127
     }
    ]
   },
@@ -938,7 +938,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000189.pdf",
      "del_source": "https://auto.ifeng.com/c/8uQWy2TPWnh",
      "del_note": "上市公司 5 品牌，半年",
-     "asp_usd": 16814,
+     "asp_usd": 16822,
      "profit_usd": 1319
     }
    ]
@@ -957,7 +957,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601214.pdf",
      "del_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601214.pdf",
      "del_note": "半年",
-     "asp_usd": 16158,
+     "asp_usd": 16166,
      "profit_usd": 106
     },
     {
@@ -969,7 +969,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400886.pdf",
      "del_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400886.pdf",
      "del_note": "半年",
-     "asp_usd": 15995,
+     "asp_usd": 16003,
      "profit_usd": 54
     }
    ]

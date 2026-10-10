@@ -1,27 +1,27 @@
 {
  "date": "2026-10-10",
- "generated": "2026-10-10T08:06+08:00",
+ "generated": "2026-10-10T10:41+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Tesla’s next big clean energy source is rising in the Arizona desert",
-   "category": "電池",
-   "news_ids": [
-    "57f79a0956"
-   ]
-  },
-  {
-   "text": "〈車壇大小事〉Ford Territory 10月試乘送好禮",
-   "category": "車企動向",
-   "news_ids": [
-    "6098fa3e66"
-   ]
-  },
-  {
-   "text": "Tesla Basically Just Admitted It Was Misleading Customers, Renames Full Self-Driving to \"Tesla Assisted Driving\" In Europe",
+   "text": "避開「完全自動駕駛」爭議 特斯拉歐洲改稱「輔助駕駛」",
    "category": "智駕",
    "news_ids": [
-    "4eb02cfa11"
+    "fdadb593de"
+   ]
+  },
+  {
+   "text": "竹北豪宅「充電樁大戰」！住戶控佔公設、主委圖利停BMW 討30萬吞敗",
+   "category": "電池",
+   "news_ids": [
+    "3db9a47682"
+   ]
+  },
+  {
+   "text": "【電動車+中歐關係】歐盟稱與中國達成共識、中國混能車對歐盟出口或將減半",
+   "category": "供應鏈",
+   "news_ids": [
+    "f9d42ca1f7"
    ]
   }
  ]
