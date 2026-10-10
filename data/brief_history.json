@@ -167,6 +167,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-11",
+   "generated": "2026-10-11T07:40+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "不再叫「全自動駕駛」！為求歐盟全面放行，Tesla妥協將歐洲版FSD改名為「輔助駕駛」",
+     "category": "智駕",
+     "news_ids": [
+      "0a9b7e16f9"
+     ]
+    },
+    {
+     "text": "DW News. . BMW opened a state-of-the-art battery plant in Bavaria. But while batteries may be assembled in Germany, much of the technology, production capacity and supply chain still depends on Asia. And reducing that dependence could come at a price. #",
+     "category": "電池",
+     "news_ids": [
+      "b5b06a2300"
+     ]
+    },
+    {
+     "text": "Toyota offers low-cost financing in Thailand to ward off cheap Chinese EVs",
+     "category": "車企動向",
+     "news_ids": [
+      "2e19c80068"
+     ]
+    }
+   ]
   }
  ]
 }
