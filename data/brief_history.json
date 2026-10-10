@@ -139,6 +139,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-10",
+   "generated": "2026-10-10T08:06+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Tesla’s next big clean energy source is rising in the Arizona desert",
+     "category": "電池",
+     "news_ids": [
+      "57f79a0956"
+     ]
+    },
+    {
+     "text": "〈車壇大小事〉Ford Territory 10月試乘送好禮",
+     "category": "車企動向",
+     "news_ids": [
+      "6098fa3e66"
+     ]
+    },
+    {
+     "text": "Tesla Basically Just Admitted It Was Misleading Customers, Renames Full Self-Driving to \"Tesla Assisted Driving\" In Europe",
+     "category": "智駕",
+     "news_ids": [
+      "4eb02cfa11"
+     ]
+    }
+   ]
   }
  ]
 }

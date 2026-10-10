@@ -1,27 +1,27 @@
 {
- "date": "2026-10-09",
- "generated": "2026-10-09T11:04+08:00",
+ "date": "2026-10-10",
+ "generated": "2026-10-10T08:06+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Xpeng launches Dark Knight package for P7+ sedan, echoing Nio's design update playbook",
+   "text": "Tesla’s next big clean energy source is rising in the Arizona desert",
+   "category": "電池",
+   "news_ids": [
+    "57f79a0956"
+   ]
+  },
+  {
+   "text": "〈車壇大小事〉Ford Territory 10月試乘送好禮",
    "category": "車企動向",
    "news_ids": [
-    "e88a372233"
+    "6098fa3e66"
    ]
   },
   {
-   "text": "Alfa Romeo全車系迎來2027年式更新，Giulia、Stelvio續命保留",
-   "category": "Stellantis",
-   "news_ids": [
-    "3aecd8a8be"
-   ]
-  },
-  {
-   "text": "Tesla wins German approval for Full Self-Driving system, bringing Israel closer",
+   "text": "Tesla Basically Just Admitted It Was Misleading Customers, Renames Full Self-Driving to \"Tesla Assisted Driving\" In Europe",
    "category": "智駕",
    "news_ids": [
-    "9a7b0fa796"
+    "4eb02cfa11"
    ]
   }
  ]
