@@ -1,8 +1,85 @@
 {
- "updated": "2026-10-11T07:40+08:00",
+ "updated": "2026-10-11T10:09+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "cf3c0790fc",
+   "title": "高速充電排隊5小時？誰比車主還著急？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iWFZhMkM3OHZFbXNsQnpVSUlqNk10d3FWaTEwbXJqR0RJaVZJdU1hTG94ZXpBcVk2OU5RX084THIyWjdkMUJvaA?oc=5",
+   "source": "鉅亨號",
+   "lang": "zh",
+   "time": "2026-10-11T10:03+08:00",
+   "categories": [
+    "電池"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "6e686a0360",
+   "title": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity",
+   "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, ple…",
+   "link": "https://cnevpost.com/2026/10/11/catl-deal-seres-expand-aito-battery-capacity/",
+   "source": "CnEVPost",
+   "lang": "en",
+   "time": "2026-10-11T09:17+08:00",
+   "categories": [
+    "電池"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "1be18d4dc9",
+   "title": "飼主剛關電動車 貓咪聽見聲音「馬上飛奔到窗邊迎接」：媽媽回來了",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FeEMwei0xMm5reGk4Z0pMNUdqX0doZEtPbG5Wb0pGTU94TFNrM2gwQ3JvVWVXRTFEYUFxMktXTmUwdDZaZE9XLTBLbGc1TGJ0Uks4WENBQnlNcEFNLW11RUkzcHJya3gyX3VZdGk2c1B1aVIwcTFvWTBZeG3SAV9BVV95cUxQaE5WTTJFTVFRcXlaSjA3T0tOb1JsY2stNTlrYWxkaHRfRUZoamN1emJDbE03QTk1QTdabHNKZlMxQTJhWHp5dDFFTG84M29iU3FRXzdGQlAtaFFKdzB4aw?oc=5",
+   "source": "udn寵物部落",
+   "lang": "zh",
+   "time": "2026-10-11T08:00+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "bd7c05b5ad",
+   "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU5ZV0ZPU3NvYmI0RzBHT080MVpxajNBS2tHTkRYZUpzUlRLUF9KUnhtR3BRWWsyQ1d4Q1lMN1YwMnRiRnpjWlROQUtleE00V1ROZEwwakR0OG4waWFEZExiS2pUSEZQQzV2YkV5MVkxZmZ5V1RreUFQSnlNM3BjclRFazVmckJ3QlVMUERpcEcwcmI2N2wta3ltanR1UDIzLVhwbjNRakUzdHNNVG95V0NZZmg1N3RoTDJlaEd3?oc=5",
+   "source": "WSJ",
+   "lang": "en",
+   "time": "2026-10-11T08:00+08:00",
+   "categories": [
+    "電池"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "a200f0e935",
+   "title": "從汽車、航太震南鐵一路鎖進機器人| 雜誌",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50REJBdjkwR0ludlFSczBjUURKaTAteWRFMXVMbVY5UnZlampiUHc2MnpsX1ktWTFiajNMZEF1N2pEbEI3T3hldXZ1dlNmQVpI?oc=5",
+   "source": "UDN",
+   "lang": "zh",
+   "time": "2026-10-11T07:42+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "2640744ebb",
    "title": "HYUNDAI 全球執行長：若缺乏防線， 中國車恐衝擊美國市場",
@@ -74,6 +151,21 @@
    "issues": []
   },
   {
+   "id": "6cee474f77",
+   "title": "Trump’s auto manufacturing claims clash with industry data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTlUUjk4ZGZkUFhmRzQ3NVpqR2MxVldOUmIza2FXd2J6RFJxOW9wXy1DMU5IQS1QS0xrQjR2emNHLVlxMEtubjd1MjBMRms0SndEUHk2LVdHY285MFAtNE1NaFNHdkpUVXQzSGN1enZBU3VvSHFZTkMxSEhjN25IcVBDWTA2ZkRPX3FLekJsWUR3dnpUb0dDNlFaa1MwNlh5c3dVSF8wUEhKdjhveTNhc1FYRDZYUdIBtgFBVV95cUxQaTlUUjk4ZGZkUFhmRzQ3NVpqR2MxVldOUmIza2FXd2J6RFJxOW9wXy1DMU5IQS1QS0xrQjR2emNHLVlxMEtubjd1MjBMRms0SndEUHk2LVdHY285MFAtNE1NaFNHdkpUVXQzSGN1enZBU3VvSHFZTkMxSEhjN25IcVBDWTA2ZkRPX3FLekJsWUR3dnpUb0dDNlFaa1MwNlh5c3dVSF8wUEhKdjhveTNhc1FYRDZYUQ?oc=5",
+   "source": "Qatar Tribune",
+   "lang": "en",
+   "time": "2026-10-11T05:27+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "6ed1c9003f",
    "title": "Europe's Biggest Auto Show Is Becoming A Showcase For Chinese Cars",
    "summary": "",
@@ -98,6 +190,21 @@
    "time": "2026-10-11T04:23+08:00",
    "categories": [
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "016bd6708d",
+   "title": "迎巴黎車展參展陸企數破紀錄- 全球財經- 工商時報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kb3hLcU5rYzZZaDBUYjM1b01QV0FMaDBBMi1pVHpQa1F0dGRwOGVneTZwUEVZSVphdElub3VIZWp0N2xGc29hX3lGUnNVVTRfcjVEUjdiNTd1SElQU21YdW83ekVHa2J2Y0l3?oc=5",
+   "source": "中時新聞網",
+   "lang": "zh",
+   "time": "2026-10-11T04:10+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1015,6 +1122,24 @@
    "issues": []
   },
   {
+   "id": "68d0593318",
+   "title": "小鵬當選聯合國歐洲經濟委員會自動駕駛新設工作組秘書長，何小鵬：是中國企業首次",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTJNaThwX0FhODRIUElwRElYa2JxSGxrQzNTamFpaUNXNFN3aVhHQ05iUUF1Z1N4M0phYld6c1BnWkJlOHZnWll0NXJPMEhJdlFLYUN4RkkySV9zUE5xQmxZZXVSOVk5UHhQYTBRMUdwMjhheG5PNWVFUl9sMGgyQjFURGRLdzFGY2lWaDd4RTByc0NJTTBoRXpKLUJwczNYVkNDZmF4NzU0MkI0?oc=5",
+   "source": "富途牛牛",
+   "lang": "zh",
+   "time": "2026-10-10T16:14+08:00",
+   "categories": [
+    "智駕"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
    "id": "e12b5d05e4",
    "title": "Will Li Auto L Series Switch to Pure Electric? Is Range Extender Technology Nearing Obsolescence?",
    "summary": "",
@@ -1119,6 +1244,21 @@
    "issues": [
     "ssb"
    ]
+  },
+  {
+   "id": "453679874f",
+   "title": "討論牆 | 油價飆破百美元 電動車需求激增 五檔概念股受惠",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJX3lhQjNRVVZGSFRoT3dDNW91dUdVQTNGM3EyMmVnMjR2SG1XbEYzWWxsN241VTVGekoySEZ6TjBJdkRoNm5DWmYwd1N2STdqdnZaZ1hxdG5mTVB4RFNYSl8xc2g?oc=5",
+   "source": "LINE TODAY",
+   "lang": "zh",
+   "time": "2026-10-10T14:38+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "2c1813d3f1",
@@ -4302,7 +4442,9 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [],
+   "forced_issues": [
+    "adas"
+   ],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -4789,14 +4931,8 @@
    "categories": [
     "座艙・SDV"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "75ba82307f",
@@ -6208,6 +6344,25 @@
    ]
   },
   {
+   "id": "26f0fca743",
+   "title": "Best Hybrid Car Financing Deals: October 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BcUZPZm95cTVrVzJwUXVEOU5WWWMyYXpLZlFzNlMyekQ1TGZEUVVIWUppaldiYmFiYkRNYnVkU3lnN3RLa0x1SzdEWXBJV1cwODlWUzJTdkJLSWF2dkRBS1NYY0NfLVZMQnlyTkxPTUpOS0FmNllhdjZDRnZWdw?oc=5",
+   "source": "CarsDirect",
+   "lang": "en",
+   "time": "2026-10-08T15:00+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
    "id": "3aa594e5b3",
    "title": "中國車衝擊巴西 車企高管籲保護本土供應鏈",
    "summary": "",
@@ -6255,163 +6410,6 @@
    "issues": [
     "profit"
    ]
-  },
-  {
-   "id": "768dc83c2a",
-   "title": "電動車變身行動超商 崑山科大產學合作強化防災韌性",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02VUppZC16Ui1TTG5hb255VXVpTDZuellnMHVtN1RMWXMyTFBSV25zWFJQS3dPbUdlOElZREoxX3BoOWNlR2ZIeUF0Zlg?oc=5",
-   "source": "樂上新聞網",
-   "lang": "zh",
-   "time": "2026-10-08T14:34+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "ee34844cbb",
-   "title": "阿根廷首辦中國車展 奇瑞、長安、廣汽等逾20品牌同場",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jQnhHUF9WNGVTaV9Ua0RYbGk3QXRmb3NiS2xBOTYxMWJTN1JTSXc1VHZ5N3E3S1BBVHhLaDl2VEVQa1lqdEpGVTVvMHdJWFdIRlAyRDkwbzUwLXBGNEVPS1RJbzctSVHSAWdBVV95cUxOY0J4R1BfVjRlU2lfVGtEWGxpN0F0Zm9zYktsQTk2MTFiUzdSU0l3NVR2eTdxN0tQQVR4S2g5dlRFUGtZanRKRlU1bzB3SVhXSEZQMkQ5MG81MC1wRjRFT0tUSW83LUlR?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-08T14:28+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "1997caa1c4",
-   "title": "阿根廷首辦中國車展奇瑞、長安、廣汽等逾20品牌同場| 陸港經貿| 兩岸",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjNzBmM1cwSGJHTHc2NVFtWTlHa1dCYkk1UHdxZnZ4NTl5X3FvbWF1UWlKMkxHRTgyczItb3RRU3Q5NzdRZEFuOXh4ZzdHNlRL?oc=5",
-   "source": "UDN",
-   "lang": "zh",
-   "time": "2026-10-08T14:28+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "be2d44adbf",
-   "title": "BYD reveals dual-screen interior for third-gen Tang ahead of Q4 launch",
-   "summary": "The 5-seat SUV is scheduled to launch in the fourth quarter, joining the Da Tang to form a dual-flagship SUV lineup in BYD's Dynasty series. For details, pleas…",
-   "link": "https://cnevpost.com/2026/10/08/byd-reveals-interior-third-gen-tang/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-08T14:25+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "25b4ee1485",
-   "title": "法拉利電動車被惡評太醜 設計師捍衛：實車比照片好看",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1INHNaMFZiUDg0TVAzMENWYmY0YmFvSlVRWm9SWl9Cb1I1ckk2anFOLU1QZVZvcTQ3Qnlja3pwckxqc09NY1NGakxsWlJ1cGVGU251X3VjczdlZzdKZVVFdHlB0gFnQVVfeXFMTW5vU2Z2TEl5Y01wVUNySjJpSjc3U2hqWHpySUtzYjBMSHdGa2luX21CUkR5UEpYLVZLQzRZSG93S05iX2pMRk5UYlU5bEhaNnpEQ2ZSQ2N4SGRzS2RSWlN2TENhWkJIcw?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-08T14:19+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "cafeee0cef",
-   "title": "Stellantis CEO Filosa Backs 5-Year Growth Plan, Reaffirms 2026 Guidance – Retail Calls STLA ‘Most Undervalued’ Stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPc1Y5N3JGUExZdFRBbkhBaXBGcEVPUTdxRTNHaGprZlhvRXZZNXlpTF9KS1JLeEVpUW11dnNkYUU5V1R4dFRKWGZYVkZsZWhEc0Z5T3dsRnBHaTM0b2VtNkJvTUFOajdLWERQdFl4dTg0SlEySGluc1hxTDZ2aDNmUXBqSTV3NXlLdEpsMkxPMlc5NFNDRVFyQXdUV3NqR0hIS1V1X1ZXUXQzY0RuTTU2TGNhRXR0eF9DbFdVdnhFSzZlZ2tNR2VBWDd2cmJ2VUJENTRNNmZudmgzZHBZb3hzZE81amFqUDVHUUVzcktkVXdtVEp1NTJqbEx1UUxDU1dta3pVSW9R?oc=5",
-   "source": "Stocktwits",
-   "lang": "en",
-   "time": "2026-10-08T14:09+08:00",
-   "categories": [
-    "Stellantis",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "6c8acb65a3",
-   "title": "Chinese New Energy Vehicle Startups Are Collectively Venturing Into the Deep Waters of the Battery Sector",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzekZ3N1dRSzBSeGxGbTlXX2V0M0prTTBRaUtlYVk2VkRJUTFmcDRiaGl0Mm00OHh3emwydGNpMGFfbUxWT2tOMERWV28tQnNvaWpR?oc=5",
-   "source": "36Kr",
-   "lang": "en",
-   "time": "2026-10-08T14:01+08:00",
-   "via_search": true,
-   "categories": [
-    "電池"
-   ],
-   "forced_issues": [],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "73541ea509",
-   "title": "Huawei-backed Maextro V800 faces brake test controversy as JAC shares fall by daily limit",
-   "summary": "All 3 Maextro V800 MPVs tested by Dongchedi suffered brake pedal bracket failures during emergency braking, raising concerns about vehicle safety. For details,…",
-   "link": "https://cnevpost.com/2026/10/08/maextro-v800-brake-test-controversy-jac-shares-fall/",
-   "source": "CnEVPost",
-   "lang": "en",
-   "time": "2026-10-08T14:00+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "343ff258b9",
-   "title": "Forvia Hella secures series deals for hybrid battery tech",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeWYwbFg3eS0yVHpfSkNwbGcyNy1aZ2N1eldoYmVYaXI4ZWppa09XU0lmY1BMbUFYMGlueTByN3pqYzh2cG1Pam5RVDdQdXFTUUY3ZklDeW1ZX203MFlwZWNqc0x2V21DbFBnVl92M1BqeEhRbXlCZmtTaVB4UFktVmRlWmU0SjRFdk9rOEpIM3hLZUNLNXd4bzg5SQ?oc=5",
-   "source": "Automotive World",
-   "lang": "en",
-   "time": "2026-10-08T13:15+08:00",
-   "via_search": true,
-   "categories": [
-    "電池"
-   ],
-   "forced_issues": [
-    "ssb"
-   ],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "9be1e2f455",
-   "title": "福特六和發布「GO BOLD GO FORD」品牌溝通主軸掌握台美產業契機率先揭露首波美製車在台布局戰略",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XZVFaOS1nSlR5UkxuRk9FYmpISTZsTWZrTzRKRHh0S2NGYkZzOExaM2JFN1ZTZ2VxSlplc0RURlAyUVlCZmtBeENrN3EzeERwSXBv?oc=5",
-   "source": "SUPERMOTO8 | 超級摩托幫",
-   "lang": "zh",
-   "time": "2026-10-08T13:00+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
   }
  ]
 }
