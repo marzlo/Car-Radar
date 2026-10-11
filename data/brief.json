@@ -1,27 +1,27 @@
 {
- "date": "2026-10-11",
- "generated": "2026-10-11T10:09+08:00",
+ "date": "2026-10-12",
+ "generated": "2026-10-12T07:45+08:00",
  "ai": false,
  "items": [
   {
-   "text": "高速充電排隊5小時？誰比車主還著急？",
-   "category": "電池",
-   "news_ids": [
-    "cf3c0790fc"
-   ]
-  },
-  {
-   "text": "不再叫「全自動駕駛」！為求歐盟全面放行，Tesla妥協將歐洲版FSD改名為「輔助駕駛」",
-   "category": "智駕",
-   "news_ids": [
-    "0a9b7e16f9"
-   ]
-  },
-  {
-   "text": "Toyota offers low-cost financing in Thailand to ward off cheap Chinese EVs",
+   "text": "Geely Canada 2027 Launch EV Export Strategy Explained",
    "category": "車企動向",
    "news_ids": [
-    "2e19c80068"
+    "7fe64d86a7"
+   ]
+  },
+  {
+   "text": "Peugeot RCZ Vision Debuts As 500-HP Electric Sports Coupé With 600 km Range, 10-Minute Charging",
+   "category": "Stellantis",
+   "news_ids": [
+    "3e0ef41a57"
+   ]
+  },
+  {
+   "text": "Chinese auto companies race ahead on EVs with 5-minute ultrafast charging",
+   "category": "電池",
+   "news_ids": [
+    "06d0593e53"
    ]
   }
  ]

@@ -195,6 +195,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-12",
+   "generated": "2026-10-12T07:45+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Geely Canada 2027 Launch EV Export Strategy Explained",
+     "category": "車企動向",
+     "news_ids": [
+      "7fe64d86a7"
+     ]
+    },
+    {
+     "text": "Peugeot RCZ Vision Debuts As 500-HP Electric Sports Coupé With 600 km Range, 10-Minute Charging",
+     "category": "Stellantis",
+     "news_ids": [
+      "3e0ef41a57"
+     ]
+    },
+    {
+     "text": "Chinese auto companies race ahead on EVs with 5-minute ultrafast charging",
+     "category": "電池",
+     "news_ids": [
+      "06d0593e53"
+     ]
+    }
+   ]
   }
  ]
 }
