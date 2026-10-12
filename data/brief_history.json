@@ -223,6 +223,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-13",
+   "generated": "2026-10-13T07:45+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "保時捷以 100% 再生原料打造動力電池，城市礦山理念再獲進展",
+     "category": "電池",
+     "news_ids": [
+      "0c771cc0bf"
+     ]
+    },
+    {
+     "text": "特斯拉歐洲輔助駕駛改名求過關 盤中股價小幅下跌",
+     "category": "智駕",
+     "news_ids": [
+      "e49f652abd"
+     ]
+    },
+    {
+     "text": "Jeep Needed Chrysler And Dodge's Help To Pull Off Its 12-Month Wrangler Blitz",
+     "category": "Stellantis",
+     "news_ids": [
+      "26d7bd62d7"
+     ]
+    }
+   ]
   }
  ]
 }
