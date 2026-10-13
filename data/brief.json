@@ -1,27 +1,27 @@
 {
  "date": "2026-10-13",
- "generated": "2026-10-13T07:45+08:00",
+ "generated": "2026-10-13T10:07+08:00",
  "ai": false,
  "items": [
   {
-   "text": "保時捷以 100% 再生原料打造動力電池，城市礦山理念再獲進展",
+   "text": "2 hospitalized after EV battery fire at Wallingford car dealership",
    "category": "電池",
    "news_ids": [
-    "0c771cc0bf"
+    "778c36ac08"
    ]
   },
   {
-   "text": "特斯拉歐洲輔助駕駛改名求過關 盤中股價小幅下跌",
-   "category": "智駕",
-   "news_ids": [
-    "e49f652abd"
-   ]
-  },
-  {
-   "text": "Jeep Needed Chrysler And Dodge's Help To Pull Off Its 12-Month Wrangler Blitz",
+   "text": "Renault and Peugeot revive icons with EV concepts at Paris Motor Show - CHOSUNBIZ",
    "category": "Stellantis",
    "news_ids": [
-    "26d7bd62d7"
+    "88b76add54"
+   ]
+  },
+  {
+   "text": "【即時新聞】通用汽車(GM)2028年推全自駕！放棄無人計程車轉攻個人車主商機",
+   "category": "車企動向",
+   "news_ids": [
+    "d21cdd0e60"
    ]
   }
  ]

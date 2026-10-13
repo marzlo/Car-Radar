@@ -1,8 +1,266 @@
 {
- "updated": "2026-10-13T07:45+08:00",
+ "updated": "2026-10-13T10:07+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "5047300a98",
+   "title": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1RLcUszdzBCVVVJYmRnajdTTDFhM0l4SkdqNEpIWWNNdzJrTUFlS19mQ2MtVGpEUzVmSU5MSXRDWFhENTItMHYwX2xhZklsRUE5cVZPWno1YzFiZDN1NThWdFBZcnIzb25XUGplalI1WEphMC1wLW16Q01NNVlORmtEQWtPemxmbTg0MjR4Q1BHZkVrVXljR2VpbXRTY3Jyd3Voem5BSU9BYXM?oc=5",
+   "source": "CleanTechnica",
+   "lang": "en",
+   "time": "2026-10-13T09:55+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "09ccfdf2b1",
+   "title": "中國20車廠大舉進攻巴黎車展 歐洲品牌迎價格戰｜#鏡新聞",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPRzZwQWNsSm81RldGbFh4N1BiSEFOUnBMWXdVRk1uUV9hVGE3QTNHVmp5dzdNcXRpTGJzZEhUOEpBeWhTRHJMcFRwTUtESzNFYU5kMGsyNUFxYWwyYlM0cHFIampWcFNGWVlCdHYzX2d6UjNmQlg3eUU5OXpocm9oeW0tcE9kYW1jSk56alRDMGJMT3VXRFJGeTN1TjkyUXZJQjdQaDdwZFA5NmQ5d0lHQlFSdnpuSTlxTHdFN2FrSGpsOExENWNlb2h4ZlZQVFFIU0dNcDBWNExabWtyLUZWYy12R0EwZVNNN2FOYUpOYkNGZmROSVJha1ZOM1g5TmtrdWdKOHFmVGxMRlR0NlF5ZGdOdDh6VUVIOVpCdnFWOFhaeWxuRUJWZ3Z0V0pKRFZ4YTk0MUR2Z3FhLXJkV2VkQlJET21nYVctcnk1eDcxZjRtZTZ2NzJLVmN1YndkNEVYWHJ5N0dhVjhJVDlC?oc=5",
+   "source": "Yahoo新聞",
+   "lang": "zh",
+   "time": "2026-10-13T09:54+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "778c36ac08",
+   "title": "2 hospitalized after EV battery fire at Wallingford car dealership",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV09lUldWaWZPWHkyZW05RXF4NVkwTUwyeXpEaUM1cGVROGFid21LU2x5bHFVWkZRdUIxWVB2akpudzYyUWJ2VnhDRW5iUTRnSVdJTlBNd0xRZXZYZXdXOGhjZlotWWRSb1ZnVk5ybnNFUmE0bnB0aDVMallvdi02UU13VnhrWWJoSDZrN2tJZU5SZ3dRd1FwLXd5TEllZVpDdV9MQ2RnREY2d1NxUFpnVkJHX216TTVBcXROc0VldjdYMDB5QUVCejdQczVXdlRDNFRDZ0JRQm9oRC12QklDcUI1b3lFaE9yMXRNYWx3cTFjZw?oc=5",
+   "source": "fox61.com",
+   "lang": "en",
+   "time": "2026-10-13T09:47+08:00",
+   "via_search": true,
+   "categories": [
+    "電池"
+   ],
+   "forced_issues": [
+    "ssb"
+   ],
+   "issues": [
+    "ssb"
+   ]
+  },
+  {
+   "id": "88b76add54",
+   "title": "Renault and Peugeot revive icons with EV concepts at Paris Motor Show - CHOSUNBIZ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdllUYmR1RXVuYWgyTzBmblpoRlFLcnN3LVhtbmV6UWx5aDFOc3BxVGNWczhzSUdLbjA3TzZyaXJOeVBBSlptd0ZaSHJsSFFfWFRHN2NVdTc4aXlNLW5aSWJvbGpKUWduYVZGU3RUaTJjU094RFVxUVdLbENOWm9LQkF30gGWAUFVX3lxTE5WMGZOUUZITXBSRU5pR1hRU21DSmlMYWtVTFRfTDNBWUl2LU5WWmpFOVpzd1FET3Nid0o4dTFSWGFtTTJvdmVUZTc5T2tqdmNubVYtSWJZUE0xanVnWkRnZ2pkWHBwRUZJc2pOSzlCLTBMd2ZOcGQxYkJoYkF3bHlFYWdSWEdBT2k4clI2ZXBDUVlldDV4QQ?oc=5",
+   "source": "Chosunbiz",
+   "lang": "en",
+   "time": "2026-10-13T09:41+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "06aabec9dd",
+   "title": "中國20車廠大舉進攻巴黎車展 歐洲品牌迎價格戰",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GTEJDaWVJenI1U3Z6TWU5WFpaeXNfaU9IU29JUW9TY0FqME9mWVJTUFFzeWFtZTM0TzR6cWN0N3o1cl9adDJFUi1YNzdJMFVBM2xFSUlJSTnSAV5BVV95cUxNUjBYQmdMbjFCRFJiQzRHUEZpYlk2c1N6VG1qRWplYjBzLTc0cDA1QUZQamc2N2lxM2xHMnFIMm1WdHk3M2U3a3ZJQXY5dUQ5YUppdFRCa3B5OVFnV0pn?oc=5",
+   "source": "鏡新聞",
+   "lang": "zh",
+   "time": "2026-10-13T09:07+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "profit"
+   ],
+   "issues": [
+    "profit"
+   ]
+  },
+  {
+   "id": "13ede8d9d2",
+   "title": "Europe’s Biggest Auto Show Is Now Dominated by Chinese Cars",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmxTRk9BMjFhM3A3dVFmM1lFTFQzOXNPeElwLUpVQXRXbXRSUlFpZkdSekRTMWJOOVg3NDBxb3dCc1pwZ3E1R1FQLUhrWWZpTEVEM1FiTlp4OEJrLVRRdWI5UnRqWkZNcEc0TV9RSjhmLWZsSWw0M2RUNHQ0Sm5LMm1fSDZHX19VSzlJdnl6RjByMmtmR2p3M19XNlZpSVo4ZWhfaw?oc=5",
+   "source": "WSJ",
+   "lang": "en",
+   "time": "2026-10-13T09:00+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "38c2922109",
+   "title": "大陸產經：零跑歐洲市場拓展超預期，純電動車占銷量九成",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3haS3JJRkY1eTMwQ3RjaVpLb05oTEVkdWx4alZPUDZKLVpEMnlGUUZPZHY4TEZBN2laekJvVS0ycW54ZG9BMHZld2I3OXNDN29xTXh3MDlWWlhOZlh2T0JuYktIVktXS2tqdGtqcVNoLTE0TTJneHRDakFGTkJSRU4xRmlmMDZX?oc=5",
+   "source": "富聯網",
+   "lang": "zh",
+   "time": "2026-10-13T08:59+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "7c24e1d342",
+   "title": "福斯救世主？平價純電車系訂單破 15 萬張",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56NHVheEY4czJITGY0c0JPbU52ejRuTm5ZXzdZSnNHUHVPd2ZjUVd6bUxVMDN6Qzl3YUNIU0VYTDBEMl9aRTlxb3VRWHpQRkNYWVdVc0prUEUxS0Y2Z29SVlMyQkF3M05wU05ITzBPME5IMGd5WDFmaHBn?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-13T08:56+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "d21cdd0e60",
+   "title": "【即時新聞】通用汽車(GM)2028年推全自駕！放棄無人計程車轉攻個人車主商機",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkp5Vjl2ZXg3a040ck5kd1BXRkNmOVBIazIwZFRtdVE2ZWxJdzhLZWFqT1BCaHZwMTllVXpLY2FjZ09GZnZGeTBtTk82T1UxSjhZZWFxOVVzYUIxUTRYQUFSXzR2N2JqcEp6Z3JKTzdrODJpT3prX1g1VzNzNnVLNXR2VGJ0SV9QeEZTaEsyZUU?oc=5",
+   "source": "CMoney投資網誌",
+   "lang": "zh",
+   "time": "2026-10-13T08:45+08:00",
+   "via_search": true,
+   "categories": [
+    "車企動向"
+   ],
+   "forced_issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
+   "id": "243981263d",
+   "title": "汽車業，突傳大消息！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfbVljNU9yeFJrNElLejhhLXVIUTNYVFctakt6aEs1czdWeEZPTFFYdlgtM000YWhqdDJ1bjRray1UWWhjSFZUeQ?oc=5",
+   "source": "鉅亨號",
+   "lang": "zh",
+   "time": "2026-10-13T08:16+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "52129c92fc",
+   "title": "No Doors, 2 Seats, 8 HP - The USA Has A Brand-New Cheapest Car, And It Only Costs $13,995",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUlZS0dMOTVNMFpZMWxnNHNjUXNHamhHbW9kTEg3Q1VTaGpiNlhCZXg2bzhsZkFiREw1ODc3elBvX09aaVJ2SlZFQU5IOWY3ZkNaUmpDN3JhT3FOdU95VEdKckdFNUZtLXZGMEVETTE0bldVQlc1TkZ2aG5jcDkwVDU1THhoY244ckE?oc=5",
+   "source": "CarBuzz",
+   "lang": "en",
+   "time": "2026-10-13T08:01+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "29fb6bb1ad",
+   "title": "PEUGEOT E SANTOS DUMONT, DOIS MUNDOS QUE SE CRUZAM PELO PIONEIRISMO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaG9JYU82SmZYTUVMTlh1MTlwVElBRGhSQ2lETVpfYlR0eUFIRlc0SlNEeTJEaVFGSGx3WVM5ckFHdk9HdGRsdU9fMEhISWU4OGtVRG4zRzhwM09zMlphYkhqbkJ2b3ZtQmV2aklkdzNDQnpTRk9ZVVQ4LWduelZsVUlWUG9ONTQ?oc=5",
+   "source": "Media Stellantis",
+   "lang": "en",
+   "time": "2026-10-13T07:58+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "fa4af560ca",
+   "title": "Volkswagen’s Family Of Cheap EVs Already Looks Like A Hit",
+   "summary": "The company is struggling in China, but EV sales grew 20% in Europe last quarter.",
+   "link": "https://insideevs.com/news/811680/vw-ev-sales-growing-europe/",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-13T07:46+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "212558b8b3",
+   "title": "《自營商賣超33-10》電動車(358)、日本半(351)、A50正2(327)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWgzaGwtTF94UmM0NG1tWS16QmJCQ3dBdGs0UndUQ0hxYVdCbFFreTdYb18zajAwVGRsQVRBVjY1eVBfQVBhcHVaWWJrUnNpLTF3dWVRVjBXVDZaZDRxcEp1X2x1MWM0TV9vXzhaek80YXFNdUNpREN1SkE1NlhFRzdrQWFuRkRs?oc=5",
+   "source": "富聯網",
+   "lang": "zh",
+   "time": "2026-10-13T07:32+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "c2a75bbdb1",
+   "title": "《外資買超31-12》正新(692)、電動車(689)、志信(678)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0NJN0F4a285QW5NbjEtTlFQWFZaLVZudzV3cDlzWFZDbkgtMXlGWVc5SF93ZndpVFZKOERvd0xFQzZhSlJ0UkV1Wjhvam5xemdCTzJSellJVFVKeXpqV01reEFQWXFubUJsQjg5MndhMzNrRkxBRlRyT1ZqV1lkemZ5REtMcWJa?oc=5",
+   "source": "富聯網",
+   "lang": "zh",
+   "time": "2026-10-13T07:32+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "2739612cfa",
+   "title": "車輛安全車架市場2035年展望：電動車平台與碰撞法規帶動成長 - 新聞與統計",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQVdHV3QzOXQ1b25aZnhFVTRVUGNaVjd1eFkzZHU2ZlhmSnktYXoxOUpXYjVqNGtka2dTYUFyalVaOGlBMm5CeDR1V2RhcWtOMUhCR083cV9ManVwT29IQ2Vmd1RvN0JCWHA1elUtZTE3bDVDWl8zTnIxa3JvYWh1QTBFVTRKMjNrMDFJVFRTNXFFN2liaGNFdkY5VlRaQUJ0cWZsb3lqVUxTU3NIMVM3QzI3U1hpd2pkZ19SSTdlX1lTMUdybXpDd05HZkh0bmlTTU9FakxiT0tESWFHYjNNNno5UVY?oc=5",
+   "source": "IndexBox",
+   "lang": "zh",
+   "time": "2026-10-13T07:26+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "0c771cc0bf",
    "title": "保時捷以 100% 再生原料打造動力電池，城市礦山理念再獲進展",
@@ -71,8 +329,12 @@
     "其他"
    ],
    "via_search": false,
-   "forced_issues": [],
-   "issues": []
+   "forced_issues": [
+    "ssb"
+   ],
+   "issues": [
+    "ssb"
+   ]
   },
   {
    "id": "9d4c8c8149",
@@ -99,6 +361,21 @@
    "time": "2026-10-13T06:25+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "40de6b611e",
+   "title": "Peugeot RCZ Vision Is A Fabulous Follow-Up To One Of This Century's Most Beautiful Cars",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1ozY2JYWmxzWFdaa0FCQUZjVkItamt3WF91ZFc0Ukd3eDFMcEstRkdkN3BISUl6eVN3UENzTDVPSG56ZXFrYXRycndKd0hGWllOcWtPd2ZzM21nM0ZRZlg1X1NtY1pUQjFsNjRGanNGR3pRVVhwLU5Ib1QtU09HaGlBdDNyZ09OX0wzZGl1RkthcTQ?oc=5",
+   "source": "Jalopnik",
+   "lang": "en",
+   "time": "2026-10-13T06:22+08:00",
+   "categories": [
+    "Stellantis"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -180,11 +457,11 @@
    "issues": []
   },
   {
-   "id": "e7faf8d91c",
-   "title": "EV battery fire at Wallingford Porsche dealership leaves 2 injured",
+   "id": "7424e2e116",
+   "title": "2 hospitalized after EV battery fire at Wallingford car dealership, officials say",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG9vb2hwODhlT3MzVlphM0g0TU80WXF3OFZtNlBEWi1ieTJtTE83VmYyOXJlZm9HYl9KQVFtSTZhMkN3eFJONXYzdWwyaUR6UVp3VW0xZ2k2djlpS2E0dWRNMGdjWFBRNjBfZzB5TXVCUGdydU5ET1EzTDlpTW55dDd3c0YxZ1hOVVRvX2VjSzc1QnJCZ0lJd0hzRVRMeHkwcUNfN0QydjEtcWluNEZ1NdIBtgFBVV95cUxObThSSTRnTkdPQVRpZ1U2aElwMkxoZUF3a0ZJYkZsTk53QmpjZkNMX0FjZEVvbDcySmZLLVBSS1p2czdVb3V0X0ZfaFJYaVR5OHBBN1FKR21VNHFaTXQwRUdLdjE2TUpkdVVqZHhRVUFJWDNjR3BNWTlwc1h0dWhPYWRYN0twTUFMYzQ5TmtrLUNSQVpWLV8zQ2NydmJ5QjlYdjA5WnFwMWlRRGJzaTRoWHJDVC15QQ?oc=5",
-   "source": "WTNH.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHB2VHlzalVXZXRjOGQ2RnZqYWhwV0VGSnczVWoxMTdlXzBFMzZFY0VRbUhZQ2Zvb0NySEswVXFuMndIYkJueVMybFlfR19feVpLejYzamNDeGpuWm9wajdOSnF0b2tQWnJPMENnb1RUWjF2OGxzZ1h5cDNtSkwtcWpmUlE4Z2NYVHcyeElldDNyR2g4ZHllenRiRng5bVRzTGhMb2RB?oc=5",
+   "source": "CT Insider",
    "lang": "en",
    "time": "2026-10-13T05:21+08:00",
    "via_search": true,
@@ -199,11 +476,11 @@
    ]
   },
   {
-   "id": "7424e2e116",
-   "title": "2 hospitalized after EV battery fire at Wallingford car dealership, officials say",
+   "id": "e7faf8d91c",
+   "title": "EV battery fire at Wallingford Porsche dealership leaves 2 injured",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHB2VHlzalVXZXRjOGQ2RnZqYWhwV0VGSnczVWoxMTdlXzBFMzZFY0VRbUhZQ2Zvb0NySEswVXFuMndIYkJueVMybFlfR19feVpLejYzamNDeGpuWm9wajdOSnF0b2tQWnJPMENnb1RUWjF2OGxzZ1h5cDNtSkwtcWpmUlE4Z2NYVHcyeElldDNyR2g4ZHllenRiRng5bVRzTGhMb2RB?oc=5",
-   "source": "CT Insider",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG9vb2hwODhlT3MzVlphM0g0TU80WXF3OFZtNlBEWi1ieTJtTE83VmYyOXJlZm9HYl9KQVFtSTZhMkN3eFJONXYzdWwyaUR6UVp3VW0xZ2k2djlpS2E0dWRNMGdjWFBRNjBfZzB5TXVCUGdydU5ET1EzTDlpTW55dDd3c0YxZ1hOVVRvX2VjSzc1QnJCZ0lJd0hzRVRMeHkwcUNfN0QydjEtcWluNEZ1NdIBtgFBVV95cUxObThSSTRnTkdPQVRpZ1U2aElwMkxoZUF3a0ZJYkZsTk53QmpjZkNMX0FjZEVvbDcySmZLLVBSS1p2czdVb3V0X0ZfaFJYaVR5OHBBN1FKR21VNHFaTXQwRUdLdjE2TUpkdVVqZHhRVUFJWDNjR3BNWTlwc1h0dWhPYWRYN0twTUFMYzQ5TmtrLUNSQVpWLV8zQ2NydmJ5QjlYdjA5WnFwMWlRRGJzaTRoWHJDVC15QQ?oc=5",
+   "source": "WTNH.com",
    "lang": "en",
    "time": "2026-10-13T05:21+08:00",
    "via_search": true,
@@ -345,6 +622,21 @@
    "issues": []
   },
   {
+   "id": "f231f35cfc",
+   "title": "The Citroën 2CV Makes Its Return At the Paris Motor Show, And It’s Absolutely Adorable",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlNkdobTk2RGVwMmx4VVNpYnpGQzBmTTgyX3VuVGxlaHoxS1lHRHNLRFBTUWRmYVpFTmVObzhRaWVXM29aNFVPb2duMkZTWlByUDhZNElYRHVWOVo4Yk05WXZjazdaTmwxZmFyakVyVzJiNlJlNHdnaw?oc=5",
+   "source": "TFLcar",
+   "lang": "en",
+   "time": "2026-10-13T03:30+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "86412dabf1",
    "title": "【Citroën｜雪鐵龍】經典2CV復活變純電小車 黃色格仔車廂復古味濃 售價瞄準1.5萬歐元",
    "summary": "",
@@ -419,6 +711,25 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
+  },
+  {
+   "id": "fe22e768da",
+   "title": "First Shift: U.S. EV sales slump as Europe surges",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnRjWUlYV3RSX05OYTJKVkhWOU5YVXFVYS0wZzFhbm9fZElhd2lKbmZlZlRuRE5hNU15TXRpbWkyYjQzNEFrRjh2dFYtQjc5VmcyV1d4LTVRdWlhV0xlVkI5SmJsMUF4a1hsazlrQTNYempBajRRR2hhVmlpUmxtV1RrNFA?oc=5",
+   "source": "Automotive News",
+   "lang": "en",
+   "time": "2026-10-13T02:53+08:00",
+   "via_search": true,
+   "categories": [
+    "其他"
+   ],
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "ad1c98eeb5",
@@ -558,6 +869,27 @@
    "issues": []
   },
   {
+   "id": "1340a9cb54",
+   "title": "Tesla drops ‘Full Self-Driving’ name in Europe; Albert Gore on clean tech",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHU0c1NDR2lpLUdLTnlfbkxBaGhuNHZ1UktXOUNRQUZIazVrWXE0WnplcFA2ZkZrNUYtTEdvcG9ZNXhQMDVyVlg0c0ZfX1RHQmZXbDJjaFBPVWlJV3htS1lDQURpdnRuUmJsQ1M2XzdXOGxCdTFxMlpPbzVBUVVCd1c4eFFXVUswWC1FdzR6T3J5QQ?oc=5",
+   "source": "Automotive News",
+   "lang": "en",
+   "time": "2026-10-13T01:36+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "adas"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
    "id": "64158e1f50",
    "title": "Stellantis Debuts Stunning Lineup of Concept Cars at Hangar Y to Drive Future Innovation",
    "summary": "",
@@ -598,6 +930,22 @@
    "time": "2026-10-13T01:24+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "a6db7a5af8",
+   "title": "Stellantis Holds to 14-Brand Strategy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDAwSXUxb3Z3NEttajhGV2xVXzlyWjdwaVZaSkRPUFhVWGJyM1RCWE5Md0o2RnBIbFdTRXdoamd3ZjVmb3pKdERYVHdyaGNTVUxRaUw3VUZpa1VRV0NFS1JsQUZzSnR3bTI2b3BzZjkzaldXSkNUNEdJaHdYdHcxUW8zODJKSW1iTVBzSDREVU5qQQ?oc=5",
+   "source": "Briefs Finance",
+   "lang": "en",
+   "time": "2026-10-13T01:24+08:00",
+   "categories": [
+    "Stellantis",
+    "車企動向"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -693,6 +1041,22 @@
    "time": "2026-10-13T00:19+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "9b46ae5fbd",
+   "title": "討論牆 | Stellantis押寶平價電動車搶回歐洲市場 復刻雪鐵龍2CV，2028年推出新車",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56RnRWdGhoNVJRaVplSUNwSUVNeHBFWjZhT2pQdGhPYkxYbWlWSUhfVDUxQlV6LUp2eUM4dWdiWEk0a3RxRFpteFFjdG1QMUVYMlQ0eFd4a2ZJdElfaHQ1b0c0Qm8?oc=5",
+   "source": "LINE TODAY",
+   "lang": "zh",
+   "time": "2026-10-13T00:18+08:00",
+   "categories": [
+    "Stellantis",
+    "車企動向"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -804,21 +1168,6 @@
    "issues": []
   },
   {
-   "id": "27f6e810f8",
-   "title": "Alfa Romeo 33 Stradale_Paris Motorshow 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYXc0RkwtWUd2MTdXeERQaXVqbk1RaXFMX0hiNWRjVmdJenhQbTFRTXRZR1pLc0xxb25MeV91QlFIdUV6UjM2a2VzOHR2VlBTaHlDdWlVQURyYTR1cllZT3FDLTZGd3pmeU52S0lsMHd3SlRNZ1JLa05vWDduME9kY1V4SGwwRWtiOTJJ?oc=5",
-   "source": "Media Stellantis",
-   "lang": "en",
-   "time": "2026-10-12T23:32+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
    "id": "3ce2028a25",
    "title": "Can Jabil's Next-Generation Automotive Portfolio Drive Future Growth?",
    "summary": "",
@@ -836,6 +1185,21 @@
    "issues": [
     "issue-20261006-ybh7"
    ]
+  },
+  {
+   "id": "27f6e810f8",
+   "title": "Alfa Romeo 33 Stradale_Paris Motorshow 2026",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYXc0RkwtWUd2MTdXeERQaXVqbk1RaXFMX0hiNWRjVmdJenhQbTFRTXRZR1pLc0xxb25MeV91QlFIdUV6UjM2a2VzOHR2VlBTaHlDdWlVQURyYTR1cllZT3FDLTZGd3pmeU52S0lsMHd3SlRNZ1JLa05vWDduME9kY1V4SGwwRWtiOTJJ?oc=5",
+   "source": "Media Stellantis",
+   "lang": "en",
+   "time": "2026-10-12T23:32+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "e049fc9411",
@@ -1284,21 +1648,6 @@
    ]
   },
   {
-   "id": "32e5b1f8fa",
-   "title": "Hyundai Bayon gets hybrid variant to challenge Yaris Cross, MG ZS",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWExTQlVzMmhrTVZSc0w1OXBmUGUyalU1MzhwdFdMa2thS1NXNlUwMkJ3UUlCZ2ZpdlRzWlZWbGw3b3l6akpuLV93d2dvWHFRb1dtQ0liWTFRdW5HV1IzNzVjMlo3UWx4WFJNNnN1V09XWlNQTXNscHdyYkFDSTZSVU1rSWRlUnplT083RTVR?oc=5",
-   "source": "Automotive News",
-   "lang": "en",
-   "time": "2026-10-12T21:24+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
    "id": "ae413ad7fd",
    "title": "NHTSA weighs probe into claims Tesla Robotaxis speed in school zones",
    "summary": "A new defect petition accuses Tesla’s Robotaxis of speeding through active school zones, and NHTSA has opened a file to decide whether to investigate. The agen…",
@@ -1308,6 +1657,21 @@
    "time": "2026-10-12T21:24+08:00",
    "categories": [
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "32e5b1f8fa",
+   "title": "Hyundai Bayon gets hybrid variant to challenge Yaris Cross, MG ZS",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWExTQlVzMmhrTVZSc0w1OXBmUGUyalU1MzhwdFdMa2thS1NXNlUwMkJ3UUlCZ2ZpdlRzWlZWbGw3b3l6akpuLV93d2dvWHFRb1dtQ0liWTFRdW5HV1IzNzVjMlo3UWx4WFJNNnN1V09XWlNQTXNscHdyYkFDSTZSVU1rSWRlUnplT083RTVR?oc=5",
+   "source": "Automotive News",
+   "lang": "en",
+   "time": "2026-10-12T21:24+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1372,6 +1736,7 @@
     "車企動向"
    ],
    "forced_issues": [
+    "adas",
     "issue-20261006-ybh7"
    ],
    "issues": [
@@ -1910,21 +2275,6 @@
    "issues": []
   },
   {
-   "id": "79fbf1c08a",
-   "title": "超豪華MPV煞車踏板竟斷裂！3輛尊界V800測試全出事、江淮汽車市值蒸發280億元",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lOV80M1RDMWUyVVRGQTN0XzFxT2dkQm5xd0FvVV9pUDhsNGN1bVpnOTJWeHBaYi1jUm1TcXVIZzVZQ2JBNDZ0cXlEY3psSW5ROEE?oc=5",
-   "source": "地球黃金線",
-   "lang": "zh",
-   "time": "2026-10-12T17:36+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
    "id": "17e8e0774e",
    "title": "賽力斯攜手寧德時代深化合作 問界累計交付突破120萬輛",
    "summary": "",
@@ -1935,6 +2285,21 @@
    "categories": [
     "電池",
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "79fbf1c08a",
+   "title": "超豪華MPV煞車踏板竟斷裂！3輛尊界V800測試全出事、江淮汽車市值蒸發280億元",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lOV80M1RDMWUyVVRGQTN0XzFxT2dkQm5xd0FvVV9pUDhsNGN1bVpnOTJWeHBaYi1jUm1TcXVIZzVZQ2JBNDZ0cXlEY3psSW5ROEE?oc=5",
+   "source": "地球黃金線",
+   "lang": "zh",
+   "time": "2026-10-12T17:36+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1979,6 +2344,21 @@
    "source": "UDN",
    "lang": "zh",
    "time": "2026-10-12T17:24+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "15bc36de53",
+   "title": "車股｜歐盟擬限中國混能車進口量，內地9月乘用車零售跌28%兼加強監管速成車，車股未屆吸納時| 專題透視- 新聞",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6REhMMWc5RFo4ZGkzZW4wdWU4T052UGZnWUlkcmZmSTc4OTlnZExJUWRRTEs4dXN2SjhKd2dOV2R0YjJfbENrTkpzZC02d3VBMk5oN3doRDVYekdaVHFSQWx6ZEFoZ1VhYmxKazZ0OVZSSjZvVUE?oc=5",
+   "source": "etnet 經濟通",
+   "lang": "zh",
+   "time": "2026-10-12T17:23+08:00",
    "categories": [
     "其他"
    ],
@@ -2033,9 +2413,7 @@
     "Stellantis",
     "電池"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
+   "forced_issues": [],
    "issues": [
     "ssb"
    ]
@@ -2491,6 +2869,21 @@
    "issues": []
   },
   {
+   "id": "017cb07527",
+   "title": "汽車百貨車麗屋13日興櫃 3年內拚進駐368鄉鎮",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPekZMZ1Rpa2M2dURXaWpMNmcwNkY4QkUxNklqZUlWdWdIZUxFeWhEN2dwSDdvbWpNdktaY3JqVXNYZk9RNDlFcVFSb21IdFJPZjQ4YzlTTVlNSjlCeUhn0gFfQVVfeXFMUE96RkxnVGlrYzZ1RFdpakw2ZzA2RjhCRTE2SWplSVZ1Z0hlTEV5aEQ3Z3BIN29tak12S1pjcmpVc1hmT1E0OUVxUVJvbUh0Uk9mNDhjOVNNWU1KOUJ5SGc?oc=5",
+   "source": "經濟日報",
+   "lang": "zh",
+   "time": "2026-10-12T13:37+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "03643e6360",
    "title": "China says EU hybrid trade deal allows export growth from 2025 levels",
    "summary": "The commerce ministry said the arrangement allows growth from the 302,000 hybrid vehicles the EU imported from China in 2025. For details, please visit CnEVPos…",
@@ -2500,6 +2893,21 @@
    "time": "2026-10-12T13:30+08:00",
    "categories": [
     "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "a398245cbd",
+   "title": "台南市汽車商業同業公會 「捐出熱血．分享愛」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsSVU3dnpCSnpkaDZ1c2R6WG9GLU5BQ2U5TlU5QW1FXzg2SUhqVUtPdEYxRXM2UG9ZYUN0bGVSWlpvdWM2NUxpNHFYSVo5MXJHTi1OY05iVm82b0RpamxhZGFoWjV5QQ?oc=5",
+   "source": "國際獅子會300C-3區",
+   "lang": "zh",
+   "time": "2026-10-12T12:50+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -2593,6 +3001,21 @@
    "issues": []
   },
   {
+   "id": "85449455b7",
+   "title": "長春汽開區“串珠成鏈”激活汽車產業新動能",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtUjVZNXZpdVlZWlotSWs5X25aZWtxejFZY01OV2todk1vVkprSTN4d2dNQXpxazctdmpCVDJIZUJibVhicTRKU0RyUXNBcWVoVS1JM1JHVXZ2blNRODJlMmZETmc2bXk5M01LTVNRZDU?oc=5",
+   "source": "人民网",
+   "lang": "zh",
+   "time": "2026-10-12T11:14+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "ec68b3ed85",
    "title": "瞄準 12 萬輛電動車大軍！麗升收購全台 3 座超充站跨足充電樁運營",
    "summary": "",
@@ -2602,6 +3025,21 @@
    "time": "2026-10-12T11:01+08:00",
    "categories": [
     "電池"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "2076cf9697",
+   "title": "大眾汽車CEO籲法德攜手應對中國車企挑戰",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ERUZaZDgwQ2g0WkhFbFFhZVp6MV9MWEs4Y1ZpTElJbTNJWVd6Q2Q4OEJ3MXU4U3pQQ2NoLUtGMFFDSExzaTNHNkJXZmlGcDBkWDNLLWh5SDhtV1lMVzZITU1Md2YwNjjSAWdBVV95cUxOREVGWmQ4MENoNFpIRWxRYWVaejFfTFhLOGNWaUxJSW0zSVlXekNkODhCdzF1OFN6UENjaC1LRjBRQ0hMc2kzRzZCV2ZpRnAwZFgzSy1oeUg4bVdZTFc2SE1NTHdmMDY4?oc=5",
+   "source": "大紀元",
+   "lang": "zh",
+   "time": "2026-10-12T10:44+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -3045,12 +3483,8 @@
    "categories": [
     "電池"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "3e0ef41a57",
@@ -4183,9 +4617,7 @@
     "智駕",
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -4475,6 +4907,7 @@
     "智駕"
    ],
    "forced_issues": [
+    "adas",
     "issue-20261006-ybh7"
    ],
    "issues": [
@@ -5411,9 +5844,7 @@
     "電池",
     "智駕"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7",
@@ -5851,449 +6282,6 @@
    "source": "InsideEVs",
    "lang": "en",
    "time": "2026-10-10T15:43+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "03886fe9f5",
-   "title": "小鵬集團當選聯合國歐洲經濟委員會自動駕駛新設工作組秘書長",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbWhvYkhER19qMjBQUUJDQng4eHRCTThQUTJjUHg2T0lCdzdBMER6X1VqWnNxOGZYQjJ1Rk5KTGpXQ2FsTU5xMWh1eENDOHc2QVdDZDVOVk5pdFNxSHVRdzg0ZXh6SDl2dkE2SVFGTk15cjNFRHlCR2R0QXJGQkJCYlMxd3NpWHpWZGp6dG9rckp3UzJLU3NENTNFWXRaOGxnR2NvUTMydXFELVE?oc=5",
-   "source": "富途牛牛",
-   "lang": "zh",
-   "time": "2026-10-10T15:30+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "fcf76f1b83",
-   "title": "特斯拉歐洲棄用全自動駕駛名稱 改稱輔助駕駛",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mdjJTV0dpRlJORWI1SUw2dW9SWHJKcW00TUMxamhWTDNudFpRWEF0X2lNcGRORW1RbU1Va2hQVzBiVVZadndPR0d4U3JqN2FLSUs0bGVBSlZxcm5ZOVJuckdzb2l5ZFnSAWdBVV95cUxOZnYyU1dHaUZSTkViNUlMNnVvUlhySnFtNE1DMWpoVkwzbnRaUVhBdF9pTXBkTkVtUW1NVWtoUFcwYlVWWnZ3T0dHeFNyajdhS0lLNGxlQUpWcXJuWTlSbnJHc29peWRZ?oc=5",
-   "source": "大紀元",
-   "lang": "zh",
-   "time": "2026-10-10T15:19+08:00",
-   "via_search": true,
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "78f77bafa3",
-   "title": "歐盟認為Tesla FSD可能產生誤解，將更名為「輔助駕駛」功能",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TXE3ZVV2X3gxak9FYjRhREowTk5YWFg3akxRdmR6WnFQOFVvSkk1dEFlcUp4MmNuMHJlZnpMWl83RnlDdy1JdzAyc1h0OGgzek96RzIxYw?oc=5",
-   "source": "U-CAR新聞",
-   "lang": "zh",
-   "time": "2026-10-10T15:16+08:00",
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "0626fb5a5a",
-   "title": "Volkswagen, PowerCo and Gotion Plan Three European LFP Battery Sites",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEQ5Q2d4S1Z1TEl5VC1jeHNNRE9mM3VQb3NqYnhsdENMVUxyUlY1blU1YWZpSzA5S3Z5WVAyNlZmRmI2eHdVc2hkMWlpTExzYjAwbDhWQklMWGwxT0V3MmhfYXhqdjdSY3ZoUS03N2lWSkVOQkRBNEJBR1gza2dBNFMxd3c1NVFTMExMOTRrVXdpejE2S2wtT0NERDRxTkhTTFNncWZZZXFJWGM?oc=5",
-   "source": "Electric Cars Report",
-   "lang": "en",
-   "time": "2026-10-10T14:55+08:00",
-   "categories": [
-    "電池"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "ssb"
-   ]
-  },
-  {
-   "id": "453679874f",
-   "title": "討論牆 | 油價飆破百美元 電動車需求激增 五檔概念股受惠",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJX3lhQjNRVVZGSFRoT3dDNW91dUdVQTNGM3EyMmVnMjR2SG1XbEYzWWxsN241VTVGekoySEZ6TjBJdkRoNm5DWmYwd1N2STdqdnZaZ1hxdG5mTVB4RFNYSl8xc2g?oc=5",
-   "source": "LINE TODAY",
-   "lang": "zh",
-   "time": "2026-10-10T14:38+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "2c1813d3f1",
-   "title": "中歐貿易談判共識清單16點 中製油電車銷歐洲 或較預期減半",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QUlphSXZ2bE5xdFREdWdtM1BDU1NISjFxMG02SDBFTnJvdFZOMy0wMmlDT0N1V2VEc3lPSDg0WmVsWHBnTkVsZTNUN0R6ZG8wcGhBZ0djOG01cHpEeC1NWHdR0gFnQVVfeXFMUGRTdVV6c0RfWm40cjVKRElNZHVsVHFpTjFhZW1XSjZjMnY1eWpBLTFXM2dlc3lJU3ZqUlAzaHdfWm9HTlA3X3k2RVQzNXI1Y0NvWlo2OTBtX2lfZ3hxZVV6ZHlLYW9Haw?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-10T14:30+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "8f3b4969cc",
-   "title": "自動駕駛｜運輸署視察東涌項目 將開放公眾體驗 下周區議會交代",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNSDZDR0twVFQ5aGRwaUZlOE1jajluYWFMR1dRU1MzVW5Jb2Ytb2lhYWN6ZWNOYnp2VDFQMHExRTd4QmNNdTJLVjFfdHpTcUJ4V2ZsRGpYQzVFMjI5X2pSeXVCQ0tVSEJSRXNRSjJ1NW1NcEFwbk5MN1hMU0pLM3o2WGJraF84V2tXcU1rVnJBTEpjR0dXcVMyXzMxM0d5MDUxRGY1ekZpZ0VzaWp6NUpkNUVGRldRX0hDZmN5SXRETW84WGxaOGhsRUZEUGNxSFFQVk1wRU5CWHE5TmVDc1h3bTVrVVFlS2JHYmlpREJkajZRdGZjbGFtcW5MLVVuc25xajBPN01paWhudVVIVzI0M0JTYlFkazcyWUhSZzNKRE5NcnJQNU9DVUtjdDQ5T2I0MDJyWjViUF90SVZSQ0dFTkFyY1ZnSzlpbWxiUEpjbnJMZU9KbXNYcm53bG0xU1poSXBTZlJmUGxOaTlHRHIyWkVlbkVaeU5jWkhyU1N5OEhEdlBFOW9ZdnA5dVFjeTJva3UzQV91U1ZDN3E5cXR0TWRMck9fXzRpSVVwSkUtRy1DeGhHZHR3cDc0anhUUQ?oc=5",
-   "source": "香港01",
-   "lang": "zh",
-   "time": "2026-10-10T14:28+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "5c4717dcef",
-   "title": "歐盟與中國同意，將中國輸出至歐洲的混合動力車輛數量減半",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzamF3Yi1zVjgxRTJMb2hiVnpLMWdBd0x4ckJ4dGZqYXZES3F5YURaV2FIZC1kdWhVMHNXd01DdDIxTi13Snk3aUVZckFDRFg5VlhqVVo1VQ?oc=5",
-   "source": "U-CAR新聞",
-   "lang": "zh",
-   "time": "2026-10-10T14:23+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "dabe30a44c",
-   "title": "洛杉磯車展 11/20-29免費試駕、越野體驗",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UUUVYeWtoNEoyekU2emtJS0NkcWFuQ3NhVWFDUGZEV0pTSHNWRDRMdTBXcW5fNTVqcng3b3FhVllmU3JHSWg0aXR4RjdNSGJVVXZvNnRyM2JrWF9GZ2liWGg0U2xBeHfSAWdBVV95cUxOVFFFWHlraDRKMnpFNnprSUtDZHFhbkNzYVVhQ1BmRFdKU0hzVkQ0THUwV3FuXzU1anJ4N29xYVZZZlNyR0loNGl0eEY3TUhiVVV2bzZ0cjNia1hfRmdpYlhoNFNsQXh3?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-10T14:00+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "da5dc820bb",
-   "title": "自動駕駛｜運輸署預告開放公眾試乘東涌項目 籲營辦人按回饋完善技術",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNVFNLZDlnSUYtbElmc1h4bzc3cWhNQVZrOFQ2TkVkOW1BX1RIcWM1aEliZUpTRWFyc3NUMF8wRDR0X1RNbHQtYjZXMEVSTU9nSUdDNzZzVWRyR2hSTGY4b05ZdWcySEQyNzNrdUdrV2thV2RaTDhTTjZuWmdBLVBfWlNPbF9wcDNESVRIZmJRcUw0NGZRYzRwS3NLdGloazdvNDNMQXFmVGhMVW9GUTFaUWRldk8yTXl3WG9fLXo5R1BFek1IX3NsdzVvWFQzNGlMLU9UUWE1RElOU19HTDV1YTdMMWo4Ui00YkJtQjJNTmlzUGZKSHVxTWVzUmJfb01rVGF0T3RieTdhcUgwUkFmdHlZUGEtTnJ0M3U1d3lVZ1BxbGNkVkMxYVd0NUIxOVNzSlJGLTM4R0QtQk1Ibk5hYTNuc0JDY0ZneVBjZnp5dFowdVphY0ZIVFdtV1RmRGJDb05leEduZ0p1dw?oc=5",
-   "source": "i-CABLE",
-   "lang": "zh",
-   "time": "2026-10-10T13:57+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "a2e846991b",
-   "title": "馬斯克拍板Terafab主導權特斯拉與SpaceX規劃逾1000億美元晶片投資| 優分析",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNS1hejZjUkh1MXZCWGNJc1Q2S2JuelNPUTVTYXlpUlRFU0sxT1VLMEFQWEx2Ti1sWXBNN1N6bU8zbHRIRTVGek1iM3Y5RWFaUi1VaFBB?oc=5",
-   "source": "LINE TODAY",
-   "lang": "zh",
-   "time": "2026-10-10T13:52+08:00",
-   "categories": [
-    "座艙・SDV",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "e9872db66c",
-   "title": "運輸署自動駕駛車輛應用促進工作組視察北大嶼山東涌測試項目",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1c3NuaUpMckpEbFJBdUh1NTBtMWZOMGYxUTlPOWl2TVhDQm56R1p0MnpaenVrRHFWVWQ4OFEzQklFNkcwUlNUWDE0aE93ZDVSSjVibFVqa1V4SUNnOEpja3l6TUFaSWtPTlpJN0JMZw?oc=5",
-   "source": "香港電台新聞網",
-   "lang": "zh",
-   "time": "2026-10-10T12:31+08:00",
-   "categories": [
-    "智駕"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "57846712f9",
-   "title": "特斯拉漲逾2% 分析師：布局實體AI最直接標的之一",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZLTQzcHktTmQyR3hmU1dRS2c1MEpLVGNLS0sycG9xSXNZSEVhTU9iT2NSQ0tOcU5Ma19FVzYybldrQ1puTVB3NHljcHJrT00?oc=5",
-   "source": "鉅亨網",
-   "lang": "zh",
-   "time": "2026-10-10T12:30+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "5e1d7005d7",
-   "title": "2026 Dodge Charger SIXPACK: Is It Worth It?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUtfS204TXdQVkhVcEYtN05mdC1rUFlYdnN4Z2U3dnc2WDJyd1VYTmhNUm5UOGt0VzZuQVprYU9MdS1fY2xickMtRi1jeTFCQmFPRmgweWZBeVFEeVQ0TjE4bTVNUnZuUHI2Si1GQzhmdkFfY0tZRWdFVlhqOGRjcktjNzbSAYoBQVVfeXFMTnhiV0YyNUtxdWNpQjZieTN3U2Utb0VTcDVOVmhnQXJXcjlMOFh6aF9JSmVHMVAxVlBFeGlIVmV4Z3U3bEdZLWVaVzFsdXdwdjVxd2pZam5jbWpyQVhRSEFDZ21xTW5tR0NQR3JQYk1zU0lOcVlndDBabHFVN09KbEZoN0VLaF96OWlR?oc=5",
-   "source": "Motor Illustrated",
-   "lang": "en",
-   "time": "2026-10-10T12:15+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "1a2b7574ad",
-   "title": "台中阿北電動車高架橋刁車 好心物流駕駛幫把車載回家",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DYlBvNjNuOU1rUk9fdU5ySEIzOTNIMEozZWtHSkZmYmk4amFrYjhZZm1EOUduRTFNbnV4SW9kblJIVzdxNlJKVjlTUDl6RWlLdmhEejRjNGVZQTByNGfSAUtBVV95cUxOY1VSN09MYlhGaF9wZURSclI4U1c5cTNfQWhpV083NUJhX09zMkgtRlptQ0puZ1VVdjFCQUJ2b0FpNHVzdG15V0VuaGc?oc=5",
-   "source": "ETtoday新聞雲",
-   "lang": "zh",
-   "time": "2026-10-10T11:43+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "a74d8c50a6",
-   "title": "中歐汽車貿易協議出爐 中國油電混合車出口將腰斬",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOS2l6YVlmNEpJX2NFVFU5RWk1R19HUFRLSDJiLWVuQ2xkdUZEbWo0QWotektJZGFKZjEzYlZ4cndqbkRTaC03ZE84cExsc3VlUU1uY2NSdjVwTWwtZUR2VUk0N2hOdnVhcm92UWl4M0x3Y3Z3QU5wZXNsVVNUU1lmX3FFR1RtX1BCUFVmVG5tVlFXcWR4d3Vkay1MaWNTRWRWRzNPazRKV0lobjN1Rnl0aE1KcnlKX3pyVmR5dll4bmVKVlZGeC1YcC02bE5QckdMZDZ5c1BaUEZxaGFnM1BqWFNCT2JHclllWkZSLUVGRl83a0wySnlWZEdMOGZ2TDA0aEl0LWZ5NF9kanM2UGxNaXl6WFN0UnVpQVZmTkhONVlhZ01VWFpZd3o2UUE3THdjczZLZ1pHYm5oYTR1MUFhVnZJTFREWVBOQXl6dmdKZHlmeFk4ajliVmVWS3YwenQ2Vklz?oc=5",
-   "source": "商傳媒",
-   "lang": "zh",
-   "time": "2026-10-10T11:33+08:00",
-   "categories": [
-    "供應鏈"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "3284bed45b",
-   "title": "美製車降價潮來了？Toyota熱銷7人座MPV優惠出清！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05UmRFRWttMk9VYzBibXR2OFVmTGFmZU00LTY4QnNGTWRIV3NndzExS0V1bWdDcExnVVE5N3NYQjlLSXdPYTNRb9IBTEFVX3lxTFBoeXllcjRoRm52d1l5MUtFM3l5VmRZLWlnTFZWRjc5VGNNWUdxdmcwRUduYXlZbHJwajVpdy1sRXZqODBhR0d5VUFObFQ?oc=5",
-   "source": "三立新聞網SETN.com",
-   "lang": "zh",
-   "time": "2026-10-10T11:33+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [],
-   "issues": [
-    "profit"
-   ]
-  },
-  {
-   "id": "793e648dcd",
-   "title": "賓士十月純電車優惠：純電 G-Class 指定年式享 2 年延保，還有 1 年乙式險",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNV3BoODZWdUt4VUFhZUgtMjRyTFB2c0ZBZ0NQN2J4SXRzVFhoUThialhRU2xmY09BR1dqZGFjc1FwdVM4dFpLSnBtLUgwVFZJMThKSWY2ZUIyV1lwZ1BkM3FUc3RMWFpRTDh0Y1IyY1pIMmdhcWZnaGVKTHlQcEVYMnhnWWVscTFzc3VLdll0U001UGI5OXNHV2dIOFV6ZktBV28zTEQyRlVGOTlPUW1UYjF2bnlPYU84VHZCbGhVUnlTelZMNFZHUlVKREJlRU9NbmJkdlFzLVNkc2x3OG12TTZZNHkzSmpKWWg5UXZ1WENCNU4zN241SUdtZ3QwVTduRGlfMDVpZlR2U0w3eDhpNWhYTTV1MHRKLTBJYnJCT3lUUTFETzlvOXQxLVlZZlBaVGEzZlFUNzNmcDNhNF9lWGt2T0pEX1M5MVo4VWpkaEhJS0p2ak9Dc1FzVjhsWHhlNDRwZk1TUXlTUHZDWElXeGh1RXBnc256WTAtSnFqNFJjOVVrdUZrVGMyZjFkN2JzY1ZiTlRvRjVaVkZ4RkZTdFRVN0FHYXNVWnZDa2x2d2RWc1IyRG5xT3FIaw?oc=5",
-   "source": "DDCAR 電動車",
-   "lang": "zh",
-   "time": "2026-10-10T11:30+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "a1a373b3b7",
-   "title": "英國每賣3輛新能源車，就有約1輛來自中國！該國考慮對華電動汽車加稅背後：擔心被“歐洲製造”邊緣化",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SS3pIV2pVbFpQZVhadXpXbDJfTTdXaWxrc1ZkZG5QcnBtSjR0SXE4VERGUWYxWEo4c0pRMFlPZm5IT2I3SkoxWg?oc=5",
-   "source": "鉅亨號",
-   "lang": "zh",
-   "time": "2026-10-10T10:50+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "a3d78bd8f4",
-   "title": "《大陸產業》20中國車廠殺進巴黎！歐盟加稅也擋不住 邊築牆邊求合作",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEZ6ZG5pdVgxcFhZRlRTaE1nT3FrSHVhTl9jZ0dXenJVcjRSN1RURkJjbGZLU3AwdXFDRTZpZzY3b2p5SElaNDdlOUxxbW1VSFR6ZU5hWTVlU1FKelVTTVZGV0RmWFBnZ3FQeFdBN2Z0X2hCdmxLTWh4Qmx5VGlSNGM0T0FkYjlz?oc=5",
-   "source": "富聯網",
-   "lang": "zh",
-   "time": "2026-10-10T10:33+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "fe55619797",
-   "title": "中歐貿易磋商達成16項共識 貿易失衡與電動車爭端仍待解",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOem0wREJNTTZGemNlTmQwVGdhbGJobnlMRjVGN3JsRHFoQXU2aWQ2czNvUGh0YkRZVEY4UDJXM2hqeDQ5a3Q5WTZWSHY5X2M?oc=5",
-   "source": "鉅亨網",
-   "lang": "zh",
-   "time": "2026-10-10T10:20+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "aec2445977",
-   "title": "化解美歐經濟抗中 大陸主動削減電動車輸往歐盟",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nSkF5MTJ6VUQtc0ZlSVdwV3pxQWZDYVE1RGt0NWdnaTc0OGVtcU9qU0stb1ZZbnNRRUJVZ3gxQlBqSDdwUE9ac0o2YnMybUVUQlE?oc=5",
-   "source": "蕃新聞",
-   "lang": "zh",
-   "time": "2026-10-10T10:19+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "fdadb593de",
-   "title": "避開「完全自動駕駛」爭議 特斯拉歐洲改稱「輔助駕駛」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOSWtiNndoOFhfTTF4aWJldzRoWUk3Q1h0TjRkYVpneTV2V0ZDRFFoTU16M1dpdGI0YVMzY19sSU81aW1VcjhNSm5lVDhTenB2RzlZT1ctMUlxQmNFelJqSHBoZXRsWVRlZF91YVlqMTdqQUdjNzFtSktMWXY2NExVd0NrR05sZ25OZ1NYdXZkUDlxVmVxd2JYSFk2cERaZVJuZXhqS3JDYVU2VThmekFyMF8wU3J5WXpDb2t0Wmc0WUtRaGFENkh5eXI1LWFpWTdhaDdiRHIxclAwamF2MmEzajZhZXd1OWExZ1ZaY0oyZlRFNkVZVWVUbFIzRzVlZlBrV0hHdnA1dThSOUtBOTdUdEZjWGg5cUdFeGJxN2k3TktEX1oyM2xmS1ZNMzJnQVhmeFBJVVZwZEpPUE9xcHQyYU5FbmZsMlB3cC1lRUQ2eHJrUUNuMUo4UnkzLUo1VXdkYkNERVVUSnl6eHduWFpORWFtMTNpdGhmbkVvT2duUHBQUnUydENLWUFHTQ?oc=5",
-   "source": "商傳媒",
-   "lang": "zh",
-   "time": "2026-10-10T10:18+08:00",
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "5ca5334fff",
-   "title": "油價飆破百美元 電動車需求激增 五檔概念股受惠",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOOUhSNHlIY180OWFYejhlbThvQVZJS25rXzlxNmRYbXZlMGxMWm1xUU1ORXN1dEdsT0xQcFZfdXR5TmFIT2xnOUxEWXpnRXpzNjRKeGZBbm84aTlWOUxraWV3Ni1GeGdCTmM1VkxqQlJRUzlodTZESXl5aHpzdkVwYjhzNEk3aGFSTXZsX1MxWllIZDd4ajV5Wnk4WkJOc3RXcks4TXVpaG9uTWZ1N0VMZENodkYxazBtNE5fMTUyajFNc3RFT3BSdmdfaUJlNEFRLWtsUXdZUWlFcWNZVTJtdXZiZzd3NDNKRFBkQ0tVN3hsSUVaVWlRT19CQjUtcTM2OU9valFON2RLaUVrZm4tekFZdW91UTdpYk1fM1J3cGVMRGdvZ2ppVFFacjJ3dmwzV2ZlWlFTNklPM0hHdXAtWEtlYzVmMG9fVFVxYnp2eHpZWkRuUnVkci03UQ?oc=5",
-   "source": "商傳媒",
-   "lang": "zh",
-   "time": "2026-10-10T10:16+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "3db9a47682",
-   "title": "竹北豪宅「充電樁大戰」！住戶控佔公設、主委圖利停BMW 討30萬吞敗",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UcFFiLWdwMGQzOUg3WjNMT1k1azdiRGR4SVlUaW9sdjJrTjBTN2pCRFNxU21GVHhSckJGamtYd2xld3BXWWZBNlg3VzZPYmFObDU2cnd1eDdMUEFtcmhj?oc=5",
-   "source": "中時新聞網",
-   "lang": "zh",
-   "time": "2026-10-10T10:14+08:00",
-   "categories": [
-    "電池"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "c7b3a25679",
-   "title": "20家中國車廠殺進巴黎！歐盟加稅也擋不住 邊築牆邊求合作",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzc3RieWRRYmg4WXNaV1V5OFVfczRKeHdtNi1SbU16enpXWERGLWpHXzlBYnhGWm16OXM5OFVRNVU0ZmxYTEZrNkJraWJNTDRDWTktZ085UTVPN0RZaHdxa1R1a05sYjhJcHRLcF92bw?oc=5",
-   "source": "翻爆",
-   "lang": "zh",
-   "time": "2026-10-10T10:11+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "764d366a6b",
-   "title": "大陸車大舉進軍歐洲！巴黎車展下周開幕 參展陸企創紀錄",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nRFFob212UklhN2xkbHpNckRiMml1MUxwSGZCRTI2RWxKUGQxYWlsQlE1RUZjNkhrbjV2c0lfSEhfXzVKQ1ZGZ0V5ZXk1VVpW0gFWQVVfeXFMTVhHSGs5ZUxkek52YUhhalVPWUtaWGJPRmZCeDZObF9VNGV6c2FWcHZWRmVtSUNTb3ZfVF95RWttQkY1N3haTmlINHExZ3hkRFQtZ2d2eHc?oc=5",
-   "source": "UDN",
-   "lang": "zh",
-   "time": "2026-10-10T09:56+08:00",
    "categories": [
     "其他"
    ],
