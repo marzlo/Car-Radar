@@ -226,28 +226,28 @@
   },
   {
    "date": "2026-10-13",
-   "generated": "2026-10-13T11:19+08:00",
+   "generated": "2026-10-13T11:49+08:00",
    "ai": false,
    "items": [
     {
-     "text": "【巴黎車展】不是冰冷機器，Alfa Romeo Cuorerosso概念車以心和美感預告未來設計輪廓",
-     "category": "Stellantis",
-     "news_ids": [
-      "566195e05f"
-     ]
-    },
-    {
-     "text": "高雄鳥松特斯拉保養從中古車經驗出發！電子配件、外觀改裝到高里程保養需求全面延伸",
+     "text": "Nio ES9 deliveries reach 7,706 in September, second-highest this year",
      "category": "車企動向",
      "news_ids": [
-      "51754e4b7e"
+      "f92c061fa8"
      ]
     },
     {
-     "text": "2 hospitalized after EV battery fire at Wallingford car dealership",
+     "text": "Stellantis否認品牌分拆 促歐盟獎勵在地造車",
+     "category": "Stellantis",
+     "news_ids": [
+      "1a5ca085cf"
+     ]
+    },
+    {
+     "text": "2026巴黎車展 : 搭載35.8 kWh電池、WLTP續航290公里，純電Smart #2量產版全球首演",
      "category": "電池",
      "news_ids": [
-      "778c36ac08"
+      "8972cfe4bf"
      ]
     }
    ]
