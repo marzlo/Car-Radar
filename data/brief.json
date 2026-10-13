@@ -1,27 +1,27 @@
 {
- "date": "2026-10-13",
- "generated": "2026-10-13T11:49+08:00",
+ "date": "2026-10-14",
+ "generated": "2026-10-14T07:46+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Nio ES9 deliveries reach 7,706 in September, second-highest this year",
+   "text": "A cheap EV price war could be brewing between BYD and Geely",
    "category": "車企動向",
    "news_ids": [
-    "f92c061fa8"
+    "411fd6b27a"
    ]
   },
   {
-   "text": "Stellantis否認品牌分拆 促歐盟獎勵在地造車",
+   "text": "科技｜自動駕駛AI商Applied Intuition傳估值倍增至300億 擬集資10億美元",
+   "category": "智駕",
+   "news_ids": [
+    "326791776b"
+   ]
+  },
+  {
+   "text": "Jeep's Bringing Back The Willys Name, But You'll Have To Wait",
    "category": "Stellantis",
    "news_ids": [
-    "1a5ca085cf"
-   ]
-  },
-  {
-   "text": "2026巴黎車展 : 搭載35.8 kWh電池、WLTP續航290公里，純電Smart #2量產版全球首演",
-   "category": "電池",
-   "news_ids": [
-    "8972cfe4bf"
+    "ea420f7628"
    ]
   }
  ]

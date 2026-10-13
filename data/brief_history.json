@@ -251,6 +251,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-14",
+   "generated": "2026-10-14T07:46+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "A cheap EV price war could be brewing between BYD and Geely",
+     "category": "車企動向",
+     "news_ids": [
+      "411fd6b27a"
+     ]
+    },
+    {
+     "text": "科技｜自動駕駛AI商Applied Intuition傳估值倍增至300億 擬集資10億美元",
+     "category": "智駕",
+     "news_ids": [
+      "326791776b"
+     ]
+    },
+    {
+     "text": "Jeep's Bringing Back The Willys Name, But You'll Have To Wait",
+     "category": "Stellantis",
+     "news_ids": [
+      "ea420f7628"
+     ]
+    }
+   ]
   }
  ]
 }
