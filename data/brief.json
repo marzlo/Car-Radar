@@ -1,13 +1,20 @@
 {
  "date": "2026-10-14",
- "generated": "2026-10-14T09:35+08:00",
+ "generated": "2026-10-14T10:08+08:00",
  "ai": false,
  "items": [
   {
-   "text": "巴黎車展聚焦電動車台灣電池業者展示新技術靈活應用| 產經",
+   "text": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
    "category": "電池",
    "news_ids": [
-    "699acf79b3"
+    "95ca1096d9"
+   ]
+  },
+  {
+   "text": "Tesla is unveiling the new Roadster for real this time, promise",
+   "category": "車企動向",
+   "news_ids": [
+    "003919676a"
    ]
   },
   {
@@ -15,13 +22,6 @@
    "category": "Stellantis",
    "news_ids": [
     "7dd80a0b66"
-   ]
-  },
-  {
-   "text": "【新新聞】非紅供應鏈成顯學、電動車轉換紅利 和大沈國榮：打進車業全球供應鏈台廠要靠「共享客戶」 | 劉芯衣 | VIP",
-   "category": "供應鏈",
-   "news_ids": [
-    "3614b12fb4"
    ]
   }
  ]
