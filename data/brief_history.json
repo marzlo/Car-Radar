@@ -279,6 +279,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-15",
+   "generated": "2026-10-15T07:19+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
+     "category": "車企動向",
+     "news_ids": [
+      "035aef23e9"
+     ]
+    },
+    {
+     "text": "Maserati CEO Teases a New Electric Levante SUV and a Shooting-Brake-Style Quattroporte Crossover",
+     "category": "Stellantis",
+     "news_ids": [
+      "ae5889109e"
+     ]
+    },
+    {
+     "text": "車速感測器輪轂軸承市場2035年展望：ADAS與電動車需求加速成長 - 新聞與統計",
+     "category": "智駕",
+     "news_ids": [
+      "0e4993275a"
+     ]
+    }
+   ]
   }
  ]
 }

@@ -1,27 +1,27 @@
 {
- "date": "2026-10-14",
- "generated": "2026-10-14T10:08+08:00",
+ "date": "2026-10-15",
+ "generated": "2026-10-15T07:19+08:00",
  "ai": false,
  "items": [
   {
-   "text": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
-   "category": "電池",
-   "news_ids": [
-    "95ca1096d9"
-   ]
-  },
-  {
-   "text": "Tesla is unveiling the new Roadster for real this time, promise",
+   "text": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
    "category": "車企動向",
    "news_ids": [
-    "003919676a"
+    "035aef23e9"
    ]
   },
   {
-   "text": "愛玩車／經典法式商車回歸 雪鐵龍概念車可愛又復古",
+   "text": "Maserati CEO Teases a New Electric Levante SUV and a Shooting-Brake-Style Quattroporte Crossover",
    "category": "Stellantis",
    "news_ids": [
-    "7dd80a0b66"
+    "ae5889109e"
+   ]
+  },
+  {
+   "text": "車速感測器輪轂軸承市場2035年展望：ADAS與電動車需求加速成長 - 新聞與統計",
+   "category": "智駕",
+   "news_ids": [
+    "0e4993275a"
    ]
   }
  ]
