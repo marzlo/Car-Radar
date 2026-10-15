@@ -1,27 +1,27 @@
 {
- "date": "2026-10-15",
- "generated": "2026-10-15T09:47+08:00",
+ "date": "2026-10-16",
+ "generated": "2026-10-16T07:07+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Xpeng Thinks It Can Outsell Ford In Europe",
+   "text": "Toyota's Next Affordable Car Could Have Four Different Versions",
    "category": "車企動向",
    "news_ids": [
-    "b2eaa39c4b"
+    "6403201164"
    ]
   },
   {
-   "text": "Jeep Has Big Plans For Europe, And The Renegade Is Coming Back",
-   "category": "Stellantis",
+   "text": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
+   "category": "電池",
    "news_ids": [
-    "e24e12cbf2"
+    "298bc193d8"
    ]
   },
   {
-   "text": "車速感測器輪轂軸承市場2035年展望：ADAS與電動車需求加速成長 - 新聞與統計",
+   "text": "沃爾沃汽車擴大與英偉達在自動駕駛領域的合作",
    "category": "智駕",
    "news_ids": [
-    "0e4993275a"
+    "d0fa4b6ac8"
    ]
   }
  ]
