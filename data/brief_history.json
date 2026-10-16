@@ -335,6 +335,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-17",
+   "generated": "2026-10-17T06:54+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "劉揚偉造車頻出手 鴻海砸233億入股三菱藏玄機",
+     "category": "供應鏈",
+     "news_ids": [
+      "54042868d7"
+     ]
+    },
+    {
+     "text": "電動車加火箭要合體？特斯拉、SpaceX合併押注衝上56%",
+     "category": "車企動向",
+     "news_ids": [
+      "c0c677ad59"
+     ]
+    },
+    {
+     "text": "The Flow’s battery power enables software-based features including the trailer’s ability to help tow itself with electric motors in its two wheels. See link below ⬇️ 📸 Mark Phelan/Detroit Free Press",
+     "category": "電池",
+     "news_ids": [
+      "39df9b52b5"
+     ]
+    }
+   ]
   }
  ]
 }
