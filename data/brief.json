@@ -1,27 +1,27 @@
 {
  "date": "2026-10-17",
- "generated": "2026-10-17T06:54+08:00",
+ "generated": "2026-10-17T09:30+08:00",
  "ai": false,
  "items": [
+  {
+   "text": "Tesla Roadster 發表會，還真的飛起來了",
+   "category": "車企動向",
+   "news_ids": [
+    "51a875dc9d"
+   ]
+  },
+  {
+   "text": "Franco-German auto deal spares Stellantis but leaves Renault exposed",
+   "category": "Stellantis",
+   "news_ids": [
+    "a3db3c0989"
+   ]
+  },
   {
    "text": "劉揚偉造車頻出手 鴻海砸233億入股三菱藏玄機",
    "category": "供應鏈",
    "news_ids": [
     "54042868d7"
-   ]
-  },
-  {
-   "text": "電動車加火箭要合體？特斯拉、SpaceX合併押注衝上56%",
-   "category": "車企動向",
-   "news_ids": [
-    "c0c677ad59"
-   ]
-  },
-  {
-   "text": "The Flow’s battery power enables software-based features including the trailer’s ability to help tow itself with electric motors in its two wheels. See link below ⬇️ 📸 Mark Phelan/Detroit Free Press",
-   "category": "電池",
-   "news_ids": [
-    "39df9b52b5"
    ]
   }
  ]
