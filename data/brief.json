@@ -1,27 +1,27 @@
 {
- "date": "2026-10-17",
- "generated": "2026-10-17T09:30+08:00",
+ "date": "2026-10-18",
+ "generated": "2026-10-18T06:27+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Tesla Roadster 發表會，還真的飛起來了",
-   "category": "車企動向",
-   "news_ids": [
-    "51a875dc9d"
-   ]
-  },
-  {
-   "text": "Franco-German auto deal spares Stellantis but leaves Renault exposed",
+   "text": "2027 Jeep Cherokee Offers 37 MPG and AWD for $35,130",
    "category": "Stellantis",
    "news_ids": [
-    "a3db3c0989"
+    "81b5efb32d"
    ]
   },
   {
-   "text": "劉揚偉造車頻出手 鴻海砸233億入股三菱藏玄機",
-   "category": "供應鏈",
+   "text": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+   "category": "電池",
    "news_ids": [
-    "54042868d7"
+    "eeced52035"
+   ]
+  },
+  {
+   "text": "Toyota Wants Europe To Treat Some ICE Cars As Zero-Emission Vehicles",
+   "category": "車企動向",
+   "news_ids": [
+    "ba3b1a0174"
    ]
   }
  ]

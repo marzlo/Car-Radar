@@ -363,6 +363,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-18",
+   "generated": "2026-10-18T06:27+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "2027 Jeep Cherokee Offers 37 MPG and AWD for $35,130",
+     "category": "Stellantis",
+     "news_ids": [
+      "81b5efb32d"
+     ]
+    },
+    {
+     "text": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+     "category": "電池",
+     "news_ids": [
+      "eeced52035"
+     ]
+    },
+    {
+     "text": "Toyota Wants Europe To Treat Some ICE Cars As Zero-Emission Vehicles",
+     "category": "車企動向",
+     "news_ids": [
+      "ba3b1a0174"
+     ]
+    }
+   ]
   }
  ]
 }

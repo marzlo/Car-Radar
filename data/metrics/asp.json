@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-17T09:30+08:00",
+ "updated": "2026-10-18T06:27+08:00",
  "fx_usd": {
   "USD": 1.0,
   "CNY": 0.149772,
   "HKD": 0.127423,
   "JPY": 0.00633,
-  "EUR": 1.124354,
+  "EUR": 1.124227,
   "TWD": 0.030838,
-  "KRW": 0.00075,
-  "SEK": 0.10104
+  "KRW": 0.000752,
+  "SEK": 0.100924
  },
  "companies": [
   {
@@ -276,7 +276,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y",
      "del_note": "官方只給約數",
-     "asp_usd": 31488,
+     "asp_usd": 31484,
      "profit_usd": null
     },
     {
@@ -288,8 +288,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 31502,
-     "profit_usd": 568
+     "asp_usd": 31498,
+     "profit_usd": 567
     },
     {
      "quarter": "2026Q2",
@@ -300,7 +300,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 30613,
+     "asp_usd": 30610,
      "profit_usd": 692
     }
    ]
@@ -1020,8 +1020,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/vehicles-sales.html",
      "del_note": "不含中國合資",
-     "asp_usd": 53941,
-     "profit_usd": 2907
+     "asp_usd": 53934,
+     "profit_usd": 2906
     },
     {
      "quarter": "2026Q1",
@@ -1032,7 +1032,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://uploads.vw-mms.de/system/production/documents/cws/003/275/file_en/311373f846ce8778851851fa2f69767ecc18e202/2026-04-30-volkswagen-group-q1-2026-interim-report-en.pdf",
      "del_note": "不含中國合資",
-     "asp_usd": 58286,
+     "asp_usd": 58280,
      "profit_usd": 1896
     },
     {
@@ -1044,7 +1044,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://uploads.vw-mms.de/system/production/documents/cws/003/289/file_en/e916f0f9afd06d9586560cfdef53baa14b6aea78/2026-07-24-volkswagen-group-h1-2026-intrim-report-en.pdf",
      "del_note": "不含中國合資",
-     "asp_usd": 55116,
+     "asp_usd": 55109,
      "profit_usd": 2319
     }
    ]
@@ -1063,7 +1063,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2025/q3/BMW_Q3-2025_EN.pdf",
      "del_source": "https://www.press.bmwgroup.com/global/article/detail/T0453185EN/bmw-group-posts-third-quarter-sales-growth?language=en",
      "del_note": "",
-     "asp_usd": 54488,
+     "asp_usd": 54482,
      "profit_usd": 2855
     },
     {
@@ -1075,7 +1075,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/bericht/BMW-Group-Report-2025-en.pdf",
      "del_source": "https://www.press.bmwgroup.com/global/article/detail/T0454859EN/bmw-group-vehicle-sales-grew-in-2025-%E2%80%93-strong-performance-particularly-in-europe-and-the-us-and-with-electrified-models?language=en",
      "del_note": "",
-     "asp_usd": 51158,
+     "asp_usd": 51152,
      "profit_usd": 1917
     },
     {
@@ -1087,7 +1087,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q1/BMW_Q1-2026-EN.pdf",
      "del_source": "https://www.press.bmwgroup.com/canada/article/detail/T0457122EN/successful-market-launch-for-neue-klasse:-bmw-group-posts-significant-first-quarter-growth-in-european-new-orders?language=en",
      "del_note": "",
-     "asp_usd": 53975,
+     "asp_usd": 53969,
      "profit_usd": 2673
     },
     {
@@ -1099,7 +1099,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q2/BMW_Q2-2026-EN.pdf",
      "del_source": "https://www.press.bmwgroup.com/global/article/detail/T0459223EN/growth-in-the-us-and-europe-positive-sales-momen-tum-driven-by-neue-klasse-models?language=en",
      "del_note": "",
-     "asp_usd": 51678,
+     "asp_usd": 51672,
      "profit_usd": 1197
     }
    ]
@@ -1150,8 +1150,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://group.mercedes-benz.com/dokumente/investoren/berichte/geschaeftsberichte/mercedes-benz/mercedes-benz-factsheet-q4-2025.pdf",
      "del_note": "含北京奔馳",
-     "asp_usd": 67785,
-     "profit_usd": 3141
+     "asp_usd": 67777,
+     "profit_usd": 3140
     },
     {
      "quarter": "2026Q1",
@@ -1162,7 +1162,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://group.mercedes-benz.com/dokumente/investoren/berichte/zwischenberichte/q1/mercedes-benz-fact-sheet-q1-2026.pdf",
      "del_note": "含北京奔馳",
-     "asp_usd": 71108,
+     "asp_usd": 71100,
      "profit_usd": 3825
     },
     {
@@ -1174,8 +1174,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://group.mercedes-benz.com/documents/investors/reports/interim-reports/q2/mercedes-benz-interim-report-q2-2026.pdf",
      "del_note": "含北京奔馳",
-     "asp_usd": 70428,
-     "profit_usd": 4374
+     "asp_usd": 70420,
+     "profit_usd": 4373
     }
    ]
   },
@@ -1193,8 +1193,8 @@
      "fin_source": "https://media.renaultgroup.com/renault-group-demonstrates-its-resilience-the-robustness-of-its-strategy-and-moves-forward-with-confidence/?lang=eng",
      "del_source": "https://media.renaultgroup.com/renault-group-demonstrates-its-resilience-the-robustness-of-its-strategy-and-moves-forward-with-confidence/?lang=eng",
      "del_note": "半年（全年減上半年）",
-     "asp_usd": 29175,
-     "profit_usd": 1907
+     "asp_usd": 29171,
+     "profit_usd": 1906
     },
     {
      "quarter": "2026H1",
@@ -1205,7 +1205,7 @@
      "fin_source": "https://assets.renaultgroup.com/uploads/2026/07/20260730_Press-release_Renault-Group_2026-H1.pdf",
      "del_source": "https://media.renaultgroup.com/renault-group-prioritizes-electrification-of-its-vehicle-lineup-and-sales-quality/?lang=eng",
      "del_note": "半年",
-     "asp_usd": 29193,
+     "asp_usd": 29190,
      "profit_usd": 1512
     }
    ]
@@ -1256,8 +1256,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4302907/3918401.pdf",
      "del_note": "批發",
-     "asp_usd": 49877,
-     "profit_usd": 902
+     "asp_usd": 49820,
+     "profit_usd": 901
     },
     {
      "quarter": "2026Q1",
@@ -1268,8 +1268,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4341827/4065356.pdf",
      "del_note": "批發",
-     "asp_usd": 46943,
-     "profit_usd": 935
+     "asp_usd": 46889,
+     "profit_usd": 934
     },
     {
      "quarter": "2026Q2",
@@ -1280,7 +1280,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4375596/4197338.pdf",
      "del_note": "批發",
-     "asp_usd": 46301,
+     "asp_usd": 46248,
      "profit_usd": 390
     }
    ]
@@ -1593,8 +1593,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-announces-2025-q3-business-results-0000001042",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 31015,
-     "profit_usd": 1645
+     "asp_usd": 31098,
+     "profit_usd": 1649
     },
     {
      "quarter": "2025Q4",
@@ -1605,8 +1605,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001116",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 31285,
-     "profit_usd": 1477
+     "asp_usd": 31368,
+     "profit_usd": 1481
     },
     {
      "quarter": "2026Q1",
@@ -1617,8 +1617,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-announces-2026-q1-business-results-0000001162",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 32222,
-     "profit_usd": 2016
+     "asp_usd": 32308,
+     "profit_usd": 2021
     },
     {
      "quarter": "2026Q2",
@@ -1629,8 +1629,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001234",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 33463,
-     "profit_usd": 2229
+     "asp_usd": 33552,
+     "profit_usd": 2235
     }
    ]
   },
