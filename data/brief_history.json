@@ -391,6 +391,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-19",
+   "generated": "2026-10-19T06:29+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Are Ford's 10-Speed Transmissions The Same As GM's?",
+     "category": "車企動向",
+     "news_ids": [
+      "fc1f2f4dc9"
+     ]
+    },
+    {
+     "text": "AFTER AN ENCOURAGING START TO THE RACE, TEAM PEUGEOT TOTALENERGIES FINISHES OUTSIDE THE POINTS IN BARCELONA",
+     "category": "Stellantis",
+     "news_ids": [
+      "4f55f2db91"
+     ]
+    },
+    {
+     "text": "Renault's Flins Factory Shifts to Circular Economy",
+     "category": "供應鏈",
+     "news_ids": [
+      "8f41c2d333"
+     ]
+    }
+   ]
   }
  ]
 }
