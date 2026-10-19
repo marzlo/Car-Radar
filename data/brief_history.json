@@ -419,6 +419,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-20",
+   "generated": "2026-10-20T07:48+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "英擬對華電動車加徵關稅 中國商務部：勿隨歐起舞",
+     "category": "供應鏈",
+     "news_ids": [
+      "49569c23d3"
+     ]
+    },
+    {
+     "text": "中國零跑汽車將在歐盟生產第二款電動車",
+     "category": "Stellantis",
+     "news_ids": [
+      "68f26f0087"
+     ]
+    },
+    {
+     "text": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
+     "category": "車企動向",
+     "news_ids": [
+      "6b4c959bb1"
+     ]
+    }
+   ]
   }
  ]
 }
