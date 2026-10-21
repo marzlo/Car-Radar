@@ -1,8 +1,15 @@
 {
  "date": "2026-10-21",
- "generated": "2026-10-21T07:14+08:00",
+ "generated": "2026-10-21T09:59+08:00",
  "ai": false,
  "items": [
+  {
+   "text": "馬斯克X發帖：Optimus人形機器人與Cybercab將構成特斯拉絕大部分價值",
+   "category": "車企動向",
+   "news_ids": [
+    "dd5aae56d7"
+   ]
+  },
   {
    "text": "Potential auto workers' strike raises uncertainty for Toledo Jeep production",
    "category": "Stellantis",
@@ -15,13 +22,6 @@
    "category": "電池",
    "news_ids": [
     "43a53a7cd4"
-   ]
-  },
-  {
-   "text": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
-   "category": "車企動向",
-   "news_ids": [
-    "151ff0a501"
    ]
   }
  ]
