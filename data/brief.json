@@ -1,27 +1,27 @@
 {
- "date": "2026-10-21",
- "generated": "2026-10-21T09:59+08:00",
+ "date": "2026-10-22",
+ "generated": "2026-10-22T07:28+08:00",
  "ai": false,
  "items": [
   {
-   "text": "馬斯克X發帖：Optimus人形機器人與Cybercab將構成特斯拉絕大部分價值",
+   "text": "Tesla Q3 Earnings Beat Estimates Despite Auto Revenue Slip",
    "category": "車企動向",
    "news_ids": [
-    "dd5aae56d7"
+    "d57e220c52"
    ]
   },
   {
-   "text": "Potential auto workers' strike raises uncertainty for Toledo Jeep production",
-   "category": "Stellantis",
+   "text": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+   "category": "智駕",
    "news_ids": [
-    "dc9768af7e"
+    "48adcd640f"
    ]
   },
   {
-   "text": "A parking giant with 5,700 sites is taking on apartment EV charging",
+   "text": "It’s finally here: Porsche puts wireless charging into production [UPDATE]",
    "category": "電池",
    "news_ids": [
-    "43a53a7cd4"
+    "a49f85f719"
    ]
   }
  ]

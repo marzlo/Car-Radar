@@ -475,6 +475,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-22",
+   "generated": "2026-10-22T07:28+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Tesla Q3 Earnings Beat Estimates Despite Auto Revenue Slip",
+     "category": "車企動向",
+     "news_ids": [
+      "d57e220c52"
+     ]
+    },
+    {
+     "text": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+     "category": "智駕",
+     "news_ids": [
+      "48adcd640f"
+     ]
+    },
+    {
+     "text": "It’s finally here: Porsche puts wireless charging into production [UPDATE]",
+     "category": "電池",
+     "news_ids": [
+      "a49f85f719"
+     ]
+    }
+   ]
   }
  ]
 }
