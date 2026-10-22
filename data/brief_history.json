@@ -478,28 +478,28 @@
   },
   {
    "date": "2026-10-22",
-   "generated": "2026-10-22T07:28+08:00",
+   "generated": "2026-10-22T09:48+08:00",
    "ai": false,
    "items": [
     {
-     "text": "Tesla Q3 Earnings Beat Estimates Despite Auto Revenue Slip",
+     "text": "一文掌握特斯拉財報會議：2030拚年產500萬輛電動車、Optimus明年底商業化、未透露合併猜測",
      "category": "車企動向",
      "news_ids": [
-      "d57e220c52"
+      "4f036f45ce"
      ]
     },
     {
-     "text": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-     "category": "智駕",
-     "news_ids": [
-      "48adcd640f"
-     ]
-    },
-    {
-     "text": "It’s finally here: Porsche puts wireless charging into production [UPDATE]",
+     "text": "賓士撞賓士！純電 CLA 側面吃下 2 噸爆擊，高壓電池與座艙還安全嗎？",
      "category": "電池",
      "news_ids": [
-      "a49f85f719"
+      "b950ec389b"
+     ]
+    },
+    {
+     "text": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+     "category": "智駕",
+     "news_ids": [
+      "7aab195aff"
      ]
     }
    ]
