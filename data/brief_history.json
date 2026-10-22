@@ -503,6 +503,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-23",
+   "generated": "2026-10-23T07:28+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "通用汽車取消稀土磁鐵長約 槓上供應商對簿公堂 | 民視新聞網",
+     "category": "車企動向",
+     "news_ids": [
+      "bd1f688813"
+     ]
+    },
+    {
+     "text": "ALFA ROMEO_Auto & Moto D'Epoca Bologna",
+     "category": "Stellantis",
+     "news_ids": [
+      "c627a969ac"
+     ]
+    },
+    {
+     "text": "Rivian收購Third Dimension AI，加速自動駕駛技術發展 作者 Investing.com",
+     "category": "智駕",
+     "news_ids": [
+      "732baab791"
+     ]
+    }
+   ]
   }
  ]
 }
