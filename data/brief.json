@@ -1,27 +1,27 @@
 {
- "date": "2026-10-23",
- "generated": "2026-10-23T09:53+08:00",
+ "date": "2026-10-24",
+ "generated": "2026-10-24T07:14+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Tesla 全自動駕駛訂閱服務在北美市場的交付率創新高",
-   "category": "智駕",
-   "news_ids": [
-    "0c7c421858"
-   ]
-  },
-  {
-   "text": "Carney, Ford Announce $8.7B Ontario Industry Plan",
+   "text": "面對豐田和中國車追趕，通用入局混動",
    "category": "車企動向",
    "news_ids": [
-    "8bd1178956"
+    "39b0cb0f9e"
    ]
   },
   {
-   "text": "Why Are Automakers Investing Billions in Chip Manufacturing Amid Unprofitable Car Sales?",
-   "category": "座艙・SDV",
+   "text": "GM is betting on battery cells that don’t use lithium [updated]",
+   "category": "電池",
    "news_ids": [
-    "989ba1f28c"
+    "72c710559b"
+   ]
+  },
+  {
+   "text": "FTSE MIB Rises to 48,558.86 as Eni Soars 5.8% and Stellantis Sinks 6.3%",
+   "category": "Stellantis",
+   "news_ids": [
+    "03cebd628c"
    ]
   }
  ]

@@ -531,6 +531,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-24",
+   "generated": "2026-10-24T07:14+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "面對豐田和中國車追趕，通用入局混動",
+     "category": "車企動向",
+     "news_ids": [
+      "39b0cb0f9e"
+     ]
+    },
+    {
+     "text": "GM is betting on battery cells that don’t use lithium [updated]",
+     "category": "電池",
+     "news_ids": [
+      "72c710559b"
+     ]
+    },
+    {
+     "text": "FTSE MIB Rises to 48,558.86 as Eni Soars 5.8% and Stellantis Sinks 6.3%",
+     "category": "Stellantis",
+     "news_ids": [
+      "03cebd628c"
+     ]
+    }
+   ]
   }
  ]
 }
