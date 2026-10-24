@@ -534,9 +534,16 @@
   },
   {
    "date": "2026-10-24",
-   "generated": "2026-10-24T07:14+08:00",
+   "generated": "2026-10-24T09:56+08:00",
    "ai": false,
    "items": [
+    {
+     "text": "Stellantis (BIT:STLAM) Stock May Be A Bargain Despite Paris Motor Show Push",
+     "category": "Stellantis",
+     "news_ids": [
+      "3d669a2a12"
+     ]
+    },
     {
      "text": "面對豐田和中國車追趕，通用入局混動",
      "category": "車企動向",
@@ -549,13 +556,6 @@
      "category": "電池",
      "news_ids": [
       "72c710559b"
-     ]
-    },
-    {
-     "text": "FTSE MIB Rises to 48,558.86 as Eni Soars 5.8% and Stellantis Sinks 6.3%",
-     "category": "Stellantis",
-     "news_ids": [
-      "03cebd628c"
      ]
     }
    ]
