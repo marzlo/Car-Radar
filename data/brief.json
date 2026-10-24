@@ -1,27 +1,27 @@
 {
- "date": "2026-10-24",
- "generated": "2026-10-24T09:56+08:00",
+ "date": "2026-10-25",
+ "generated": "2026-10-25T06:35+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Stellantis (BIT:STLAM) Stock May Be A Bargain Despite Paris Motor Show Push",
-   "category": "Stellantis",
-   "news_ids": [
-    "3d669a2a12"
-   ]
-  },
-  {
-   "text": "面對豐田和中國車追趕，通用入局混動",
-   "category": "車企動向",
-   "news_ids": [
-    "39b0cb0f9e"
-   ]
-  },
-  {
-   "text": "GM is betting on battery cells that don’t use lithium [updated]",
+   "text": "Tesla Thought It Owned EV Charging Forever, But Ionna, Rivian And Mercedes Showed Up to Take The Throne",
    "category": "電池",
    "news_ids": [
-    "72c710559b"
+    "67a67a481a"
+   ]
+  },
+  {
+   "text": "盼歐盟放寬2035年燃油車禁令！豐田拋出：Made with Europe",
+   "category": "車企動向",
+   "news_ids": [
+    "d63ddbd3ba"
+   ]
+  },
+  {
+   "text": "How Mark Dodge sells new cars in all 50 states + Hendrick Automotive Group sells Calif. dealership",
+   "category": "Stellantis",
+   "news_ids": [
+    "62bd797e74"
    ]
   }
  ]

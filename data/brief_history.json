@@ -559,6 +559,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-25",
+   "generated": "2026-10-25T06:35+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Tesla Thought It Owned EV Charging Forever, But Ionna, Rivian And Mercedes Showed Up to Take The Throne",
+     "category": "電池",
+     "news_ids": [
+      "67a67a481a"
+     ]
+    },
+    {
+     "text": "盼歐盟放寬2035年燃油車禁令！豐田拋出：Made with Europe",
+     "category": "車企動向",
+     "news_ids": [
+      "d63ddbd3ba"
+     ]
+    },
+    {
+     "text": "How Mark Dodge sells new cars in all 50 states + Hendrick Automotive Group sells Calif. dealership",
+     "category": "Stellantis",
+     "news_ids": [
+      "62bd797e74"
+     ]
+    }
+   ]
   }
  ]
 }
