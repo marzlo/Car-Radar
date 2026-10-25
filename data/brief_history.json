@@ -587,6 +587,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-26",
+   "generated": "2026-10-26T06:40+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "BYD’s Korea Expansion Challenges Hyundai Dominance on Home Turf",
+     "category": "車企動向",
+     "news_ids": [
+      "be2e674c76"
+     ]
+    },
+    {
+     "text": "NHTSA提議：無人監看路況時，自動駕駛車應亮起青藍色燈號",
+     "category": "智駕",
+     "news_ids": [
+      "9c2288f9a0"
+     ]
+    },
+    {
+     "text": "Fiat’s Adorable New Four-Seater Has a Big Problem to Solve",
+     "category": "Stellantis",
+     "news_ids": [
+      "945246e83a"
+     ]
+    }
+   ]
   }
  ]
 }
