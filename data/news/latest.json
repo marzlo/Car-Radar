@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-26T06:40+08:00",
- "feeds_ok": 10,
+ "updated": "2026-10-26T09:40+08:00",
+ "feeds_ok": 3,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "a51c460b28",
+   "title": "Nio presses ahead with in-house cylindrical cells, with limited output reported by year-end",
+   "summary": "Eve Energy and Gotion will reportedly handle contract manufacturing, but mass production remains challenging in the near term. For details, please visit CnEVPo…",
+   "link": "https://cnevpost.com/2026/10/26/nio-presses-ahead-cylindrical-cells-limited-output-year-end/",
+   "source": "CnEVPost",
+   "lang": "en",
+   "time": "2026-10-26T08:54+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "96e07459c3",
    "title": "IEA’s Chief Says Cutting Oil Reliance Drives EV Growth in Europe, Brazil",
@@ -322,14 +337,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7",
-    "ssb"
-   ],
-   "issues": [
-    "issue-20261006-ybh7",
-    "ssb"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "c7cb28413b",
@@ -1117,9 +1126,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -1981,12 +1988,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "852237da25",
@@ -2347,9 +2350,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -2613,9 +2614,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -3374,9 +3373,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -3469,9 +3466,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -3628,9 +3623,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "issue-20261006-ybh7"
    ]
@@ -3744,12 +3737,8 @@
    "categories": [
     "車企動向"
    ],
-   "forced_issues": [
-    "adas"
-   ],
-   "issues": [
-    "adas"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "333e662893",
@@ -3923,9 +3912,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -3988,12 +3975,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "66345061d1",
@@ -4196,9 +4179,7 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -4277,12 +4258,8 @@
     "車企動向",
     "供應鏈"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "dad36f2f7e",
@@ -4671,12 +4648,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "ssb"
-   ],
-   "issues": [
-    "ssb"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "c4537f481c",
@@ -4898,9 +4871,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -5386,9 +5357,7 @@
    "categories": [
     "供應鏈"
    ],
-   "forced_issues": [
-    "profit"
-   ],
+   "forced_issues": [],
    "issues": [
     "profit"
    ]
@@ -5405,9 +5374,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas"
    ]
@@ -5534,12 +5501,8 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "e48d99ff87",
@@ -5635,9 +5598,7 @@
     "車企動向"
    ],
    "via_search": true,
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -5704,10 +5665,7 @@
    "categories": [
     "智駕"
    ],
-   "forced_issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -5725,12 +5683,8 @@
    "categories": [
     "座艙・SDV"
    ],
-   "forced_issues": [
-    "profit"
-   ],
-   "issues": [
-    "profit"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "ee0ef57588",
@@ -5775,12 +5729,8 @@
     "車企動向"
    ],
    "via_search": true,
-   "forced_issues": [
-    "adas"
-   ],
-   "issues": [
-    "adas"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "d7a229f9ae",
@@ -6301,26 +6251,6 @@
    "via_search": false,
    "forced_issues": [],
    "issues": []
-  },
-  {
-   "id": "7a66f126c3",
-   "title": "Automotive students study a self-driving car",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmJ5QUhLcjVmTXJsNFJ6cVBKRXRSVmRqdTVHSWZ2T3MxVW91aDFyV2EwZFdOZ3dXaU4yU0RpamFsRXZQNmtpZFhHOHBqWTUtN0tfMDdfSERBenRqUklyVG5POFl3YmJCZ0c5a0ktS291eHdJN1V3Z2g2R3hMaWFpMXdwNjctTkpwUlRvZGJNTHc?oc=5",
-   "source": "Albany City School District",
-   "lang": "en",
-   "time": "2026-10-23T03:29+08:00",
-   "via_search": true,
-   "categories": [
-    "智駕"
-   ],
-   "forced_issues": [
-    "adas"
-   ],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
   }
  ]
 }

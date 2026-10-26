@@ -19,6 +19,10 @@
   "2025Q2": {
    "revenue": 22496000000.0,
    "operating_income": 923000000.0
+  },
+  "2026Q3": {
+   "revenue": 28046000000.0,
+   "operating_income": 718000000.0
   }
  },
  "BYD": {
@@ -315,6 +319,10 @@
   "2025Q1": {
    "revenue": 82948000000.0,
    "operating_income": 1874000000.0
+  },
+  "2026Q3": {
+   "revenue": 66896000000.0,
+   "operating_income": -4844000000.0
   }
  },
  "GM": {
