@@ -1,27 +1,27 @@
 {
  "date": "2026-10-27",
- "generated": "2026-10-27T07:57+08:00",
+ "generated": "2026-10-27T10:23+08:00",
  "ai": false,
  "items": [
   {
-   "text": "研究揭露電動車電池「隱藏弱點」，少數老化電芯恐導致近三成電能浪費",
-   "category": "電池",
-   "news_ids": [
-    "9ebbaf1505"
-   ]
-  },
-  {
-   "text": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
+   "text": "中國製中型SUV壓境，比亞迪、Buick、極氪搶攻韓國市場，直搗Kia Sorento、現代Santa Fe油電地盤",
    "category": "車企動向",
    "news_ids": [
-    "396e99a7a0"
+    "5919029b74"
    ]
   },
   {
-   "text": "加州奪命車禍｜71歲翁夜闖公路遭特斯拉撞倒再被輾 司機：開了自動駕駛",
+   "text": "中國小鵬汽車取得廣州全域L4級Robotaxi營運資格，自駕技術進入商業模式驗證期",
    "category": "智駕",
    "news_ids": [
-    "bb5ee3147a"
+    "d1e335c6bd"
+   ]
+  },
+  {
+   "text": "Stellantis Tells 2nd Circ. To Reject Car Inventory Fraud Suit",
+   "category": "Stellantis",
+   "news_ids": [
+    "fdcc6227e4"
    ]
   }
  ]
