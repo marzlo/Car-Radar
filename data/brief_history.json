@@ -674,28 +674,28 @@
   },
   {
    "date": "2026-10-29",
-   "generated": "2026-10-29T08:04+08:00",
+   "generated": "2026-10-29T10:48+08:00",
    "ai": false,
    "items": [
     {
-     "text": "《歐股》關注ECB會議、歐股續揚 Stellantis飆-新聞內容-基金",
-     "category": "Stellantis",
-     "news_ids": [
-      "9463acf70c"
-     ]
-    },
-    {
-     "text": "Tesla Model S、Model X告別車壇！特斯拉為何先砍雙旗艦？｜電動車大洗牌",
+     "text": "Toyota Land Cruiser可改「復古圓燈」！日本原廠升級約4.2萬",
      "category": "車企動向",
      "news_ids": [
-      "68f59b1587"
+      "c58706d055"
      ]
     },
     {
-     "text": "高速無煞車對撞！賓士CLA「驚人實測」曝 純電電池竟沒爆",
-     "category": "電池",
+     "text": "MARCOS NAGMANEHO WATCH: President Ferdinand Marcos Jr. briefly drives an electric vehicle inside the manufacturing plant. Marcos is in Biñan, Laguna for the inauguration of a Pakistani automotive brand’s electric vehicle manufacturing plant in the cou",
+     "category": "供應鏈",
      "news_ids": [
-      "4d39096192"
+      "d6da460baa"
+     ]
+    },
+    {
+     "text": "Seoul court dismisses lawsuit by Tesla owners seeking refunds for ‘Full Self-Driving’ tech",
+     "category": "智駕",
+     "news_ids": [
+      "e0c55ada5c"
      ]
     }
    ]

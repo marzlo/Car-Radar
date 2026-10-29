@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-29T08:04+08:00",
+ "updated": "2026-10-29T10:48+08:00",
  "fx_usd": {
   "USD": 1.0,
-  "CNY": 0.14997,
-  "HKD": 0.127474,
-  "JPY": 0.006332,
-  "EUR": 1.115573,
-  "TWD": 0.030887,
-  "KRW": 0.000747,
-  "SEK": 0.100934
+  "CNY": 0.150123,
+  "HKD": 0.127469,
+  "JPY": 0.006341,
+  "EUR": 1.115449,
+  "TWD": 0.030802,
+  "KRW": 0.00075,
+  "SEK": 0.100982
  },
  "companies": [
   {
@@ -124,8 +124,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/01/01/byd-nev-sales-dec-2025/",
      "del_note": "乘用+商用",
-     "asp_usd": 26557,
-     "profit_usd": 1478
+     "asp_usd": 26585,
+     "profit_usd": 1479
     },
     {
      "quarter": "2026Q1",
@@ -136,8 +136,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/",
      "del_note": "乘用+商用",
-     "asp_usd": 32163,
-     "profit_usd": 1538
+     "asp_usd": 32196,
+     "profit_usd": 1540
     },
     {
      "quarter": "2026Q2",
@@ -148,8 +148,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/07/01/byd-jun-2026-sales/",
      "del_note": "乘用+商用",
-     "asp_usd": 26337,
-     "profit_usd": 1970
+     "asp_usd": 26364,
+     "profit_usd": 1972
     },
     {
      "quarter": "2026Q3",
@@ -189,8 +189,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 33055,
-     "profit_usd": 2242
+     "asp_usd": 33102,
+     "profit_usd": 2245
     },
     {
      "quarter": "2025Q4",
@@ -201,8 +201,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_3q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 33826,
-     "profit_usd": 2994
+     "asp_usd": 33875,
+     "profit_usd": 2998
     },
     {
      "quarter": "2026Q1",
@@ -213,8 +213,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf",
      "del_note": "由累計數推算",
-     "asp_usd": 34787,
-     "profit_usd": 1573
+     "asp_usd": 34836,
+     "profit_usd": 1575
     },
     {
      "quarter": "2026Q2",
@@ -225,8 +225,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
      "del_note": "TMC 合併銷售",
-     "asp_usd": 35759,
-     "profit_usd": 2812
+     "asp_usd": 35810,
+     "profit_usd": 2816
     }
    ]
   },
@@ -276,7 +276,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y",
      "del_note": "官方只給約數",
-     "asp_usd": 31242,
+     "asp_usd": 31239,
      "profit_usd": null
     },
     {
@@ -288,7 +288,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 31256,
+     "asp_usd": 31252,
      "profit_usd": 563
     },
     {
@@ -300,7 +300,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2026/07/30/3335789/0/en/stellantis-reports-q2-2026-financial-results.html",
      "del_note": "合併出貨量",
-     "asp_usd": 30374,
+     "asp_usd": 30371,
      "profit_usd": 687
     }
    ]
@@ -319,8 +319,8 @@
      "fin_source": "https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac",
      "del_source": "https://ir.mi.com/static-files/e4830480-8ce9-45f8-a09d-64e40b2bdfac",
      "del_note": "",
-     "asp_usd": 39989,
-     "profit_usd": 965
+     "asp_usd": 40030,
+     "profit_usd": 966
     },
     {
      "quarter": "2025Q4",
@@ -331,8 +331,8 @@
      "fin_source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf",
      "del_source": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2026/03/24/5-35-03/25Q4%20EN%20AC%20Xiaomi.pdf",
      "del_note": "",
-     "asp_usd": 38445,
-     "profit_usd": 1137
+     "asp_usd": 38484,
+     "profit_usd": 1138
     },
     {
      "quarter": "2026Q1",
@@ -343,8 +343,8 @@
      "fin_source": "https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b",
      "del_source": "https://ir.mi.com/static-files/098acc43-1b58-4d1b-b375-9ea25f35477b",
      "del_note": "",
-     "asp_usd": 36844,
-     "profit_usd": -5750
+     "asp_usd": 36882,
+     "profit_usd": -5756
     },
     {
      "quarter": "2026Q2",
@@ -355,8 +355,8 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0818/2026081801014.pdf",
      "del_source": "https://ir.mi.com/static-files/bdeea0b9-246c-45be-8cb4-ab4faaddf80a",
      "del_note": "",
-     "asp_usd": 35832,
-     "profit_usd": -3742
+     "asp_usd": 35868,
+     "profit_usd": -3746
     }
    ]
   },
@@ -384,8 +384,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-third-quarter-2025-financial",
      "del_note": "",
-     "asp_usd": 44028,
-     "profit_usd": -1894
+     "asp_usd": 44073,
+     "profit_usd": -1896
     },
     {
      "quarter": "2025Q4",
@@ -396,7 +396,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926026803/tm268559d1_ex99-1.htm",
      "del_note": "",
-     "asp_usd": 39521,
+     "asp_usd": 39561,
      "profit_usd": -608
     },
     {
@@ -408,8 +408,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm",
      "del_note": "",
-     "asp_usd": 36227,
-     "profit_usd": -4727
+     "asp_usd": 36264,
+     "profit_usd": -4732
     },
     {
      "quarter": "2026Q2",
@@ -420,8 +420,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/tm2624080d1_ex99-1.htm",
      "del_note": "",
-     "asp_usd": 39146,
-     "profit_usd": -3509
+     "asp_usd": 39186,
+     "profit_usd": -3513
     },
     {
      "quarter": "2026Q3",
@@ -461,8 +461,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.globenewswire.com/news-release/2025/11/25/3194110/0/en/NIO-Inc-Reports-Unaudited-Third-Quarter-2025-Financial-Results.html",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 37537,
-     "profit_usd": -6065
+     "asp_usd": 37576,
+     "profit_usd": -6072
     },
     {
      "quarter": "2025Q4",
@@ -473,8 +473,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-provides-december-fourth-quarter-and-full-year-2025/",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 41636,
-     "profit_usd": 970
+     "asp_usd": 41679,
+     "profit_usd": 971
     },
     {
      "quarter": "2026Q1",
@@ -485,7 +485,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 45877,
+     "asp_usd": 45924,
      "profit_usd": -555
     },
     {
@@ -497,7 +497,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.nio.com/news-releases/news-release-details/nio-inc-reports-unaudited-second-quarter-2026-financial-results/",
      "del_note": "含樂道、螢火蟲",
-     "asp_usd": 44767,
+     "asp_usd": 44813,
      "profit_usd": -484
     },
     {
@@ -560,8 +560,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.saicmotor.com/m/tzzgx/jbqk/xssj/63726.shtml",
      "del_note": "批發扣除上汽大眾、上汽通用",
-     "asp_usd": 31612,
-     "profit_usd": 1358
+     "asp_usd": 31644,
+     "profit_usd": 1359
     },
     {
      "quarter": "2026Q1",
@@ -572,8 +572,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2026nlsgg/2026/4/2/5F4D98B8E6F34E8DB8FE356923868D65.pdf",
      "del_note": "批發扣除上汽大眾、上汽通用",
-     "asp_usd": 31834,
-     "profit_usd": 1381
+     "asp_usd": 31867,
+     "profit_usd": 1382
     },
     {
      "quarter": "2026Q2",
@@ -584,8 +584,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600104&id=12425400",
      "del_note": "批發扣除上汽大眾、上汽通用",
-     "asp_usd": 29148,
-     "profit_usd": 603
+     "asp_usd": 29178,
+     "profit_usd": 604
     }
    ]
   },
@@ -635,7 +635,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000625&id=11897407",
      "del_note": "自主品牌",
-     "asp_usd": 10253,
+     "asp_usd": 10263,
      "profit_usd": 312
     },
     {
@@ -647,7 +647,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://finance.sina.com.cn/roll/2026-04-02/doc-inhtcnfx9394637.shtml",
      "del_note": "自主品牌",
-     "asp_usd": 10703,
+     "asp_usd": 10714,
      "profit_usd": 158
     },
     {
@@ -659,7 +659,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.sohu.com/a/1046291220_121444",
      "del_note": "自主品牌（H1 由新聞數字推算）",
-     "asp_usd": 10658,
+     "asp_usd": 10669,
      "profit_usd": -4
     }
    ]
@@ -678,7 +678,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1024/2025102400616.pdf",
      "del_source": "https://www.ithome.com/1/009/144.htm",
      "del_note": "",
-     "asp_usd": 25979,
+     "asp_usd": 26005,
      "profit_usd": null
     },
     {
@@ -690,8 +690,8 @@
      "fin_source": "https://static.cninfo.com.cn/finalpage/2026-03-28/1225048081.PDF",
      "del_source": "https://www.ithome.com/0/909/833.htm",
      "del_note": "",
-     "asp_usd": 25940,
-     "profit_usd": 659
+     "asp_usd": 25967,
+     "profit_usd": 660
     },
     {
      "quarter": "2026Q1",
@@ -702,7 +702,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042401572.pdf",
      "del_source": "https://www.seccw.com/Document/detail/id/43042.html",
      "del_note": "",
-     "asp_usd": 25139,
+     "asp_usd": 25165,
      "profit_usd": 672
     },
     {
@@ -714,7 +714,7 @@
      "fin_source": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502331.PDF",
      "del_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0701/2026070100127.pdf",
      "del_note": "",
-     "asp_usd": 27152,
+     "asp_usd": 27179,
      "profit_usd": null
     },
     {
@@ -777,8 +777,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601238&id=11904586",
      "del_note": "自主品牌",
-     "asp_usd": 22806,
-     "profit_usd": -2421
+     "asp_usd": 22830,
+     "profit_usd": -2424
     },
     {
      "quarter": "2026Q1",
@@ -789,8 +789,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601238&id=12057739",
      "del_note": "自主品牌",
-     "asp_usd": 18249,
-     "profit_usd": -2548
+     "asp_usd": 18268,
+     "profit_usd": -2551
     },
     {
      "quarter": "2026Q2",
@@ -801,8 +801,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0702/2026070203447.pdf",
      "del_note": "自主品牌",
-     "asp_usd": 21924,
-     "profit_usd": -3425
+     "asp_usd": 21946,
+     "profit_usd": -3429
     }
    ]
   },
@@ -830,8 +830,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.xiaopeng.com/news-releases/news-release-details/xpeng-announces-vehicle-delivery-results-september-and-third-4",
      "del_note": "",
-     "asp_usd": 26348,
-     "profit_usd": -875
+     "asp_usd": 26375,
+     "profit_usd": -876
     },
     {
      "quarter": "2025Q4",
@@ -842,7 +842,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://cnevpost.com/2026/01/01/xpeng-deliveries-dec-2025/",
      "del_note": "",
-     "asp_usd": 28709,
+     "asp_usd": 28738,
      "profit_usd": -110
     },
     {
@@ -854,8 +854,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://ir.xiaopeng.com/news-releases/news-release-details/xpeng-announces-vehicle-delivery-results-march-and-first-4",
      "del_note": "",
-     "asp_usd": 31184,
-     "profit_usd": -4607
+     "asp_usd": 31216,
+     "profit_usd": -4612
     },
     {
      "quarter": "2026Q2",
@@ -866,8 +866,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.stocktitan.net/news/XPEV/xpeng-announces-vehicle-delivery-results-for-june-and-second-quarter-4ue5kb0he462.html",
      "del_note": "",
-     "asp_usd": 28665,
-     "profit_usd": -1728
+     "asp_usd": 28694,
+     "profit_usd": -1730
     },
     {
      "quarter": "2026Q3",
@@ -897,8 +897,8 @@
      "fin_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/03/2026031800309.pdf",
      "del_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/03/2026031800309.pdf",
      "del_note": "半年（全年減上半年）",
-     "asp_usd": 18099,
-     "profit_usd": 830
+     "asp_usd": 18117,
+     "profit_usd": 831
     },
     {
      "quarter": "2026H1",
@@ -909,8 +909,8 @@
      "fin_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/08/2026081700257.pdf",
      "del_source": "https://www.geelyauto.com.hk/wp-content/uploads/2026/08/2026081700257.pdf",
      "del_note": "半年",
-     "asp_usd": 18296,
-     "profit_usd": 1129
+     "asp_usd": 18315,
+     "profit_usd": 1130
     }
    ]
   },
@@ -938,8 +938,8 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000189.pdf",
      "del_source": "https://auto.ifeng.com/c/8uQWy2TPWnh",
      "del_note": "上市公司 5 品牌，半年",
-     "asp_usd": 16852,
-     "profit_usd": 1322
+     "asp_usd": 16869,
+     "profit_usd": 1323
     }
    ]
   },
@@ -957,8 +957,8 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601214.pdf",
      "del_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601214.pdf",
      "del_note": "半年",
-     "asp_usd": 16194,
-     "profit_usd": 106
+     "asp_usd": 16211,
+     "profit_usd": 107
     },
     {
      "quarter": "2026H1",
@@ -969,7 +969,7 @@
      "fin_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400886.pdf",
      "del_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400886.pdf",
      "del_note": "半年",
-     "asp_usd": 16031,
+     "asp_usd": 16047,
      "profit_usd": 54
     }
    ]
@@ -1020,7 +1020,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/vehicles-sales.html",
      "del_note": "不含中國合資",
-     "asp_usd": 53519,
+     "asp_usd": 53513,
      "profit_usd": 2884
     },
     {
@@ -1032,7 +1032,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://uploads.vw-mms.de/system/production/documents/cws/003/275/file_en/311373f846ce8778851851fa2f69767ecc18e202/2026-04-30-volkswagen-group-q1-2026-interim-report-en.pdf",
      "del_note": "不含中國合資",
-     "asp_usd": 57831,
+     "asp_usd": 57825,
      "profit_usd": 1881
     },
     {
@@ -1044,7 +1044,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://uploads.vw-mms.de/system/production/documents/cws/003/289/file_en/e916f0f9afd06d9586560cfdef53baa14b6aea78/2026-07-24-volkswagen-group-h1-2026-intrim-report-en.pdf",
      "del_note": "不含中國合資",
-     "asp_usd": 54685,
+     "asp_usd": 54679,
      "profit_usd": 2301
     }
    ]
@@ -1063,7 +1063,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2025/q3/BMW_Q3-2025_EN.pdf",
      "del_source": "https://www.press.bmwgroup.com/global/article/detail/T0453185EN/bmw-group-posts-third-quarter-sales-growth?language=en",
      "del_note": "",
-     "asp_usd": 54063,
+     "asp_usd": 54057,
      "profit_usd": 2833
     },
     {
@@ -1075,7 +1075,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/bericht/BMW-Group-Report-2025-en.pdf",
      "del_source": "https://www.press.bmwgroup.com/global/article/detail/T0454859EN/bmw-group-vehicle-sales-grew-in-2025-%E2%80%93-strong-performance-particularly-in-europe-and-the-us-and-with-electrified-models?language=en",
      "del_note": "",
-     "asp_usd": 50758,
+     "asp_usd": 50753,
      "profit_usd": 1902
     },
     {
@@ -1087,7 +1087,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q1/BMW_Q1-2026-EN.pdf",
      "del_source": "https://www.press.bmwgroup.com/canada/article/detail/T0457122EN/successful-market-launch-for-neue-klasse:-bmw-group-posts-significant-first-quarter-growth-in-european-new-orders?language=en",
      "del_note": "",
-     "asp_usd": 53554,
+     "asp_usd": 53548,
      "profit_usd": 2652
     },
     {
@@ -1099,7 +1099,7 @@
      "fin_source": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q2/BMW_Q2-2026-EN.pdf",
      "del_source": "https://www.press.bmwgroup.com/global/article/detail/T0459223EN/growth-in-the-us-and-europe-positive-sales-momen-tum-driven-by-neue-klasse-models?language=en",
      "del_note": "",
-     "asp_usd": 51274,
+     "asp_usd": 51269,
      "profit_usd": 1187
     }
    ]
@@ -1150,7 +1150,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://group.mercedes-benz.com/dokumente/investoren/berichte/geschaeftsberichte/mercedes-benz/mercedes-benz-factsheet-q4-2025.pdf",
      "del_note": "含北京奔馳",
-     "asp_usd": 67255,
+     "asp_usd": 67248,
      "profit_usd": 3116
     },
     {
@@ -1162,7 +1162,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://group.mercedes-benz.com/dokumente/investoren/berichte/zwischenberichte/q1/mercedes-benz-fact-sheet-q1-2026.pdf",
      "del_note": "含北京奔馳",
-     "asp_usd": 70553,
+     "asp_usd": 70545,
      "profit_usd": 3795
     },
     {
@@ -1174,7 +1174,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://group.mercedes-benz.com/documents/investors/reports/interim-reports/q2/mercedes-benz-interim-report-q2-2026.pdf",
      "del_note": "含北京奔馳",
-     "asp_usd": 69878,
+     "asp_usd": 69870,
      "profit_usd": 4339
     }
    ]
@@ -1193,7 +1193,7 @@
      "fin_source": "https://media.renaultgroup.com/renault-group-demonstrates-its-resilience-the-robustness-of-its-strategy-and-moves-forward-with-confidence/?lang=eng",
      "del_source": "https://media.renaultgroup.com/renault-group-demonstrates-its-resilience-the-robustness-of-its-strategy-and-moves-forward-with-confidence/?lang=eng",
      "del_note": "半年（全年減上半年）",
-     "asp_usd": 28947,
+     "asp_usd": 28943,
      "profit_usd": 1892
     },
     {
@@ -1205,7 +1205,7 @@
      "fin_source": "https://assets.renaultgroup.com/uploads/2026/07/20260730_Press-release_Renault-Group_2026-H1.pdf",
      "del_source": "https://media.renaultgroup.com/renault-group-prioritizes-electrification-of-its-vehicle-lineup-and-sales-quality/?lang=eng",
      "del_note": "半年",
-     "asp_usd": 28965,
+     "asp_usd": 28962,
      "profit_usd": 1500
     }
    ]
@@ -1246,8 +1246,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4302907/3918401.pdf",
      "del_note": "批發",
-     "asp_usd": 49825,
-     "profit_usd": 901
+     "asp_usd": 49849,
+     "profit_usd": 902
     },
     {
      "quarter": "2026Q1",
@@ -1258,7 +1258,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4341827/4065356.pdf",
      "del_note": "批發",
-     "asp_usd": 46893,
+     "asp_usd": 46916,
      "profit_usd": 934
     },
     {
@@ -1270,7 +1270,7 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4375596/4197338.pdf",
      "del_note": "批發",
-     "asp_usd": 46253,
+     "asp_usd": 46275,
      "profit_usd": 390
     },
     {
@@ -1603,8 +1603,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-announces-2025-q3-business-results-0000001042",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 30891,
-     "profit_usd": 1638
+     "asp_usd": 31015,
+     "profit_usd": 1645
     },
     {
      "quarter": "2025Q4",
@@ -1615,8 +1615,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001116",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 31159,
-     "profit_usd": 1471
+     "asp_usd": 31285,
+     "profit_usd": 1477
     },
     {
      "quarter": "2026Q1",
@@ -1627,8 +1627,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-announces-2026-q1-business-results-0000001162",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 32093,
-     "profit_usd": 2008
+     "asp_usd": 32222,
+     "profit_usd": 2016
     },
     {
      "quarter": "2026Q2",
@@ -1639,8 +1639,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001234",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 33329,
-     "profit_usd": 2220
+     "asp_usd": 33463,
+     "profit_usd": 2229
     }
    ]
   },
@@ -1658,8 +1658,8 @@
      "fin_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/016/linkList/0/link/FYE202603_2Q_financial_result_e.pdf",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/016/linkList/00/link/FYE202603_2Q_financial_presentation_e.pdf",
      "del_note": "合併銷量（不含中國合資）",
-     "asp_usd": 32328,
-     "profit_usd": -406
+     "asp_usd": 32374,
+     "profit_usd": -407
     },
     {
      "quarter": "2025Q4",
@@ -1670,8 +1670,8 @@
      "fin_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/017/linkList/0/link/FYE202603_3Q_financial_result_e_1.pdf",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/017/linkList/00/link/FYE202603_3Q_financial_presentation_e_1.pdf",
      "del_note": "合併銷量",
-     "asp_usd": 33717,
-     "profit_usd": -917
+     "asp_usd": 33765,
+     "profit_usd": -918
     },
     {
      "quarter": "2026Q1",
@@ -1682,8 +1682,8 @@
      "fin_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/018/linkList/01/link/FYE202603_4Q_financial_result_e_1.pdf",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/08/teaserItems3/018/linkList/03/link/FYE202603_4Q_financial_presentation_e_3.pdf",
      "del_note": "合併銷量",
-     "asp_usd": 33567,
-     "profit_usd": -11195
+     "asp_usd": 33615,
+     "profit_usd": -11211
     },
     {
      "quarter": "2026Q2",
@@ -1694,8 +1694,8 @@
      "fin_source": "https://global.honda/en/investors/library/financialresult/main/010/teaserItems3/015/linkList/0/link/FYE202703_1Q_financial_result_e.pdf",
      "del_source": "https://global.honda/en/investors/library/financialresult/main/010/teaserItems3/015/linkList/00/link/FYE202703_1Q_financial_presentation_e_1.pdf",
      "del_note": "合併銷量",
-     "asp_usd": 34694,
-     "profit_usd": 1718
+     "asp_usd": 34743,
+     "profit_usd": 1721
     }
    ]
   },
@@ -1713,7 +1713,7 @@
      "fin_source": "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2025/20252nd_financialresult_561_e.pdf",
      "del_source": "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2025/20252nd_summary_821_e.pdf",
      "del_note": "合併批發（不含東風日產）",
-     "asp_usd": 27737,
+     "asp_usd": 27777,
      "profit_usd": -318
     },
     {
@@ -1725,8 +1725,8 @@
      "fin_source": "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2025/20253rd_financialresult_059_e.pdf",
      "del_source": "https://www2.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2025/20253rd_summary_449_e.pdf",
      "del_note": "合併批發",
-     "asp_usd": 29060,
-     "profit_usd": -787
+     "asp_usd": 29102,
+     "profit_usd": -788
     },
     {
      "quarter": "2026Q1",
@@ -1737,7 +1737,7 @@
      "fin_source": "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2025/20254th_financialresult_393_e.pdf",
      "del_source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260512526663.pdf",
      "del_note": "合併批發",
-     "asp_usd": 29813,
+     "asp_usd": 29855,
      "profit_usd": -165
     },
     {
@@ -1749,7 +1749,7 @@
      "fin_source": "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2026/20261st_financialresult_918_e.pdf",
      "del_source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260803/20260803507334.pdf",
      "del_note": "合併批發",
-     "asp_usd": 30762,
+     "asp_usd": 30806,
      "profit_usd": -206
     }
    ]
@@ -1768,8 +1768,8 @@
      "fin_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_2q.pdf",
      "del_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_2q_s.pdf",
      "del_note": "全球汽車銷量（含 Maruti）",
-     "asp_usd": 10953,
-     "profit_usd": 970
+     "asp_usd": 10969,
+     "profit_usd": 971
     },
     {
      "quarter": "2025Q4",
@@ -1780,8 +1780,8 @@
      "fin_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_3q.pdf",
      "del_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_3q_s.pdf",
      "del_note": "",
-     "asp_usd": 10698,
-     "profit_usd": 974
+     "asp_usd": 10713,
+     "profit_usd": 975
     },
     {
      "quarter": "2026Q1",
@@ -1792,8 +1792,8 @@
      "fin_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation.pdf",
      "del_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2025/financial_presentation_s.pdf",
      "del_note": "",
-     "asp_usd": 11275,
-     "profit_usd": 1213
+     "asp_usd": 11291,
+     "profit_usd": 1215
     },
     {
      "quarter": "2026Q2",
@@ -1804,8 +1804,8 @@
      "fin_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2026/financial_presentation_1q.pdf",
      "del_source": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2026/financial_presentation_1q_s.pdf",
      "del_note": "",
-     "asp_usd": 10883,
-     "profit_usd": 948
+     "asp_usd": 10898,
+     "profit_usd": 949
     }
    ]
   }
