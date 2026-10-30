@@ -1,8 +1,188 @@
 {
- "updated": "2026-10-30T08:00+08:00",
+ "updated": "2026-10-30T10:54+08:00",
  "feeds_ok": 10,
  "feeds_total": 10,
  "items": [
+  {
+   "id": "622e5a744c",
+   "title": "TOYOTA「全新1.5升引擎」渦輪、NA都有！大改款Corolla有望先採用",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ldE5GQnpJbHN6cTdZb3ozODk1Rko2RTNHQWhCZ1laSjduWXNXNjVxZnBkdzRMUjJtb1U5M2NoUUd3dTMyNVUwR3ZPWGZZUm_SAU5BVV95cUxQRlFPSzhURkw3V2duTlprMWp6SDM5dlIyTXVRYXNkLVVWVlBPVExIdmlYREE5SEEySTFqSVY5a0FVZndBRjdNZGtDNnZtaGc?oc=5",
+   "source": "ETtoday車雲",
+   "lang": "zh",
+   "time": "2026-10-30T10:47+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "cc3e2084f8",
+   "title": "RAV4安全測試落榜！1項目未達標 Nissan Kicks奪2026安全首選",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yOTBDMGVxWWhGYWx0Y0ZLZXducmQ4ZzVzN0JMSVNlTjhxazZ1TklaaTh3dmllWk1sOVFJXzNyeE00YmpVX1hmU29uWkg?oc=5",
+   "source": "TVBS新聞網",
+   "lang": "zh",
+   "time": "2026-10-30T10:38+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "54bae3d06d",
+   "title": "福特執行長：我們的電動車效率超越比亞迪 30%",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55MnNsZ1ZaLTdIOTNuYnhoQnZGTzh5QmQyQVJKZWRqNnB3OURISUZmLW9aYjhrcV8zRjJ5c2lDTjRMMlZ1ZXladVFuSE5OcXhnTE5nbTRKNVBkcm5fX3pqN2tkLW1GZlM4cUoxOUJ5YkViOVdWaWgwaw?oc=5",
+   "source": "TechNews 科技新報",
+   "lang": "zh",
+   "time": "2026-10-30T10:25+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "26c45bb6b7",
+   "title": "SUV還帶點皮卡味 怪奇概念車有望量產",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbGZtNHlud2ZNVDI3bUhmZkpCWHM5NW56QWdQc0hJbzBMUVh0ZEIzdVAxS19zWEFRTTExX2hjU1p3N0VHbzdMUDc2LXp2ZGpVbXBMTjV5NWtWeWxn0gFiQVVfeXFMTTJ3ZmJNTlJ5TjJCNVNMZ3JhVnh4OEtNcTY4alczVExZcHNrX0szZkN4eXU3bnB4UHVXOEZHcjFIMFdGcGVQWm5vWE9Dc2FZNnJMM0hORVZXX0h3NzVXOUdNWEE?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "lang": "zh",
+   "time": "2026-10-30T10:00+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "4368428f71",
+   "title": "中國電動車攻日韓為何冰火兩重天？韓國銷量狠甩豐田、日本市占僅0.1％",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iSmVXWnNCTzdwSDVick1waHZpZ1hqWTZFdkh4TG55enFGZDUzak9iZ1N4RGFlZUgtb2k5d0RXaF9FSzBsc0pPNk9LU2JRTUxXQ0xteFhUMXEwbGJTbnlF?oc=5",
+   "source": "工商時報",
+   "lang": "zh",
+   "time": "2026-10-30T09:52+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "32449b2e9f",
+   "title": "【零跑Leapmotor最新香港價錢】零跑Leapmotor全線車款 - 型號性能及香港售價比較",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xOGFnc2dqT3ZDZC1KTllDa0J1d0lLR1pSNTl0S2N2TUNCWmNUX2JVbmdTa2h5WlFodVR1eWlvOEV1RUdvWUN2UWNpM3drUVNkZ2ZhSlhLek1OWFlreEI5NkgzRmdSbTA?oc=5",
+   "source": "Kwiksure",
+   "lang": "zh",
+   "time": "2026-10-30T09:52+08:00",
+   "categories": [
+    "Stellantis"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "06fefb7f6a",
+   "title": "Cybercab 技術下放，特斯拉證實新一代逆變器電子元件今年開始導入 Model 3",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPM2UzVnIwZW5BTE05QXk1V0pLZzNVV3ljcEx1MVZIc05TaFY3UmQ0OTRnck0ydXkzMEhNNHlJQjZBNkxmRmRpY0wtU3VJMFROVlNkaDcwR0VxNXo0U3pIenNuUnI1bmxDbU9XSDY1WXcwNkVkOGFrd1ZyR0tVVkJ4anNiU1F6aXZhanpMRTVhZi13OEplSzFxUU9RVGFpTzJnVDQ4aElDeDNVMkdnYXJCQmY5bkpCMU43aXRkMVRTRTBHX043UWxkbU11T25lYTFpWFBGal9mbGVpaGhNX1NKMml2cDd6dnoxSGZpY2pGZVpTSWxkWXFaSl9DVDVGOUpOUmhrUGVBZDZVVlBWVExnbUpFN3hadkFrcWJhbThGcmM1dlhSVkdWV0hpYjgxS1liQjRCRWlBOVRFRWlIaUcwa3dIWTlCUi12YkhRTDNnSXFIT2hRclFjenVocXdOMkNCQ2FKbENiNFZabWR5MUJZb29ic1BkanU5dVVVWnpaQTNxX0JCdzBoQmctU2NXZ0xUZ3JNSmV2dmN0RF9nQ2ZjOV91YlRybTM1elM3S0pEZXk5Zw?oc=5",
+   "source": "DDCAR 電動車",
+   "lang": "zh",
+   "time": "2026-10-30T09:45+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "83b11366ab",
+   "title": "BYD Profit Misses Estimates as Export-Led Recovery Loses Steam",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPalJfZ0I1eUxFaS1acnNmbG0yTDdnTXhTWXk4WWFXcDdGZjFTdkVZNkl3RG1BSnU5OGd5QUNvSmlLS2hjaHcxX25zN0dVTTNVaDhTM0oxMlJFSXc1Y0VubDFJT21QU2VlRVViT1YzcUlVb1dWTUFuOEVKMVVIekdtcFprUDlYdm1BRV9GQnZTaUN5QWl6eENsbmhWb3ZLWkdSY3dzd0RERlhaSnczN2h5ajFFOA?oc=5",
+   "source": "Bloomberg",
+   "lang": "en",
+   "time": "2026-10-30T09:43+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "1bb8278adc",
+   "title": "鴻海科技日／3款「全新電動車」首發搶先看！多人座MPV、SUV通通有",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOOE5fSmx5blVwWnYxUkF4Qjl0MURxdlNBaTAzQm9XV3drUHBHbk9PdURtUVFSR0VCdVROOFBmemFZNnh1eTliYjl4dm5iM0nSAU5BVV95cUxNbUtBNUlDQ1E4NHlHMkNnWm8wY0RZZGhmalB2b1M1R2ZrNDBZN3ZoQkZXOUdscHhXUlpyYnFoNm9Tcjg4Wml5TlJjcm9TakE?oc=5",
+   "source": "ETtoday車雲",
+   "lang": "zh",
+   "time": "2026-10-30T09:29+08:00",
+   "categories": [
+    "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "40126c0139",
+   "title": "全美家庭電動車擁有率最高前十縣 七個在舊金山灣區",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RT3dpQ0VWTmhVRmVDM0h2b0NIbmR1cVZmbnpoalhpN21GX2lISUliMkEtLUVBV2oxcXF5aUpWREFNM3ZJRmhrMHVYNGtjQzJVeFdIMVE3Y20xMGgzNW4wQ0N30gFnQVVfeXFMT0ZSQ2dJV3A3aERUQXRGVngzWTFQNmk0Q0dwdUZpMjNNckl6TndJVHRvbmo0NWNQTUoxQVFNdnNUdzVFWUh4VXNEU2lRSUllRlc0LU41Y1VwNHdtemlHWmNic1h4VVl5Yw?oc=5",
+   "source": "世界新聞網",
+   "lang": "zh",
+   "time": "2026-10-30T09:10+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "ab8b9f8fdb",
+   "title": "鴻海科技日登場！單月營收破兆，AI機櫃、電動車平台成布局焦點",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KUnFHZGUzcmd5NHdXcGg3QXRQWVNlUTVnRG1OMF81Y21NSDlzeHhyaEdfczBZZDgycUNmSEJxRTVKT1lmSm1oNEFYQQ?oc=5",
+   "source": "鉅亨網",
+   "lang": "zh",
+   "time": "2026-10-30T09:00+08:00",
+   "categories": [
+    "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "c48838f2a1",
+   "title": "福斯第三季慘賠 58.6 億歐元 德國汽車業轉型陷深層危機",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSVl6UElFdWxrWjlQUjNYWjFVZEZGa2RwRDgwZnJReElKdHJmMDlzOGNBQkZyVzlHeERMR0EtbHFFQjFxbHBiTC1RMVN0VFZ0SVN4dldpamtKX09WMnM0ckJLZW9nT1pXbTJJY3VTQkRnOU9SdVlGWmJSaUZiUlZIWFRZR011bUhDS29WR3ptV1NCZEVrdXhHazU0QXhWUGpYeTFBTVhwUjAtaXpjR3N5WktEQlZ4YVlxUFlwV2xjQW1HTmI2dlZpOGJFUGRxb3o0eUlWZkJCUndCU0pUZVQwWWZRcWp5Vlc0RWpfUUVMcEJvZl9HZlk2Q0RmWWdHU1FKb3c4NGVKemp2MEFxOFBhOHNTekViNDVkVS00dHZfUmNRZjUxQ2tVVS1JdnJfNVlvWVkySGdDdEc3T0g3bHR3dmcyY2cxOVFNM1V1RW4zMXREMlprWm55VUNKeVZvNFBTM0F0SUpUSlJyOTN4Wkw2Tw?oc=5",
+   "source": "商傳媒",
+   "lang": "zh",
+   "time": "2026-10-30T08:24+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
   {
    "id": "50a7f52f7c",
    "title": "中國大減 豐田全球新車銷量續縮；EV翻倍、破紀錄-新聞內容-基金",
@@ -11,6 +191,21 @@
    "source": "MoneyDJ",
    "lang": "zh",
    "time": "2026-10-30T07:41+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "98cc2092c9",
+   "title": "中國大減豐田全球新車銷量續縮；EV翻倍、破紀錄- 新聞",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1BLandRQllGdVJBSTI2TFFUWUNVYlBLaHRPcElhTzJ0QnNvOFMzUU01UVV4Ni1kOTJ6V3ZtUVA1a0ZSckw2UVI0NHFEc1l5M1pnbmdWd1FwVVJWb1lqdGtTaFdRSWNYNEJpZHFFU29BODhENmpEYjhVb0NtZ1VlZTNYQWhPMmRubUV6UFEyLUtZQQ?oc=5",
+   "source": "MoneyDJ",
+   "lang": "zh",
+   "time": "2026-10-30T07:40+08:00",
    "categories": [
     "車企動向"
    ],
@@ -287,6 +482,21 @@
    "issues": []
   },
   {
+   "id": "17997f94f7",
+   "title": "Toyota's EV Sales Have More Than Doubled This Year",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DNlJXemtTanFDREppU19JRTNGNEdQTUt4bFZXWEZYMURZNDY2WnpVbkFSaUQ5QS05cXl4TEZhZzdKN2JSWE9aVk91eDNCMHB2R0dodk0taFh3MkRiSTVQNDVjMmJldzJQQTJwNzdGY0k?oc=5",
+   "source": "InsideEVs",
+   "lang": "en",
+   "time": "2026-10-30T04:49+08:00",
+   "categories": [
+    "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
    "id": "d9f39b6fee",
    "title": "Rivian's R2 Is Already Its Best-Seller. Now It's Raising Its Sales Forecast Again",
    "summary": "Rivian's Tesla Model Y rival is a hit among buyers, with Rivian increasing its annual delivery guidance again.",
@@ -353,11 +563,11 @@
    ]
   },
   {
-   "id": "8875d5d9d2",
-   "title": "Rivian’s R2 is officially its best-selling vehicle",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEJTTnUzR3RCVFdSOE91bG9uWlUzVXdhMTRoVFJfdGt4N0dTNXpacVR3RzkwTW1ZeHI1eDZheUxoc2J3cHM2ZTBfNl9vZU5VRjU3azhZSU0wNG1QbkJlcy15Q0NINDRjTW5VbDl3bUZVa1U1ZmRxMUxQT19mS0JhTVdxRl9GY1UteUR4SnZKM2VWZkRvTVF4ZW5wMA?oc=5",
-   "source": "The Verge",
+   "id": "efbc7b3293",
+   "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+   "summary": "Rivian (RIVN) just released its Q3 2026 earnings, with revenue up 38% year-over-year to $2.155 billion. The R2, in its first full quarter of deliveries, is alr…",
+   "link": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/",
+   "source": "Electrek",
    "lang": "en",
    "time": "2026-10-30T04:02+08:00",
    "categories": [
@@ -368,11 +578,11 @@
    "issues": []
   },
   {
-   "id": "efbc7b3293",
-   "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
-   "summary": "Rivian (RIVN) just released its Q3 2026 earnings, with revenue up 38% year-over-year to $2.155 billion. The R2, in its first full quarter of deliveries, is alr…",
-   "link": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/",
-   "source": "Electrek",
+   "id": "8875d5d9d2",
+   "title": "Rivian’s R2 is officially its best-selling vehicle",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEJTTnUzR3RCVFdSOE91bG9uWlUzVXdhMTRoVFJfdGt4N0dTNXpacVR3RzkwTW1ZeHI1eDZheUxoc2J3cHM2ZTBfNl9vZU5VRjU3azhZSU0wNG1QbkJlcy15Q0NINDRjTW5VbDl3bUZVa1U1ZmRxMUxQT19mS0JhTVdxRl9GY1UteUR4SnZKM2VWZkRvTVF4ZW5wMA?oc=5",
+   "source": "The Verge",
    "lang": "en",
    "time": "2026-10-30T04:02+08:00",
    "categories": [
@@ -535,6 +745,21 @@
    "source": "InsideEVs",
    "lang": "en",
    "time": "2026-10-30T02:28+08:00",
+   "categories": [
+    "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "7c6b8eb1fc",
+   "title": "Honda Says US Can’t Keep Chinese Cars Out Forever, Urges USMCA Front",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUQ4NG93aFNJX1JuZ2pieXk5am5EYnY2eFU0SkZxcGpQRGJySFE0eDM4aGRuWVJWc28zamFyT3duZVI5c3Y1T3BuMWxaOEVsbGdKZ2tnaHBDMmVvdzVWNjhZRFdRaFEwQUFVV3ZBMDExVkZVY0tVNjIxQXZUQ2FBX1lRWmVKY0N0VTJlclhvcjk1MFlNWTU0UGFGdG5hbEZILWdKSg?oc=5",
+   "source": "Electric Vehicles",
+   "lang": "en",
+   "time": "2026-10-30T02:09+08:00",
    "categories": [
     "其他"
    ],
@@ -1021,12 +1246,12 @@
    "issues": []
   },
   {
-   "id": "c0ba984093",
-   "title": "Daily Short Sale Tracking: Stellantis NV's Short Volume Increased by 31 Million, With a Short Sale Ratio of 34%",
+   "id": "f37f02a140",
+   "title": "Where Passion for Cars Meets Passion for Design: Stellantis Chief Design Officer Ralph Gilles Launches Podcast",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpSMmx2YUFGZHZfQ00yZTY2c3Rvdy1oRnVnbkJPdUpPQXNFOVJMQTJZZFc4Mll6cTZYNlI2S3o1TTNxR1NNeDRWM2NuS1d0N1R6VWVUNkRxVk5tSHVnNlRaaHdyZTFySlBCYUFzdWduWXlTTVM3WjlvNExjTUdVa0VuOWJXOHVMSHB2NGt4endyVlgyeUZoS3VkUHRpNlVCcHJ4Q0tYNERfVVU?oc=5",
-   "source": "富途牛牛",
-   "lang": "zh",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2luUXk3ZmI5ajZKZS1Pc0xiNzVWUFFkRl90TG83TWlWbE1Bbm1wSDVwZkI5cUw3bE5nb1RCZEJYank1V2FaT3dKMnpLTlhyTG1FTFQxR3ptWU1VZmwyOTRTSG1ZQTBNUXYtSk5lSHRmVDJSQjZXemZQbnlibkFRNWVab3ZlODJFVlUxZE11cDVwdUZQYzgzX2o4UnJ1MXVJa21URjAzWmdwS2FwdDhTdGdUTXFOcm10Si03cExkOFJCR0wxOHBUbS1rNEgydGU2QVVoS1FmeFFZZmV6T1g3S2hwTVVJSkV5UjBuazhGSW12dlNKaG1z?oc=5",
+   "source": "Stellantis Media",
+   "lang": "en",
    "time": "2026-10-29T21:00+08:00",
    "categories": [
     "Stellantis",
@@ -1037,12 +1262,12 @@
    "issues": []
   },
   {
-   "id": "f37f02a140",
-   "title": "Where Passion for Cars Meets Passion for Design: Stellantis Chief Design Officer Ralph Gilles Launches Podcast",
+   "id": "c0ba984093",
+   "title": "Daily Short Sale Tracking: Stellantis NV's Short Volume Increased by 31 Million, With a Short Sale Ratio of 34%",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2luUXk3ZmI5ajZKZS1Pc0xiNzVWUFFkRl90TG83TWlWbE1Bbm1wSDVwZkI5cUw3bE5nb1RCZEJYank1V2FaT3dKMnpLTlhyTG1FTFQxR3ptWU1VZmwyOTRTSG1ZQTBNUXYtSk5lSHRmVDJSQjZXemZQbnlibkFRNWVab3ZlODJFVlUxZE11cDVwdUZQYzgzX2o4UnJ1MXVJa21URjAzWmdwS2FwdDhTdGdUTXFOcm10Si03cExkOFJCR0wxOHBUbS1rNEgydGU2QVVoS1FmeFFZZmV6T1g3S2hwTVVJSkV5UjBuazhGSW12dlNKaG1z?oc=5",
-   "source": "Stellantis Media",
-   "lang": "en",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUpSMmx2YUFGZHZfQ00yZTY2c3Rvdy1oRnVnbkJPdUpPQXNFOVJMQTJZZFc4Mll6cTZYNlI2S3o1TTNxR1NNeDRWM2NuS1d0N1R6VWVUNkRxVk5tSHVnNlRaaHdyZTFySlBCYUFzdWduWXlTTVM3WjlvNExjTUdVa0VuOWJXOHVMSHB2NGt4endyVlgyeUZoS3VkUHRpNlVCcHJ4Q0tYNERfVVU?oc=5",
+   "source": "富途牛牛",
+   "lang": "zh",
    "time": "2026-10-29T21:00+08:00",
    "categories": [
     "Stellantis",
@@ -1259,15 +1484,15 @@
    ]
   },
   {
-   "id": "c15357146f",
-   "title": "Why EV charging speed and experience are vital as China pulls ahead",
+   "id": "6a63db330b",
+   "title": "Legacy Automakers Show Us That They’re Fighting Back In China",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZ201V3JEZXBKUGd0NFBoTDE1WmFya21lYnY3TUhJMDFtNmJJdXc0YjA2c2VXZWVMdkl5VzhUTHJwa0Y1a0k1OW9TNWdRTHlYb0xXZnllcGNSZVZBZGxpSi0wMGJ2c0NJOWszd3NFbw?oc=5",
-   "source": "Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5UjFHSXN4THU1TmVqcXRBWkdSUDV3VlVhT1V3UURVMk9BOXlDbGh4VXRDS0E5MGNrc2NXVlpZZU16OWhZX1lUallHdlp2c2tMalVtUHZYYXpqUkswV1RXYW1zWTkteF9mMXkwZjhaWHAzMzRleUdTd3JB?oc=5",
+   "source": "InsideEVs",
    "lang": "en",
-   "time": "2026-10-29T19:00+08:00",
+   "time": "2026-10-29T19:08+08:00",
    "categories": [
-    "電池"
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1284,6 +1509,21 @@
    "categories": [
     "Stellantis",
     "車企動向"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "c15357146f",
+   "title": "Why EV charging speed and experience are vital as China pulls ahead",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZ201V3JEZXBKUGd0NFBoTDE1WmFya21lYnY3TUhJMDFtNmJJdXc0YjA2c2VXZWVMdkl5VzhUTHJwa0Y1a0k1OW9TNWdRTHlYb0xXZnllcGNSZVZBZGxpSi0wMGJ2c0NJOWszd3NFbw?oc=5",
+   "source": "Automotive News",
+   "lang": "en",
+   "time": "2026-10-29T19:00+08:00",
+   "categories": [
+    "電池"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1590,9 +1830,7 @@
     "智駕",
     "座艙・SDV"
    ],
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
+   "forced_issues": [],
    "issues": [
     "adas",
     "issue-20261006-ybh7"
@@ -1717,11 +1955,11 @@
    "issues": []
   },
   {
-   "id": "79c30894fc",
-   "title": "Nissan發表全新「平價小型車」引發詢問暴增！全長3.8公尺、圓潤造型讓人想起March的都市電動車！歐洲全新「Pixo」令人期待導入日本 - CARNEWS",
+   "id": "7ba30f1092",
+   "title": "比亞迪員工突破 102 萬人，海外銷售成長考驗垂直整合模式",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzUDMxRi1MT3ZzbVdLRmpRNHJzM3RPQzYxQU5pdkQxQkNJSVpFZHMzYzJfWWp4ODJfTUpURXdDMWl1aDEtUXpYSzMzdVkyUW9UM2FkcXg1NA?oc=5",
-   "source": "車訊網",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44Y3JpNHBNQmRYRVVkRGZ4UEJjSjgydEdMS1h3OEYzbGZfZXZrYnN4YVRyc2JiY2pvT2hOM3lrSUhpRFRGcjNlYW5OUTFaTGRUT0Y4Vm9xSTRHVUFsRm1Od2w4Q0dSVWRJQXdVTkl1Zw?oc=5",
+   "source": "INSIDE",
    "lang": "zh",
    "time": "2026-10-29T15:17+08:00",
    "categories": [
@@ -1732,11 +1970,11 @@
    "issues": []
   },
   {
-   "id": "7ba30f1092",
-   "title": "比亞迪員工突破 102 萬人，海外銷售成長考驗垂直整合模式",
+   "id": "79c30894fc",
+   "title": "Nissan發表全新「平價小型車」引發詢問暴增！全長3.8公尺、圓潤造型讓人想起March的都市電動車！歐洲全新「Pixo」令人期待導入日本 - CARNEWS",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44Y3JpNHBNQmRYRVVkRGZ4UEJjSjgydEdMS1h3OEYzbGZfZXZrYnN4YVRyc2JiY2pvT2hOM3lrSUhpRFRGcjNlYW5OUTFaTGRUT0Y4Vm9xSTRHVUFsRm1Od2w4Q0dSVWRJQXdVTkl1Zw?oc=5",
-   "source": "INSIDE",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzUDMxRi1MT3ZzbVdLRmpRNHJzM3RPQzYxQU5pdkQxQkNJSVpFZHMzYzJfWWp4ODJfTUpURXdDMWl1aDEtUXpYSzMzdVkyUW9UM2FkcXg1NA?oc=5",
+   "source": "車訊網",
    "lang": "zh",
    "time": "2026-10-29T15:17+08:00",
    "categories": [
@@ -1771,6 +2009,22 @@
    "time": "2026-10-29T15:05+08:00",
    "categories": [
     "其他"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "022617a48d",
+   "title": "Toyota「Raize」級距的全新「小型SUV」發表！全長4公尺方正車身、搭載1.2升渦輪引擎！300多萬日圓（約新台幣61萬元以上）起的Fiat「Grande Panda Hybrid」搶先看！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3R2VFRicmpIMW1HSHViMTZjdEVEUWtsNzd2OGo2Vmxhdl8wZENtVEVVOWRTOFdnRFdCUHlsZmU4T0VQNEt4bXp5azA2aDQyTFRPdXlKRE5haU9zMVg0ZDJjMGUzN0hrc25ZWllxajhOZXhidlAtd3hxdnA0by04NnhuTEhmTFhxdnBGbjd6cTBTMnFGdFZJSFpPQ2xaeDZJUDJjM0JFazlWUi1MeXFwUDFUMEYzVWpJZ0JEMDlRYVpUclBRanBENG5MYjZiRTlsTlFzVjVWSUhhSG0xeUxj?oc=5",
+   "source": "Yahoo - 汽機車",
+   "lang": "zh",
+   "time": "2026-10-29T15:02+08:00",
+   "categories": [
+    "Stellantis",
+    "車企動向"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -1841,21 +2095,6 @@
    "issues": []
   },
   {
-   "id": "afac854577",
-   "title": "中泰校企合作共建實訓基地 培養新能源車人才",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtQTdkUTJaNlpReXpnMDRtN05yNnRDUC1HcWR2ZlVWZ0JlVUg0NTlBN0xDRzcyR1dKOFBlSHlpanc4bkliNjZvWV9VendnV1FVVEROSWU0RFVPak1GalBGQ2I3LWlyR0HSAWdBVV95cUxQbUE3ZFEyWjZaUXl6ZzA0bTdOcjZ0Q1AtR3FkdmZVVmdCZVVINDU5QTdMQ0c3MkdXSjhQZUh5aWp3OG5JYjY2b1lfVXp3Z1dRVVRETkllNERVT2pNRmpQRkNiNy1pckdB?oc=5",
-   "source": "世界新聞網",
-   "lang": "zh",
-   "time": "2026-10-29T13:57+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
    "id": "ec82849d1a",
    "title": "福斯汽車力拚轉型 擬2030年起年出口30萬輛中製車",
    "summary": "",
@@ -1865,6 +2104,21 @@
    "time": "2026-10-29T13:57+08:00",
    "categories": [
     "供應鏈"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "afac854577",
+   "title": "中泰校企合作共建實訓基地 培養新能源車人才",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtQTdkUTJaNlpReXpnMDRtN05yNnRDUC1HcWR2ZlVWZ0JlVUg0NTlBN0xDRzcyR1dKOFBlSHlpanc4bkliNjZvWV9VendnV1FVVEROSWU0RFVPak1GalBGQ2I3LWlyR0HSAWdBVV95cUxQbUE3ZFEyWjZaUXl6ZzA0bTdOcjZ0Q1AtR3FkdmZVVmdCZVVINDU5QTdMQ0c3MkdXSjhQZUh5aWp3OG5JYjY2b1lfVXp3Z1dRVVRETkllNERVT2pNRmpQRkNiNy1pckdB?oc=5",
+   "source": "世界新聞網",
+   "lang": "zh",
+   "time": "2026-10-29T13:57+08:00",
+   "categories": [
+    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -2001,6 +2255,21 @@
    "time": "2026-10-29T11:58+08:00",
    "categories": [
     "智駕"
+   ],
+   "via_search": false,
+   "forced_issues": [],
+   "issues": []
+  },
+  {
+   "id": "48549f057a",
+   "title": "純電時代堅持不放棄旅行車！Opel STX Concept展現Wagon未來樣貌",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQbnhVZzUwUV9ROFhja0RuT1ZlMTlOWDZSb2psNzR2dWo5UG1sME50eXJ5NVY3eXA3eXo1ellmdnlJd1lkQk1SUEpYUjJxbzFyVFRsQUpjNWZUTmlLSTZuVzcxNlpGdDBRcFgyOE1iSW1xZDVzdWxvdDRpdkRwMHNnX3VXU0I3d2tZMXd5RjZsVU9fQV81YW1EaWw2UUNBRFo5SnBTZ1RfNjFxTUFVeHFzVUMxLTNidTd3ZU9TUmRZSHgzVDhFMFV0dFB5cGtYcEt4ZkJtU1JHV2hNWXBkNlZWVTRubG1sdktPUGo2Z1h6Q3lPNG5WMWswVjZxQ1N3Q29IMXN1Yk5rN0tha3ZZcTZGcDBCb2ctRUlnLUtzT0NzUUN6c3dTUVhoYkVaeFlWOFM4amtHSDJTOUVTQkp2cHlsVVpoNF9TQlU5X1ZWZDBrWS0?oc=5",
+   "source": "Yahoo - 汽機車",
+   "lang": "zh",
+   "time": "2026-10-29T11:48+08:00",
+   "categories": [
+    "Stellantis"
    ],
    "via_search": false,
    "forced_issues": [],
@@ -2176,6 +2445,27 @@
    "source": "DDCAR 電動車",
    "lang": "zh",
    "time": "2026-10-29T10:10+08:00",
+   "via_search": true,
+   "categories": [
+    "智駕",
+    "車企動向"
+   ],
+   "forced_issues": [
+    "adas"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
+  },
+  {
+   "id": "544e7d07ad",
+   "title": "South Korean court rejects Tesla owners' lawsuit seeking 'Full Self-Driving' refunds",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjh3SVB5QkI5b2FUQ0ptMFpDNWRsTU9yVVd3Q0kxZnJUWG1wUDZnYXVzeEt5T1ZLVHJQcHBTV3V0SkRFNGc2NnkyQ0haTGhVcU9HWkJqRTFzY1MzWFNCMTF4Tjl5S09BeG5CN3dDTzhJY1RGRHlSaTBOb3FtdDNTRWRUYThoYXJXRVlud050R29xTVVMSUhMTHFWWm16T3l6RF9hcWhyMTBLeHk4cWxkRWp0dlp1N1c3RXN3eWFfemljc01ZTnBseW5aU3VDUlZleDlhSDAtUVBJUWFXaEE?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "time": "2026-10-29T10:00+08:00",
    "via_search": true,
    "categories": [
     "智駕",
@@ -2796,12 +3086,10 @@
     "其他"
    ],
    "forced_issues": [
-    "issue-20261006-ybh7",
-    "profit"
+    "issue-20261006-ybh7"
    ],
    "issues": [
-    "issue-20261006-ybh7",
-    "profit"
+    "issue-20261006-ybh7"
    ]
   },
   {
@@ -3008,12 +3296,8 @@
     "其他"
    ],
    "via_search": true,
-   "forced_issues": [
-    "issue-20261006-ybh7"
-   ],
-   "issues": [
-    "issue-20261006-ybh7"
-   ]
+   "forced_issues": [],
+   "issues": []
   },
   {
    "id": "a4bd2c3e1b",
@@ -3930,8 +4214,12 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [],
-   "issues": []
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "52cb06fe63",
@@ -4086,7 +4374,7 @@
    "categories": [
     "智駕"
    ],
-   "via_search": false,
+   "via_search": true,
    "forced_issues": [
     "issue-20261006-ybh7"
    ],
@@ -4136,8 +4424,12 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [],
-   "issues": []
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "4f503f664c",
@@ -4568,8 +4860,14 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [],
-   "issues": []
+   "forced_issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "adas",
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "abbe3aeeca",
@@ -6008,8 +6306,12 @@
    "categories": [
     "其他"
    ],
-   "forced_issues": [],
-   "issues": []
+   "forced_issues": [
+    "issue-20261006-ybh7"
+   ],
+   "issues": [
+    "issue-20261006-ybh7"
+   ]
   },
   {
    "id": "12bbf8516b",
@@ -6051,298 +6353,6 @@
    "time": "2026-10-28T00:09+08:00",
    "categories": [
     "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "3f9dc49f3b",
-   "title": "Stellantis Selects Amperity to Power Trusted Customer Context and Personalized Experiences",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdDhDYkgtU1g5amdIUC1GSmJLRDJwbkV4SUFqWkJLd1l5Rmd3VDU5XzBjN0cwOHQ0N2xpa2oxYlhFOFE5SGNHWlNyZDhlNXFEVTJvM2JtYUVYTmFSOUJCNGNSQVdFd1hkZTVrOFlBMmFCOVgwcDFHZFZHSzhiVjRXcU53QU5jbXZTYmZ4eWlkREEwNE1PbjZOdlZxR2k3MGtwZ2xLaGRuU2NiTGIxVnZpZ191LXZHWVY0VFNlNjY1aUw2RFgya0JJMmtvSGlQa2lMbUZIOThfbHZMZU5JQXVROQ?oc=5",
-   "source": "Business Wire",
-   "lang": "en",
-   "time": "2026-10-28T00:00+08:00",
-   "categories": [
-    "Stellantis",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "694c2603c6",
-   "title": "Column | I went to Mexico to test-drive the cars Americans can’t buy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb09JUU9JSGRGV2RnYWJNQVI0TC1jM20xNE9SaTJqTDdDN09QbmxJYWtQa19fTTAyNU5TR3ZGdC1JLTBXa01KbTMzc29FekozTHdCSWFDRUthRlhpNlBHS3hENFJuQlI5UFZPVjRZTWRDTWlJTjhjdFY5d1BrMEQxMllKRldFNzlUTDRiZVJCeV9jVzh4eHNYUVlZZmdCamViaVhXRm96Q1NfOW9oSlVPNXdLRU01QQ?oc=5",
-   "source": "The Washington Post",
-   "lang": "en",
-   "time": "2026-10-28T00:00+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "ffb4dcd8ac",
-   "title": "New Lancia Gamma Wins the Auto Europa 2027 People's Jury Award",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDg4d01pS3VaZHM2S1hHX1RkWnZjV2poWUJoWEp5OUNKSmN0NTlWcGFScEZTclZlTEp3cE00SXBpcEhmZnhWcmctN1QxNFY0cHRhb090WjlLZjJUay1sNTFzcEVvSzRad2FuazZ1M2ZTREFVVGtDc2JSQUZzWWlMaGstbXRRbjk1TGxqREtaazlUM0FTSEdxWWFkaTVLaW5XQkRSVE1sY2JzOUFqRDI2WTllX2M?oc=5",
-   "source": "Stellantis Media",
-   "lang": "en",
-   "time": "2026-10-28T00:00+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "55d3474d77",
-   "title": "Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money",
-   "summary": "The mini electric dirt bike market has exploded over the last few years, with seemingly countless new brands offering everything from pint-sized electric pit b…",
-   "link": "https://electrek.co/2026/10/27/sykeruns-x7-electric-dirt-bike-review-a-lot-of-power-for-surprisingly-little-money/",
-   "source": "Electrek",
-   "lang": "en",
-   "time": "2026-10-27T23:56+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "20be0b3e3b",
-   "title": "fiat’s tiny multiplina brings 1950s italian microcar design into the electric age",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONUxRcGFnb1RhTkV3TVE2NFVGWVF5TENMN0xUYmp0RDU1cms2VjBLLWxZMW0wN0VZNXE1XzMyOU5McjdsZUp5UU9lUFZmUy0yTU4zbExkR0gtNjA5aWlsTEZKVzhaeExHcUNfUmFDUVM5VWdSZF9raGZWVTUxYUZlMHI3VkYzSDRWVTRHZWk2V2RuQlJWZmxVX0xYay11ZnJO?oc=5",
-   "source": "Designboom",
-   "lang": "en",
-   "time": "2026-10-27T23:50+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "9730a704c6",
-   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-   "summary": "Seoul police have booked 80 people for using aftermarket devices to switch on Tesla’s “Full Self-Driving” in cars that aren’t allowed to run it in South Korea.…",
-   "link": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
-   "source": "Electrek",
-   "lang": "en",
-   "time": "2026-10-27T23:43+08:00",
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": [
-    "adas",
-    "issue-20261006-ybh7"
-   ]
-  },
-  {
-   "id": "1b0302a8c8",
-   "title": "Lexus 發表「全新流線型 SUV」！車長 4.8 公尺，搭載超過 400 匹馬力的「高性能 4WD」！還有超有駕駛樂趣的「8 速 AT 風格排檔」，價格也稍微下修的 2027 年式「RZ」在美國亮相",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVFZjdzZ5aTNiSm00aWdBd0RabklXelgzWHU4N05sbi1BV3JwY2UwcVZ1WWRURVNYOVp6NVRINEdTb2NDcUNXQ19hUFpja3NYTzU2blN0Y1FKaFp2cXFWNg?oc=5",
-   "source": "車訊網",
-   "lang": "zh",
-   "time": "2026-10-27T23:28+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": true,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "0c70794ae3",
-   "title": "The 2027 Kia EV9 costs $90 more, but at least you get a few extras",
-   "summary": "Kia barely touched the 2027 EV9’s price, raising it by only $90 while sneaking in a few extra standard features on select trims. more…",
-   "link": "https://electrek.co/2026/10/27/2027-kia-ev9-costs-90-more-gains-few-extras/",
-   "source": "Electrek",
-   "lang": "en",
-   "time": "2026-10-27T23:20+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "9121f53062",
-   "title": "Nio's Sales Surged 49%, but There's an Even Better Number Investors Should Know",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTjNWRjVXd3pZUENwNWhiWGQ2SkI4d25ULUdmcVhlYzVjVXBwV1hmUkhNTXhWdDVpalZpa2xGNEFFTml4QXpQTjR2T0x5QUc2NEc1Vy1QVVpCNy1ubnRPTFlDcE1ZRk9zZER4LUQ5RS1EeFpRRFM4QVlWSnB0aldEYUhYQjdHS3h2QWJKS3FsQ0o0bzFwLU5yWmJUUnRzTmtrdzk0VGUyejJZTmQ2MFRPSm56LXppMjNyNl85Q1c5UW9MTHI0OHo4bGNrcTYtQVZvMVZ5c1JTVW1HQVhVc0Y5NkFzRllpb3BCTzNXZnFrSThjdw?oc=5",
-   "source": "The Globe and Mail",
-   "lang": "en",
-   "time": "2026-10-27T23:05+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "2f09f5aac9",
-   "title": "Guest commentary: Buying market share won’t save legacy automakers anymore",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1JMLWdBZmlwbDk2Y1cwVEYwZl9teWpfaDN0eHo2bWlPU2pfT1lvNmJRMHBkS0lnZmNSQ2RDRm1ndEVHNmpfTVg2WHEzOUhxRzdiRmZwbFY3anRrcmZPUE5NQkZtWjFnSlpYcG1oMngwZkw3ZW83U28tclZQSEp1amRJZDlkRHktT2ZLbm1nV2hubl9NVlhHQWN5MGNldmhjd0U2ZW1PR24?oc=5",
-   "source": "Automotive News",
-   "lang": "en",
-   "time": "2026-10-27T23:03+08:00",
-   "categories": [
-    "其他"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "a669610441",
-   "title": "Dodge will offer just 270 special-edition Chargers for Mopar's 90th anniversary",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOThXLU5DQ1ZyLTlqSXVlcFdOUnlKbTlSV0lxV2lZUWdvdlhsRFk5OGJ6eC1ONGV0Z0RGVTBYYzVtVm9QQUQya256SzZBenVWWmJZRXpPMC1kdWdHbjVmeWh5ZFdBTkxaVlVsb0RuWkM5YjY2LURzcENIa2lLMkI1WHVIbkN5TE9PS3JuVHhnLTR3ZnFFeThQd0s2a3J4b3k4MDVpTTVYRk90U0V6RF9FVGRWYlVFZ0NnU3c?oc=5",
-   "source": "Stock Titan",
-   "lang": "en",
-   "time": "2026-10-27T23:00+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "9476a274be",
-   "title": "Stellantis faces earnings test as turnaround plan meets reality",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmNXUktSQVRyUFNyV1dSVHR0eS14UXkySGNFZlE5Q0FmcUNCMkRRcmNFa2RtN0JZNWV3R1BwcTVKRjY5VS1iWUZGT3E3cEdidTBFUUM3dDRBVGt3cUZuWVI0cUVuWU5HbmZZUk1qYjlPYlVPZUF4UVZ0ZFltNGZWNkIzUXpKeUR0VThlbC0xNVFoZUFqRkVobEdyTjFNV3JkZGViWmpDemtBc3QxemdxZ2dkbDJFOUE?oc=5",
-   "source": "Investing.com",
-   "lang": "en",
-   "time": "2026-10-27T22:37+08:00",
-   "categories": [
-    "Stellantis",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "b944aeca8e",
-   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
-   "summary": "Elon Musk says Tesla’s Robotaxi race against Waymo “was never a real contest” after Tesla’s driverless fleet logged 438,000 miles in Austin in a single week, e…",
-   "link": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
-   "source": "Electrek",
-   "lang": "en",
-   "time": "2026-10-27T22:21+08:00",
-   "categories": [
-    "智駕",
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "a76682b4b8",
-   "title": "US Bans BYD Vehicles From Okinawa Base Citing Security Risks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4UGpkeWhXQUg1Yl9kNU5JU0ViTmI4UnltRVBUTkUxOVhlYlJEMXhfcUI2Ymx4d0I3c0E2V2poODBvWEZDNGpyUTZwWXVkazlTa2tYTndoT0lBSGlRLTlWN19UeTdNUGoyRzFUWjA0VmQ5UWZsQmfSAXtBVV95cUxNVDN3QTUxY3RldXJRXzdsanl1dlpBZHdSR0ZCZ1pUNkhFellCMnRiTjZFM2IzOWo3cURRR3p2LVFoSzllVlRuNWV3N29CWTdKc0ZrSm9ab1lNSUpzYTZKblJDdmMwRnZWU3c1eVBhMDVzWmQzZXU2emlwM2c?oc=5",
-   "source": "The Defense Post",
-   "lang": "en",
-   "time": "2026-10-27T22:08+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "354378fb56",
-   "title": "BYD’s Doubling Production in Brazil",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmYzhNM1ROVl80c1N1elhGTzhPbU0wZmoxNm16S2dfS3pfYkFzNF9JRWsxSGN3WktfNUcza2RiOWE0S0d1LXB3Y2t0U3gyaWtma05maW1mOWNibUV5Nl8yQlpSaEpxc3BoVmxuMGlBVnN6c2t1N25FYUFfQ3E?oc=5",
-   "source": "CleanTechnica",
-   "lang": "en",
-   "time": "2026-10-27T22:03+08:00",
-   "categories": [
-    "車企動向"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "df1f5ef6c8",
-   "title": "ADAC Opel GSE Rally Cup: The Title Race in the All-electric Rally is in Full Swing",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQazBuRzk0MGNfLVQ0eXI4VXRmV3pyLWNSa3AzUGthbzNabFVmYzlvU3NfNWhMcnBJa0ZMbzBuMXptSENQM0JlTEZXMGQ1OUdING4yTFJ4NWFfd3ZMVHdsM2VwRlpCOWFlZE9COTBpblVyaWprTDYtam1jYldzVTY1MFZmZi1kbG9MWlNNWFZYaTBQZzVaV2ZDMkEwVmVkZGlTWXJhUzZCUV85WC01SjA3THBSa1UxQ3NCV2NYYlVCMno4TUJ5UlFlRDBDdw?oc=5",
-   "source": "Stellantis Media",
-   "lang": "en",
-   "time": "2026-10-27T22:00+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "a39fc5e40e",
-   "title": "LANCIA DESIGN DAYS: LANCIA CELEBRATES 120 YEARS OF STYLE AND INNOVATION AT THE HERITAGE HUB IN TURIN",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUlBlUE0xeXU5blNmVHVDYVpHYzJPRzBELXBPUWxocVdwOU5HX1QxanR0WE1FeVdVYktYVERqVkpkeEE3blZ6bk5XUkNLa3hURi1iekt3WFJFb0doZXJ4RGZCeVZIbk8xX1lFV19BV2JNVHY1ODdranpvUnJUalA2SjV0cnpqOEtoZ19hLUY5dXNTTTl4SG4tYzJyQTY3RGdjX0RpdDh5ekRYWmVKRlFKYW1xZmJRUlh4S0NIUlROS2cyNTltb1ZhaDBiYWdQVFZNc05zQXZZZ1QxY0ZBbmN0aFltQ0lQRFFUUWJzOHQ3OA?oc=5",
-   "source": "Stellantis Media",
-   "lang": "en",
-   "time": "2026-10-27T22:00+08:00",
-   "categories": [
-    "Stellantis"
-   ],
-   "via_search": false,
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "24300c03ce",
-   "title": "Tesla Inc(TSLA)股票10月27日開盤上漲3.03%：真相來了",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGx1RDhHMWsxblczcjhkclFNNjF3MU5FUWxTMUlKNndWc1A2cjBUQzBOTHp1eTBJX29WdThzMGlTLTNWNkxOZTBHVkR0amZvYUhjX2RKblJfLU9GZXNYdUhMV1ctalVPOTJsYzc0b211ZEZDbDN0aWtFUi1ib3dNdDBCb0ZEdzFEYUczRmI3SUhPNmZWSEE?oc=5",
-   "source": "TradingKey",
-   "lang": "zh",
-   "time": "2026-10-27T21:54+08:00",
-   "via_search": true,
-   "categories": [
-    "車企動向"
-   ],
-   "forced_issues": [],
-   "issues": []
-  },
-  {
-   "id": "cec0ddc820",
-   "title": "The European Union Caps Imports of Chinese Hybrid Cars",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUttV3hmcTY1blpzN0dEQ1ByS2hDN1BIb3lHT2tJNnFxSWtydnVfenVreF84OF96NXlJTlJZc1J4bWVCVXlyMnhRRVJfMEQ4NFFOZGJjNldGd21uUE54aGJRWEwtU0lONGUyYXI2aFRmb21oZTk1WV9fY2pnS0hQdnJzNlFNeGhWNjkyV3JLRFlXZlJIeXAwS0RmZGtSck01bTRjdEQ2dXpDTkIyaE5lLUVaWkZxek95X0ln?oc=5",
-   "source": "The Institute for Energy Research",
-   "lang": "en",
-   "time": "2026-10-27T21:53+08:00",
-   "categories": [
-    "其他"
    ],
    "via_search": false,
    "forced_issues": [],
