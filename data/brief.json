@@ -1,27 +1,27 @@
 {
- "date": "2026-10-30",
- "generated": "2026-10-30T10:54+08:00",
+ "date": "2026-10-31",
+ "generated": "2026-10-31T07:54+08:00",
  "ai": false,
  "items": [
   {
-   "text": "TOYOTA「全新1.5升引擎」渦輪、NA都有！大改款Corolla有望先採用",
+   "text": "GM confirms Lansing Delta Township plant will produce hybrid vehicles",
    "category": "車企動向",
    "news_ids": [
-    "622e5a744c"
+    "c6a0fcc30c"
    ]
   },
   {
-   "text": "【零跑Leapmotor最新香港價錢】零跑Leapmotor全線車款 - 型號性能及香港售價比較",
+   "text": "Waymo自動駕駛營收成長虧損擴大 Alphabet仍重金投資AI",
+   "category": "智駕",
+   "news_ids": [
+    "675e7c903c"
+   ]
+  },
+  {
+   "text": "Leapmotor launches A10 in Thailand, with updated C10 to follow this year",
    "category": "Stellantis",
    "news_ids": [
-    "32449b2e9f"
-   ]
-  },
-  {
-   "text": "鴻海科技日／3款「全新電動車」首發搶先看！多人座MPV、SUV通通有",
-   "category": "供應鏈",
-   "news_ids": [
-    "1bb8278adc"
+    "670aa52fe0"
    ]
   }
  ]

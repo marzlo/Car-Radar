@@ -727,6 +727,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-31",
+   "generated": "2026-10-31T07:54+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "GM confirms Lansing Delta Township plant will produce hybrid vehicles",
+     "category": "車企動向",
+     "news_ids": [
+      "c6a0fcc30c"
+     ]
+    },
+    {
+     "text": "Waymo自動駕駛營收成長虧損擴大 Alphabet仍重金投資AI",
+     "category": "智駕",
+     "news_ids": [
+      "675e7c903c"
+     ]
+    },
+    {
+     "text": "Leapmotor launches A10 in Thailand, with updated C10 to follow this year",
+     "category": "Stellantis",
+     "news_ids": [
+      "670aa52fe0"
+     ]
+    }
+   ]
   }
  ]
 }

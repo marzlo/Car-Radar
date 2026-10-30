@@ -45,6 +45,10 @@
   "2025Q1": {
    "revenue": 170360448000.0,
    "operating_income": 8899868000.0
+  },
+  "2026Q3": {
+   "revenue": 221488251000.0,
+   "operating_income": 14896490000.0
   }
  },
  "Toyota": {
@@ -163,6 +167,10 @@
   "2025Q1": {
    "revenue": 140860138690.5,
    "operating_income": 1281154427.19
+  },
+  "2026Q3": {
+   "revenue": 156569113202.03,
+   "operating_income": 5264382470.73
   }
  },
  "長安汽車": {
@@ -261,6 +269,10 @@
   "2025Q1": {
    "revenue": 77559000000.0,
    "operating_income": 2875000000.0
+  },
+  "2026Q3": {
+   "revenue": 75277000000.0,
+   "operating_income": -5860000000.0
   }
  },
  "BMW Group": {
@@ -305,6 +317,10 @@
   "2025Q1": {
    "revenue": 33224000000.0,
    "operating_income": 1920000000.0
+  },
+  "2026Q3": {
+   "revenue": 30698000000.0,
+   "operating_income": 1352000000.0
   }
  },
  "Volvo Cars": {
@@ -379,6 +395,10 @@
   "2025Q2": {
    "revenue": 50184000000.0,
    "operating_income": 511000000.0
+  },
+  "2026Q3": {
+   "revenue": 49526000000.0,
+   "operating_income": 1454000000.0
   }
  },
  "Rivian": {
@@ -401,6 +421,10 @@
   "2025Q2": {
    "revenue": 1303000000.0,
    "operating_income": -1114000000.0
+  },
+  "2026Q3": {
+   "revenue": 2155000000.0,
+   "operating_income": -881000000.0
   }
  },
  "Lucid": {
