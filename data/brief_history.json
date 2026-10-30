@@ -699,6 +699,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-30",
+   "generated": "2026-10-30T08:00+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "中國大減 豐田全球新車銷量續縮；EV翻倍、破紀錄-新聞內容-基金",
+     "category": "車企動向",
+     "news_ids": [
+      "50a7f52f7c"
+     ]
+    },
+    {
+     "text": "決戰充電樁1／特斯拉爆賣帶動需求 源點預言電動樁營運掀淘汰賽",
+     "category": "電池",
+     "news_ids": [
+      "0cff17d79b"
+     ]
+    },
+    {
+     "text": "Fiat's Tiny $15,000 EV Can Finally Hit American Streets",
+     "category": "Stellantis",
+     "news_ids": [
+      "bf2f1f68fd"
+     ]
+    }
+   ]
   }
  ]
 }

@@ -83,12 +83,20 @@
    "operating_income": null
   },
   "2025Q2": {
-   "revenue": 38448000000.0,
+   "revenue": null,
    "operating_income": -1397000000.0
   },
   "2025Q1": {
    "revenue": 35813000000.0,
    "operating_income": -154000000.0
+  },
+  "2025Q3": {
+   "revenue": 37206000000.0,
+   "operating_income": -5248000000.0
+  },
+  "2026Q3": {
+   "revenue": 37611000000.0,
+   "operating_income": -208000000.0
   }
  },
  "理想": {
