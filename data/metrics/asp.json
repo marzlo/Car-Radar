@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-31T10:41+08:00",
+ "updated": "2026-11-01T07:28+08:00",
  "fx_usd": {
   "USD": 1.0,
   "CNY": 0.150491,
-  "HKD": 0.127458,
+  "HKD": 0.127483,
   "JPY": 0.006337,
   "EUR": 1.118281,
   "TWD": 0.030706,
-  "KRW": 0.000747,
-  "SEK": 0.101583
+  "KRW": 0.000749,
+  "SEK": 0.101903
  },
  "companies": [
   {
@@ -1246,8 +1246,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4302907/3918401.pdf",
      "del_note": "批發",
-     "asp_usd": 50145,
-     "profit_usd": 907
+     "asp_usd": 50303,
+     "profit_usd": 910
     },
     {
      "quarter": "2026Q1",
@@ -1258,8 +1258,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4341827/4065356.pdf",
      "del_note": "批發",
-     "asp_usd": 47195,
-     "profit_usd": 940
+     "asp_usd": 47343,
+     "profit_usd": 943
     },
     {
      "quarter": "2026Q2",
@@ -1270,8 +1270,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://mb.cision.com/Main/20685/4375596/4197338.pdf",
      "del_note": "批發",
-     "asp_usd": 46550,
-     "profit_usd": 393
+     "asp_usd": 46697,
+     "profit_usd": 394
     },
     {
      "quarter": "2026Q3",
@@ -1613,8 +1613,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-announces-2025-q3-business-results-0000001042",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 30891,
-     "profit_usd": 1638
+     "asp_usd": 30974,
+     "profit_usd": 1643
     },
     {
      "quarter": "2025Q4",
@@ -1625,8 +1625,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001116",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 31159,
-     "profit_usd": 1471
+     "asp_usd": 31243,
+     "profit_usd": 1475
     },
     {
      "quarter": "2026Q1",
@@ -1637,8 +1637,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-announces-2026-q1-business-results-0000001162",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 32093,
-     "profit_usd": 2008
+     "asp_usd": 32179,
+     "profit_usd": 2013
     },
     {
      "quarter": "2026Q2",
@@ -1649,8 +1649,8 @@
      "fin_source": "Yahoo Finance",
      "del_source": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001234",
      "del_note": "現代＋起亞批發",
-     "asp_usd": 33329,
-     "profit_usd": 2220
+     "asp_usd": 33418,
+     "profit_usd": 2226
     }
    ]
   },

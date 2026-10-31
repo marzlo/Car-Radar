@@ -1,27 +1,27 @@
 {
- "date": "2026-10-31",
- "generated": "2026-10-31T10:41+08:00",
+ "date": "2026-11-01",
+ "generated": "2026-11-01T07:29+08:00",
  "ai": false,
  "items": [
   {
-   "text": "周焦點／TOYOTA新休旅開賣 日系豪華跑旅完售 HONDA新車11月見",
+   "text": "Ford Mustang Mach-E首度推出原廠警用版本，2027年式SSV正式加入執法車隊",
    "category": "車企動向",
    "news_ids": [
-    "117bf8723b"
+    "9a3df18ace"
    ]
   },
   {
-   "text": "Mini圓形螢幕67年不退場！CarPlay操作受限 高層曝不改原因",
-   "category": "座艙・SDV",
+   "text": "Fiat Topolino turns street-legal in the US, slower than at home",
+   "category": "Stellantis",
    "news_ids": [
-    "7bc1e1ff61"
+    "1d2c9eb91c"
    ]
   },
   {
-   "text": "歐美電動車充電點 2030年預計突破3560萬座 連網技術成營運利器",
+   "text": "Bentley首款純電休旅Torcal完成百萬公里測試 極寒、高溫與電池安全全面驗證",
    "category": "電池",
    "news_ids": [
-    "db23db2da5"
+    "837796e13a"
    ]
   }
  ]
