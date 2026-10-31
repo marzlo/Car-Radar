@@ -1,27 +1,27 @@
 {
  "date": "2026-10-31",
- "generated": "2026-10-31T07:54+08:00",
+ "generated": "2026-10-31T10:41+08:00",
  "ai": false,
  "items": [
   {
-   "text": "GM confirms Lansing Delta Township plant will produce hybrid vehicles",
+   "text": "周焦點／TOYOTA新休旅開賣 日系豪華跑旅完售 HONDA新車11月見",
    "category": "車企動向",
    "news_ids": [
-    "c6a0fcc30c"
+    "117bf8723b"
    ]
   },
   {
-   "text": "Waymo自動駕駛營收成長虧損擴大 Alphabet仍重金投資AI",
-   "category": "智駕",
+   "text": "Mini圓形螢幕67年不退場！CarPlay操作受限 高層曝不改原因",
+   "category": "座艙・SDV",
    "news_ids": [
-    "675e7c903c"
+    "7bc1e1ff61"
    ]
   },
   {
-   "text": "Leapmotor launches A10 in Thailand, with updated C10 to follow this year",
-   "category": "Stellantis",
+   "text": "歐美電動車充電點 2030年預計突破3560萬座 連網技術成營運利器",
+   "category": "電池",
    "news_ids": [
-    "670aa52fe0"
+    "db23db2da5"
    ]
   }
  ]
