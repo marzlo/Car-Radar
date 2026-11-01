@@ -1,27 +1,27 @@
 {
- "date": "2026-11-01",
- "generated": "2026-11-01T10:32+08:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:42+08:00",
  "ai": false,
  "items": [
   {
-   "text": "BYD Fang Cheng Bao reaches 600,000 cumulative sales, plans faster deliveries in November",
+   "text": "日系電動車值得等？Nissan Leaf、Subaru E-Outback等4款新車盤點｜電動車大洗牌：下一台怎麼選？",
    "category": "車企動向",
    "news_ids": [
-    "9e2e598da7"
+    "4a3cd450ed"
    ]
   },
   {
-   "text": "Virtual Dodge SRT GTX Nameplate Revival Gains a CGI Studio Color Reel, Shines Brightly in Cool Hues",
+   "text": "電動車一年省多少？家充省逾萬元，尖峰快充恐比油車貴｜電動車大洗牌：下一台怎麼選？",
+   "category": "電池",
+   "news_ids": [
+    "4747f85cb5"
+   ]
+  },
+  {
+   "text": "Stellantis Stock Is Soaring. Europe Is Crashing the Party.",
    "category": "Stellantis",
    "news_ids": [
-    "94474ebdff"
-   ]
-  },
-  {
-   "text": "HHTD26》鴻海電動車三箭齊發！Model A Plus無B柱大空間、K-Truck搶攻最後一哩路物流",
-   "category": "供應鏈",
-   "news_ids": [
-    "06c18b04f1"
+    "69caebc682"
    ]
   }
  ]
