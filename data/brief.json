@@ -1,27 +1,27 @@
 {
  "date": "2026-11-03",
- "generated": "2026-11-03T10:28+08:00",
+ "generated": "2026-11-03T12:00+08:00",
  "ai": false,
  "items": [
   {
-   "text": "威脅 Tesla Model Y？BMW iX3 再創純電銷售高峰？",
-   "category": "車企動向",
-   "news_ids": [
-    "72f032623a"
-   ]
-  },
-  {
-   "text": "中國智駕供應商集體轉向貨運賽道，重卡成新戰場",
-   "category": "智駕",
-   "news_ids": [
-    "bf5a3b4fd1"
-   ]
-  },
-  {
-   "text": "Dodge will reveal its new NASCAR stock car Dec. 4 as it prepares for a Cup return.",
+   "text": "闊別14年 Dodge宣布2027年重返NASCAR",
    "category": "Stellantis",
    "news_ids": [
-    "e4cc1e8778"
+    "d3e1471534"
+   ]
+  },
+  {
+   "text": "比亞迪電動車十月銷量破30萬輛創新高 遠超美國第三季總和",
+   "category": "車企動向",
+   "news_ids": [
+    "80346d128c"
+   ]
+  },
+  {
+   "text": "U-POWER五座超充站接力升級！基隆、桃園導入480kW設備，全臺新增20席充電車位",
+   "category": "電池",
+   "news_ids": [
+    "3502123e66"
    ]
   }
  ]
