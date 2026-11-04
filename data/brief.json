@@ -1,13 +1,20 @@
 {
  "date": "2026-11-04",
- "generated": "2026-11-04T08:42+08:00",
+ "generated": "2026-11-04T11:11+08:00",
  "ai": false,
  "items": [
   {
-   "text": "台灣Suzuki全新重點車「有望挑戰百萬內」！11月預告全新休旅發表",
+   "text": "非零和遊戲！中國車企份額擴大 特斯拉銷量反彈 共享歐洲棄油轉電紅利 | 時事熱話 | 國安專頁",
    "category": "車企動向",
    "news_ids": [
-    "f33533fc22"
+    "98a17b4e33"
+   ]
+  },
+  {
+   "text": "Volkswagen and Stellantis advance self-driving car plans in China and France",
+   "category": "Stellantis",
+   "news_ids": [
+    "f4d81b3176"
    ]
   },
   {
@@ -15,13 +22,6 @@
    "category": "智駕",
    "news_ids": [
     "22d004ad60"
-   ]
-  },
-  {
-   "text": "睽違14年！美系大廠Dodge將重返NASCAR賽事",
-   "category": "Stellantis",
-   "news_ids": [
-    "9354985725"
    ]
   }
  ]
