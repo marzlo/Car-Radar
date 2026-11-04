@@ -1,27 +1,27 @@
 {
- "date": "2026-11-03",
- "generated": "2026-11-03T12:00+08:00",
+ "date": "2026-11-04",
+ "generated": "2026-11-04T08:42+08:00",
  "ai": false,
  "items": [
   {
-   "text": "闊別14年 Dodge宣布2027年重返NASCAR",
-   "category": "Stellantis",
-   "news_ids": [
-    "d3e1471534"
-   ]
-  },
-  {
-   "text": "比亞迪電動車十月銷量破30萬輛創新高 遠超美國第三季總和",
+   "text": "台灣Suzuki全新重點車「有望挑戰百萬內」！11月預告全新休旅發表",
    "category": "車企動向",
    "news_ids": [
-    "80346d128c"
+    "f33533fc22"
    ]
   },
   {
-   "text": "U-POWER五座超充站接力升級！基隆、桃園導入480kW設備，全臺新增20席充電車位",
-   "category": "電池",
+   "text": "每日消息（共同社） - 豐田攜手Waymo力爭2027年在日本推出自動駕駛計程車",
+   "category": "智駕",
    "news_ids": [
-    "3502123e66"
+    "22d004ad60"
+   ]
+  },
+  {
+   "text": "睽違14年！美系大廠Dodge將重返NASCAR賽事",
+   "category": "Stellantis",
+   "news_ids": [
+    "9354985725"
    ]
   }
  ]

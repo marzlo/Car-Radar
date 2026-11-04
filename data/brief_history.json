@@ -839,6 +839,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-04",
+   "generated": "2026-11-04T08:42+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "台灣Suzuki全新重點車「有望挑戰百萬內」！11月預告全新休旅發表",
+     "category": "車企動向",
+     "news_ids": [
+      "f33533fc22"
+     ]
+    },
+    {
+     "text": "每日消息（共同社） - 豐田攜手Waymo力爭2027年在日本推出自動駕駛計程車",
+     "category": "智駕",
+     "news_ids": [
+      "22d004ad60"
+     ]
+    },
+    {
+     "text": "睽違14年！美系大廠Dodge將重返NASCAR賽事",
+     "category": "Stellantis",
+     "news_ids": [
+      "9354985725"
+     ]
+    }
+   ]
   }
  ]
 }
