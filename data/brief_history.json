@@ -870,28 +870,28 @@
   },
   {
    "date": "2026-11-05",
-   "generated": "2026-11-05T08:57+08:00",
+   "generated": "2026-11-05T11:42+08:00",
    "ai": false,
    "items": [
     {
-     "text": "GM recalls 67K EVs for software glitch that can mean loss of braking",
-     "category": "車企動向",
-     "news_ids": [
-      "c10f6d4671"
-     ]
-    },
-    {
-     "text": "自駕電動車自動充電時代來臨，充電站業者須改走低價高使用率路線才可獲利",
+     "text": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
      "category": "電池",
      "news_ids": [
-      "1852125dc6"
+      "f84a0f92fe"
      ]
     },
     {
-     "text": "韓國車用半導體國產化加速：現代汽車攜手 LG 打造自主供應鏈",
-     "category": "供應鏈",
+     "text": "Tesla Registrations Europe: +78.6%, BYD +111% [2026]",
+     "category": "車企動向",
      "news_ids": [
-      "28c39142a4"
+      "55c7c7592d"
+     ]
+    },
+    {
+     "text": "蔚來李斌：自動駕駛的意義，不是讓出租車司機失業",
+     "category": "智駕",
+     "news_ids": [
+      "75472bed7b"
      ]
     }
    ]
