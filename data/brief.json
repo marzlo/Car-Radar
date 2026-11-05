@@ -1,27 +1,27 @@
 {
- "date": "2026-11-04",
- "generated": "2026-11-04T11:11+08:00",
+ "date": "2026-11-05",
+ "generated": "2026-11-05T08:57+08:00",
  "ai": false,
  "items": [
   {
-   "text": "非零和遊戲！中國車企份額擴大 特斯拉銷量反彈 共享歐洲棄油轉電紅利 | 時事熱話 | 國安專頁",
+   "text": "GM recalls 67K EVs for software glitch that can mean loss of braking",
    "category": "車企動向",
    "news_ids": [
-    "98a17b4e33"
+    "c10f6d4671"
    ]
   },
   {
-   "text": "Volkswagen and Stellantis advance self-driving car plans in China and France",
-   "category": "Stellantis",
+   "text": "自駕電動車自動充電時代來臨，充電站業者須改走低價高使用率路線才可獲利",
+   "category": "電池",
    "news_ids": [
-    "f4d81b3176"
+    "1852125dc6"
    ]
   },
   {
-   "text": "每日消息（共同社） - 豐田攜手Waymo力爭2027年在日本推出自動駕駛計程車",
-   "category": "智駕",
+   "text": "韓國車用半導體國產化加速：現代汽車攜手 LG 打造自主供應鏈",
+   "category": "供應鏈",
    "news_ids": [
-    "22d004ad60"
+    "28c39142a4"
    ]
   }
  ]
