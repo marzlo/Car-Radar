@@ -1,27 +1,27 @@
 {
- "date": "2026-11-05",
- "generated": "2026-11-05T11:42+08:00",
+ "date": "2026-11-06",
+ "generated": "2026-11-06T08:59+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
+   "text": "Janus Electric secures battery supply deal for its battery-swap semi truck",
    "category": "電池",
    "news_ids": [
-    "f84a0f92fe"
+    "36ac05aca9"
    ]
   },
   {
-   "text": "Tesla Registrations Europe: +78.6%, BYD +111% [2026]",
+   "text": "日本汽車產業邁向軟體定義時代：豐田擴大 Arene 平台布局千萬輛新車市場",
+   "category": "座艙・SDV",
+   "news_ids": [
+    "2a51b40e4a"
+   ]
+  },
+  {
+   "text": "豐田上修獲利預估、優預期 電動車銷量目標砍1成",
    "category": "車企動向",
    "news_ids": [
-    "55c7c7592d"
-   ]
-  },
-  {
-   "text": "蔚來李斌：自動駕駛的意義，不是讓出租車司機失業",
-   "category": "智駕",
-   "news_ids": [
-    "75472bed7b"
+    "ea5e2be122"
    ]
   }
  ]
