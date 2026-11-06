@@ -1,27 +1,27 @@
 {
  "date": "2026-11-06",
- "generated": "2026-11-06T08:59+08:00",
+ "generated": "2026-11-06T11:38+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Janus Electric secures battery supply deal for its battery-swap semi truck",
-   "category": "電池",
-   "news_ids": [
-    "36ac05aca9"
-   ]
-  },
-  {
-   "text": "日本汽車產業邁向軟體定義時代：豐田擴大 Arene 平台布局千萬輛新車市場",
-   "category": "座艙・SDV",
-   "news_ids": [
-    "2a51b40e4a"
-   ]
-  },
-  {
-   "text": "豐田上修獲利預估、優預期 電動車銷量目標砍1成",
+   "text": "Toyota 下一代平台大整合！Corolla、Yaris、Prius 將共用新架構",
    "category": "車企動向",
    "news_ids": [
-    "ea5e2be122"
+    "d37d1b7d3d"
+   ]
+  },
+  {
+   "text": "廣汽泰國電池包廠投產 INPOW春武里廠供應Aion Y Plus",
+   "category": "電池",
+   "news_ids": [
+    "76a5b060b0"
+   ]
+  },
+  {
+   "text": "Stellantis and Dongfeng Shift From Selling Cars in China to Two-Way Technology Exchange",
+   "category": "Stellantis",
+   "news_ids": [
+    "82ff4c83a5"
    ]
   }
  ]
