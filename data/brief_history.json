@@ -923,6 +923,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-07",
+   "generated": "2026-11-07T08:09+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Unifor believes Stellantis has finalized sale of Brampton assembly plant to Roshel - The Globe and Mail",
+     "category": "Stellantis",
+     "news_ids": [
+      "e0be2b036d"
+     ]
+    },
+    {
+     "text": "Hyundai’s $359 IONIQ 5 lease looks like a deal, but don’t overlook its bigger sibling",
+     "category": "車企動向",
+     "news_ids": [
+      "6e252f102c"
+     ]
+    },
+    {
+     "text": "強化充電樁管理制度 打造安全準確充電環境",
+     "category": "電池",
+     "news_ids": [
+      "ac997dd853"
+     ]
+    }
+   ]
   }
  ]
 }
