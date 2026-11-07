@@ -1,27 +1,27 @@
 {
- "date": "2026-11-07",
- "generated": "2026-11-07T11:10+08:00",
+ "date": "2026-11-08",
+ "generated": "2026-11-08T07:41+08:00",
  "ai": false,
  "items": [
   {
-   "text": "周焦點／國產休旅大砍25萬 進口掀背降10萬 國產新休旅預告11月上市",
-   "category": "車企動向",
-   "news_ids": [
-    "a76573bdab"
-   ]
-  },
-  {
-   "text": "Unifor says it thinks Stellantis has sold Brampton assembly plant",
+   "text": "Unifor believes Stellantis has sold Brampton plant",
    "category": "Stellantis",
    "news_ids": [
-    "35bd258857"
+    "3a4a482e9f"
    ]
   },
   {
-   "text": "Musk axes Tesla's Cybertruck in favour of self-driving taxis",
-   "category": "智駕",
+   "text": "Electric Cars Have A Weight Problem. This Battery Design Could Help",
+   "category": "電池",
    "news_ids": [
-    "5e7cfa52f0"
+    "f61f932331"
+   ]
+  },
+  {
+   "text": "Cyber​​truck停產前 特斯拉將增加生產班次",
+   "category": "車企動向",
+   "news_ids": [
+    "de7d87100e"
    ]
   }
  ]
