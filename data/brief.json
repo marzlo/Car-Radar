@@ -1,27 +1,27 @@
 {
- "date": "2026-11-09",
- "generated": "2026-11-09T10:57+08:00",
+ "date": "2026-11-10",
+ "generated": "2026-11-10T10:48+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Tesla壽命最短車款，Cybertruck明年停產",
-   "category": "車企動向",
+   "text": "特斯拉 Cybertruck 停產，WIRED：大電池退場對電動車是好事",
+   "category": "電池",
    "news_ids": [
-    "ce161aff82"
+    "bac9803c8f"
    ]
   },
   {
-   "text": "港股異動| MOMENTA-W(06880)漲超8% 擬與上汽集團等三方成立合資公司在高階智駕領域深化戰略合作作者智通財經",
-   "category": "智駕",
-   "news_ids": [
-    "12dbdd4c34"
-   ]
-  },
-  {
-   "text": "Milan Stock Exchange: from Saipem to Stellantis, here are the shares most heavily sold by international funds",
+   "text": "Stellantis signs deal with Roshel to sell Brampton plant",
    "category": "Stellantis",
    "news_ids": [
-    "7e58b4f147"
+    "80f19deeb5"
+   ]
+  },
+  {
+   "text": "Honda 宣布美國 30 億美元投資計畫！新增年產 24 萬輛工廠、擴大油電車產能",
+   "category": "供應鏈",
+   "news_ids": [
+    "b08a337239"
    ]
   }
  ]

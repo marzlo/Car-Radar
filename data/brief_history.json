@@ -1007,6 +1007,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-10",
+   "generated": "2026-11-10T10:48+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "特斯拉 Cybertruck 停產，WIRED：大電池退場對電動車是好事",
+     "category": "電池",
+     "news_ids": [
+      "bac9803c8f"
+     ]
+    },
+    {
+     "text": "Stellantis signs deal with Roshel to sell Brampton plant",
+     "category": "Stellantis",
+     "news_ids": [
+      "80f19deeb5"
+     ]
+    },
+    {
+     "text": "Honda 宣布美國 30 億美元投資計畫！新增年產 24 萬輛工廠、擴大油電車產能",
+     "category": "供應鏈",
+     "news_ids": [
+      "b08a337239"
+     ]
+    }
+   ]
   }
  ]
 }
