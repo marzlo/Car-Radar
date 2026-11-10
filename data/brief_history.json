@@ -1010,28 +1010,28 @@
   },
   {
    "date": "2026-11-10",
-   "generated": "2026-11-10T10:48+08:00",
+   "generated": "2026-11-10T11:57+08:00",
    "ai": false,
    "items": [
     {
-     "text": "特斯拉 Cybertruck 停產，WIRED：大電池退場對電動車是好事",
+     "text": "水務署派「智駕洗」機械人 助筲箕灣區大廈清除水缸沉積物",
+     "category": "智駕",
+     "news_ids": [
+      "1fbe8a99f5"
+     ]
+    },
+    {
+     "text": "BMW電池供應鏈大擴張 歐洲牽手三星SDI、美洲結盟LG",
      "category": "電池",
      "news_ids": [
-      "bac9803c8f"
+      "46918a9ee5"
      ]
     },
     {
-     "text": "Stellantis signs deal with Roshel to sell Brampton plant",
+     "text": "Canadian defence firm Roshel to buy Stellantis assembly plant in Brampton",
      "category": "Stellantis",
      "news_ids": [
-      "80f19deeb5"
-     ]
-    },
-    {
-     "text": "Honda 宣布美國 30 億美元投資計畫！新增年產 24 萬輛工廠、擴大油電車產能",
-     "category": "供應鏈",
-     "news_ids": [
-      "b08a337239"
+      "1d3a8c6259"
      ]
     }
    ]
