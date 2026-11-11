@@ -1035,6 +1035,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-11",
+   "generated": "2026-11-11T08:43+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "歐美關稅與內銷放緩夾擊 中國汽車出口將下降",
+     "category": "供應鏈",
+     "news_ids": [
+      "dc1ebf5f41"
+     ]
+    },
+    {
+     "text": "卡尼斥Stellantis售廠是「背叛」加拿大 反對撤換喬美蘭",
+     "category": "Stellantis",
+     "news_ids": [
+      "a78c63ee74"
+     ]
+    },
+    {
+     "text": "通用汽車第四代電動車平台押注LMR電池，能源效率提升20%",
+     "category": "電池",
+     "news_ids": [
+      "67460681c6"
+     ]
+    }
+   ]
   }
  ]
 }
