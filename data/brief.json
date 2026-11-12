@@ -1,27 +1,27 @@
 {
  "date": "2026-11-12",
- "generated": "2026-11-12T09:56+08:00",
+ "generated": "2026-11-12T12:08+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Joly didn’t meet with Roshel before deal signed with Stellantis: minister’s office",
-   "category": "Stellantis",
-   "news_ids": [
-    "730107012a"
-   ]
-  },
-  {
-   "text": "BYD Apologises After Installing Wheel Rims Backwards onto Great Tang Electric SUV",
+   "text": "GWM to launch Ferrari-rivaling hybrid supercar in 2027",
    "category": "車企動向",
    "news_ids": [
-    "cb0fadb384"
+    "26ef347246"
    ]
   },
   {
-   "text": "每日消息（共同社） - 本田將在美國新建工廠加強混動車生產",
-   "category": "供應鏈",
+   "text": "What Does Stellantis (BIT:STLAM) Brampton Plant Sale Mean For Canada Jobs?",
+   "category": "Stellantis",
    "news_ids": [
-    "97a0583670"
+    "f4cbd80d89"
+   ]
+  },
+  {
+   "text": "寶馬強化電動車供應鏈佈局 簽新電池協議深耕歐美市場",
+   "category": "電池",
+   "news_ids": [
+    "5b56d8da95"
    ]
   }
  ]
