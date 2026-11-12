@@ -1063,6 +1063,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "generated": "2026-11-12T09:56+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Joly didn’t meet with Roshel before deal signed with Stellantis: minister’s office",
+     "category": "Stellantis",
+     "news_ids": [
+      "730107012a"
+     ]
+    },
+    {
+     "text": "BYD Apologises After Installing Wheel Rims Backwards onto Great Tang Electric SUV",
+     "category": "車企動向",
+     "news_ids": [
+      "cb0fadb384"
+     ]
+    },
+    {
+     "text": "每日消息（共同社） - 本田將在美國新建工廠加強混動車生產",
+     "category": "供應鏈",
+     "news_ids": [
+      "97a0583670"
+     ]
+    }
+   ]
   }
  ]
 }
