@@ -1091,6 +1091,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-13",
+   "generated": "2026-11-13T09:13+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "SpaceX與電動車大廠特斯拉合併談判傳進展最快12月宣布",
+     "category": "車企動向",
+     "news_ids": [
+      "8a30145c62"
+     ]
+    },
+    {
+     "text": "“We’ll sue them”: Feds have “levers” to “hold Stellantis to account”: Joly",
+     "category": "Stellantis",
+     "news_ids": [
+      "3985f16c12"
+     ]
+    },
+    {
+     "text": "中國電動車出口續增 海外車主陷修車困境",
+     "category": "供應鏈",
+     "news_ids": [
+      "00ac163004"
+     ]
+    }
+   ]
   }
  ]
 }
