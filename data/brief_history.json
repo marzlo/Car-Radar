@@ -1119,6 +1119,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "generated": "2026-11-14T08:55+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "【新車圖輯】680 匹 V8 插電猛獸！Bentley Flying Spur 小改款登台，售價 1,380 萬元起",
+     "category": "車企動向",
+     "news_ids": [
+      "69b198f1fe"
+     ]
+    },
+    {
+     "text": "Windsor's mayor-elect says Stellantis Brampton sale means 'anxieties' for Windsorites — despite the distance",
+     "category": "Stellantis",
+     "news_ids": [
+      "41ac48d3e1"
+     ]
+    },
+    {
+     "text": "長安Lumin PLUS成平價電動車霸主？全線支援快充最低僅需¥4.99萬",
+     "category": "電池",
+     "news_ids": [
+      "81cc0ffc32"
+     ]
+    }
+   ]
   }
  ]
 }
