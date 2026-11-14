@@ -1147,6 +1147,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "generated": "2026-11-15T07:59+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Stellantis Selling Factory Meant for Jeeps to Armored-Vehicle Maker",
+     "category": "Stellantis",
+     "news_ids": [
+      "eef45367c7"
+     ]
+    },
+    {
+     "text": "討論牆 | 酒駕騎電動車突燒成火球 疑改裝電池待釐清",
+     "category": "電池",
+     "news_ids": [
+      "9448ac8889"
+     ]
+    },
+    {
+     "text": "討論牆 | 英國汽車業籲歐盟電動車關稅緩徵兩年 防堵產業衝擊",
+     "category": "供應鏈",
+     "news_ids": [
+      "838d8e8c4c"
+     ]
+    }
+   ]
   }
  ]
 }
