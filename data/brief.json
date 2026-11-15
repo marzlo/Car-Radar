@@ -1,27 +1,27 @@
 {
  "date": "2026-11-15",
- "generated": "2026-11-15T07:59+08:00",
+ "generated": "2026-11-15T11:02+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Stellantis Selling Factory Meant for Jeeps to Armored-Vehicle Maker",
-   "category": "Stellantis",
-   "news_ids": [
-    "eef45367c7"
-   ]
-  },
-  {
-   "text": "討論牆 | 酒駕騎電動車突燒成火球 疑改裝電池待釐清",
+   "text": "紅旗 EHS4 純電 SUV 即將發表！續航最高 470 公里、快充約 20 分鐘，11/16 威尼斯亮相",
    "category": "電池",
    "news_ids": [
-    "9448ac8889"
+    "3166e2a8ea"
    ]
   },
   {
-   "text": "討論牆 | 英國汽車業籲歐盟電動車關稅緩徵兩年 防堵產業衝擊",
-   "category": "供應鏈",
+   "text": "Ford (F) Halves Clay Design Time As EV Reset And China Warnings Converge",
+   "category": "車企動向",
    "news_ids": [
-    "838d8e8c4c"
+    "631ae7023b"
+   ]
+  },
+  {
+   "text": "【新車圖輯】義式激情VS 美式硬派！Alfa Romeo Giulia、Stelvio 與 Jeep Wrangler 限量特仕車登台，249.8 萬元起",
+   "category": "Stellantis",
+   "news_ids": [
+    "ca98797644"
    ]
   }
  ]
