@@ -1,27 +1,27 @@
 {
  "date": "2026-11-16",
- "generated": "2026-11-16T08:02+08:00",
+ "generated": "2026-11-16T11:02+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Tesla 壽命最短車款，Cybertruck 明年停產",
-   "category": "車企動向",
-   "news_ids": [
-    "ce161aff82"
-   ]
-  },
-  {
-   "text": "車用音訊晶片跨足邊緣運算 射頻大廠拓展車電拚轉型",
-   "category": "座艙・SDV",
-   "news_ids": [
-    "ffb6924642"
-   ]
-  },
-  {
-   "text": "Jeep Compass Review - A Quantum Leap in Quality, Style & Versatility",
+   "text": "Stellantis to sell Brampton Assembly Plant to producer of military vehicles, destroying 2,200 auto jobs in Canada",
    "category": "Stellantis",
    "news_ids": [
-    "3841ee5898"
+    "9d529c6c56"
+   ]
+  },
+  {
+   "text": "Tesla邀客戶認購Cybercab自用售價近3萬美元買家須月付299美元訂閱自動駕駛",
+   "category": "智駕",
+   "news_ids": [
+    "455f35f59e"
+   ]
+  },
+  {
+   "text": "台灣日系「進口休旅178.8萬」接單！速霸陸全新電動車確定12月上市",
+   "category": "車企動向",
+   "news_ids": [
+    "802654ca6f"
    ]
   }
  ]
