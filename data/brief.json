@@ -1,27 +1,27 @@
 {
- "date": "2026-11-15",
- "generated": "2026-11-15T11:02+08:00",
+ "date": "2026-11-16",
+ "generated": "2026-11-16T08:02+08:00",
  "ai": false,
  "items": [
   {
-   "text": "紅旗 EHS4 純電 SUV 即將發表！續航最高 470 公里、快充約 20 分鐘，11/16 威尼斯亮相",
-   "category": "電池",
-   "news_ids": [
-    "3166e2a8ea"
-   ]
-  },
-  {
-   "text": "Ford (F) Halves Clay Design Time As EV Reset And China Warnings Converge",
+   "text": "Tesla 壽命最短車款，Cybertruck 明年停產",
    "category": "車企動向",
    "news_ids": [
-    "631ae7023b"
+    "ce161aff82"
    ]
   },
   {
-   "text": "【新車圖輯】義式激情VS 美式硬派！Alfa Romeo Giulia、Stelvio 與 Jeep Wrangler 限量特仕車登台，249.8 萬元起",
+   "text": "車用音訊晶片跨足邊緣運算 射頻大廠拓展車電拚轉型",
+   "category": "座艙・SDV",
+   "news_ids": [
+    "ffb6924642"
+   ]
+  },
+  {
+   "text": "Jeep Compass Review - A Quantum Leap in Quality, Style & Versatility",
    "category": "Stellantis",
    "news_ids": [
-    "ca98797644"
+    "3841ee5898"
    ]
   }
  ]

@@ -1175,6 +1175,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "generated": "2026-11-16T08:02+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Tesla 壽命最短車款，Cybertruck 明年停產",
+     "category": "車企動向",
+     "news_ids": [
+      "ce161aff82"
+     ]
+    },
+    {
+     "text": "車用音訊晶片跨足邊緣運算 射頻大廠拓展車電拚轉型",
+     "category": "座艙・SDV",
+     "news_ids": [
+      "ffb6924642"
+     ]
+    },
+    {
+     "text": "Jeep Compass Review - A Quantum Leap in Quality, Style & Versatility",
+     "category": "Stellantis",
+     "news_ids": [
+      "3841ee5898"
+     ]
+    }
+   ]
   }
  ]
 }
