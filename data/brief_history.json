@@ -1203,6 +1203,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-17",
+   "generated": "2026-11-17T11:01+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "BYD Denza enters India with D9 and Z9GT EVs",
+     "category": "車企動向",
+     "news_ids": [
+      "4ad111cc5b"
+     ]
+    },
+    {
+     "text": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+     "category": "智駕",
+     "news_ids": [
+      "136d7e7b35"
+     ]
+    },
+    {
+     "text": "BMW Just Started Making EV Batteries In America. The New iX5 Will Be First In Line",
+     "category": "電池",
+     "news_ids": [
+      "8f019e5dbb"
+     ]
+    }
+   ]
   }
  ]
 }

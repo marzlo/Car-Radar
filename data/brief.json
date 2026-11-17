@@ -1,27 +1,27 @@
 {
- "date": "2026-11-16",
- "generated": "2026-11-16T11:02+08:00",
+ "date": "2026-11-17",
+ "generated": "2026-11-17T11:01+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Stellantis to sell Brampton Assembly Plant to producer of military vehicles, destroying 2,200 auto jobs in Canada",
-   "category": "Stellantis",
-   "news_ids": [
-    "9d529c6c56"
-   ]
-  },
-  {
-   "text": "Tesla邀客戶認購Cybercab自用售價近3萬美元買家須月付299美元訂閱自動駕駛",
-   "category": "智駕",
-   "news_ids": [
-    "455f35f59e"
-   ]
-  },
-  {
-   "text": "台灣日系「進口休旅178.8萬」接單！速霸陸全新電動車確定12月上市",
+   "text": "BYD Denza enters India with D9 and Z9GT EVs",
    "category": "車企動向",
    "news_ids": [
-    "802654ca6f"
+    "4ad111cc5b"
+   ]
+  },
+  {
+   "text": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+   "category": "智駕",
+   "news_ids": [
+    "136d7e7b35"
+   ]
+  },
+  {
+   "text": "BMW Just Started Making EV Batteries In America. The New iX5 Will Be First In Line",
+   "category": "電池",
+   "news_ids": [
+    "8f019e5dbb"
    ]
   }
  ]
