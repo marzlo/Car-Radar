@@ -1,27 +1,27 @@
 {
  "date": "2026-11-18",
- "generated": "2026-11-18T10:28+08:00",
+ "generated": "2026-11-18T12:41+08:00",
  "ai": false,
  "items": [
   {
-   "text": "喬美蘭星期五將再次與Stellantis高層會面 討論出售車廠一事",
-   "category": "Stellantis",
+   "text": "馬斯克確認訪華 憧憬Tesla在中國落實全自動駕駛",
+   "category": "智駕",
    "news_ids": [
-    "6929aafbc9"
+    "8a8d9bd7c6"
    ]
   },
   {
-   "text": "黃仁勳辭職引發汽車業震撼 車用晶片合作夥伴緊盯供應鏈",
-   "category": "座艙・SDV",
+   "text": "CyberCab開放個人購買！特斯拉算盤太精了",
+   "category": "車企動向",
    "news_ids": [
-    "6008048d1f"
+    "c944fb9c5c"
    ]
   },
   {
-   "text": "電動車導航功能提升出行體驗，Apple Maps 及 Google Maps 提供充電站規劃服務",
+   "text": "BAIC Motor plans to sell battery swap assets as parent expands partnership with CATL",
    "category": "電池",
    "news_ids": [
-    "cd16c73dc6"
+    "4bacd88de3"
    ]
   }
  ]
