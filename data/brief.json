@@ -1,27 +1,27 @@
 {
- "date": "2026-11-18",
- "generated": "2026-11-18T12:41+08:00",
+ "date": "2026-11-19",
+ "generated": "2026-11-19T09:55+08:00",
  "ai": false,
  "items": [
   {
-   "text": "馬斯克確認訪華 憧憬Tesla在中國落實全自動駕駛",
+   "text": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
    "category": "智駕",
    "news_ids": [
-    "8a8d9bd7c6"
+    "c51b199b1f"
    ]
   },
   {
-   "text": "CyberCab開放個人購買！特斯拉算盤太精了",
+   "text": "Why did Bermaz give up Peugeot, Kia and Xpeng distributorship in Malaysia in the last 7 years",
+   "category": "Stellantis",
+   "news_ids": [
+    "b41c467b96"
+   ]
+  },
+  {
+   "text": "賓士電動SUV「Electric GLB」韓國上市，售價6,990萬韓元、續航435公里",
    "category": "車企動向",
    "news_ids": [
-    "c944fb9c5c"
-   ]
-  },
-  {
-   "text": "BAIC Motor plans to sell battery swap assets as parent expands partnership with CATL",
-   "category": "電池",
-   "news_ids": [
-    "4bacd88de3"
+    "30135525ee"
    ]
   }
  ]

@@ -1259,6 +1259,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-19",
+   "generated": "2026-11-19T09:55+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+     "category": "智駕",
+     "news_ids": [
+      "c51b199b1f"
+     ]
+    },
+    {
+     "text": "Why did Bermaz give up Peugeot, Kia and Xpeng distributorship in Malaysia in the last 7 years",
+     "category": "Stellantis",
+     "news_ids": [
+      "b41c467b96"
+     ]
+    },
+    {
+     "text": "賓士電動SUV「Electric GLB」韓國上市，售價6,990萬韓元、續航435公里",
+     "category": "車企動向",
+     "news_ids": [
+      "30135525ee"
+     ]
+    }
+   ]
   }
  ]
 }
