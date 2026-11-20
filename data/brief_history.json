@@ -1287,6 +1287,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "generated": "2026-11-20T09:48+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "V8、V8、V8！Ford寧願購買碳權、也不願放棄Mustang八缸引擎｜四缸野馬玩家不愛",
+     "category": "車企動向",
+     "news_ids": [
+      "57102f218f"
+     ]
+    },
+    {
+     "text": "Canada auto plant the 'front line' in Trump's trade war",
+     "category": "供應鏈",
+     "news_ids": [
+      "a710f90019"
+     ]
+    },
+    {
+     "text": "豐田通商攜手光陽「充電式」電動機車進攻日本外送市場",
+     "category": "電池",
+     "news_ids": [
+      "c088203922"
+     ]
+    }
+   ]
   }
  ]
 }
