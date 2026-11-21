@@ -1,27 +1,27 @@
 {
- "date": "2026-11-20",
- "generated": "2026-11-20T12:14+08:00",
+ "date": "2026-11-21",
+ "generated": "2026-11-21T09:36+08:00",
  "ai": false,
  "items": [
   {
-   "text": "政府擬推電動車電池徵費每公斤6元料2029年全面實行- 港聞",
+   "text": "《GTA6》新手必看7大實用技巧！自動駕駛、快速傳送、偷車保存一次學會",
+   "category": "智駕",
+   "news_ids": [
+    "697079da6b"
+   ]
+  },
+  {
+   "text": "環保署推電動車電池生產者責任制 責任共負 轉廢為材",
    "category": "電池",
    "news_ids": [
-    "db78d9b46f"
+    "b2d7859af8"
    ]
   },
   {
-   "text": "睽違9年大改款！Jeep新世代Compass日本開賣，48V輕油電油耗19.6km/L詢問度暴增| 一手企劃",
+   "text": "Joly meets with Stellantis officials over fate of Brampton plant",
    "category": "Stellantis",
    "news_ids": [
-    "157e11f2f8"
-   ]
-  },
-  {
-   "text": "廣州國際車展11月27日登場 逾700款新能源車搶攻供應鏈商機",
-   "category": "供應鏈",
-   "news_ids": [
-    "a994e4d0a8"
+    "d2bf136632"
    ]
   }
  ]
