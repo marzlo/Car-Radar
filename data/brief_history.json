@@ -1346,28 +1346,28 @@
   },
   {
    "date": "2026-11-22",
-   "generated": "2026-11-22T08:28+08:00",
+   "generated": "2026-11-22T11:27+08:00",
    "ai": false,
    "items": [
     {
-     "text": "德國工業怒火全面引爆：IG Metall再度發動大罷工，汽車與綠能供應鏈風險升溫",
-     "category": "供應鏈",
+     "text": "Costco 好市多「黑色購物節」延長至14 天！黑鑽會員優先入場、優惠商品搶先看電動車充電費調降限時再加碼",
+     "category": "電池",
      "news_ids": [
-      "cff7f1bd80"
+      "9cc0c9ecc8"
      ]
     },
     {
-     "text": "Doug Ford involved in Stellantis talks over reopening Brampton plant",
-     "category": "Stellantis",
-     "news_ids": [
-      "88ecddce18"
-     ]
-    },
-    {
-     "text": "Tesla: Current and upcoming models, prices, specs, and more",
+     "text": "S. Korea's car trade deficit with China hits record on Tesla EV imports",
      "category": "車企動向",
      "news_ids": [
-      "b668d964dc"
+      "f29681ebf3"
+     ]
+    },
+    {
+     "text": "義大利核准特斯拉輔助駕駛系統外媒戲稱最嚴苛試煉場| 電能世界| 發燒車訊",
+     "category": "智駕",
+     "news_ids": [
+      "c55cc22d7b"
      ]
     }
    ]
