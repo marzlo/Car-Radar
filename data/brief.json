@@ -1,27 +1,27 @@
 {
- "date": "2026-11-21",
- "generated": "2026-11-21T12:15+08:00",
+ "date": "2026-11-22",
+ "generated": "2026-11-22T08:28+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Kia電動商用廂型車PV5日本開放租借！尺寸直逼Toyota Hiace，半天只要約2,079新台幣就能試駕",
-   "category": "車企動向",
+   "text": "德國工業怒火全面引爆：IG Metall再度發動大罷工，汽車與綠能供應鏈風險升溫",
+   "category": "供應鏈",
    "news_ids": [
-    "0cbe218380"
+    "cff7f1bd80"
    ]
   },
   {
-   "text": "Stellantis declares it can search and impound workers' leased vehicles in expansion of police state crackdown",
+   "text": "Doug Ford involved in Stellantis talks over reopening Brampton plant",
    "category": "Stellantis",
    "news_ids": [
-    "fc0b2dc546"
+    "88ecddce18"
    ]
   },
   {
-   "text": "【即時新聞】自動駕駛技術成關鍵！通用汽車(GM)啟動CEO接班計畫，產品總監成大熱門",
-   "category": "智駕",
+   "text": "Tesla: Current and upcoming models, prices, specs, and more",
+   "category": "車企動向",
    "news_ids": [
-    "ea30d18297"
+    "b668d964dc"
    ]
   }
  ]

@@ -1343,6 +1343,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "generated": "2026-11-22T08:28+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "德國工業怒火全面引爆：IG Metall再度發動大罷工，汽車與綠能供應鏈風險升溫",
+     "category": "供應鏈",
+     "news_ids": [
+      "cff7f1bd80"
+     ]
+    },
+    {
+     "text": "Doug Ford involved in Stellantis talks over reopening Brampton plant",
+     "category": "Stellantis",
+     "news_ids": [
+      "88ecddce18"
+     ]
+    },
+    {
+     "text": "Tesla: Current and upcoming models, prices, specs, and more",
+     "category": "車企動向",
+     "news_ids": [
+      "b668d964dc"
+     ]
+    }
+   ]
   }
  ]
 }
