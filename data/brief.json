@@ -1,27 +1,27 @@
 {
- "date": "2026-11-22",
- "generated": "2026-11-22T11:27+08:00",
+ "date": "2026-11-23",
+ "generated": "2026-11-23T08:58+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Costco 好市多「黑色購物節」延長至14 天！黑鑽會員優先入場、優惠商品搶先看電動車充電費調降限時再加碼",
+   "text": "AI 進入汽車駕駛座：日本車廠掀起智慧座艙新競爭",
+   "category": "座艙・SDV",
+   "news_ids": [
+    "b8be6b43dc"
+   ]
+  },
+  {
+   "text": "埃及拚2027年中啟動電動車電池生產 寧德時代以授權切入",
    "category": "電池",
    "news_ids": [
-    "9cc0c9ecc8"
+    "0d28bed77a"
    ]
   },
   {
-   "text": "S. Korea's car trade deficit with China hits record on Tesla EV imports",
-   "category": "車企動向",
-   "news_ids": [
-    "f29681ebf3"
-   ]
-  },
-  {
-   "text": "義大利核准特斯拉輔助駕駛系統外媒戲稱最嚴苛試煉場| 電能世界| 發燒車訊",
+   "text": "特斯拉在美推出FSDv 15 智駕產業鏈中長期空間或進一步打開",
    "category": "智駕",
    "news_ids": [
-    "c55cc22d7b"
+    "ba74884756"
    ]
   }
  ]
