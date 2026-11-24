@@ -1399,6 +1399,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "generated": "2026-11-24T12:51+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "瞄準多人乘載需求？Elon Musk 預告推無方向盤、無踏板多座 Tesla Model Y",
+     "category": "車企動向",
+     "news_ids": [
+      "64d754e377"
+     ]
+    },
+    {
+     "text": "沒錢不玩了，據傳Stellantis終止賽事燒錢項目",
+     "category": "Stellantis",
+     "news_ids": [
+      "6fd3c1a136"
+     ]
+    },
+    {
+     "text": "北市推自動駕駛公車 藍委籲中央提對策",
+     "category": "智駕",
+     "news_ids": [
+      "5100accde3"
+     ]
+    }
+   ]
   }
  ]
 }

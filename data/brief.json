@@ -1,27 +1,27 @@
 {
- "date": "2026-11-23",
- "generated": "2026-11-23T11:58+08:00",
+ "date": "2026-11-24",
+ "generated": "2026-11-24T12:51+08:00",
  "ai": false,
  "items": [
   {
-   "text": "光陽 KYMCO 攜手日本豐田通商簽署電動車代理合約！i-One Air 與 Agility EV 2027 年搶攻日本餐飲外送B2B 市場",
+   "text": "瞄準多人乘載需求？Elon Musk 預告推無方向盤、無踏板多座 Tesla Model Y",
    "category": "車企動向",
    "news_ids": [
-    "f5e22a30a1"
+    "64d754e377"
    ]
   },
   {
-   "text": "《GTA6》新手必看7大實用攻略技巧！自動駕駛、快速傳送、偷車保存一次學會",
+   "text": "沒錢不玩了，據傳Stellantis終止賽事燒錢項目",
+   "category": "Stellantis",
+   "news_ids": [
+    "6fd3c1a136"
+   ]
+  },
+  {
+   "text": "北市推自動駕駛公車 藍委籲中央提對策",
    "category": "智駕",
    "news_ids": [
-    "fa729c2458"
-   ]
-  },
-  {
-   "text": "高通車用晶片營收衝80億美元 2027年有望躍居全球龍頭",
-   "category": "座艙・SDV",
-   "news_ids": [
-    "c45a15517d"
+    "5100accde3"
    ]
   }
  ]
