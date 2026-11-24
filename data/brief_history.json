@@ -1402,28 +1402,28 @@
   },
   {
    "date": "2026-11-24",
-   "generated": "2026-11-24T12:51+08:00",
+   "generated": "2026-11-24T15:04+08:00",
    "ai": false,
    "items": [
     {
-     "text": "瞄準多人乘載需求？Elon Musk 預告推無方向盤、無踏板多座 Tesla Model Y",
-     "category": "車企動向",
-     "news_ids": [
-      "64d754e377"
-     ]
-    },
-    {
-     "text": "沒錢不玩了，據傳Stellantis終止賽事燒錢項目",
-     "category": "Stellantis",
-     "news_ids": [
-      "6fd3c1a136"
-     ]
-    },
-    {
-     "text": "北市推自動駕駛公車 藍委籲中央提對策",
+     "text": "北市推自動駕駛公車 賴士葆將提案助地方政府發揮",
      "category": "智駕",
      "news_ids": [
-      "5100accde3"
+      "ba18f0e914"
+     ]
+    },
+    {
+     "text": "E Weekly View | Two Automakers Secure Production Licenses; Leapmotor Produces 2 Millionth Vehicle",
+     "category": "Stellantis",
+     "news_ids": [
+      "31756cc236"
+     ]
+    },
+    {
+     "text": "Excessive Competition Spreads to China's EV Charging Market",
+     "category": "電池",
+     "news_ids": [
+      "7d301d26a9"
      ]
     }
    ]
