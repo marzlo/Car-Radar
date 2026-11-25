@@ -1427,6 +1427,34 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "generated": "2026-11-25T11:37+08:00",
+   "ai": false,
+   "items": [
+    {
+     "text": "BYD targets acquisition of Ineos French plant as Macron confirms January details",
+     "category": "車企動向",
+     "news_ids": [
+      "558b0a604a"
+     ]
+    },
+    {
+     "text": "VW will pay EV drivers in Germany up to €720 to plug in at home",
+     "category": "電池",
+     "news_ids": [
+      "aaf9bfad13"
+     ]
+    },
+    {
+     "text": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
+     "category": "座艙・SDV",
+     "news_ids": [
+      "35f0bb7495"
+     ]
+    }
+   ]
   }
  ]
 }
