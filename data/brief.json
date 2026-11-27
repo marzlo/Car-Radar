@@ -1,27 +1,27 @@
 {
  "date": "2026-11-27",
- "generated": "2026-11-27T10:57+08:00",
+ "generated": "2026-11-27T13:19+08:00",
  "ai": false,
  "items": [
   {
-   "text": "蔚來李斌：不盲目貼AI標籤，長期毛利率目標提升10個百分點",
-   "category": "車企動向",
-   "news_ids": [
-    "e1a44b6f28"
-   ]
-  },
-  {
-   "text": "AI排擠成熟製程晶片產能 汽車製造業憂晶片荒重演衝擊車價",
-   "category": "座艙・SDV",
-   "news_ids": [
-    "ee5426d290"
-   ]
-  },
-  {
-   "text": "韓國Tata Daewoo Mobility電動宅配卡車「GIXEN」首輛交付，充電、維修三方聯盟啟動",
+   "text": "歐洲電動卡車銷量年增66% 充電基建僅3%達標成最大瓶頸",
    "category": "電池",
    "news_ids": [
-    "00d1a79192"
+    "feebd2b099"
+   ]
+  },
+  {
+   "text": "Ford, Honda and VW Sue New Jersey Over a Repair Law They Say Costs $375M a Year",
+   "category": "車企動向",
+   "news_ids": [
+    "ece9fe56fb"
+   ]
+  },
+  {
+   "text": "Waymo無人車違規超車校車 遭美監管機構啟動調查",
+   "category": "智駕",
+   "news_ids": [
+    "b732a6ae6a"
    ]
   }
  ]
