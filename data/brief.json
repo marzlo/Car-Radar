@@ -1,27 +1,27 @@
 {
- "date": "2026-11-26",
- "generated": "2026-11-26T13:25+08:00",
+ "date": "2026-11-27",
+ "generated": "2026-11-27T10:57+08:00",
  "ai": false,
  "items": [
   {
-   "text": "Ford, China, EV technology and the fight against the coming jobs massacre",
+   "text": "蔚來李斌：不盲目貼AI標籤，長期毛利率目標提升10個百分點",
    "category": "車企動向",
    "news_ids": [
-    "fffd0cb64d"
+    "e1a44b6f28"
    ]
   },
   {
-   "text": "一圖看懂半導體》AI、自動駕駛推動晶圓薄化！日本AI Mechatec獲海外大廠60億日圓訂單| 溫芳瑜 | 財經",
-   "category": "智駕",
+   "text": "AI排擠成熟製程晶片產能 汽車製造業憂晶片荒重演衝擊車價",
+   "category": "座艙・SDV",
    "news_ids": [
-    "7d8660bda8"
+    "ee5426d290"
    ]
   },
   {
-   "text": "吉爾吉斯規劃汽車組裝廠及工業園區，汽車零組件與電動車充電設備商機值得關注",
+   "text": "韓國Tata Daewoo Mobility電動宅配卡車「GIXEN」首輛交付，充電、維修三方聯盟啟動",
    "category": "電池",
    "news_ids": [
-    "d109bf706a"
+    "00d1a79192"
    ]
   }
  ]
