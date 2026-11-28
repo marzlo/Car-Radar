@@ -1,27 +1,27 @@
 {
- "date": "2026-11-27",
- "generated": "2026-11-27T13:19+08:00",
+ "date": "2026-11-28",
+ "generated": "2026-11-28T10:48+08:00",
  "ai": false,
  "items": [
   {
-   "text": "歐洲電動卡車銷量年增66% 充電基建僅3%達標成最大瓶頸",
+   "text": "充電不夠快、直接換電池！Hyundai電動SUV支援換電技術",
    "category": "電池",
    "news_ids": [
-    "feebd2b099"
+    "642b62f1e7"
    ]
   },
   {
-   "text": "Ford, Honda and VW Sue New Jersey Over a Repair Law They Say Costs $375M a Year",
+   "text": "特斯拉股東大會在即！馬斯克逾3兆美元商業帝國即將成形？",
    "category": "車企動向",
    "news_ids": [
-    "ece9fe56fb"
+    "f459990ba8"
    ]
   },
   {
-   "text": "Waymo無人車違規超車校車 遭美監管機構啟動調查",
+   "text": "歐盟或於下月投票批准特斯拉輔助駕駛系統",
    "category": "智駕",
    "news_ids": [
-    "b732a6ae6a"
+    "66e90c89af"
    ]
   }
  ]
